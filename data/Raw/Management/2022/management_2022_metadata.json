@@ -1,0 +1,13 @@
+{
+  "Category": "Management",
+  "Year": 2022,
+  "Source URL": "https://www.nirfindia.org/Rankings/2022/ManagementRanking.html",
+  "Scraping timestamp": "2026-10-31T16:37:11.798983+00:00",
+  "Extraction timestamp": "2026-10-31T16:37:12.525438+00:00",
+  "Number of ranking records": 101,
+  "Number of parameter records": 505,
+  "HTTP status": 200,
+  "Scraping status": "success",
+  "Extraction status": "success",
+  "Error messages": "Warning: Extracted 101 rows (exceeds 100)."
+}

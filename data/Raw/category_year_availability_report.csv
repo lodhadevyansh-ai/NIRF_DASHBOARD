@@ -1,0 +1,154 @@
+Category,Year,Folder Exists,Ranking File Exists,Valid Ranking Records,Parameter File Exists,Parameter Records,Official Website Availability,Data Validation Status,Recommended Action
+Overall,2017,True,True,100,True,500,Officially Available (2017-2025),VALID_RANKING_DATA,KEEP
+Overall,2018,True,True,100,True,500,Officially Available (2017-2025),VALID_RANKING_DATA,KEEP
+Overall,2019,True,True,100,True,500,Officially Available (2017-2025),VALID_RANKING_DATA,KEEP
+Overall,2020,True,True,101,True,505,Officially Available (2017-2025),VALID_RANKING_DATA,KEEP
+Overall,2021,True,True,100,True,500,Officially Available (2017-2025),VALID_RANKING_DATA,KEEP
+Overall,2022,True,True,100,True,500,Officially Available (2017-2025),VALID_RANKING_DATA,KEEP
+Overall,2023,True,True,100,True,500,Officially Available (2017-2025),VALID_RANKING_DATA,KEEP
+Overall,2024,True,True,100,True,500,Officially Available (2017-2025),VALID_RANKING_DATA,KEEP
+Overall,2025,True,True,100,True,500,Officially Available (2017-2025),VALID_RANKING_DATA,KEEP
+Universities,2017,True,True,100,True,500,Officially Available (2017-2025),VALID_RANKING_DATA,KEEP
+Universities,2018,True,True,100,True,500,Officially Available (2017-2025),VALID_RANKING_DATA,KEEP
+Universities,2019,True,True,100,True,500,Officially Available (2017-2025),VALID_RANKING_DATA,KEEP
+Universities,2020,True,True,100,True,500,Officially Available (2017-2025),VALID_RANKING_DATA,KEEP
+Universities,2021,True,True,100,True,500,Officially Available (2017-2025),VALID_RANKING_DATA,KEEP
+Universities,2022,True,True,100,True,500,Officially Available (2017-2025),VALID_RANKING_DATA,KEEP
+Universities,2023,True,True,100,True,500,Officially Available (2017-2025),VALID_RANKING_DATA,KEEP
+Universities,2024,True,True,100,True,500,Officially Available (2017-2025),VALID_RANKING_DATA,KEEP
+Universities,2025,True,True,100,True,500,Officially Available (2017-2025),VALID_RANKING_DATA,KEEP
+Colleges,2017,True,True,100,True,500,Officially Available (2017-2025),VALID_RANKING_DATA,KEEP
+Colleges,2018,True,True,99,True,495,Officially Available (2017-2025),VALID_RANKING_DATA,KEEP
+Colleges,2019,True,True,100,True,500,Officially Available (2017-2025),VALID_RANKING_DATA,KEEP
+Colleges,2020,True,True,100,True,500,Officially Available (2017-2025),VALID_RANKING_DATA,KEEP
+Colleges,2021,True,True,100,True,500,Officially Available (2017-2025),VALID_RANKING_DATA,KEEP
+Colleges,2022,True,True,100,True,500,Officially Available (2017-2025),VALID_RANKING_DATA,KEEP
+Colleges,2023,True,True,100,True,500,Officially Available (2017-2025),VALID_RANKING_DATA,KEEP
+Colleges,2024,True,True,100,True,500,Officially Available (2017-2025),VALID_RANKING_DATA,KEEP
+Colleges,2025,True,True,100,True,500,Officially Available (2017-2025),VALID_RANKING_DATA,KEEP
+Research Institutions,2017,True,False,0,False,0,Not Introduced (Introduced in 2021),OFFICIALLY_UNAVAILABLE_EMPTY,DELETE
+Research Institutions,2018,True,False,0,False,0,Not Introduced (Introduced in 2021),OFFICIALLY_UNAVAILABLE_EMPTY,DELETE
+Research Institutions,2019,True,False,0,False,0,Not Introduced (Introduced in 2021),OFFICIALLY_UNAVAILABLE_EMPTY,DELETE
+Research Institutions,2020,True,False,0,False,0,Not Introduced (Introduced in 2021),OFFICIALLY_UNAVAILABLE_EMPTY,DELETE
+Research Institutions,2021,True,True,50,True,250,Officially Available (2021-2025),VALID_RANKING_DATA,KEEP
+Research Institutions,2022,True,True,50,True,250,Officially Available (2021-2025),VALID_RANKING_DATA,KEEP
+Research Institutions,2023,True,True,50,True,250,Officially Available (2021-2025),VALID_RANKING_DATA,KEEP
+Research Institutions,2024,True,True,50,True,250,Officially Available (2021-2025),VALID_RANKING_DATA,KEEP
+Research Institutions,2025,True,True,50,True,250,Officially Available (2021-2025),VALID_RANKING_DATA,KEEP
+Engineering,2017,True,True,100,True,500,Officially Available (2017-2025),VALID_RANKING_DATA,KEEP
+Engineering,2018,True,True,98,True,490,Officially Available (2017-2025),VALID_RANKING_DATA,KEEP
+Engineering,2019,True,True,100,True,500,Officially Available (2017-2025),VALID_RANKING_DATA,KEEP
+Engineering,2020,True,True,100,True,500,Officially Available (2017-2025),VALID_RANKING_DATA,KEEP
+Engineering,2021,True,True,100,True,500,Officially Available (2017-2025),VALID_RANKING_DATA,KEEP
+Engineering,2022,True,True,100,True,500,Officially Available (2017-2025),VALID_RANKING_DATA,KEEP
+Engineering,2023,True,True,100,True,500,Officially Available (2017-2025),VALID_RANKING_DATA,KEEP
+Engineering,2024,True,True,100,True,500,Officially Available (2017-2025),VALID_RANKING_DATA,KEEP
+Engineering,2025,True,True,100,True,500,Officially Available (2017-2025),VALID_RANKING_DATA,KEEP
+Management,2017,True,True,50,True,250,Officially Available (2017-2025),VALID_RANKING_DATA,KEEP
+Management,2018,True,True,50,True,250,Officially Available (2017-2025),VALID_RANKING_DATA,KEEP
+Management,2019,True,True,75,True,375,Officially Available (2017-2025),VALID_RANKING_DATA,KEEP
+Management,2020,True,True,75,True,375,Officially Available (2017-2025),VALID_RANKING_DATA,KEEP
+Management,2021,True,True,75,True,375,Officially Available (2017-2025),VALID_RANKING_DATA,KEEP
+Management,2022,True,True,101,True,505,Officially Available (2017-2025),VALID_RANKING_DATA,KEEP
+Management,2023,True,True,100,True,500,Officially Available (2017-2025),VALID_RANKING_DATA,KEEP
+Management,2024,True,True,100,True,500,Officially Available (2017-2025),VALID_RANKING_DATA,KEEP
+Management,2025,True,True,100,True,500,Officially Available (2017-2025),VALID_RANKING_DATA,KEEP
+Pharmacy,2017,True,True,50,True,250,Officially Available (2017-2025),VALID_RANKING_DATA,KEEP
+Pharmacy,2018,True,True,49,True,245,Officially Available (2017-2025),VALID_RANKING_DATA,KEEP
+Pharmacy,2019,True,True,75,True,375,Officially Available (2017-2025),VALID_RANKING_DATA,KEEP
+Pharmacy,2020,True,True,75,True,375,Officially Available (2017-2025),VALID_RANKING_DATA,KEEP
+Pharmacy,2021,True,True,75,True,375,Officially Available (2017-2025),VALID_RANKING_DATA,KEEP
+Pharmacy,2022,True,True,101,True,505,Officially Available (2017-2025),VALID_RANKING_DATA,KEEP
+Pharmacy,2023,True,True,100,True,500,Officially Available (2017-2025),VALID_RANKING_DATA,KEEP
+Pharmacy,2024,True,True,100,True,500,Officially Available (2017-2025),VALID_RANKING_DATA,KEEP
+Pharmacy,2025,True,True,101,True,505,Officially Available (2017-2025),VALID_RANKING_DATA,KEEP
+Medical,2017,True,False,0,False,0,Not Introduced (Introduced in 2018),OFFICIALLY_UNAVAILABLE_EMPTY,DELETE
+Medical,2018,True,True,25,True,125,Officially Available (2018-2025),VALID_RANKING_DATA,KEEP
+Medical,2019,True,True,30,True,150,Officially Available (2018-2025),VALID_RANKING_DATA,KEEP
+Medical,2020,True,True,40,True,200,Officially Available (2018-2025),VALID_RANKING_DATA,KEEP
+Medical,2021,True,True,50,True,250,Officially Available (2018-2025),VALID_RANKING_DATA,KEEP
+Medical,2022,True,True,50,True,250,Officially Available (2018-2025),VALID_RANKING_DATA,KEEP
+Medical,2023,True,True,50,True,250,Officially Available (2018-2025),VALID_RANKING_DATA,KEEP
+Medical,2024,True,True,50,True,250,Officially Available (2018-2025),VALID_RANKING_DATA,KEEP
+Medical,2025,True,True,50,True,250,Officially Available (2018-2025),VALID_RANKING_DATA,KEEP
+Dental,2017,True,False,0,False,0,Not Introduced (Introduced in 2020),OFFICIALLY_UNAVAILABLE_EMPTY,DELETE
+Dental,2018,True,False,0,False,0,Not Introduced (Introduced in 2020),OFFICIALLY_UNAVAILABLE_EMPTY,DELETE
+Dental,2019,True,False,0,False,0,Not Introduced (Introduced in 2020),OFFICIALLY_UNAVAILABLE_EMPTY,DELETE
+Dental,2020,True,True,30,True,150,Officially Available (2020-2025),VALID_RANKING_DATA,KEEP
+Dental,2021,True,True,40,True,200,Officially Available (2020-2025),VALID_RANKING_DATA,KEEP
+Dental,2022,True,True,40,True,200,Officially Available (2020-2025),VALID_RANKING_DATA,KEEP
+Dental,2023,True,True,40,True,200,Officially Available (2020-2025),VALID_RANKING_DATA,KEEP
+Dental,2024,True,True,40,True,200,Officially Available (2020-2025),VALID_RANKING_DATA,KEEP
+Dental,2025,True,True,40,True,195,Officially Available (2020-2025),VALID_RANKING_DATA,KEEP
+Law,2017,True,False,0,False,0,Not Introduced (Introduced in 2018),OFFICIALLY_UNAVAILABLE_EMPTY,DELETE
+Law,2018,True,True,10,True,50,Officially Available (2018-2025),VALID_RANKING_DATA,KEEP
+Law,2019,True,True,15,True,75,Officially Available (2018-2025),VALID_RANKING_DATA,KEEP
+Law,2020,True,True,20,True,100,Officially Available (2018-2025),VALID_RANKING_DATA,KEEP
+Law,2021,True,True,30,True,150,Officially Available (2018-2025),VALID_RANKING_DATA,KEEP
+Law,2022,True,True,30,True,150,Officially Available (2018-2025),VALID_RANKING_DATA,KEEP
+Law,2023,True,True,30,True,150,Officially Available (2018-2025),VALID_RANKING_DATA,KEEP
+Law,2024,True,True,40,True,200,Officially Available (2018-2025),VALID_RANKING_DATA,KEEP
+Law,2025,True,True,40,True,200,Officially Available (2018-2025),VALID_RANKING_DATA,KEEP
+Architecture and Planning,2017,True,False,0,False,0,Not Introduced (Introduced in 2018),OFFICIALLY_UNAVAILABLE_EMPTY,DELETE
+Architecture and Planning,2018,True,True,10,True,50,Officially Available (2018-2025),VALID_RANKING_DATA,KEEP
+Architecture and Planning,2019,True,True,15,True,75,Officially Available (2018-2025),VALID_RANKING_DATA,KEEP
+Architecture and Planning,2020,True,True,20,True,100,Officially Available (2018-2025),VALID_RANKING_DATA,KEEP
+Architecture and Planning,2021,True,True,25,True,125,Officially Available (2018-2025),VALID_RANKING_DATA,KEEP
+Architecture and Planning,2022,True,True,30,True,150,Officially Available (2018-2025),VALID_RANKING_DATA,KEEP
+Architecture and Planning,2023,True,True,30,True,150,Officially Available (2018-2025),VALID_RANKING_DATA,KEEP
+Architecture and Planning,2024,True,True,40,True,200,Officially Available (2018-2025),VALID_RANKING_DATA,KEEP
+Architecture and Planning,2025,True,True,40,True,200,Officially Available (2018-2025),VALID_RANKING_DATA,KEEP
+Agriculture and Allied Sectors,2017,True,False,0,False,0,Not Introduced (Introduced in 2023),OFFICIALLY_UNAVAILABLE_EMPTY,DELETE
+Agriculture and Allied Sectors,2018,True,False,0,False,0,Not Introduced (Introduced in 2023),OFFICIALLY_UNAVAILABLE_EMPTY,DELETE
+Agriculture and Allied Sectors,2019,True,False,0,False,0,Not Introduced (Introduced in 2023),OFFICIALLY_UNAVAILABLE_EMPTY,DELETE
+Agriculture and Allied Sectors,2020,True,False,0,False,0,Not Introduced (Introduced in 2023),OFFICIALLY_UNAVAILABLE_EMPTY,DELETE
+Agriculture and Allied Sectors,2021,True,False,0,False,0,Not Introduced (Introduced in 2023),OFFICIALLY_UNAVAILABLE_EMPTY,DELETE
+Agriculture and Allied Sectors,2022,True,False,0,False,0,Not Introduced (Introduced in 2023),OFFICIALLY_UNAVAILABLE_EMPTY,DELETE
+Agriculture and Allied Sectors,2023,True,True,40,True,200,Officially Available (2023-2025),VALID_RANKING_DATA,KEEP
+Agriculture and Allied Sectors,2024,True,True,40,True,200,Officially Available (2023-2025),VALID_RANKING_DATA,KEEP
+Agriculture and Allied Sectors,2025,True,True,40,True,200,Officially Available (2023-2025),VALID_RANKING_DATA,KEEP
+Innovation,2017,True,False,0,False,0,Not Introduced (Introduced in 2023),OFFICIALLY_UNAVAILABLE_EMPTY,DELETE
+Innovation,2018,True,False,0,False,0,Not Introduced (Introduced in 2023),OFFICIALLY_UNAVAILABLE_EMPTY,DELETE
+Innovation,2019,True,False,0,False,0,Not Introduced (Introduced in 2023),OFFICIALLY_UNAVAILABLE_EMPTY,DELETE
+Innovation,2020,True,False,0,False,0,Not Introduced (Introduced in 2023),OFFICIALLY_UNAVAILABLE_EMPTY,DELETE
+Innovation,2021,True,False,0,False,0,Not Introduced (Introduced in 2023),OFFICIALLY_UNAVAILABLE_EMPTY,DELETE
+Innovation,2022,True,False,0,False,0,Not Introduced (Introduced in 2023),OFFICIALLY_UNAVAILABLE_EMPTY,DELETE
+Innovation,2023,True,True,10,True,0,Officially Available (2023-2025),VALID_RANKING_DATA,KEEP
+Innovation,2024,True,True,10,True,0,Officially Available (2023-2025),VALID_RANKING_DATA,KEEP
+Innovation,2025,True,True,10,True,0,Officially Available (2023-2025),VALID_RANKING_DATA,KEEP
+Open University,2017,True,False,0,False,0,Not Introduced (Introduced in 2024),OFFICIALLY_UNAVAILABLE_EMPTY,DELETE
+Open University,2018,True,False,0,False,0,Not Introduced (Introduced in 2024),OFFICIALLY_UNAVAILABLE_EMPTY,DELETE
+Open University,2019,True,False,0,False,0,Not Introduced (Introduced in 2024),OFFICIALLY_UNAVAILABLE_EMPTY,DELETE
+Open University,2020,True,False,0,False,0,Not Introduced (Introduced in 2024),OFFICIALLY_UNAVAILABLE_EMPTY,DELETE
+Open University,2021,True,False,0,False,0,Not Introduced (Introduced in 2024),OFFICIALLY_UNAVAILABLE_EMPTY,DELETE
+Open University,2022,True,False,0,False,0,Not Introduced (Introduced in 2024),OFFICIALLY_UNAVAILABLE_EMPTY,DELETE
+Open University,2023,True,False,0,False,0,Not Introduced (Introduced in 2024),OFFICIALLY_UNAVAILABLE_EMPTY,DELETE
+Open University,2024,True,True,3,True,0,Officially Available (2024-2025),VALID_RANKING_DATA,KEEP
+Open University,2025,True,True,3,True,0,Officially Available (2024-2025),VALID_RANKING_DATA,KEEP
+Skill University,2017,True,False,0,False,0,Not Introduced (Introduced in 2024),OFFICIALLY_UNAVAILABLE_EMPTY,DELETE
+Skill University,2018,True,False,0,False,0,Not Introduced (Introduced in 2024),OFFICIALLY_UNAVAILABLE_EMPTY,DELETE
+Skill University,2019,True,False,0,False,0,Not Introduced (Introduced in 2024),OFFICIALLY_UNAVAILABLE_EMPTY,DELETE
+Skill University,2020,True,False,0,False,0,Not Introduced (Introduced in 2024),OFFICIALLY_UNAVAILABLE_EMPTY,DELETE
+Skill University,2021,True,False,0,False,0,Not Introduced (Introduced in 2024),OFFICIALLY_UNAVAILABLE_EMPTY,DELETE
+Skill University,2022,True,False,0,False,0,Not Introduced (Introduced in 2024),OFFICIALLY_UNAVAILABLE_EMPTY,DELETE
+Skill University,2023,True,False,0,False,0,Not Introduced (Introduced in 2024),OFFICIALLY_UNAVAILABLE_EMPTY,DELETE
+Skill University,2024,True,True,3,True,0,Officially Available (2024-2025),VALID_RANKING_DATA,KEEP
+Skill University,2025,True,True,3,True,0,Officially Available (2024-2025),VALID_RANKING_DATA,KEEP
+State Public University,2017,True,False,0,False,0,Not Introduced (Introduced in 2024),OFFICIALLY_UNAVAILABLE_EMPTY,DELETE
+State Public University,2018,True,False,0,False,0,Not Introduced (Introduced in 2024),OFFICIALLY_UNAVAILABLE_EMPTY,DELETE
+State Public University,2019,True,False,0,False,0,Not Introduced (Introduced in 2024),OFFICIALLY_UNAVAILABLE_EMPTY,DELETE
+State Public University,2020,True,False,0,False,0,Not Introduced (Introduced in 2024),OFFICIALLY_UNAVAILABLE_EMPTY,DELETE
+State Public University,2021,True,False,0,False,0,Not Introduced (Introduced in 2024),OFFICIALLY_UNAVAILABLE_EMPTY,DELETE
+State Public University,2022,True,False,0,False,0,Not Introduced (Introduced in 2024),OFFICIALLY_UNAVAILABLE_EMPTY,DELETE
+State Public University,2023,True,False,0,False,0,Not Introduced (Introduced in 2024),OFFICIALLY_UNAVAILABLE_EMPTY,DELETE
+State Public University,2024,True,True,50,True,250,Officially Available (2024-2025),VALID_RANKING_DATA,KEEP
+State Public University,2025,True,True,50,True,250,Officially Available (2024-2025),VALID_RANKING_DATA,KEEP
+Sustainable Development Goals,2017,True,False,0,False,0,Not Introduced (Introduced in 2025),OFFICIALLY_UNAVAILABLE_EMPTY,DELETE
+Sustainable Development Goals,2018,True,False,0,False,0,Not Introduced (Introduced in 2025),OFFICIALLY_UNAVAILABLE_EMPTY,DELETE
+Sustainable Development Goals,2019,True,False,0,False,0,Not Introduced (Introduced in 2025),OFFICIALLY_UNAVAILABLE_EMPTY,DELETE
+Sustainable Development Goals,2020,True,False,0,False,0,Not Introduced (Introduced in 2025),OFFICIALLY_UNAVAILABLE_EMPTY,DELETE
+Sustainable Development Goals,2021,True,False,0,False,0,Not Introduced (Introduced in 2025),OFFICIALLY_UNAVAILABLE_EMPTY,DELETE
+Sustainable Development Goals,2022,True,False,0,False,0,Not Introduced (Introduced in 2025),OFFICIALLY_UNAVAILABLE_EMPTY,DELETE
+Sustainable Development Goals,2023,True,False,0,False,0,Not Introduced (Introduced in 2025),OFFICIALLY_UNAVAILABLE_EMPTY,DELETE
+Sustainable Development Goals,2024,True,False,0,False,0,Not Introduced (Introduced in 2025),OFFICIALLY_UNAVAILABLE_EMPTY,DELETE
+Sustainable Development Goals,2025,True,True,10,True,0,Officially Available (2025-2025),VALID_RANKING_DATA,KEEP

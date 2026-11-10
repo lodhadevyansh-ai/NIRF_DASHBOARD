@@ -1,0 +1,501 @@
+year,category,institute_id,institute_name,parameter_name,parameter_score,canonical_parameter
+2021,Universities,IR-O-U-0220,Indian Institute of Science,TLR (100),79.13,TLR
+2021,Universities,IR-O-U-0220,Indian Institute of Science,RPC (100),91.48,RPC
+2021,Universities,IR-O-U-0220,Indian Institute of Science,GO (100),78.23,GO
+2021,Universities,IR-O-U-0220,Indian Institute of Science,OI (100),58.39,OI
+2021,Universities,IR-O-U-0220,Indian Institute of Science,PERCEPTION (100),100.0,PR
+2021,Universities,IR-O-U-0109,Jawaharlal Nehru University,TLR (100),71.19,TLR
+2021,Universities,IR-O-U-0109,Jawaharlal Nehru University,RPC (100),44.96,RPC
+2021,Universities,IR-O-U-0109,Jawaharlal Nehru University,GO (100),95.07,GO
+2021,Universities,IR-O-U-0109,Jawaharlal Nehru University,OI (100),73.36,OI
+2021,Universities,IR-O-U-0109,Jawaharlal Nehru University,PERCEPTION (100),67.88,PR
+2021,Universities,IR-O-U-0500,Banaras Hindu University,TLR (100),64.5,TLR
+2021,Universities,IR-O-U-0500,Banaras Hindu University,RPC (100),45.0,RPC
+2021,Universities,IR-O-U-0500,Banaras Hindu University,GO (100),100.0,GO
+2021,Universities,IR-O-U-0500,Banaras Hindu University,OI (100),53.13,OI
+2021,Universities,IR-O-U-0500,Banaras Hindu University,PERCEPTION (100),58.57,PR
+2021,Universities,IR-O-U-0570,Calcutta University,TLR (100),66.2,TLR
+2021,Universities,IR-O-U-0570,Calcutta University,RPC (100),43.92,RPC
+2021,Universities,IR-O-U-0570,Calcutta University,GO (100),91.72,GO
+2021,Universities,IR-O-U-0570,Calcutta University,OI (100),60.98,OI
+2021,Universities,IR-O-U-0570,Calcutta University,PERCEPTION (100),45.77,PR
+2021,Universities,IR-O-U-0436,Amrita Vishwa Vidyapeetham,TLR (100),64.23,TLR
+2021,Universities,IR-O-U-0436,Amrita Vishwa Vidyapeetham,RPC (100),54.33,RPC
+2021,Universities,IR-O-U-0436,Amrita Vishwa Vidyapeetham,GO (100),71.35,GO
+2021,Universities,IR-O-U-0436,Amrita Vishwa Vidyapeetham,OI (100),65.54,OI
+2021,Universities,IR-O-U-0436,Amrita Vishwa Vidyapeetham,PERCEPTION (100),48.36,PR
+2021,Universities,IR-O-U-0108,Jamia Millia Islamia,TLR (100),66.44,TLR
+2021,Universities,IR-O-U-0108,Jamia Millia Islamia,RPC (100),43.43,RPC
+2021,Universities,IR-O-U-0108,Jamia Millia Islamia,GO (100),86.67,GO
+2021,Universities,IR-O-U-0108,Jamia Millia Islamia,OI (100),72.35,OI
+2021,Universities,IR-O-U-0108,Jamia Millia Islamia,PERCEPTION (100),32.17,PR
+2021,Universities,IR-O-U-0234,Manipal Academy of Higher Education,TLR (100),67.68,TLR
+2021,Universities,IR-O-U-0234,Manipal Academy of Higher Education,RPC (100),48.17,RPC
+2021,Universities,IR-O-U-0234,Manipal Academy of Higher Education,GO (100),76.05,GO
+2021,Universities,IR-O-U-0234,Manipal Academy of Higher Education,OI (100),65.25,OI
+2021,Universities,IR-O-U-0234,Manipal Academy of Higher Education,PERCEPTION (100),40.93,PR
+2021,Universities,IR-O-U-0575,Jadavpur University,TLR (100),51.7,TLR
+2021,Universities,IR-O-U-0575,Jadavpur University,RPC (100),51.72,RPC
+2021,Universities,IR-O-U-0575,Jadavpur University,GO (100),87.77,GO
+2021,Universities,IR-O-U-0575,Jadavpur University,OI (100),50.16,OI
+2021,Universities,IR-O-U-0575,Jadavpur University,PERCEPTION (100),67.31,PR
+2021,Universities,IR-O-U-0042,University of Hyderabad,TLR (100),69.59,TLR
+2021,Universities,IR-O-U-0042,University of Hyderabad,RPC (100),40.74,RPC
+2021,Universities,IR-O-U-0042,University of Hyderabad,GO (100),77.44,GO
+2021,Universities,IR-O-U-0042,University of Hyderabad,OI (100),58.72,OI
+2021,Universities,IR-O-U-0042,University of Hyderabad,PERCEPTION (100),52.49,PR
+2021,Universities,IR-O-U-0496,Aligarh Muslim University,TLR (100),69.06,TLR
+2021,Universities,IR-O-U-0496,Aligarh Muslim University,RPC (100),40.86,RPC
+2021,Universities,IR-O-U-0496,Aligarh Muslim University,GO (100),80.06,GO
+2021,Universities,IR-O-U-0496,Aligarh Muslim University,OI (100),56.93,OI
+2021,Universities,IR-O-U-0496,Aligarh Muslim University,PERCEPTION (100),42.9,PR
+2021,Universities,IR-O-U-0323,Savitribai Phule Pune University,TLR (100),62.95,TLR
+2021,Universities,IR-O-U-0323,Savitribai Phule Pune University,RPC (100),42.77,RPC
+2021,Universities,IR-O-U-0323,Savitribai Phule Pune University,GO (100),86.96,GO
+2021,Universities,IR-O-U-0323,Savitribai Phule Pune University,OI (100),50.92,OI
+2021,Universities,IR-O-U-0323,Savitribai Phule Pune University,PERCEPTION (100),41.49,PR
+2021,Universities,IR-O-U-0120,University of Delhi,TLR (100),42.65,TLR
+2021,Universities,IR-O-U-0120,University of Delhi,RPC (100),54.23,RPC
+2021,Universities,IR-O-U-0120,University of Delhi,GO (100),82.66,GO
+2021,Universities,IR-O-U-0120,University of Delhi,OI (100),59.6,OI
+2021,Universities,IR-O-U-0120,University of Delhi,PERCEPTION (100),55.37,PR
+2021,Universities,IR-O-U-0490,Vellore Institute of Technology,TLR (100),48.43,TLR
+2021,Universities,IR-O-U-0490,Vellore Institute of Technology,RPC (100),56.83,RPC
+2021,Universities,IR-O-U-0490,Vellore Institute of Technology,GO (100),69.94,GO
+2021,Universities,IR-O-U-0490,Vellore Institute of Technology,OI (100),59.38,OI
+2021,Universities,IR-O-U-0490,Vellore Institute of Technology,PERCEPTION (100),51.16,PR
+2021,Universities,IR-O-U-0447,Bharathiar University,TLR (100),61.79,TLR
+2021,Universities,IR-O-U-0447,Bharathiar University,RPC (100),47.45,RPC
+2021,Universities,IR-O-U-0447,Bharathiar University,GO (100),74.17,GO
+2021,Universities,IR-O-U-0447,Bharathiar University,OI (100),53.21,OI
+2021,Universities,IR-O-U-0447,Bharathiar University,PERCEPTION (100),35.22,PR
+2021,Universities,IR-O-U-0308,Institute of Chemical Technology,TLR (100),50.05,TLR
+2021,Universities,IR-O-U-0308,Institute of Chemical Technology,RPC (100),55.82,RPC
+2021,Universities,IR-O-U-0308,Institute of Chemical Technology,GO (100),75.96,GO
+2021,Universities,IR-O-U-0308,Institute of Chemical Technology,OI (100),46.07,OI
+2021,Universities,IR-O-U-0308,Institute of Chemical Technology,PERCEPTION (100),45.43,PR
+2021,Universities,IR-O-U-0439,Anna University,TLR (100),51.91,TLR
+2021,Universities,IR-O-U-0439,Anna University,RPC (100),43.09,RPC
+2021,Universities,IR-O-U-0439,Anna University,GO (100),73.11,GO
+2021,Universities,IR-O-U-0439,Anna University,OI (100),51.35,OI
+2021,Universities,IR-O-U-0439,Anna University,PERCEPTION (100),67.2,PR
+2021,Universities,IR-O-U-0391,Birla Institute of Technology & Science -Pilani,TLR (100),55.81,TLR
+2021,Universities,IR-O-U-0391,Birla Institute of Technology & Science -Pilani,RPC (100),43.13,RPC
+2021,Universities,IR-O-U-0391,Birla Institute of Technology & Science -Pilani,GO (100),72.05,GO
+2021,Universities,IR-O-U-0391,Birla Institute of Technology & Science -Pilani,OI (100),59.5,OI
+2021,Universities,IR-O-U-0391,Birla Institute of Technology & Science -Pilani,PERCEPTION (100),46.97,PR
+2021,Universities,IR-O-U-0304,Homi Bhabha National Institute,TLR (100),68.64,TLR
+2021,Universities,IR-O-U-0304,Homi Bhabha National Institute,RPC (100),36.45,RPC
+2021,Universities,IR-O-U-0304,Homi Bhabha National Institute,GO (100),65.98,GO
+2021,Universities,IR-O-U-0304,Homi Bhabha National Institute,OI (100),50.79,OI
+2021,Universities,IR-O-U-0304,Homi Bhabha National Institute,PERCEPTION (100),34.35,PR
+2021,Universities,IR-O-U-0235,Mysore University,TLR (100),68.77,TLR
+2021,Universities,IR-O-U-0235,Mysore University,RPC (100),18.79,RPC
+2021,Universities,IR-O-U-0235,Mysore University,GO (100),90.54,GO
+2021,Universities,IR-O-U-0235,Mysore University,OI (100),54.24,OI
+2021,Universities,IR-O-U-0235,Mysore University,PERCEPTION (100),28.8,PR
+2021,Universities,IR-O-U-0363,Siksha `O` Anusandhan,TLR (100),63.89,TLR
+2021,Universities,IR-O-U-0363,Siksha `O` Anusandhan,RPC (100),29.92,RPC
+2021,Universities,IR-O-U-0363,Siksha `O` Anusandhan,GO (100),71.34,GO
+2021,Universities,IR-O-U-0363,Siksha `O` Anusandhan,OI (100),65.89,OI
+2021,Universities,IR-O-U-0363,Siksha `O` Anusandhan,PERCEPTION (100),33.3,PR
+2021,Universities,IR-O-U-0356,Kalinga Institute of Industrial Technology,TLR (100),62.4,TLR
+2021,Universities,IR-O-U-0356,Kalinga Institute of Industrial Technology,RPC (100),27.78,RPC
+2021,Universities,IR-O-U-0356,Kalinga Institute of Industrial Technology,GO (100),70.0,GO
+2021,Universities,IR-O-U-0356,Kalinga Institute of Industrial Technology,OI (100),78.43,OI
+2021,Universities,IR-O-U-0356,Kalinga Institute of Industrial Technology,PERCEPTION (100),31.74,PR
+2021,Universities,IR-O-U-0476,Shanmugha Arts Science Technology & Research Academy,TLR (100),58.58,TLR
+2021,Universities,IR-O-U-0476,Shanmugha Arts Science Technology & Research Academy,RPC (100),38.28,RPC
+2021,Universities,IR-O-U-0476,Shanmugha Arts Science Technology & Research Academy,GO (100),66.3,GO
+2021,Universities,IR-O-U-0476,Shanmugha Arts Science Technology & Research Academy,OI (100),57.78,OI
+2021,Universities,IR-O-U-0476,Shanmugha Arts Science Technology & Research Academy,PERCEPTION (100),37.34,PR
+2021,Universities,IR-O-U-0078,Panjab University,TLR (100),48.88,TLR
+2021,Universities,IR-O-U-0078,Panjab University,RPC (100),40.86,RPC
+2021,Universities,IR-O-U-0078,Panjab University,GO (100),71.57,GO
+2021,Universities,IR-O-U-0078,Panjab University,OI (100),53.49,OI
+2021,Universities,IR-O-U-0078,Panjab University,PERCEPTION (100),50.12,PR
+2021,Universities,IR-O-U-0006,"Andhra University, Visakhapatnam",TLR (100),55.04,TLR
+2021,Universities,IR-O-U-0006,"Andhra University, Visakhapatnam",RPC (100),25.59,RPC
+2021,Universities,IR-O-U-0006,"Andhra University, Visakhapatnam",GO (100),85.84,GO
+2021,Universities,IR-O-U-0006,"Andhra University, Visakhapatnam",OI (100),54.46,OI
+2021,Universities,IR-O-U-0006,"Andhra University, Visakhapatnam",PERCEPTION (100),42.86,PR
+2021,Universities,IR-O-U-0497,Amity University,TLR (100),48.98,TLR
+2021,Universities,IR-O-U-0497,Amity University,RPC (100),43.27,RPC
+2021,Universities,IR-O-U-0497,Amity University,GO (100),67.55,GO
+2021,Universities,IR-O-U-0497,Amity University,OI (100),64.66,OI
+2021,Universities,IR-O-U-0497,Amity University,PERCEPTION (100),32.53,PR
+2021,Universities,IR-O-I-1480,Thapar Institute of Engineering and Technology,TLR (100),50.44,TLR
+2021,Universities,IR-O-I-1480,Thapar Institute of Engineering and Technology,RPC (100),42.26,RPC
+2021,Universities,IR-O-I-1480,Thapar Institute of Engineering and Technology,GO (100),67.3,GO
+2021,Universities,IR-O-I-1480,Thapar Institute of Engineering and Technology,OI (100),56.35,OI
+2021,Universities,IR-O-I-1480,Thapar Institute of Engineering and Technology,PERCEPTION (100),37.52,PR
+2021,Universities,IR-O-U-0260,Kerala University,TLR (100),64.77,TLR
+2021,Universities,IR-O-U-0260,Kerala University,RPC (100),19.93,RPC
+2021,Universities,IR-O-U-0260,Kerala University,GO (100),89.11,GO
+2021,Universities,IR-O-U-0260,Kerala University,OI (100),51.53,OI
+2021,Universities,IR-O-U-0260,Kerala University,PERCEPTION (100),21.44,PR
+2021,Universities,IR-O-I-1357,University of Madras,TLR (100),61.35,TLR
+2021,Universities,IR-O-I-1357,University of Madras,RPC (100),31.82,RPC
+2021,Universities,IR-O-I-1357,University of Madras,GO (100),66.43,GO
+2021,Universities,IR-O-I-1357,University of Madras,OI (100),53.88,OI
+2021,Universities,IR-O-I-1357,University of Madras,PERCEPTION (100),38.17,PR
+2021,Universities,IR-O-I-1441,Saveetha Institute of Medical and Technical Sciences,TLR (100),61.78,TLR
+2021,Universities,IR-O-I-1441,Saveetha Institute of Medical and Technical Sciences,RPC (100),34.28,RPC
+2021,Universities,IR-O-I-1441,Saveetha Institute of Medical and Technical Sciences,GO (100),64.91,GO
+2021,Universities,IR-O-I-1441,Saveetha Institute of Medical and Technical Sciences,OI (100),65.99,OI
+2021,Universities,IR-O-I-1441,Saveetha Institute of Medical and Technical Sciences,PERCEPTION (100),19.52,PR
+2021,Universities,IR-O-U-0473,S.R.M. Institute of Science and Technology,TLR (100),49.93,TLR
+2021,Universities,IR-O-U-0473,S.R.M. Institute of Science and Technology,RPC (100),39.07,RPC
+2021,Universities,IR-O-U-0473,S.R.M. Institute of Science and Technology,GO (100),68.47,GO
+2021,Universities,IR-O-U-0473,S.R.M. Institute of Science and Technology,OI (100),58.6,OI
+2021,Universities,IR-O-U-0473,S.R.M. Institute of Science and Technology,PERCEPTION (100),37.34,PR
+2021,Universities,IR-O-U-0262,Mahatma Gandhi University,TLR (100),59.27,TLR
+2021,Universities,IR-O-U-0262,Mahatma Gandhi University,RPC (100),34.73,RPC
+2021,Universities,IR-O-U-0262,Mahatma Gandhi University,GO (100),68.77,GO
+2021,Universities,IR-O-U-0262,Mahatma Gandhi University,OI (100),52.55,OI
+2021,Universities,IR-O-U-0262,Mahatma Gandhi University,PERCEPTION (100),20.97,PR
+2021,Universities,IR-O-U-0027,Osmania University,TLR (100),52.04,TLR
+2021,Universities,IR-O-U-0027,Osmania University,RPC (100),28.16,RPC
+2021,Universities,IR-O-U-0027,Osmania University,GO (100),79.86,GO
+2021,Universities,IR-O-U-0027,Osmania University,OI (100),51.62,OI
+2021,Universities,IR-O-U-0027,Osmania University,PERCEPTION (100),39.67,PR
+2021,Universities,IR-O-U-0435,Alagappa University,TLR (100),58.71,TLR
+2021,Universities,IR-O-U-0435,Alagappa University,RPC (100),27.32,RPC
+2021,Universities,IR-O-U-0435,Alagappa University,GO (100),67.45,GO
+2021,Universities,IR-O-U-0435,Alagappa University,OI (100),51.68,OI
+2021,Universities,IR-O-U-0435,Alagappa University,PERCEPTION (100),46.34,PR
+2021,Universities,IR-O-U-0222,JSS Academy of Higher Education and Research,TLR (100),63.04,TLR
+2021,Universities,IR-O-U-0222,JSS Academy of Higher Education and Research,RPC (100),19.39,RPC
+2021,Universities,IR-O-U-0222,JSS Academy of Higher Education and Research,GO (100),66.7,GO
+2021,Universities,IR-O-U-0222,JSS Academy of Higher Education and Research,OI (100),70.04,OI
+2021,Universities,IR-O-U-0222,JSS Academy of Higher Education and Research,PERCEPTION (100),37.19,PR
+2021,Universities,IR-O-U-0389,Banasthali Vidyapith,TLR (100),54.19,TLR
+2021,Universities,IR-O-U-0389,Banasthali Vidyapith,RPC (100),14.23,RPC
+2021,Universities,IR-O-U-0389,Banasthali Vidyapith,GO (100),83.55,GO
+2021,Universities,IR-O-U-0389,Banasthali Vidyapith,OI (100),75.99,OI
+2021,Universities,IR-O-U-0389,Banasthali Vidyapith,PERCEPTION (100),37.34,PR
+2021,Universities,IR-O-U-0020,Koneru Lakshmaiah Education Foundation University (K L College of Engineering),TLR (100),58.89,TLR
+2021,Universities,IR-O-U-0020,Koneru Lakshmaiah Education Foundation University (K L College of Engineering),RPC (100),30.78,RPC
+2021,Universities,IR-O-U-0020,Koneru Lakshmaiah Education Foundation University (K L College of Engineering),GO (100),64.62,GO
+2021,Universities,IR-O-U-0020,Koneru Lakshmaiah Education Foundation University (K L College of Engineering),OI (100),55.99,OI
+2021,Universities,IR-O-U-0020,Koneru Lakshmaiah Education Foundation University (K L College of Engineering),PERCEPTION (100),31.52,PR
+2021,Universities,IR-O-U-0331,Tata Institute of Social Sciences,TLR (100),61.2,TLR
+2021,Universities,IR-O-U-0331,Tata Institute of Social Sciences,RPC (100),12.32,RPC
+2021,Universities,IR-O-U-0331,Tata Institute of Social Sciences,GO (100),77.33,GO
+2021,Universities,IR-O-U-0331,Tata Institute of Social Sciences,OI (100),72.28,OI
+2021,Universities,IR-O-U-0331,Tata Institute of Social Sciences,PERCEPTION (100),36.09,PR
+2021,Universities,IR-O-U-0329,Symbiosis International,TLR (100),61.83,TLR
+2021,Universities,IR-O-U-0329,Symbiosis International,RPC (100),18.5,RPC
+2021,Universities,IR-O-U-0329,Symbiosis International,GO (100),64.52,GO
+2021,Universities,IR-O-U-0329,Symbiosis International,OI (100),72.16,OI
+2021,Universities,IR-O-U-0329,Symbiosis International,PERCEPTION (100),40.04,PR
+2021,Universities,IR-O-U-0523,King George`s Medical University,TLR (100),64.39,TLR
+2021,Universities,IR-O-U-0523,King George`s Medical University,RPC (100),27.23,RPC
+2021,Universities,IR-O-U-0523,King George`s Medical University,GO (100),62.97,GO
+2021,Universities,IR-O-U-0523,King George`s Medical University,OI (100),57.57,OI
+2021,Universities,IR-O-U-0523,King George`s Medical University,PERCEPTION (100),23.67,PR
+2021,Universities,IR-O-U-0474,Sathyabama Institute of Science and Technology,TLR (100),54.06,TLR
+2021,Universities,IR-O-U-0474,Sathyabama Institute of Science and Technology,RPC (100),34.0,RPC
+2021,Universities,IR-O-U-0474,Sathyabama Institute of Science and Technology,GO (100),64.82,GO
+2021,Universities,IR-O-U-0474,Sathyabama Institute of Science and Technology,OI (100),64.68,OI
+2021,Universities,IR-O-U-0474,Sathyabama Institute of Science and Technology,PERCEPTION (100),23.23,PR
+2021,Universities,IR-O-U-0107,Jamia Hamdard,TLR (100),57.82,TLR
+2021,Universities,IR-O-U-0107,Jamia Hamdard,RPC (100),27.62,RPC
+2021,Universities,IR-O-U-0107,Jamia Hamdard,GO (100),69.75,GO
+2021,Universities,IR-O-U-0107,Jamia Hamdard,OI (100),60.64,OI
+2021,Universities,IR-O-U-0107,Jamia Hamdard,PERCEPTION (100),23.67,PR
+2021,Universities,IR-O-U-0098,Delhi Technological University,TLR (100),54.52,TLR
+2021,Universities,IR-O-U-0098,Delhi Technological University,RPC (100),29.82,RPC
+2021,Universities,IR-O-U-0098,Delhi Technological University,GO (100),65.95,GO
+2021,Universities,IR-O-U-0098,Delhi Technological University,OI (100),59.25,OI
+2021,Universities,IR-O-U-0098,Delhi Technological University,PERCEPTION (100),36.07,PR
+2021,Universities,IR-O-U-0136,Gujarat University,TLR (100),64.76,TLR
+2021,Universities,IR-O-U-0136,Gujarat University,RPC (100),15.7,RPC
+2021,Universities,IR-O-U-0136,Gujarat University,GO (100),81.28,GO
+2021,Universities,IR-O-U-0136,Gujarat University,OI (100),56.13,OI
+2021,Universities,IR-O-U-0136,Gujarat University,PERCEPTION (100),15.9,PR
+2021,Universities,IR-O-U-0253,Cochin University of Science and Technology,TLR (100),54.37,TLR
+2021,Universities,IR-O-U-0253,Cochin University of Science and Technology,RPC (100),29.63,RPC
+2021,Universities,IR-O-U-0253,Cochin University of Science and Technology,GO (100),70.28,GO
+2021,Universities,IR-O-U-0253,Cochin University of Science and Technology,OI (100),52.7,OI
+2021,Universities,IR-O-U-0253,Cochin University of Science and Technology,PERCEPTION (100),28.41,PR
+2021,Universities,IR-O-U-0052,Gauhati University,TLR (100),55.17,TLR
+2021,Universities,IR-O-U-0052,Gauhati University,RPC (100),19.05,RPC
+2021,Universities,IR-O-U-0052,Gauhati University,GO (100),83.56,GO
+2021,Universities,IR-O-U-0052,Gauhati University,OI (100),58.4,OI
+2021,Universities,IR-O-U-0052,Gauhati University,PERCEPTION (100),25.34,PR
+2021,Universities,IR-O-U-0056,Tezpur University,TLR (100),58.32,TLR
+2021,Universities,IR-O-U-0056,Tezpur University,RPC (100),30.02,RPC
+2021,Universities,IR-O-U-0056,Tezpur University,GO (100),61.65,GO
+2021,Universities,IR-O-U-0056,Tezpur University,OI (100),52.17,OI
+2021,Universities,IR-O-U-0056,Tezpur University,PERCEPTION (100),32.14,PR
+2021,Universities,IR-O-I-1486,Sri Ramachandra Institute of Higher Education and Research,TLR (100),64.83,TLR
+2021,Universities,IR-O-I-1486,Sri Ramachandra Institute of Higher Education and Research,RPC (100),18.35,RPC
+2021,Universities,IR-O-I-1486,Sri Ramachandra Institute of Higher Education and Research,GO (100),61.13,GO
+2021,Universities,IR-O-I-1486,Sri Ramachandra Institute of Higher Education and Research,OI (100),64.73,OI
+2021,Universities,IR-O-I-1486,Sri Ramachandra Institute of Higher Education and Research,PERCEPTION (100),35.23,PR
+2021,Universities,IR-O-U-0196,University of Kashmir,TLR (100),60.49,TLR
+2021,Universities,IR-O-U-0196,University of Kashmir,RPC (100),19.51,RPC
+2021,Universities,IR-O-U-0196,University of Kashmir,GO (100),77.03,GO
+2021,Universities,IR-O-U-0196,University of Kashmir,OI (100),50.12,OI
+2021,Universities,IR-O-U-0196,University of Kashmir,PERCEPTION (100),25.52,PR
+2021,Universities,IR-O-I-1110,Dr. D. Y. Patil Vidyapeeth,TLR (100),65.15,TLR
+2021,Universities,IR-O-I-1110,Dr. D. Y. Patil Vidyapeeth,RPC (100),14.45,RPC
+2021,Universities,IR-O-I-1110,Dr. D. Y. Patil Vidyapeeth,GO (100),63.29,GO
+2021,Universities,IR-O-I-1110,Dr. D. Y. Patil Vidyapeeth,OI (100),61.56,OI
+2021,Universities,IR-O-I-1110,Dr. D. Y. Patil Vidyapeeth,PERCEPTION (100),40.41,PR
+2021,Universities,IR-O-U-0458,Kalasalingam Academy of Research and Education,TLR (100),56.74,TLR
+2021,Universities,IR-O-U-0458,Kalasalingam Academy of Research and Education,RPC (100),21.81,RPC
+2021,Universities,IR-O-U-0458,Kalasalingam Academy of Research and Education,GO (100),65.2,GO
+2021,Universities,IR-O-U-0458,Kalasalingam Academy of Research and Education,OI (100),73.06,OI
+2021,Universities,IR-O-U-0458,Kalasalingam Academy of Research and Education,PERCEPTION (100),26.14,PR
+2021,Universities,IR-O-U-0446,Bharath Institute of Higher Education & Research,TLR (100),55.4,TLR
+2021,Universities,IR-O-U-0446,Bharath Institute of Higher Education & Research,RPC (100),24.41,RPC
+2021,Universities,IR-O-U-0446,Bharath Institute of Higher Education & Research,GO (100),67.59,GO
+2021,Universities,IR-O-U-0446,Bharath Institute of Higher Education & Research,OI (100),67.94,OI
+2021,Universities,IR-O-U-0446,Bharath Institute of Higher Education & Research,PERCEPTION (100),21.9,PR
+2021,Universities,IR-O-U-0747,Chandigarh University,TLR (100),57.48,TLR
+2021,Universities,IR-O-U-0747,Chandigarh University,RPC (100),14.24,RPC
+2021,Universities,IR-O-U-0747,Chandigarh University,GO (100),63.4,GO
+2021,Universities,IR-O-U-0747,Chandigarh University,OI (100),75.44,OI
+2021,Universities,IR-O-U-0747,Chandigarh University,PERCEPTION (100),44.23,PR
+2021,Universities,IR-O-U-0376,Guru Nanak Dev University,TLR (100),40.78,TLR
+2021,Universities,IR-O-U-0376,Guru Nanak Dev University,RPC (100),28.63,RPC
+2021,Universities,IR-O-U-0376,Guru Nanak Dev University,GO (100),76.11,GO
+2021,Universities,IR-O-U-0376,Guru Nanak Dev University,OI (100),53.77,OI
+2021,Universities,IR-O-U-0376,Guru Nanak Dev University,PERCEPTION (100),42.52,PR
+2021,Universities,IR-O-U-0037,Sri Venkateswara University,TLR (100),51.21,TLR
+2021,Universities,IR-O-U-0037,Sri Venkateswara University,RPC (100),19.87,RPC
+2021,Universities,IR-O-U-0037,Sri Venkateswara University,GO (100),79.19,GO
+2021,Universities,IR-O-U-0037,Sri Venkateswara University,OI (100),50.61,OI
+2021,Universities,IR-O-U-0037,Sri Venkateswara University,PERCEPTION (100),33.9,PR
+2021,Universities,IR-O-N-10,SVKM`s Narsee Monjee Institute of Management Studies,TLR (100),63.31,TLR
+2021,Universities,IR-O-N-10,SVKM`s Narsee Monjee Institute of Management Studies,RPC (100),14.77,RPC
+2021,Universities,IR-O-N-10,SVKM`s Narsee Monjee Institute of Management Studies,GO (100),63.13,GO
+2021,Universities,IR-O-N-10,SVKM`s Narsee Monjee Institute of Management Studies,OI (100),60.92,OI
+2021,Universities,IR-O-N-10,SVKM`s Narsee Monjee Institute of Management Studies,PERCEPTION (100),32.97,PR
+2021,Universities,IR-O-U-0642,Shiv Nadar University,TLR (100),59.5,TLR
+2021,Universities,IR-O-U-0642,Shiv Nadar University,RPC (100),19.37,RPC
+2021,Universities,IR-O-U-0642,Shiv Nadar University,GO (100),63.5,GO
+2021,Universities,IR-O-U-0642,Shiv Nadar University,OI (100),59.14,OI
+2021,Universities,IR-O-U-0642,Shiv Nadar University,PERCEPTION (100),27.3,PR
+2021,Universities,IR-O-U-0448,Bharathidasan University,TLR (100),54.74,TLR
+2021,Universities,IR-O-U-0448,Bharathidasan University,RPC (100),29.92,RPC
+2021,Universities,IR-O-U-0448,Bharathidasan University,GO (100),53.67,GO
+2021,Universities,IR-O-U-0448,Bharathidasan University,OI (100),47.8,OI
+2021,Universities,IR-O-U-0448,Bharathidasan University,PERCEPTION (100),37.19,PR
+2021,Universities,IR-O-U-0369,Pondicherry University,TLR (100),39.94,TLR
+2021,Universities,IR-O-U-0369,Pondicherry University,RPC (100),30.1,RPC
+2021,Universities,IR-O-U-0369,Pondicherry University,GO (100),72.4,GO
+2021,Universities,IR-O-U-0369,Pondicherry University,OI (100),58.18,OI
+2021,Universities,IR-O-U-0369,Pondicherry University,PERCEPTION (100),30.52,PR
+2021,Universities,IR-O-U-0341,North Eastern Hill University,TLR (100),55.53,TLR
+2021,Universities,IR-O-U-0341,North Eastern Hill University,RPC (100),16.31,RPC
+2021,Universities,IR-O-U-0341,North Eastern Hill University,GO (100),74.61,GO
+2021,Universities,IR-O-U-0341,North Eastern Hill University,OI (100),51.63,OI
+2021,Universities,IR-O-U-0341,North Eastern Hill University,PERCEPTION (100),26.14,PR
+2021,Universities,IR-O-U-0251,Calicut University,TLR (100),63.32,TLR
+2021,Universities,IR-O-U-0251,Calicut University,RPC (100),16.64,RPC
+2021,Universities,IR-O-U-0251,Calicut University,GO (100),63.32,GO
+2021,Universities,IR-O-U-0251,Calicut University,OI (100),54.77,OI
+2021,Universities,IR-O-U-0251,Calicut University,PERCEPTION (100),20.01,PR
+2021,Universities,IR-O-U-0295,Datta Meghe Institute of Medical Sciences,TLR (100),64.06,TLR
+2021,Universities,IR-O-U-0295,Datta Meghe Institute of Medical Sciences,RPC (100),10.35,RPC
+2021,Universities,IR-O-U-0295,Datta Meghe Institute of Medical Sciences,GO (100),60.07,GO
+2021,Universities,IR-O-U-0295,Datta Meghe Institute of Medical Sciences,OI (100),66.19,OI
+2021,Universities,IR-O-U-0295,Datta Meghe Institute of Medical Sciences,PERCEPTION (100),31.02,PR
+2021,Universities,IR-O-U-0379,Lovely Professional University,TLR (100),47.55,TLR
+2021,Universities,IR-O-U-0379,Lovely Professional University,RPC (100),27.51,RPC
+2021,Universities,IR-O-U-0379,Lovely Professional University,GO (100),63.87,GO
+2021,Universities,IR-O-U-0379,Lovely Professional University,OI (100),65.97,OI
+2021,Universities,IR-O-U-0379,Lovely Professional University,PERCEPTION (100),14.49,PR
+2021,Universities,IR-O-U-0463,Madurai Kamaraj University,TLR (100),61.71,TLR
+2021,Universities,IR-O-U-0463,Madurai Kamaraj University,RPC (100),24.77,RPC
+2021,Universities,IR-O-U-0463,Madurai Kamaraj University,GO (100),57.68,GO
+2021,Universities,IR-O-U-0463,Madurai Kamaraj University,OI (100),48.43,OI
+2021,Universities,IR-O-U-0463,Madurai Kamaraj University,PERCEPTION (100),10.04,PR
+2021,Universities,IR-O-U-0589,Visva Bharati,TLR (100),49.51,TLR
+2021,Universities,IR-O-U-0589,Visva Bharati,RPC (100),26.16,RPC
+2021,Universities,IR-O-U-0589,Visva Bharati,GO (100),73.81,GO
+2021,Universities,IR-O-U-0589,Visva Bharati,OI (100),36.58,OI
+2021,Universities,IR-O-U-0589,Visva Bharati,PERCEPTION (100),16.35,PR
+2021,Universities,IR-O-U-0498,Babasheb Bhimrao Ambedkar University,TLR (100),47.93,TLR
+2021,Universities,IR-O-U-0498,Babasheb Bhimrao Ambedkar University,RPC (100),15.81,RPC
+2021,Universities,IR-O-U-0498,Babasheb Bhimrao Ambedkar University,GO (100),71.24,GO
+2021,Universities,IR-O-U-0498,Babasheb Bhimrao Ambedkar University,OI (100),71.6,OI
+2021,Universities,IR-O-U-0498,Babasheb Bhimrao Ambedkar University,PERCEPTION (100),20.97,PR
+2021,Universities,IR-O-U-0195,University of Jammu,TLR (100),49.65,TLR
+2021,Universities,IR-O-U-0195,University of Jammu,RPC (100),17.53,RPC
+2021,Universities,IR-O-U-0195,University of Jammu,GO (100),72.91,GO
+2021,Universities,IR-O-U-0195,University of Jammu,OI (100),45.77,OI
+2021,Universities,IR-O-U-0195,University of Jammu,PERCEPTION (100),32.01,PR
+2021,Universities,IR-O-U-0011,Gandhi Institute of Technology and Management,TLR (100),49.3,TLR
+2021,Universities,IR-O-U-0011,Gandhi Institute of Technology and Management,RPC (100),14.93,RPC
+2021,Universities,IR-O-U-0011,Gandhi Institute of Technology and Management,GO (100),69.39,GO
+2021,Universities,IR-O-U-0011,Gandhi Institute of Technology and Management,OI (100),56.83,OI
+2021,Universities,IR-O-U-0011,Gandhi Institute of Technology and Management,PERCEPTION (100),32.97,PR
+2021,Universities,IR-O-I-1361,Bharati Vidyapeeth,TLR (100),54.05,TLR
+2021,Universities,IR-O-I-1361,Bharati Vidyapeeth,RPC (100),11.21,RPC
+2021,Universities,IR-O-I-1361,Bharati Vidyapeeth,GO (100),65.27,GO
+2021,Universities,IR-O-I-1361,Bharati Vidyapeeth,OI (100),56.98,OI
+2021,Universities,IR-O-I-1361,Bharati Vidyapeeth,PERCEPTION (100),37.74,PR
+2021,Universities,IR-O-U-0215,Bangalore University,TLR (100),53.29,TLR
+2021,Universities,IR-O-U-0215,Bangalore University,RPC (100),16.54,RPC
+2021,Universities,IR-O-U-0215,Bangalore University,GO (100),65.15,GO
+2021,Universities,IR-O-U-0215,Bangalore University,OI (100),57.16,OI
+2021,Universities,IR-O-U-0215,Bangalore University,PERCEPTION (100),22.8,PR
+2021,Universities,IR-O-U-0464,Manonmaniam Sundaranar University,TLR (100),55.3,TLR
+2021,Universities,IR-O-U-0464,Manonmaniam Sundaranar University,RPC (100),19.43,RPC
+2021,Universities,IR-O-U-0464,Manonmaniam Sundaranar University,GO (100),59.29,GO
+2021,Universities,IR-O-U-0464,Manonmaniam Sundaranar University,OI (100),50.68,OI
+2021,Universities,IR-O-U-0464,Manonmaniam Sundaranar University,PERCEPTION (100),23.23,PR
+2021,Universities,IR-O-U-0318,Mumbai University,TLR (100),49.58,TLR
+2021,Universities,IR-O-U-0318,Mumbai University,RPC (100),19.08,RPC
+2021,Universities,IR-O-U-0318,Mumbai University,GO (100),78.35,GO
+2021,Universities,IR-O-U-0318,Mumbai University,OI (100),47.78,OI
+2021,Universities,IR-O-U-0318,Mumbai University,PERCEPTION (100),5.23,PR
+2021,Universities,IR-O-U-0321,"Padmashree Dr. D. Y. Patil Vidyapeeth, Mumbai",TLR (100),63.3,TLR
+2021,Universities,IR-O-U-0321,"Padmashree Dr. D. Y. Patil Vidyapeeth, Mumbai",RPC (100),3.49,RPC
+2021,Universities,IR-O-U-0321,"Padmashree Dr. D. Y. Patil Vidyapeeth, Mumbai",GO (100),63.55,GO
+2021,Universities,IR-O-U-0321,"Padmashree Dr. D. Y. Patil Vidyapeeth, Mumbai",OI (100),62.15,OI
+2021,Universities,IR-O-U-0321,"Padmashree Dr. D. Y. Patil Vidyapeeth, Mumbai",PERCEPTION (100),25.02,PR
+2021,Universities,IR-O-U-0147,Pandit Deendayal Petroleum University,TLR (100),56.94,TLR
+2021,Universities,IR-O-U-0147,Pandit Deendayal Petroleum University,RPC (100),15.43,RPC
+2021,Universities,IR-O-U-0147,Pandit Deendayal Petroleum University,GO (100),61.13,GO
+2021,Universities,IR-O-U-0147,Pandit Deendayal Petroleum University,OI (100),49.4,OI
+2021,Universities,IR-O-U-0147,Pandit Deendayal Petroleum University,PERCEPTION (100),25.02,PR
+2021,Universities,IR-O-U-0470,Periyar University,TLR (100),51.4,TLR
+2021,Universities,IR-O-U-0470,Periyar University,RPC (100),22.43,RPC
+2021,Universities,IR-O-U-0470,Periyar University,GO (100),60.04,GO
+2021,Universities,IR-O-U-0470,Periyar University,OI (100),52.69,OI
+2021,Universities,IR-O-U-0470,Periyar University,PERCEPTION (100),19.52,PR
+2021,Universities,IR-O-U-0444,Avinashilingam Institute for Home Science & Higher Education for Women,TLR (100),61.3,TLR
+2021,Universities,IR-O-U-0444,Avinashilingam Institute for Home Science & Higher Education for Women,RPC (100),3.62,RPC
+2021,Universities,IR-O-U-0444,Avinashilingam Institute for Home Science & Higher Education for Women,GO (100),64.37,GO
+2021,Universities,IR-O-U-0444,Avinashilingam Institute for Home Science & Higher Education for Women,OI (100),58.87,OI
+2021,Universities,IR-O-U-0444,Avinashilingam Institute for Home Science & Higher Education for Women,PERCEPTION (100),30.09,PR
+2021,Universities,IR-O-U-0298,Dr. Babasaheb Ambedkar Marathwada University,TLR (100),41.21,TLR
+2021,Universities,IR-O-U-0298,Dr. Babasaheb Ambedkar Marathwada University,RPC (100),13.84,RPC
+2021,Universities,IR-O-U-0298,Dr. Babasaheb Ambedkar Marathwada University,GO (100),84.71,GO
+2021,Universities,IR-O-U-0298,Dr. Babasaheb Ambedkar Marathwada University,OI (100),55.89,OI
+2021,Universities,IR-O-U-0298,Dr. Babasaheb Ambedkar Marathwada University,PERCEPTION (100),20.97,PR
+2021,Universities,IR-O-U-0239,NITTE,TLR (100),60.34,TLR
+2021,Universities,IR-O-U-0239,NITTE,RPC (100),7.25,RPC
+2021,Universities,IR-O-U-0239,NITTE,GO (100),57.87,GO
+2021,Universities,IR-O-U-0239,NITTE,OI (100),67.37,OI
+2021,Universities,IR-O-U-0239,NITTE,PERCEPTION (100),24.51,PR
+2021,Universities,IR-O-I-1280,Maharshi Dayanand University,TLR (100),47.73,TLR
+2021,Universities,IR-O-I-1280,Maharshi Dayanand University,RPC (100),16.05,RPC
+2021,Universities,IR-O-I-1280,Maharshi Dayanand University,GO (100),69.91,GO
+2021,Universities,IR-O-I-1280,Maharshi Dayanand University,OI (100),51.65,OI
+2021,Universities,IR-O-I-1280,Maharshi Dayanand University,PERCEPTION (100),27.44,PR
+2021,Universities,IR-O-U-0099,Guru Gobind Singh Indraprastha University,TLR (100),48.12,TLR
+2021,Universities,IR-O-U-0099,Guru Gobind Singh Indraprastha University,RPC (100),22.64,RPC
+2021,Universities,IR-O-U-0099,Guru Gobind Singh Indraprastha University,GO (100),64.22,GO
+2021,Universities,IR-O-U-0099,Guru Gobind Singh Indraprastha University,OI (100),52.45,OI
+2021,Universities,IR-O-U-0099,Guru Gobind Singh Indraprastha University,PERCEPTION (100),14.81,PR
+2021,Universities,IR-O-U-0370,Sri Balaji Vidyapeeth Mahatma Gandhi Medical College Campus,TLR (100),60.99,TLR
+2021,Universities,IR-O-U-0370,Sri Balaji Vidyapeeth Mahatma Gandhi Medical College Campus,RPC (100),8.04,RPC
+2021,Universities,IR-O-U-0370,Sri Balaji Vidyapeeth Mahatma Gandhi Medical College Campus,GO (100),51.9,GO
+2021,Universities,IR-O-U-0370,Sri Balaji Vidyapeeth Mahatma Gandhi Medical College Campus,OI (100),73.35,OI
+2021,Universities,IR-O-U-0370,Sri Balaji Vidyapeeth Mahatma Gandhi Medical College Campus,PERCEPTION (100),20.01,PR
+2021,Universities,IR-O-U-0232,Kuvempu University,TLR (100),50.59,TLR
+2021,Universities,IR-O-U-0232,Kuvempu University,RPC (100),14.06,RPC
+2021,Universities,IR-O-U-0232,Kuvempu University,GO (100),70.94,GO
+2021,Universities,IR-O-U-0232,Kuvempu University,OI (100),50.1,OI
+2021,Universities,IR-O-U-0232,Kuvempu University,PERCEPTION (100),18.0,PR
+2021,Universities,IR-O-U-0249,Visvesvaraya Technological University,TLR (100),53.4,TLR
+2021,Universities,IR-O-U-0249,Visvesvaraya Technological University,RPC (100),21.81,RPC
+2021,Universities,IR-O-U-0249,Visvesvaraya Technological University,GO (100),60.13,GO
+2021,Universities,IR-O-U-0249,Visvesvaraya Technological University,OI (100),53.42,OI
+2021,Universities,IR-O-U-0249,Visvesvaraya Technological University,PERCEPTION (100),4.35,PR
+2021,Universities,IR-O-U-0014,International Institute of Information Technology Hyderabad,TLR (100),41.22,TLR
+2021,Universities,IR-O-U-0014,International Institute of Information Technology Hyderabad,RPC (100),30.31,RPC
+2021,Universities,IR-O-U-0014,International Institute of Information Technology Hyderabad,GO (100),51.98,GO
+2021,Universities,IR-O-U-0014,International Institute of Information Technology Hyderabad,OI (100),52.25,OI
+2021,Universities,IR-O-U-0014,International Institute of Information Technology Hyderabad,PERCEPTION (100),31.19,PR
+2021,Universities,IR-O-U-0372,Central University of Punjab,TLR (100),51.13,TLR
+2021,Universities,IR-O-U-0372,Central University of Punjab,RPC (100),17.39,RPC
+2021,Universities,IR-O-U-0372,Central University of Punjab,GO (100),53.26,GO
+2021,Universities,IR-O-U-0372,Central University of Punjab,OI (100),62.1,OI
+2021,Universities,IR-O-U-0372,Central University of Punjab,PERCEPTION (100),25.74,PR
+2021,Universities,IR-O-U-0569,The University of Burdwan,TLR (100),43.91,TLR
+2021,Universities,IR-O-U-0569,The University of Burdwan,RPC (100),19.82,RPC
+2021,Universities,IR-O-U-0569,The University of Burdwan,GO (100),69.71,GO
+2021,Universities,IR-O-U-0569,The University of Burdwan,OI (100),49.16,OI
+2021,Universities,IR-O-U-0569,The University of Burdwan,PERCEPTION (100),20.01,PR
+2021,Universities,IR-O-U-0202,Birla Institute of Technology,TLR (100),47.86,TLR
+2021,Universities,IR-O-U-0202,Birla Institute of Technology,RPC (100),26.71,RPC
+2021,Universities,IR-O-U-0202,Birla Institute of Technology,GO (100),54.55,GO
+2021,Universities,IR-O-U-0202,Birla Institute of Technology,OI (100),50.95,OI
+2021,Universities,IR-O-U-0202,Birla Institute of Technology,PERCEPTION (100),14.81,PR
+2021,Universities,IR-O-U-0366,Utkal University,TLR (100),41.99,TLR
+2021,Universities,IR-O-U-0366,Utkal University,RPC (100),13.78,RPC
+2021,Universities,IR-O-U-0366,Utkal University,GO (100),72.66,GO
+2021,Universities,IR-O-U-0366,Utkal University,OI (100),50.52,OI
+2021,Universities,IR-O-U-0366,Utkal University,PERCEPTION (100),34.8,PR
+2021,Universities,IR-O-U-0162,Guru Jambheshwar University of Science and Technology,TLR (100),54.01,TLR
+2021,Universities,IR-O-U-0162,Guru Jambheshwar University of Science and Technology,RPC (100),15.61,RPC
+2021,Universities,IR-O-U-0162,Guru Jambheshwar University of Science and Technology,GO (100),56.44,GO
+2021,Universities,IR-O-U-0162,Guru Jambheshwar University of Science and Technology,OI (100),47.85,OI
+2021,Universities,IR-O-U-0162,Guru Jambheshwar University of Science and Technology,PERCEPTION (100),26.97,PR
+2021,Universities,IR-O-U-0190,Shoolini University of Biotechnology and Management Sciences,TLR (100),43.21,TLR
+2021,Universities,IR-O-U-0190,Shoolini University of Biotechnology and Management Sciences,RPC (100),23.06,RPC
+2021,Universities,IR-O-U-0190,Shoolini University of Biotechnology and Management Sciences,GO (100),64.69,GO
+2021,Universities,IR-O-U-0190,Shoolini University of Biotechnology and Management Sciences,OI (100),54.6,OI
+2021,Universities,IR-O-U-0190,Shoolini University of Biotechnology and Management Sciences,PERCEPTION (100),12.52,PR
+2021,Universities,IR-O-U-0143,Maharaja Sayajirao University of Baroda,TLR (100),43.8,TLR
+2021,Universities,IR-O-U-0143,Maharaja Sayajirao University of Baroda,RPC (100),14.83,RPC
+2021,Universities,IR-O-U-0143,Maharaja Sayajirao University of Baroda,GO (100),68.44,GO
+2021,Universities,IR-O-U-0143,Maharaja Sayajirao University of Baroda,OI (100),58.31,OI
+2021,Universities,IR-O-U-0143,Maharaja Sayajirao University of Baroda,PERCEPTION (100),23.67,PR
+2021,Universities,IR-O-U-0225,KLE Academy of Higher Education and Research,TLR (100),57.64,TLR
+2021,Universities,IR-O-U-0225,KLE Academy of Higher Education and Research,RPC (100),9.98,RPC
+2021,Universities,IR-O-U-0225,KLE Academy of Higher Education and Research,GO (100),49.27,GO
+2021,Universities,IR-O-U-0225,KLE Academy of Higher Education and Research,OI (100),61.36,OI
+2021,Universities,IR-O-U-0225,KLE Academy of Higher Education and Research,PERCEPTION (100),31.74,PR
+2021,Universities,IR-O-U-0451,Chettinad Academy of Research and Education,TLR (100),61.18,TLR
+2021,Universities,IR-O-U-0451,Chettinad Academy of Research and Education,RPC (100),6.64,RPC
+2021,Universities,IR-O-U-0451,Chettinad Academy of Research and Education,GO (100),56.44,GO
+2021,Universities,IR-O-U-0451,Chettinad Academy of Research and Education,OI (100),57.3,OI
+2021,Universities,IR-O-U-0451,Chettinad Academy of Research and Education,PERCEPTION (100),19.02,PR
+2021,Universities,IR-O-U-0050,Assam University,TLR (100),52.68,TLR
+2021,Universities,IR-O-U-0050,Assam University,RPC (100),13.32,RPC
+2021,Universities,IR-O-U-0050,Assam University,GO (100),63.79,GO
+2021,Universities,IR-O-U-0050,Assam University,OI (100),48.04,OI
+2021,Universities,IR-O-U-0050,Assam University,PERCEPTION (100),18.51,PR
+2021,Universities,IR-O-U-0507,Dayalbagh Educational Institute,TLR (100),50.8,TLR
+2021,Universities,IR-O-U-0507,Dayalbagh Educational Institute,RPC (100),4.09,RPC
+2021,Universities,IR-O-U-0507,Dayalbagh Educational Institute,GO (100),67.06,GO
+2021,Universities,IR-O-U-0507,Dayalbagh Educational Institute,OI (100),63.36,OI
+2021,Universities,IR-O-U-0507,Dayalbagh Educational Institute,PERCEPTION (100),28.35,PR
+2021,Universities,IR-O-U-0744,Ashoka University,TLR (100),57.91,TLR
+2021,Universities,IR-O-U-0744,Ashoka University,RPC (100),3.2,RPC
+2021,Universities,IR-O-U-0744,Ashoka University,GO (100),60.0,GO
+2021,Universities,IR-O-U-0744,Ashoka University,OI (100),76.49,OI
+2021,Universities,IR-O-U-0744,Ashoka University,PERCEPTION (100),10.41,PR
+2021,Universities,IR-O-U-0121,Goa University,TLR (100),48.86,TLR
+2021,Universities,IR-O-U-0121,Goa University,RPC (100),15.05,RPC
+2021,Universities,IR-O-U-0121,Goa University,GO (100),60.91,GO
+2021,Universities,IR-O-U-0121,Goa University,OI (100),55.96,OI
+2021,Universities,IR-O-U-0121,Goa University,PERCEPTION (100),20.01,PR
+2021,Universities,IR-O-U-0043,"Vignan's Foundation for Science, Technology and Research",TLR (100),49.4,TLR
+2021,Universities,IR-O-U-0043,"Vignan's Foundation for Science, Technology and Research",RPC (100),15.25,RPC
+2021,Universities,IR-O-U-0043,"Vignan's Foundation for Science, Technology and Research",GO (100),60.65,GO
+2021,Universities,IR-O-U-0043,"Vignan's Foundation for Science, Technology and Research",OI (100),56.03,OI
+2021,Universities,IR-O-U-0043,"Vignan's Foundation for Science, Technology and Research",PERCEPTION (100),18.0,PR
+2021,Universities,IR-O-U-0555,Graphic Era University,TLR (100),47.99,TLR
+2021,Universities,IR-O-U-0555,Graphic Era University,RPC (100),9.74,RPC
+2021,Universities,IR-O-U-0555,Graphic Era University,GO (100),60.76,GO
+2021,Universities,IR-O-U-0555,Graphic Era University,OI (100),62.23,OI
+2021,Universities,IR-O-U-0555,Graphic Era University,PERCEPTION (100),32.17,PR
+2021,Universities,IR-O-U-0223,"Jain university, Bangalore",TLR (100),39.29,TLR
+2021,Universities,IR-O-U-0223,"Jain university, Bangalore",RPC (100),12.72,RPC
+2021,Universities,IR-O-U-0223,"Jain university, Bangalore",GO (100),73.89,GO
+2021,Universities,IR-O-U-0223,"Jain university, Bangalore",OI (100),59.54,OI
+2021,Universities,IR-O-U-0223,"Jain university, Bangalore",PERCEPTION (100),25.52,PR
+2021,Universities,IR-O-U-0564,University of Petroleum and Energy Studies,TLR (100),46.46,TLR
+2021,Universities,IR-O-U-0564,University of Petroleum and Energy Studies,RPC (100),15.08,RPC
+2021,Universities,IR-O-U-0564,University of Petroleum and Energy Studies,GO (100),60.13,GO
+2021,Universities,IR-O-U-0564,University of Petroleum and Energy Studies,OI (100),61.98,OI
+2021,Universities,IR-O-U-0564,University of Petroleum and Energy Studies,PERCEPTION (100),21.9,PR

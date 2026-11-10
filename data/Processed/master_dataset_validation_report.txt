@@ -1,0 +1,87 @@
+===========================================================================
+NIRF MASTER DATASET VALIDATION REPORT
+Generated At: 2026-11-02T17:24:22.894591+00:00
+Output Master File: data\Processed\NIRF_Master_Dataset.csv
+===========================================================================
+
+1. DATASET METRICS & RECONCILIATION:
+  Total Master Records:                    6572
+  Total Source Ranking Records Checked:    6572
+  Reconciliation Match:                    PASSED (100% matched)
+  Total Unique Categories:                 17 / 17
+  Total Unique Years:                      9 (2017 to 2025)
+  Total Unique Institutions (by Name):     1223
+  Total Unique Institution IDs:            2055
+  Duplicate Records Detected:              0
+---------------------------------------------------------------------------
+
+2. MISSING VALUE ANALYSIS BY COLUMN:
+  - year                      :     0 nulls (  0.0%)
+  - category                  :     0 nulls (  0.0%)
+  - institute_id              :     0 nulls (  0.0%)
+  - institution_name          :     0 nulls (  0.0%)
+  - city                      :     0 nulls (  0.0%)
+  - state                     :     0 nulls (  0.0%)
+  - rank                      :     0 nulls (  0.0%)
+  - numeric_rank              :     0 nulls (  0.0%)
+  - overall_score             :    53 nulls (  0.8%)
+  - tlr_score                 :   303 nulls (  4.6%)
+  - rpc_score                 :   303 nulls (  4.6%)
+  - go_score                  :   303 nulls (  4.6%)
+  - oi_score                  :    53 nulls (  0.8%)
+  - pr_score                  :    53 nulls (  0.8%)
+  - qnr_score                 :  6322 nulls ( 96.2%)
+  - qlr_score                 :  6322 nulls ( 96.2%)
+  - sfc_score                 :  6322 nulls ( 96.2%)
+  - original_parameter_names  :    53 nulls (  0.8%)
+  - source_url                :     0 nulls (  0.0%)
+  - source_category           :     0 nulls (  0.0%)
+  - source_year               :     0 nulls (  0.0%)
+  - source_file               :     0 nulls (  0.0%)
+  - data_collection_date      :     0 nulls (  0.0%)
+
+  Detailed Missing Value Explanations:
+    * Missing Institute IDs:        0 (0% missing; all IDs preserved)
+    * Missing Overall Scores:       53 (Innovation category does not publish overall score)
+    * Missing Parameter Scores:     53 (Innovation, Open Univ, Skill Univ, SDG do not publish 5-param tables)
+    * Unmatched Parameter Records:  0
+---------------------------------------------------------------------------
+
+3. CATEGORY-WISE RECORD DISTRIBUTION:
+  - Agriculture and Allied Sectors  :   120 records
+  - Architecture and Planning       :   210 records
+  - Colleges                        :   899 records
+  - Dental                          :   230 records
+  - Engineering                     :   898 records
+  - Innovation                      :    30 records
+  - Law                             :   215 records
+  - Management                      :   726 records
+  - Medical                         :   345 records
+  - Open University                 :     6 records
+  - Overall                         :   901 records
+  - Pharmacy                        :   726 records
+  - Research Institutions           :   250 records
+  - Skill University                :     6 records
+  - State Public University         :   100 records
+  - Sustainable Development Goals   :    10 records
+  - Universities                    :   900 records
+
+4. YEAR-WISE RECORD DISTRIBUTION:
+  - Year 2017:   500 records
+  - Year 2018:   541 records
+  - Year 2019:   610 records
+  - Year 2020:   661 records
+  - Year 2021:   745 records
+  - Year 2022:   802 records
+  - Year 2023:   850 records
+  - Year 2024:   926 records
+  - Year 2025:   937 records
+===========================================================================
+FINAL QUALITY AUDIT VERIFICATION:
+  [+] Unified Schema Compliant:            PASSED
+  [+] Zero Records Fabricated:             PASSED
+  [+] Zero Source Records Dropped:         PASSED
+  [+] Complete Source Traceability:        PASSED
+  [+] Parameter Scores Correctly Aligned:  PASSED
+  [+] Supporting Summary Reports Created:  PASSED
+===========================================================================

@@ -1,0 +1,101 @@
+year,category,institute_id,institute_name,city,state,official_rank,numeric_rank,overall_score,source_url
+2017,Universities,IR17-I-2-18243,Indian Institute of Science Bangalore,Bengaluru,Karnataka,1,1,83.28,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-1-319,Jawaharlal Nehru University,New Delhi,Delhi,2,2,61.53,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-18500,Banaras Hindu University,Varanasi,Uttar Pradesh,3,3,58.92,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-30673,Jawaharlal Nehru Centre for Advanced Scientific Research,Bengaluru,Karnataka,4,4,58.25,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-10326,Jadavpur University,Kolkata,West Bengal,5,5,57.32,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-18292,Anna University,Chennai,Tamil Nadu,6,6,56.5,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-1-2813521158,University of Hyderabad,Hyderabad,Telangana,7,7,56.3,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-18552,University of Delhi,Delhi,Delhi,8,8,55.37,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-18267,Amrita Vishwa Vidyapeetham,Coimbatore,Tamil Nadu,9,9,54.7,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-1-618,Savitribai Phule Pune University,Pune,Maharashtra,10,10,52.81,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-18189,Aligarh Muslim University,Aligarh,Uttar Pradesh,11,11,52.74,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-1-2814289415,Jamia Millia Islamia,New Delhi,Delhi,12,12,51.75,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-18599,Birla Institute of Technology & Science -Pilani,Pilani,Rajasthan,13,13,51.46,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-18572,Vellore Institute of Technology,Vellore,Tamil Nadu,14,14,51.36,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-1-243,Indian Agricultural Research Institute,New Delhi,Delhi,15,15,51.2,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-18606,Calcutta University,Kolkata,West Bengal,16,16,48.9,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-15598,Tamil Nadu Agricultural University,Coimbatore,Tamil Nadu,17,17,48.84,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-18364,Manipal Academy of Higher Education-Manipal,Manipal,Karnataka,18,18,48.27,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-18581,Visva Bharati,Kolkata,West Bengal,19,19,48.19,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-1-624,Siksha`O` Anusandhan University,Bhubaneswar,Odisha,20,20,46.72,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-18230,Homi Bhabha National Institute,Mumbai,Maharashtra,21,21,46.45,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-18559,Bharath Institute of Higher Education & Research,Chennai,Tamil Nadu,21,21,46.45,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-18414,Osmania University,Hyderabad,Telangana,23,23,45.52,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-1-30713,"Punjab Agricultural University, Ludhiana",Ludhiana,Punjab,24,24,44.99,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-18261,Institute of Chemical Technology,Mumbai,Maharashtra,25,25,44.95,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-17784,Jamia Hamdard,New Delhi,Delhi,26,26,44.84,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-30702,Gauhati University,Guwahati,Assam,27,27,44.42,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-18567,Bharathiar University,Coimbatore,Tamil Nadu,28,28,44.29,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-18317,Kerala University,Thiruvananthapuram,Kerala,29,29,43.95,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-10563,Tezpur University,Tezpur,Assam,30,30,43.78,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-1-700,TATA Institute of Social Sciences,Mumbai,Maharashtra,31,31,43.71,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-18477,Shanmugha Arts Science Technology & Research Academy (SASTRA),Thanjavur,Tamil Nadu,32,32,43.5,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-1-2814248400,Panjab University,Chandigarh,Chandigarh,33,33,43.13,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-1-596,S.R.M Institute of Science and Technology,Chennai,Tamil Nadu,34,34,43.07,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-1-1-249,Indian Institute of Space Science and Technology,Thiruvananthapuram,Kerala,35,35,43.06,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-1-457,Mysore University,Mysore,Karnataka,36,36,42.83,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-18424,Pondicherry University,Puducherry,Pondicherry,37,37,42.7,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-1-697,Tamil Nadu Veterinary & Animal Sciences University,Chennai,Tamil Nadu,38,38,42.48,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-1-661,Sri Ramachandra University,Chennai,Tamil Nadu,39,39,42.46,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-18276,Anand Agricultural University,Anand,Gujarat,40,40,42.26,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-18341,University of Madras,Chennai,Tamil Nadu,41,41,41.85,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-1-668,Sri Venkateswara University,Tirupati,Andhra Pradesh,42,42,41.48,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-1-31,Andhra University,Visakhapatnam,Andhra Pradesh,43,43,41.38,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-18472,Sathyabama Institute of Science and Technology,Chennai,Tamil Nadu,44,44,41.3,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-1-299,Jagadguru Sri Shivarathreeshwara University,Mysore,Karnataka,45,45,41.18,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-1-2813959492,Thapar University,Patiala,Punjab,46,46,40.78,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-30671,Dr. D. Y. Patil Vidyapeeth Pune,Pune,Maharashtra,47,47,40.59,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-18409,North Eastern Hill University,Shillong,Meghalaya,48,48,40.51,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-1-336,Kalinga Institute of Industrial Technology,Bhubaneswar,Odisha,49,49,40.47,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-18214,Guru Angad Dev Veterinary & Animal Sciences University,Ludhiana,Punjab,50,50,40.1,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-1-178,Dr. Y.S.Parmar University of Horticulture & Forestry,Solan,Himachal Pradesh,51,51,39.54,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-18259,AMITY University,Gautam Budh Nagar,Uttar Pradesh,52,52,39.17,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-18508,Banasthali Vidyapith,Banasthali,Rajasthan,53,53,38.74,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-18580,Bharati Vidyapeeth,Pune,Maharashtra,54,54,38.73,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-18474,Saveetha Institute of Medical and Technical Sciences,Chennai,Tamil Nadu,55,55,38.68,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-1-33,Annamalai University,Annamalainagar,Tamil Nadu,56,56,38.59,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-18607,Calicut University,Calicut,Kerala,57,57,38.45,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-1-448,Mizoram University,Aizwal,Mizoram,58,58,38.36,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-1-373,Kurukshetra University,Kurushetra,Haryana,59,59,38.26,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-10933,Shiv Nadar University,Chithera,Uttar Pradesh,60,60,37.95,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-21078,Symbiosis International University,Pune,Maharashtra,61,61,37.67,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-1-N002,KLE Academy of Higher Education and Research,Belagavi,Karnataka,62,62,37.25,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-1-2809340824,University of Jammu,Jammu Tawi,Jammu And Kashmir,63,63,37.23,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-18200,Goa University-Goa,Goa,Goa,64,64,37.16,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-1-11112,Vel Tech Rangarajan Dr.Sagunthala R&D Institute of Science and Technology,Chennai,Tamil Nadu,65,65,37.13,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-18305,Kalyani University,Kalyani,West Bengal,66,66,36.84,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-18356,Mahatma Gandhi Unversity,Kottayam,Kerala,67,67,36.79,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-18446,Rajasthan University of Veterinary & Animal Sciences,Bikaner,Rajasthan,68,68,36.78,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-1-663,Sri Sathya Sai Institute of Higher Learning,Anantapur,Andhra Pradesh,69,69,36.75,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-1-445,Meenakshi Academy of Higher Education and Research,Chennai,Tamil Nadu,70,70,36.47,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-18312,Karunya Institute of Technology and Sciences-Coimbatore,Coimbatore,Tamil Nadu,71,71,36.44,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-1-2812766280,Dayalbagh Educational Institute,Agra,Uttar Pradesh,72,72,36.36,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-1-351,University of Kashmir,Srinagar,Jammu And Kashmir,73,73,36.32,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-1-159,Dibrugarh University,Dibrugarh,Assam,74,74,36.28,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-18406,Nirma University,Ahmedabad,Gujarat,75,75,36.21,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-18449,Rajiv Gandhi University,Rono Hills,Arunachal Pradesh,76,76,36.15,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-18342,Madurai Kamraj University,Madurai,Tamil Nadu,77,77,36.04,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-1-670,Sri Venkateswara Veterinary University,Tirupati,Andhra Pradesh,78,78,35.92,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-1-570,Rajasthan University,Jaipur,Rajasthan,79,79,35.85,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-18110,Guru Nanak Dev University,Amritsar,Punjab,80,80,35.83,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-1-321,Jaypee Institute of Information Technology,Noida,Uttar Pradesh,81,81,35.69,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-12969,Guru Gobind Singh Indraprastha University,Dwarka,Delhi,82,82,35.6,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-1-653,Sri Balaji Vidyapeeth Mahatma Gandhi Medical College Campus,Puducherry,Pondicherry,83,83,35.5,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-18407,NITTE University,Mangalore,Karnataka,83,83,35.5,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-18422,Periyar University,Salem,Tamil Nadu,85,85,35.44,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-18161,Cochin University of Science and Technology,Cochin,Kerala,86,86,35.42,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-15640,Vidyasagar University,Midnapore,West Bengal,87,87,35.23,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-30492,Bharathidasan University,Tiruchirappalli,Tamil Nadu,88,88,35.14,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-1-2812182676,Gandhi Institute of Technology and Management (GITAM),Visakhapatnam,Andhra Pradesh,89,89,35.09,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-18311,Karpagam Academy of Higher Education,Coimbatore,Tamil Nadu,90,90,34.86,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-12265,The Gandhigram Rural Institute - Deemed University,Gandhigram,Tamil Nadu,91,91,34.56,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-277952,Assam University-Silchar,Silchar,Assam,92,92,34.38,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-18296,Jaypee University of Information Technology-Solan,Solan,Himachal Pradesh,93,93,34.14,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-1-541,PES University,Bengaluru,Karnataka,94,94,33.94,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-18551,University of Allahabad,Allahabad,Uttar Pradesh,95,95,33.86,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-1-N001,Sri Krishnadevaraya University,Anantapur,Andhra Pradesh,96,96,33.76,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-18168,Alagappa University,Karaikudi,Tamil Nadu,97,97,33.66,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-18385,Narsee Monjee Institute of Management Studies -Mumbai,Mumbai,Maharashtra,98,98,33.6,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-1-18289,Jawaharlal Nehru Technological University,Kakinada,Andhra Pradesh,99,99,33.44,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html
+2017,Universities,IR17-I-2-1-57,B.S. Abdur Rahman Institute of Science and Technology,Chennai,Tamil Nadu,100,100,32.99,https://www.nirfindia.org/Rankings/2017/UniversityRanking.html

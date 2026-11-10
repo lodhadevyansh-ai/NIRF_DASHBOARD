@@ -1,0 +1,101 @@
+year,category,institute_id,institute_name,city,state,official_rank,numeric_rank,overall_score,source_url
+2017,Colleges,IR17-COLL-1-29115,Miranda House,Delhi,Delhi,1,1,69.39,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-2-959129,Loyola College,District Chennai,Tamil Nadu,2,2,68.68,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-2-29134,Shri Ram College of Commerce,Delhi,Delhi,3,3,67.18,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-1-19387,Bishop Heber College,District Tiruchirapalli,Tamil Nadu,4,4,61.18,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-2-21799,Atma Ram Sanatan Dharma College,New Delhi,Delhi,5,5,60.68,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-2-20078,St. Xavier`s College,Kolkata,West Bengal,6,6,59.12,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-2-29111,Lady Shri Ram College for Women,New Delhi,Delhi,7,7,58.28,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-1-19855,Dyal Singh College,New Delhi,Delhi,8,8,58.22,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-2-20022,Deen Dayal Upadhyaya College,New Delhi,Delhi,9,9,58.06,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-2-19443,The Women's Christian College,Chennai,Tamil Nadu,10,10,57.37,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-2-818511,P.S.G. College of Arts & Science,District Coimbatore,Tamil Nadu,11,11,55.64,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-2-967530,Madras Christian College,District Kancheepuram,Tamil Nadu,12,12,55.44,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-1-18824,Ayya Nadar Janaki Ammal College,District Virudhnagar,Tamil Nadu,13,13,54.62,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-1-819241,P.S.G.R. Krishnammal College for Women,District Coimbatore,Tamil Nadu,14,14,53.97,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-2-20024,Keshav Mahavidyalya,Delhi,Delhi,15,15,53.21,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-1-15094,Ethiraj College for Women,Chennai,Tamil Nadu,16,16,52.85,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-2-21140,Christ College (Autonomous),Thrissur,Kerala,17,17,52.62,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-1-29161,Loreto College,Calcutta-16,West Bengal,18,18,51.85,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-1-24821,Kongunadu Arts & Science College,District Coimbatore,Tamil Nadu,19,19,51.84,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-1-19833,Acharya Narendra Dev College,Kalkaji,Delhi,20,20,51.06,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-1-30222,AU College of Science and Technology,Visakhapatnam,Andhra Pradesh,21,21,50.85,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-2-1277986,Sri Krishna Arts and Science College,Coimbatore,Tamil Nadu,22,22,50.8,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-2-30226,AU College of Arts and Commerce,Visakhapatnam,Andhra Pradesh,23,23,49.73,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-2-16853,Andhra Loyola College,Vijayawada,Andhra Pradesh,24,24,49.41,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-2-18888,Rajagiri College of Social Sciences,Dist. Ernakulam,Kerala,25,25,48.9,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-1-25232,Holy Cross College,District Tiruchirapalli,Tamil Nadu,26,26,48.13,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-1-15202,Fatima College (Autonomous),Madurai,Tamil Nadu,27,27,47.95,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-2-22683,Sacred Heart College,Dist. Ernakulam,Kerala,28,28,47.24,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-1-20019,St. Joseph`s College of Commerce,Bengaluru,Karnataka,29,29,47.21,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-1-21126,Rajiv Gandhi Institute of Information Technology and Biotechnology (RGIITBT),Pune,Maharashtra,30,30,47.04,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-1-20139,St. Joseph's College,Dist. Calicut,Kerala,31,31,46.73,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-2-1-11028,Post Graduate Government College for Girls,Chandigarh,Chandigarh,32,32,46.54,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-2-2003358,Ramanujan College,Kalkaji,Delhi,33,33,45.92,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-2-29130,Shaheed Bhagat Singh College (Evening Classes),New Delhi,Delhi,34,34,45.76,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-2-19281,Fergusson College,Dist. Pune,Maharashtra,35,35,45.51,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-2-19229,Degree College of Physical Education,Dist. Amravati,Maharashtra,36,36,45.48,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-1-19146,Shri M.V. & Smt. N.V. Virani Science College,Dist. Rajkot,Gujarat,37,37,45.31,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-1-67207,V.V. Vanniaperumal College for Women,District Virudhnagar,Tamil Nadu,38,38,45.06,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-2-67573,Virudhunagar Hindu Nadars Senthikumara Nadar College,District Virudhnagar,Tamil Nadu,39,39,44.8,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-2-2587381,St. Xavier's College,Mumbai,Maharashtra,40,40,44.67,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-2-19095,Goswami Ganesh Dutta S.D. College,Sector 32 Chandigarh,Chandigarh,41,41,44.56,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-1-20138,St. Joseph's College,Dist. Trichur,Kerala,42,42,44.35,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-1-19386,A.V.C. College-District Quaide-E-Milleth,District Quaide-E-Milleth,Tamil Nadu,43,43,44.29,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-1-19418,Dr. N.G.P. Arts & Science College,District Coimbatore,Tamil Nadu,44,44,44.0,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-2-21092,St Aloysius College (Autonomous),Mangalore,Karnataka,44,44,44.0,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-1-20029,Sri Guru Nanak Dev Khalsa College,New Delhi,Delhi,46,46,43.86,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-1-19427,Justice Baseer Ahmed Sayeed College for Women,Chennai,Tamil Nadu,47,47,43.77,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-2-20199,Mercy College,Dist. Palakkad,Kerala,48,48,43.68,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-1-21963,Little Flower College,District Trichur,Kerala,49,49,43.59,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-1-27982,K.S. Rangaswamy College of Arts and Science,Tiruchengode,Tamil Nadu,50,50,43.32,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-2-19444,MES Keveeyam College,Valanchary,Kerala,51,51,43.3,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-2-20207,Vimla College,Dist. Trichur,Kerala,52,52,43.23,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-1-30551,"Government College of Arts, Science and Commerce Quepem",Quepem,Goa,53,53,43.18,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-2-20105,Holy Cross College,District Kanyakumari,Tamil Nadu,54,54,43.17,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-2-21977,St. Mary's College,Dist. Trichur,Kerala,55,55,42.72,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-1-59902,Saiva Bhanu Kshatriya College,District Virudhnagar,Tamil Nadu,56,56,42.57,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-1-19419,Gobi Arts and Science College-Karattatipalayam Post,Karattatipalayam Post,Tamil Nadu,57,57,42.39,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-2-18987,Vivekanand College,Kolhapur,Maharashtra,58,58,42.26,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-2-30622,Shri Shankarlal Sundarbai Shasun Jain College for Women,Chennai,Tamil Nadu,59,59,42.07,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-1-19435,Meenakshi College for Women,District Chennai,Tamil Nadu,59,59,42.07,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-1-19878,"Vitthalbhai Patel and Rajrathan, P.T. Patel Science College",Dist. Anand,Gujarat,61,61,41.99,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-2-19438,Srimathi D.N. Bhat Vaishnav College for Women,District Kancheepuram,Tamil Nadu,62,62,41.91,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-2-19383,Kongu Arts & Science College,District Erode,Tamil Nadu,63,63,41.9,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-2-19551,J.B. College,District Jorhat,Assam,64,64,41.81,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-2-24847,Nirmala College for Women,District Coimbatore,Tamil Nadu,65,65,41.73,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-2-221339,Rathinam College of Arts and Science,Coimbatore,Tamil Nadu,66,66,41.69,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-2-21350,Mahendra Arts & Science College,Namakkal,Tamil Nadu,67,67,41.33,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-2-19380,Sri Ramakrishna College of Arts & Science for Women,District Coimbatore,Tamil Nadu,68,68,40.89,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-2-1-2811558558,SNR Sons College,Coimbatore,Tamil Nadu,69,69,40.29,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-2-18891,St. Teresa's College,Dist. Ernakula,Kerala,70,70,40.1,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-2-18873,Sri D. Manjunatheswara College,Dist. Dakshin Kannad,Karnataka,71,71,39.96,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-1-24617,Nanded Education Society`s Science College,Nanded,Maharashtra,72,72,39.47,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-2-19929,Mannam Memroial N.S.S. College,Kollam,Kerala,73,73,38.99,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-2-29281,Mehr Chand Mahajan D.A.V. College for Women,"Sector-36, Chandigarh",Chandigarh,74,74,38.84,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-2-14209,Hindusthan College of Arts and Science,Coimbatore,Tamil Nadu,75,75,38.65,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-1-30707,K.S.R. College of Arts and Science for Women,Namakkal,Tamil Nadu,76,76,38.6,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-1-19882,Bahauddin Govt. Science College,Dist. Junagadh,Gujarat,77,77,38.42,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-1-20038,Rama Krishna Mission Vivekananda Centenary College,Rahara,West Bengal,78,78,38.29,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-2-20162,S.D.M.S.M. Kalasala,District Krishna,Andhra Pradesh,79,79,38.28,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-2-30258,Dr.V.S.Krishna Govt. Degree College,Visakhapatnam,Andhra Pradesh,80,80,38.19,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-2-19306,Symbiosis College of Arts and Commerce,Pune,Maharashtra,81,81,38.05,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-1-15615,S R M College of Arts and Science,Potheri,Tamil Nadu,82,82,38.03,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-2-30643,Sai College of Computer Education,Dist. Osmanabad,Maharashtra,83,83,37.93,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-1-29947,Assumption College,Dist. Kottayam,Kerala,84,84,37.92,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-2-19204,Gayatri Vidya Parishad College for Degree and P.G Courses (Autonomous),District Visakapatnam,Andhra Pradesh,85,85,37.56,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-1-18746,Muthayammal College of Arts & Science,Namakkal,Tamil Nadu,86,86,37.46,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-1-21121,"St. Josephs College for Women, (Autonomous)",Visakhapatnam,Andhra Pradesh,87,87,37.15,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-1-19251,Jankidevi Bajaj College of Science,District Wardha,Maharashtra,88,88,37.07,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-1-20095,P.C. Jabin Science College,Dist. Dharwad,Karnataka,89,89,36.87,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-2-19869,Govt. College,District Anantapur,Andhra Pradesh,90,90,36.82,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-2-18887,Nirmala College,Dist. Ernakulam,Kerala,91,91,36.53,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-1-20151,K.B.N. College,District Krishna,Andhra Pradesh,92,92,36.36,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-2-13947,V.S.M. College,Ramachandrapuram,Andhra Pradesh,93,93,36.15,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-1-20049,J.G. College of Commerce,"Hubli, Dist. Dharwad",Karnataka,94,94,36.03,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-2-15860,Sacred Heart College (Autonomous),Tirupattur,Tamil Nadu,95,95,35.43,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-2-1-2812253596,Presidency College,Bengaluru,Karnataka,96,96,35.23,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-2-19433,National College,District Tiruchirapalli,Tamil Nadu,97,97,34.93,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-2-18715,Raja Narendralal Khan Women's College,District Midnapore,West Bengal,98,98,34.73,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-2-1-2814445210,Bharti Vidyapeeth`s Matoshri Bayabai Shripatrao Kadam Kanya Mahavidyalaya,Dist. Sangli,Maharashtra,99,99,34.69,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html
+2017,Colleges,IR17-COLL-2-15929,Thanthai Hans Roever College,Perambalur,Tamil Nadu,100,100,34.65,https://www.nirfindia.org/Rankings/2017/CollegeRanking.html

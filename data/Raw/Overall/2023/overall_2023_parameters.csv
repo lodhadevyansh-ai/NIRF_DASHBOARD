@@ -1,0 +1,501 @@
+year,category,institute_id,institute_name,parameter_name,parameter_score,canonical_parameter
+2023,Overall,IR-O-U-0456,Indian Institute of Technology Madras,TLR (100),86.45,TLR
+2023,Overall,IR-O-U-0456,Indian Institute of Technology Madras,RPC (100),89.88,RPC
+2023,Overall,IR-O-U-0456,Indian Institute of Technology Madras,GO (100),87.22,GO
+2023,Overall,IR-O-U-0456,Indian Institute of Technology Madras,OI (100),63.59,OI
+2023,Overall,IR-O-U-0456,Indian Institute of Technology Madras,PERCEPTION (100),100.0,PR
+2023,Overall,IR-O-U-0220,Indian Institute of Science,TLR (100),82.43,TLR
+2023,Overall,IR-O-U-0220,Indian Institute of Science,RPC (100),88.45,RPC
+2023,Overall,IR-O-U-0220,Indian Institute of Science,GO (100),80.57,GO
+2023,Overall,IR-O-U-0220,Indian Institute of Science,OI (100),59.23,OI
+2023,Overall,IR-O-U-0220,Indian Institute of Science,PERCEPTION (100),97.94,PR
+2023,Overall,IR-O-I-1074,Indian Institute of Technology Delhi,TLR (100),82.06,TLR
+2023,Overall,IR-O-I-1074,Indian Institute of Technology Delhi,RPC (100),85.23,RPC
+2023,Overall,IR-O-I-1074,Indian Institute of Technology Delhi,GO (100),79.21,GO
+2023,Overall,IR-O-I-1074,Indian Institute of Technology Delhi,OI (100),70.32,OI
+2023,Overall,IR-O-I-1074,Indian Institute of Technology Delhi,PERCEPTION (100),90.98,PR
+2023,Overall,IR-O-U-0306,Indian Institute of Technology Bombay,TLR (100),80.71,TLR
+2023,Overall,IR-O-U-0306,Indian Institute of Technology Bombay,RPC (100),86.14,RPC
+2023,Overall,IR-O-U-0306,Indian Institute of Technology Bombay,GO (100),84.26,GO
+2023,Overall,IR-O-U-0306,Indian Institute of Technology Bombay,OI (100),58.76,OI
+2023,Overall,IR-O-U-0306,Indian Institute of Technology Bombay,PERCEPTION (100),84.98,PR
+2023,Overall,IR-O-I-1075,Indian Institute of Technology Kanpur,TLR (100),85.45,TLR
+2023,Overall,IR-O-I-1075,Indian Institute of Technology Kanpur,RPC (100),72.94,RPC
+2023,Overall,IR-O-I-1075,Indian Institute of Technology Kanpur,GO (100),83.62,GO
+2023,Overall,IR-O-I-1075,Indian Institute of Technology Kanpur,OI (100),60.24,OI
+2023,Overall,IR-O-I-1075,Indian Institute of Technology Kanpur,PERCEPTION (100),69.84,PR
+2023,Overall,IR-O-N-15,"All India Institute of Medical Sciences, Delhi",TLR (100),76.47,TLR
+2023,Overall,IR-O-N-15,"All India Institute of Medical Sciences, Delhi",RPC (100),67.75,RPC
+2023,Overall,IR-O-N-15,"All India Institute of Medical Sciences, Delhi",GO (100),70.46,GO
+2023,Overall,IR-O-N-15,"All India Institute of Medical Sciences, Delhi",OI (100),72.72,OI
+2023,Overall,IR-O-N-15,"All India Institute of Medical Sciences, Delhi",PERCEPTION (100),75.23,PR
+2023,Overall,IR-O-U-0573,Indian Institute of Technology Kharagpur,TLR (100),73.29,TLR
+2023,Overall,IR-O-U-0573,Indian Institute of Technology Kharagpur,RPC (100),72.25,RPC
+2023,Overall,IR-O-U-0573,Indian Institute of Technology Kharagpur,GO (100),76.75,GO
+2023,Overall,IR-O-U-0573,Indian Institute of Technology Kharagpur,OI (100),57.44,OI
+2023,Overall,IR-O-U-0573,Indian Institute of Technology Kharagpur,PERCEPTION (100),70.68,PR
+2023,Overall,IR-O-U-0560,Indian Institute of Technology Roorkee,TLR (100),77.69,TLR
+2023,Overall,IR-O-U-0560,Indian Institute of Technology Roorkee,RPC (100),68.0,RPC
+2023,Overall,IR-O-U-0560,Indian Institute of Technology Roorkee,GO (100),83.15,GO
+2023,Overall,IR-O-U-0560,Indian Institute of Technology Roorkee,OI (100),62.8,OI
+2023,Overall,IR-O-U-0560,Indian Institute of Technology Roorkee,PERCEPTION (100),50.36,PR
+2023,Overall,IR-O-U-0053,Indian Institute of Technology Guwahati,TLR (100),73.43,TLR
+2023,Overall,IR-O-U-0053,Indian Institute of Technology Guwahati,RPC (100),66.98,RPC
+2023,Overall,IR-O-U-0053,Indian Institute of Technology Guwahati,GO (100),82.95,GO
+2023,Overall,IR-O-U-0053,Indian Institute of Technology Guwahati,OI (100),58.3,OI
+2023,Overall,IR-O-U-0053,Indian Institute of Technology Guwahati,PERCEPTION (100),42.44,PR
+2023,Overall,IR-O-U-0109,Jawaharlal Nehru University,TLR (100),73.55,TLR
+2023,Overall,IR-O-U-0109,Jawaharlal Nehru University,RPC (100),46.56,RPC
+2023,Overall,IR-O-U-0109,Jawaharlal Nehru University,GO (100),94.89,GO
+2023,Overall,IR-O-U-0109,Jawaharlal Nehru University,OI (100),73.64,OI
+2023,Overall,IR-O-U-0109,Jawaharlal Nehru University,PERCEPTION (100),50.73,PR
+2023,Overall,IR-O-U-0500,Banaras Hindu University,TLR (100),72.77,TLR
+2023,Overall,IR-O-U-0500,Banaras Hindu University,RPC (100),49.18,RPC
+2023,Overall,IR-O-U-0500,Banaras Hindu University,GO (100),99.64,GO
+2023,Overall,IR-O-U-0500,Banaras Hindu University,OI (100),61.5,OI
+2023,Overall,IR-O-U-0500,Banaras Hindu University,PERCEPTION (100),45.43,PR
+2023,Overall,IR-O-U-0108,"Jamia Millia Islamia,New Delhi",TLR (100),69.38,TLR
+2023,Overall,IR-O-U-0108,"Jamia Millia Islamia,New Delhi",RPC (100),49.83,RPC
+2023,Overall,IR-O-U-0108,"Jamia Millia Islamia,New Delhi",GO (100),93.85,GO
+2023,Overall,IR-O-U-0108,"Jamia Millia Islamia,New Delhi",OI (100),83.41,OI
+2023,Overall,IR-O-U-0108,"Jamia Millia Islamia,New Delhi",PERCEPTION (100),26.4,PR
+2023,Overall,IR-O-U-0575,Jadavpur University,TLR (100),67.63,TLR
+2023,Overall,IR-O-U-0575,Jadavpur University,RPC (100),53.66,RPC
+2023,Overall,IR-O-U-0575,Jadavpur University,GO (100),90.61,GO
+2023,Overall,IR-O-U-0575,Jadavpur University,OI (100),56.79,OI
+2023,Overall,IR-O-U-0575,Jadavpur University,PERCEPTION (100),41.08,PR
+2023,Overall,IR-O-U-0013,Indian Institute of Technology Hyderabad,TLR (100),74.38,TLR
+2023,Overall,IR-O-U-0013,Indian Institute of Technology Hyderabad,RPC (100),55.13,RPC
+2023,Overall,IR-O-U-0013,Indian Institute of Technology Hyderabad,GO (100),73.26,GO
+2023,Overall,IR-O-U-0013,Indian Institute of Technology Hyderabad,OI (100),59.03,OI
+2023,Overall,IR-O-U-0013,Indian Institute of Technology Hyderabad,PERCEPTION (100),48.36,PR
+2023,Overall,IR-O-U-0436,Amrita Vishwa Vidyapeetham,TLR (100),73.39,TLR
+2023,Overall,IR-O-U-0436,Amrita Vishwa Vidyapeetham,RPC (100),50.35,RPC
+2023,Overall,IR-O-U-0436,Amrita Vishwa Vidyapeetham,GO (100),73.93,GO
+2023,Overall,IR-O-U-0436,Amrita Vishwa Vidyapeetham,OI (100),72.47,OI
+2023,Overall,IR-O-U-0436,Amrita Vishwa Vidyapeetham,PERCEPTION (100),35.71,PR
+2023,Overall,IR-O-U-0234,Manipal Academy of Higher Education-Manipal,TLR (100),72.87,TLR
+2023,Overall,IR-O-U-0234,Manipal Academy of Higher Education-Manipal,RPC (100),54.02,RPC
+2023,Overall,IR-O-U-0234,Manipal Academy of Higher Education-Manipal,GO (100),77.97,GO
+2023,Overall,IR-O-U-0234,Manipal Academy of Higher Education-Manipal,OI (100),66.1,OI
+2023,Overall,IR-O-U-0234,Manipal Academy of Higher Education-Manipal,PERCEPTION (100),24.39,PR
+2023,Overall,IR-O-U-0490,Vellore Institute of Technology,TLR (100),55.66,TLR
+2023,Overall,IR-O-U-0490,Vellore Institute of Technology,RPC (100),63.59,RPC
+2023,Overall,IR-O-U-0490,Vellore Institute of Technology,GO (100),80.43,GO
+2023,Overall,IR-O-U-0490,Vellore Institute of Technology,OI (100),62.55,OI
+2023,Overall,IR-O-U-0490,Vellore Institute of Technology,PERCEPTION (100),45.71,PR
+2023,Overall,IR-O-U-0439,Anna University,TLR (100),56.24,TLR
+2023,Overall,IR-O-U-0439,Anna University,RPC (100),64.24,RPC
+2023,Overall,IR-O-U-0439,Anna University,GO (100),74.58,GO
+2023,Overall,IR-O-U-0439,Anna University,OI (100),50.29,OI
+2023,Overall,IR-O-U-0439,Anna University,PERCEPTION (100),62.67,PR
+2023,Overall,IR-O-U-0496,Aligarh Muslim University,TLR (100),68.87,TLR
+2023,Overall,IR-O-U-0496,Aligarh Muslim University,RPC (100),46.88,RPC
+2023,Overall,IR-O-U-0496,Aligarh Muslim University,GO (100),94.55,GO
+2023,Overall,IR-O-U-0496,Aligarh Muslim University,OI (100),60.04,OI
+2023,Overall,IR-O-U-0496,Aligarh Muslim University,PERCEPTION (100),26.4,PR
+2023,Overall,IR-O-U-0042,University of Hyderabad,TLR (100),70.46,TLR
+2023,Overall,IR-O-U-0042,University of Hyderabad,RPC (100),44.54,RPC
+2023,Overall,IR-O-U-0042,University of Hyderabad,GO (100),83.27,GO
+2023,Overall,IR-O-U-0042,University of Hyderabad,OI (100),66.58,OI
+2023,Overall,IR-O-U-0042,University of Hyderabad,PERCEPTION (100),26.83,PR
+2023,Overall,IR-O-U-0467,National Institute of Technology Tiruchirappalli,TLR (100),59.68,TLR
+2023,Overall,IR-O-U-0467,National Institute of Technology Tiruchirappalli,RPC (100),48.55,RPC
+2023,Overall,IR-O-U-0467,National Institute of Technology Tiruchirappalli,GO (100),76.18,GO
+2023,Overall,IR-O-U-0467,National Institute of Technology Tiruchirappalli,OI (100),68.33,OI
+2023,Overall,IR-O-U-0467,National Institute of Technology Tiruchirappalli,PERCEPTION (100),58.95,PR
+2023,Overall,IR-O-U-0120,University of Delhi,TLR (100),46.65,TLR
+2023,Overall,IR-O-U-0120,University of Delhi,RPC (100),54.3,RPC
+2023,Overall,IR-O-U-0120,University of Delhi,GO (100),97.84,GO
+2023,Overall,IR-O-U-0120,University of Delhi,OI (100),63.98,OI
+2023,Overall,IR-O-U-0120,University of Delhi,PERCEPTION (100),39.84,PR
+2023,Overall,IR-O-U-0570,Calcutta University,TLR (100),66.11,TLR
+2023,Overall,IR-O-U-0570,Calcutta University,RPC (100),42.3,RPC
+2023,Overall,IR-O-U-0570,Calcutta University,GO (100),97.37,GO
+2023,Overall,IR-O-U-0570,Calcutta University,OI (100),53.01,OI
+2023,Overall,IR-O-U-0570,Calcutta University,PERCEPTION (100),29.33,PR
+2023,Overall,IR-O-U-0139,Indian Institute of Technology Gandhinagar,TLR (100),74.59,TLR
+2023,Overall,IR-O-U-0139,Indian Institute of Technology Gandhinagar,RPC (100),43.13,RPC
+2023,Overall,IR-O-U-0139,Indian Institute of Technology Gandhinagar,GO (100),69.53,GO
+2023,Overall,IR-O-U-0139,Indian Institute of Technology Gandhinagar,OI (100),69.14,OI
+2023,Overall,IR-O-U-0139,Indian Institute of Technology Gandhinagar,PERCEPTION (100),27.47,PR
+2023,Overall,IR-O-U-0391,Birla Institute of Technology & Science -Pilani,TLR (100),61.65,TLR
+2023,Overall,IR-O-U-0391,Birla Institute of Technology & Science -Pilani,RPC (100),56.26,RPC
+2023,Overall,IR-O-U-0391,Birla Institute of Technology & Science -Pilani,GO (100),74.65,GO
+2023,Overall,IR-O-U-0391,Birla Institute of Technology & Science -Pilani,OI (100),59.16,OI
+2023,Overall,IR-O-U-0391,Birla Institute of Technology & Science -Pilani,PERCEPTION (100),25.3,PR
+2023,Overall,IR-O-U-0363,Siksha `O` Anusandhan,TLR (100),69.78,TLR
+2023,Overall,IR-O-U-0363,Siksha `O` Anusandhan,RPC (100),40.1,RPC
+2023,Overall,IR-O-U-0363,Siksha `O` Anusandhan,GO (100),73.26,GO
+2023,Overall,IR-O-U-0363,Siksha `O` Anusandhan,OI (100),73.35,OI
+2023,Overall,IR-O-U-0363,Siksha `O` Anusandhan,PERCEPTION (100),34.11,PR
+2023,Overall,IR-O-I-1441,Saveetha Institute of Medical and Technical Sciences,TLR (100),69.83,TLR
+2023,Overall,IR-O-I-1441,Saveetha Institute of Medical and Technical Sciences,RPC (100),52.18,RPC
+2023,Overall,IR-O-I-1441,Saveetha Institute of Medical and Technical Sciences,GO (100),71.3,GO
+2023,Overall,IR-O-I-1441,Saveetha Institute of Medical and Technical Sciences,OI (100),67.38,OI
+2023,Overall,IR-O-I-1441,Saveetha Institute of Medical and Technical Sciences,PERCEPTION (100),5.37,PR
+2023,Overall,IR-O-U-0273,Indian Institute of Technology Indore,TLR (100),66.36,TLR
+2023,Overall,IR-O-U-0273,Indian Institute of Technology Indore,RPC (100),52.71,RPC
+2023,Overall,IR-O-U-0273,Indian Institute of Technology Indore,GO (100),72.96,GO
+2023,Overall,IR-O-U-0273,Indian Institute of Technology Indore,OI (100),60.81,OI
+2023,Overall,IR-O-U-0273,Indian Institute of Technology Indore,PERCEPTION (100),16.1,PR
+2023,Overall,IR-O-U-0356,Kalinga Institute of Industrial Technology,TLR (100),69.63,TLR
+2023,Overall,IR-O-U-0356,Kalinga Institute of Industrial Technology,RPC (100),38.02,RPC
+2023,Overall,IR-O-U-0356,Kalinga Institute of Industrial Technology,GO (100),78.87,GO
+2023,Overall,IR-O-U-0356,Kalinga Institute of Industrial Technology,OI (100),80.13,OI
+2023,Overall,IR-O-U-0356,Kalinga Institute of Industrial Technology,PERCEPTION (100),14.39,PR
+2023,Overall,IR-O-U-0304,Homi Bhabha National Institute,TLR (100),73.14,TLR
+2023,Overall,IR-O-U-0304,Homi Bhabha National Institute,RPC (100),49.45,RPC
+2023,Overall,IR-O-U-0304,Homi Bhabha National Institute,GO (100),71.36,GO
+2023,Overall,IR-O-U-0304,Homi Bhabha National Institute,OI (100),54.35,OI
+2023,Overall,IR-O-U-0304,Homi Bhabha National Institute,PERCEPTION (100),6.08,PR
+2023,Overall,IR-O-U-0701,Indian Institute of Technology (Banaras Hindu University) Varanasi,TLR (100),54.83,TLR
+2023,Overall,IR-O-U-0701,Indian Institute of Technology (Banaras Hindu University) Varanasi,RPC (100),53.2,RPC
+2023,Overall,IR-O-U-0701,Indian Institute of Technology (Banaras Hindu University) Varanasi,GO (100),75.62,GO
+2023,Overall,IR-O-U-0701,Indian Institute of Technology (Banaras Hindu University) Varanasi,OI (100),57.38,OI
+2023,Overall,IR-O-U-0701,Indian Institute of Technology (Banaras Hindu University) Varanasi,PERCEPTION (100),38.07,PR
+2023,Overall,IR-O-U-0473,S.R.M. Institute of Science and Technology,TLR (100),61.62,TLR
+2023,Overall,IR-O-U-0473,S.R.M. Institute of Science and Technology,RPC (100),47.02,RPC
+2023,Overall,IR-O-U-0473,S.R.M. Institute of Science and Technology,GO (100),74.95,GO
+2023,Overall,IR-O-U-0473,S.R.M. Institute of Science and Technology,OI (100),64.61,OI
+2023,Overall,IR-O-U-0473,S.R.M. Institute of Science and Technology,PERCEPTION (100),23.94,PR
+2023,Overall,IR-O-U-0378,Indian Institute of Technology Ropar,TLR (100),73.68,TLR
+2023,Overall,IR-O-U-0378,Indian Institute of Technology Ropar,RPC (100),38.46,RPC
+2023,Overall,IR-O-U-0378,Indian Institute of Technology Ropar,GO (100),66.67,GO
+2023,Overall,IR-O-U-0378,Indian Institute of Technology Ropar,OI (100),66.44,OI
+2023,Overall,IR-O-U-0378,Indian Institute of Technology Ropar,PERCEPTION (100),25.52,PR
+2023,Overall,IR-O-U-0305,Indian Institute of Science Education & Research Pune,TLR (100),72.45,TLR
+2023,Overall,IR-O-U-0305,Indian Institute of Science Education & Research Pune,RPC (100),43.72,RPC
+2023,Overall,IR-O-U-0305,Indian Institute of Science Education & Research Pune,GO (100),63.27,GO
+2023,Overall,IR-O-U-0305,Indian Institute of Science Education & Research Pune,OI (100),63.57,OI
+2023,Overall,IR-O-U-0305,Indian Institute of Science Education & Research Pune,PERCEPTION (100),21.81,PR
+2023,Overall,IR-O-U-0323,Savitribai Phule Pune University,TLR (100),60.99,TLR
+2023,Overall,IR-O-U-0323,Savitribai Phule Pune University,RPC (100),39.3,RPC
+2023,Overall,IR-O-U-0323,Savitribai Phule Pune University,GO (100),94.63,GO
+2023,Overall,IR-O-U-0323,Savitribai Phule Pune University,OI (100),51.78,OI
+2023,Overall,IR-O-U-0323,Savitribai Phule Pune University,PERCEPTION (100),15.82,PR
+2023,Overall,IR-O-U-0447,Bharathiar University,TLR (100),63.1,TLR
+2023,Overall,IR-O-U-0447,Bharathiar University,RPC (100),43.77,RPC
+2023,Overall,IR-O-U-0447,Bharathiar University,GO (100),78.87,GO
+2023,Overall,IR-O-U-0447,Bharathiar University,OI (100),51.98,OI
+2023,Overall,IR-O-U-0447,Bharathiar University,PERCEPTION (100),25.52,PR
+2023,Overall,IR-O-U-0357,National Institute of Technology Rourkela,TLR (100),59.99,TLR
+2023,Overall,IR-O-U-0357,National Institute of Technology Rourkela,RPC (100),51.67,RPC
+2023,Overall,IR-O-U-0357,National Institute of Technology Rourkela,GO (100),72.69,GO
+2023,Overall,IR-O-U-0357,National Institute of Technology Rourkela,OI (100),60.11,OI
+2023,Overall,IR-O-U-0357,National Institute of Technology Rourkela,PERCEPTION (100),14.68,PR
+2023,Overall,IR-O-U-0237,"National Institute of Technology Karnataka, Surathkal",TLR (100),58.46,TLR
+2023,Overall,IR-O-U-0237,"National Institute of Technology Karnataka, Surathkal",RPC (100),45.25,RPC
+2023,Overall,IR-O-U-0237,"National Institute of Technology Karnataka, Surathkal",GO (100),75.59,GO
+2023,Overall,IR-O-U-0237,"National Institute of Technology Karnataka, Surathkal",OI (100),59.23,OI
+2023,Overall,IR-O-U-0237,"National Institute of Technology Karnataka, Surathkal",PERCEPTION (100),33.2,PR
+2023,Overall,IR-O-U-0368,Jawaharlal Institute of Post Graduate Medical Education & Research,TLR (100),73.6,TLR
+2023,Overall,IR-O-U-0368,Jawaharlal Institute of Post Graduate Medical Education & Research,RPC (100),32.12,RPC
+2023,Overall,IR-O-U-0368,Jawaharlal Institute of Post Graduate Medical Education & Research,GO (100),72.32,GO
+2023,Overall,IR-O-U-0368,Jawaharlal Institute of Post Graduate Medical Education & Research,OI (100),71.51,OI
+2023,Overall,IR-O-U-0368,Jawaharlal Institute of Post Graduate Medical Education & Research,PERCEPTION (100),20.83,PR
+2023,Overall,IR-O-I-1480,Thapar Institute of Engineering and Technology (Deemed-to-be-university),TLR (100),62.01,TLR
+2023,Overall,IR-O-I-1480,Thapar Institute of Engineering and Technology (Deemed-to-be-university),RPC (100),49.73,RPC
+2023,Overall,IR-O-I-1480,Thapar Institute of Engineering and Technology (Deemed-to-be-university),GO (100),72.17,GO
+2023,Overall,IR-O-I-1480,Thapar Institute of Engineering and Technology (Deemed-to-be-university),OI (100),64.05,OI
+2023,Overall,IR-O-I-1480,Thapar Institute of Engineering and Technology (Deemed-to-be-university),PERCEPTION (100),8.15,PR
+2023,Overall,IR-O-U-0308,Institute of Chemical Technology,TLR (100),56.32,TLR
+2023,Overall,IR-O-U-0308,Institute of Chemical Technology,RPC (100),49.6,RPC
+2023,Overall,IR-O-U-0308,Institute of Chemical Technology,GO (100),77.89,GO
+2023,Overall,IR-O-U-0308,Institute of Chemical Technology,OI (100),55.88,OI
+2023,Overall,IR-O-U-0308,Institute of Chemical Technology,PERCEPTION (100),15.82,PR
+2023,Overall,IR-O-U-0205,Indian Institute of Technology (Indian School of Mines),TLR (100),52.5,TLR
+2023,Overall,IR-O-U-0205,Indian Institute of Technology (Indian School of Mines),RPC (100),54.93,RPC
+2023,Overall,IR-O-U-0205,Indian Institute of Technology (Indian School of Mines),GO (100),69.0,GO
+2023,Overall,IR-O-U-0205,Indian Institute of Technology (Indian School of Mines),OI (100),58.02,OI
+2023,Overall,IR-O-U-0205,Indian Institute of Technology (Indian School of Mines),PERCEPTION (100),20.33,PR
+2023,Overall,IR-O-U-0572,Indian Institute of Science Education & Research Kolkata,TLR (100),68.17,TLR
+2023,Overall,IR-O-U-0572,Indian Institute of Science Education & Research Kolkata,RPC (100),41.0,RPC
+2023,Overall,IR-O-U-0572,Indian Institute of Science Education & Research Kolkata,GO (100),70.16,GO
+2023,Overall,IR-O-U-0572,Indian Institute of Science Education & Research Kolkata,OI (100),55.58,OI
+2023,Overall,IR-O-U-0572,Indian Institute of Science Education & Research Kolkata,PERCEPTION (100),13.81,PR
+2023,Overall,IR-O-U-0078,Panjab University,TLR (100),51.09,TLR
+2023,Overall,IR-O-U-0078,Panjab University,RPC (100),46.65,RPC
+2023,Overall,IR-O-U-0078,Panjab University,GO (100),75.77,GO
+2023,Overall,IR-O-U-0078,Panjab University,OI (100),59.92,OI
+2023,Overall,IR-O-U-0078,Panjab University,PERCEPTION (100),28.52,PR
+2023,Overall,IR-O-U-0747,Chandigarh University,TLR (100),63.55,TLR
+2023,Overall,IR-O-U-0747,Chandigarh University,RPC (100),25.22,RPC
+2023,Overall,IR-O-U-0747,Chandigarh University,GO (100),75.62,GO
+2023,Overall,IR-O-U-0747,Chandigarh University,OI (100),80.27,OI
+2023,Overall,IR-O-U-0747,Chandigarh University,PERCEPTION (100),35.18,PR
+2023,Overall,IR-O-U-0379,Lovely Professional University,TLR (100),55.92,TLR
+2023,Overall,IR-O-U-0379,Lovely Professional University,RPC (100),44.38,RPC
+2023,Overall,IR-O-U-0379,Lovely Professional University,GO (100),66.06,GO
+2023,Overall,IR-O-U-0379,Lovely Professional University,OI (100),68.34,OI
+2023,Overall,IR-O-U-0379,Lovely Professional University,PERCEPTION (100),30.92,PR
+2023,Overall,IR-O-U-0260,Kerala University,TLR (100),66.66,TLR
+2023,Overall,IR-O-U-0260,Kerala University,RPC (100),22.8,RPC
+2023,Overall,IR-O-U-0260,Kerala University,GO (100),96.02,GO
+2023,Overall,IR-O-U-0260,Kerala University,OI (100),58.87,OI
+2023,Overall,IR-O-U-0260,Kerala University,PERCEPTION (100),8.15,PR
+2023,Overall,IR-O-U-0458,Kalasalingam Academy of Research and Education,TLR (100),62.66,TLR
+2023,Overall,IR-O-U-0458,Kalasalingam Academy of Research and Education,RPC (100),30.87,RPC
+2023,Overall,IR-O-U-0458,Kalasalingam Academy of Research and Education,GO (100),74.68,GO
+2023,Overall,IR-O-U-0458,Kalasalingam Academy of Research and Education,OI (100),76.42,OI
+2023,Overall,IR-O-U-0458,Kalasalingam Academy of Research and Education,PERCEPTION (100),18.79,PR
+2023,Overall,IR-O-U-0476,Shanmugha Arts Science Technology & Research Academy,TLR (100),63.88,TLR
+2023,Overall,IR-O-U-0476,Shanmugha Arts Science Technology & Research Academy,RPC (100),40.86,RPC
+2023,Overall,IR-O-U-0476,Shanmugha Arts Science Technology & Research Academy,GO (100),68.45,GO
+2023,Overall,IR-O-U-0476,Shanmugha Arts Science Technology & Research Academy,OI (100),59.4,OI
+2023,Overall,IR-O-U-0476,Shanmugha Arts Science Technology & Research Academy,PERCEPTION (100),9.48,PR
+2023,Overall,IR-O-U-0020,Koneru Lakshmaiah Education Foundation University (K L College of Engineering),TLR (100),62.02,TLR
+2023,Overall,IR-O-U-0020,Koneru Lakshmaiah Education Foundation University (K L College of Engineering),RPC (100),40.74,RPC
+2023,Overall,IR-O-U-0020,Koneru Lakshmaiah Education Foundation University (K L College of Engineering),GO (100),69.49,GO
+2023,Overall,IR-O-U-0020,Koneru Lakshmaiah Education Foundation University (K L College of Engineering),OI (100),57.63,OI
+2023,Overall,IR-O-U-0020,Koneru Lakshmaiah Education Foundation University (K L College of Engineering),PERCEPTION (100),14.68,PR
+2023,Overall,IR-O-U-0377,"Indian Institute of Science Education & Research, Mohali",TLR (100),63.52,TLR
+2023,Overall,IR-O-U-0377,"Indian Institute of Science Education & Research, Mohali",RPC (100),33.6,RPC
+2023,Overall,IR-O-U-0377,"Indian Institute of Science Education & Research, Mohali",GO (100),68.58,GO
+2023,Overall,IR-O-U-0377,"Indian Institute of Science Education & Research, Mohali",OI (100),72.34,OI
+2023,Overall,IR-O-U-0377,"Indian Institute of Science Education & Research, Mohali",PERCEPTION (100),17.73,PR
+2023,Overall,IR-O-U-0262,"Mahatma Gandhi University, Kottayam",TLR (100),65.63,TLR
+2023,Overall,IR-O-U-0262,"Mahatma Gandhi University, Kottayam",RPC (100),38.86,RPC
+2023,Overall,IR-O-U-0262,"Mahatma Gandhi University, Kottayam",GO (100),73.44,GO
+2023,Overall,IR-O-U-0262,"Mahatma Gandhi University, Kottayam",OI (100),51.23,OI
+2023,Overall,IR-O-U-0262,"Mahatma Gandhi University, Kottayam",PERCEPTION (100),6.78,PR
+2023,Overall,IR-O-U-0025,National Institute of Technology Warangal,TLR (100),57.69,TLR
+2023,Overall,IR-O-U-0025,National Institute of Technology Warangal,RPC (100),39.42,RPC
+2023,Overall,IR-O-U-0025,National Institute of Technology Warangal,GO (100),73.79,GO
+2023,Overall,IR-O-U-0025,National Institute of Technology Warangal,OI (100),58.99,OI
+2023,Overall,IR-O-U-0025,National Institute of Technology Warangal,PERCEPTION (100),20.33,PR
+2023,Overall,IR-O-U-0263,National Institute of Technology Calicut,TLR (100),61.05,TLR
+2023,Overall,IR-O-U-0263,National Institute of Technology Calicut,RPC (100),33.04,RPC
+2023,Overall,IR-O-U-0263,National Institute of Technology Calicut,GO (100),73.62,GO
+2023,Overall,IR-O-U-0263,National Institute of Technology Calicut,OI (100),69.11,OI
+2023,Overall,IR-O-U-0263,National Institute of Technology Calicut,PERCEPTION (100),17.73,PR
+2023,Overall,IR-O-U-0222,JSS Academy of Higher Education and Research,TLR (100),68.52,TLR
+2023,Overall,IR-O-U-0222,JSS Academy of Higher Education and Research,RPC (100),23.47,RPC
+2023,Overall,IR-O-U-0222,JSS Academy of Higher Education and Research,GO (100),69.35,GO
+2023,Overall,IR-O-U-0222,JSS Academy of Higher Education and Research,OI (100),74.68,OI
+2023,Overall,IR-O-U-0222,JSS Academy of Higher Education and Research,PERCEPTION (100),22.05,PR
+2023,Overall,IR-O-U-0435,Alagappa University,TLR (100),61.51,TLR
+2023,Overall,IR-O-U-0435,Alagappa University,RPC (100),36.63,RPC
+2023,Overall,IR-O-U-0435,Alagappa University,GO (100),73.97,GO
+2023,Overall,IR-O-U-0435,Alagappa University,OI (100),52.13,OI
+2023,Overall,IR-O-U-0435,Alagappa University,PERCEPTION (100),15.54,PR
+2023,Overall,IR-O-U-0497,Amity University,TLR (100),47.8,TLR
+2023,Overall,IR-O-U-0497,Amity University,RPC (100),47.16,RPC
+2023,Overall,IR-O-U-0497,Amity University,GO (100),71.25,GO
+2023,Overall,IR-O-U-0497,Amity University,OI (100),64.65,OI
+2023,Overall,IR-O-U-0497,Amity University,PERCEPTION (100),16.65,PR
+2023,Overall,IR-O-U-0196,University of Kashmir,TLR (100),70.64,TLR
+2023,Overall,IR-O-U-0196,University of Kashmir,RPC (100),26.93,RPC
+2023,Overall,IR-O-U-0196,University of Kashmir,GO (100),79.58,GO
+2023,Overall,IR-O-U-0196,University of Kashmir,OI (100),53.05,OI
+2023,Overall,IR-O-U-0196,University of Kashmir,PERCEPTION (100),2.77,PR
+2023,Overall,IR-O-U-0329,Symbiosis International,TLR (100),67.62,TLR
+2023,Overall,IR-O-U-0329,Symbiosis International,RPC (100),22.91,RPC
+2023,Overall,IR-O-U-0329,Symbiosis International,GO (100),77.78,GO
+2023,Overall,IR-O-U-0329,Symbiosis International,OI (100),63.18,OI
+2023,Overall,IR-O-U-0329,Symbiosis International,PERCEPTION (100),15.54,PR
+2023,Overall,IR-O-U-0272,Indian Institute of Science Education & Research Bhopal,TLR (100),69.05,TLR
+2023,Overall,IR-O-U-0272,Indian Institute of Science Education & Research Bhopal,RPC (100),31.54,RPC
+2023,Overall,IR-O-U-0272,Indian Institute of Science Education & Research Bhopal,GO (100),63.8,GO
+2023,Overall,IR-O-U-0272,Indian Institute of Science Education & Research Bhopal,OI (100),68.33,OI
+2023,Overall,IR-O-U-0272,Indian Institute of Science Education & Research Bhopal,PERCEPTION (100),8.15,PR
+2023,Overall,IR-O-U-0098,Delhi Technological University,TLR (100),59.19,TLR
+2023,Overall,IR-O-U-0098,Delhi Technological University,RPC (100),35.77,RPC
+2023,Overall,IR-O-U-0098,Delhi Technological University,GO (100),66.39,GO
+2023,Overall,IR-O-U-0098,Delhi Technological University,OI (100),59.17,OI
+2023,Overall,IR-O-U-0098,Delhi Technological University,PERCEPTION (100),28.52,PR
+2023,Overall,IR-O-U-0410,Malaviya National Institute of Technology,TLR (100),54.44,TLR
+2023,Overall,IR-O-U-0410,Malaviya National Institute of Technology,RPC (100),42.78,RPC
+2023,Overall,IR-O-U-0410,Malaviya National Institute of Technology,GO (100),70.67,GO
+2023,Overall,IR-O-U-0410,Malaviya National Institute of Technology,OI (100),60.93,OI
+2023,Overall,IR-O-U-0410,Malaviya National Institute of Technology,PERCEPTION (100),9.8,PR
+2023,Overall,IR-O-U-0253,Cochin University of Science and Technology,TLR (100),62.4,TLR
+2023,Overall,IR-O-U-0253,Cochin University of Science and Technology,RPC (100),34.36,RPC
+2023,Overall,IR-O-U-0253,Cochin University of Science and Technology,GO (100),73.79,GO
+2023,Overall,IR-O-U-0253,Cochin University of Science and Technology,OI (100),51.74,OI
+2023,Overall,IR-O-U-0253,Cochin University of Science and Technology,PERCEPTION (100),13.81,PR
+2023,Overall,IR-O-U-0027,Osmania University,TLR (100),58.74,TLR
+2023,Overall,IR-O-U-0027,Osmania University,RPC (100),31.24,RPC
+2023,Overall,IR-O-U-0027,Osmania University,GO (100),81.26,GO
+2023,Overall,IR-O-U-0027,Osmania University,OI (100),57.91,OI
+2023,Overall,IR-O-U-0027,Osmania University,PERCEPTION (100),9.15,PR
+2023,Overall,IR-O-I-1357,University of Madras,TLR (100),64.74,TLR
+2023,Overall,IR-O-I-1357,University of Madras,RPC (100),32.9,RPC
+2023,Overall,IR-O-I-1357,University of Madras,GO (100),69.4,GO
+2023,Overall,IR-O-I-1357,University of Madras,OI (100),53.23,OI
+2023,Overall,IR-O-I-1357,University of Madras,PERCEPTION (100),14.39,PR
+2023,Overall,IR-O-U-0584,"Indian Institute of Engineering Science and Technology, Shibpur",TLR (100),53.57,TLR
+2023,Overall,IR-O-U-0584,"Indian Institute of Engineering Science and Technology, Shibpur",RPC (100),38.83,RPC
+2023,Overall,IR-O-U-0584,"Indian Institute of Engineering Science and Technology, Shibpur",GO (100),70.43,GO
+2023,Overall,IR-O-U-0584,"Indian Institute of Engineering Science and Technology, Shibpur",OI (100),58.7,OI
+2023,Overall,IR-O-U-0584,"Indian Institute of Engineering Science and Technology, Shibpur",PERCEPTION (100),21.07,PR
+2023,Overall,IR-O-U-0395,Indian Institute of Technology Jodhpur,TLR (100),66.08,TLR
+2023,Overall,IR-O-U-0395,Indian Institute of Technology Jodhpur,RPC (100),31.56,RPC
+2023,Overall,IR-O-U-0395,Indian Institute of Technology Jodhpur,GO (100),64.6,GO
+2023,Overall,IR-O-U-0395,Indian Institute of Technology Jodhpur,OI (100),66.66,OI
+2023,Overall,IR-O-U-0395,Indian Institute of Technology Jodhpur,PERCEPTION (100),9.15,PR
+2023,Overall,IR-O-U-0064,Indian Institute of Technology Patna,TLR (100),52.66,TLR
+2023,Overall,IR-O-U-0064,Indian Institute of Technology Patna,RPC (100),42.86,RPC
+2023,Overall,IR-O-U-0064,Indian Institute of Technology Patna,GO (100),70.65,GO
+2023,Overall,IR-O-U-0064,Indian Institute of Technology Patna,OI (100),57.06,OI
+2023,Overall,IR-O-U-0064,Indian Institute of Technology Patna,PERCEPTION (100),12.92,PR
+2023,Overall,IR-O-U-0498,Babasheb Bhimrao Ambedkar University,TLR (100),59.83,TLR
+2023,Overall,IR-O-U-0498,Babasheb Bhimrao Ambedkar University,RPC (100),24.29,RPC
+2023,Overall,IR-O-U-0498,Babasheb Bhimrao Ambedkar University,GO (100),82.07,GO
+2023,Overall,IR-O-U-0498,Babasheb Bhimrao Ambedkar University,OI (100),76.83,OI
+2023,Overall,IR-O-U-0498,Babasheb Bhimrao Ambedkar University,PERCEPTION (100),2.0,PR
+2023,Overall,IR-O-U-0448,Bharathidasan University,TLR (100),57.54,TLR
+2023,Overall,IR-O-U-0448,Bharathidasan University,RPC (100),36.39,RPC
+2023,Overall,IR-O-U-0448,Bharathidasan University,GO (100),74.18,GO
+2023,Overall,IR-O-U-0448,Bharathidasan University,OI (100),52.05,OI
+2023,Overall,IR-O-U-0448,Bharathidasan University,PERCEPTION (100),12.31,PR
+2023,Overall,IR-O-U-0235,Mysore University,TLR (100),67.43,TLR
+2023,Overall,IR-O-U-0235,Mysore University,RPC (100),18.61,RPC
+2023,Overall,IR-O-U-0235,Mysore University,GO (100),87.02,GO
+2023,Overall,IR-O-U-0235,Mysore University,OI (100),54.62,OI
+2023,Overall,IR-O-U-0235,Mysore University,PERCEPTION (100),5.01,PR
+2023,Overall,IR-O-U-0374,"Dr. B R Ambedkar National Institute of Technology, Jalandhar",TLR (100),57.76,TLR
+2023,Overall,IR-O-U-0374,"Dr. B R Ambedkar National Institute of Technology, Jalandhar",RPC (100),30.74,RPC
+2023,Overall,IR-O-U-0374,"Dr. B R Ambedkar National Institute of Technology, Jalandhar",GO (100),67.91,GO
+2023,Overall,IR-O-U-0374,"Dr. B R Ambedkar National Institute of Technology, Jalandhar",OI (100),66.08,OI
+2023,Overall,IR-O-U-0374,"Dr. B R Ambedkar National Institute of Technology, Jalandhar",PERCEPTION (100),23.0,PR
+2023,Overall,IR-O-U-0184,Indian Institute of Technology Mandi,TLR (100),56.69,TLR
+2023,Overall,IR-O-U-0184,Indian Institute of Technology Mandi,RPC (100),37.36,RPC
+2023,Overall,IR-O-U-0184,Indian Institute of Technology Mandi,GO (100),63.04,GO
+2023,Overall,IR-O-U-0184,Indian Institute of Technology Mandi,OI (100),67.59,OI
+2023,Overall,IR-O-U-0184,Indian Institute of Technology Mandi,PERCEPTION (100),14.39,PR
+2023,Overall,IR-O-U-0381,"Punjab Agricultural University, Ludhiana",TLR (100),70.53,TLR
+2023,Overall,IR-O-U-0381,"Punjab Agricultural University, Ludhiana",RPC (100),28.29,RPC
+2023,Overall,IR-O-U-0381,"Punjab Agricultural University, Ludhiana",GO (100),67.48,GO
+2023,Overall,IR-O-U-0381,"Punjab Agricultural University, Ludhiana",OI (100),50.37,OI
+2023,Overall,IR-O-U-0381,"Punjab Agricultural University, Ludhiana",PERCEPTION (100),7.82,PR
+2023,Overall,IR-O-U-0295,Datta Meghe Institute of Higher Education and Research,TLR (100),67.16,TLR
+2023,Overall,IR-O-U-0295,Datta Meghe Institute of Higher Education and Research,RPC (100),32.85,RPC
+2023,Overall,IR-O-U-0295,Datta Meghe Institute of Higher Education and Research,GO (100),62.14,GO
+2023,Overall,IR-O-U-0295,Datta Meghe Institute of Higher Education and Research,OI (100),64.76,OI
+2023,Overall,IR-O-U-0295,Datta Meghe Institute of Higher Education and Research,PERCEPTION (100),0.0,PR
+2023,Overall,IR-O-U-0006,"Andhra University, Visakhapatnam",TLR (100),54.39,TLR
+2023,Overall,IR-O-U-0006,"Andhra University, Visakhapatnam",RPC (100),25.74,RPC
+2023,Overall,IR-O-U-0006,"Andhra University, Visakhapatnam",GO (100),84.77,GO
+2023,Overall,IR-O-U-0006,"Andhra University, Visakhapatnam",OI (100),58.63,OI
+2023,Overall,IR-O-U-0006,"Andhra University, Visakhapatnam",PERCEPTION (100),16.92,PR
+2023,Overall,IR-O-U-0523,King George`s Medical University,TLR (100),70.83,TLR
+2023,Overall,IR-O-U-0523,King George`s Medical University,RPC (100),26.63,RPC
+2023,Overall,IR-O-U-0523,King George`s Medical University,GO (100),63.34,GO
+2023,Overall,IR-O-U-0523,King George`s Medical University,OI (100),56.64,OI
+2023,Overall,IR-O-U-0523,King George`s Medical University,PERCEPTION (100),9.48,PR
+2023,Overall,IR-O-U-0107,Jamia Hamdard,TLR (100),56.02,TLR
+2023,Overall,IR-O-U-0107,Jamia Hamdard,RPC (100),32.49,RPC
+2023,Overall,IR-O-U-0107,Jamia Hamdard,GO (100),70.37,GO
+2023,Overall,IR-O-U-0107,Jamia Hamdard,OI (100),66.02,OI
+2023,Overall,IR-O-U-0107,Jamia Hamdard,PERCEPTION (100),11.7,PR
+2023,Overall,IR-O-U-0564,UPES,TLR (100),58.19,TLR
+2023,Overall,IR-O-U-0564,UPES,RPC (100),28.69,RPC
+2023,Overall,IR-O-U-0564,UPES,GO (100),60.55,GO
+2023,Overall,IR-O-U-0564,UPES,OI (100),67.05,OI
+2023,Overall,IR-O-U-0564,UPES,PERCEPTION (100),34.47,PR
+2023,Overall,IR-O-C-16604,Sri Sivasubramaniya Nadar College of Engineering,TLR (100),57.79,TLR
+2023,Overall,IR-O-C-16604,Sri Sivasubramaniya Nadar College of Engineering,RPC (100),37.02,RPC
+2023,Overall,IR-O-C-16604,Sri Sivasubramaniya Nadar College of Engineering,GO (100),67.61,GO
+2023,Overall,IR-O-C-16604,Sri Sivasubramaniya Nadar College of Engineering,OI (100),53.63,OI
+2023,Overall,IR-O-C-16604,Sri Sivasubramaniya Nadar College of Engineering,PERCEPTION (100),8.49,PR
+2023,Overall,IR-O-I-1110,Dr. D. Y. Patil Vidyapeeth,TLR (100),70.64,TLR
+2023,Overall,IR-O-I-1110,Dr. D. Y. Patil Vidyapeeth,RPC (100),20.55,RPC
+2023,Overall,IR-O-I-1110,Dr. D. Y. Patil Vidyapeeth,GO (100),63.6,GO
+2023,Overall,IR-O-I-1110,Dr. D. Y. Patil Vidyapeeth,OI (100),62.36,OI
+2023,Overall,IR-O-I-1110,Dr. D. Y. Patil Vidyapeeth,PERCEPTION (100),18.53,PR
+2023,Overall,IR-O-U-0334,"Visvesvaraya National Institute of Technology, Nagpur",TLR (100),53.93,TLR
+2023,Overall,IR-O-U-0334,"Visvesvaraya National Institute of Technology, Nagpur",RPC (100),39.03,RPC
+2023,Overall,IR-O-U-0334,"Visvesvaraya National Institute of Technology, Nagpur",GO (100),68.88,GO
+2023,Overall,IR-O-U-0334,"Visvesvaraya National Institute of Technology, Nagpur",OI (100),55.67,OI
+2023,Overall,IR-O-U-0334,"Visvesvaraya National Institute of Technology, Nagpur",PERCEPTION (100),9.15,PR
+2023,Overall,IR-O-U-0055,National Institute of Technology Silchar,TLR (100),51.36,TLR
+2023,Overall,IR-O-U-0055,National Institute of Technology Silchar,RPC (100),42.81,RPC
+2023,Overall,IR-O-U-0055,National Institute of Technology Silchar,GO (100),68.84,GO
+2023,Overall,IR-O-U-0055,National Institute of Technology Silchar,OI (100),54.16,OI
+2023,Overall,IR-O-U-0055,National Institute of Technology Silchar,PERCEPTION (100),6.78,PR
+2023,Overall,IR-O-U-0474,Sathyabama Institute of Science and Technology,TLR (100),53.39,TLR
+2023,Overall,IR-O-U-0474,Sathyabama Institute of Science and Technology,RPC (100),35.72,RPC
+2023,Overall,IR-O-U-0474,Sathyabama Institute of Science and Technology,GO (100),64.67,GO
+2023,Overall,IR-O-U-0474,Sathyabama Institute of Science and Technology,OI (100),66.38,OI
+2023,Overall,IR-O-U-0474,Sathyabama Institute of Science and Technology,PERCEPTION (100),16.38,PR
+2023,Overall,IR-O-U-0136,Gujarat University,TLR (100),64.84,TLR
+2023,Overall,IR-O-U-0136,Gujarat University,RPC (100),18.62,RPC
+2023,Overall,IR-O-U-0136,Gujarat University,GO (100),83.31,GO
+2023,Overall,IR-O-U-0136,Gujarat University,OI (100),59.33,OI
+2023,Overall,IR-O-U-0136,Gujarat University,PERCEPTION (100),2.77,PR
+2023,Overall,IR-O-U-0691,"All India Institute of Medical Sciences, Rishikesh",TLR (100),70.55,TLR
+2023,Overall,IR-O-U-0691,"All India Institute of Medical Sciences, Rishikesh",RPC (100),29.68,RPC
+2023,Overall,IR-O-U-0691,"All India Institute of Medical Sciences, Rishikesh",GO (100),49.57,GO
+2023,Overall,IR-O-U-0691,"All India Institute of Medical Sciences, Rishikesh",OI (100),69.59,OI
+2023,Overall,IR-O-U-0691,"All India Institute of Medical Sciences, Rishikesh",PERCEPTION (100),9.48,PR
+2023,Overall,IR-O-U-0376,Guru Nanak Dev University,TLR (100),54.75,TLR
+2023,Overall,IR-O-U-0376,Guru Nanak Dev University,RPC (100),27.23,RPC
+2023,Overall,IR-O-U-0376,Guru Nanak Dev University,GO (100),77.53,GO
+2023,Overall,IR-O-U-0376,Guru Nanak Dev University,OI (100),62.47,OI
+2023,Overall,IR-O-U-0376,Guru Nanak Dev University,PERCEPTION (100),12.01,PR
+2023,Overall,IR-O-N-10,SVKM`s Narsee Monjee Institute of Management Studies,TLR (100),70.37,TLR
+2023,Overall,IR-O-N-10,SVKM`s Narsee Monjee Institute of Management Studies,RPC (100),21.34,RPC
+2023,Overall,IR-O-N-10,SVKM`s Narsee Monjee Institute of Management Studies,GO (100),64.97,GO
+2023,Overall,IR-O-N-10,SVKM`s Narsee Monjee Institute of Management Studies,OI (100),64.61,OI
+2023,Overall,IR-O-N-10,SVKM`s Narsee Monjee Institute of Management Studies,PERCEPTION (100),5.01,PR
+2023,Overall,IR-O-U-0555,Graphic Era University,TLR (100),57.45,TLR
+2023,Overall,IR-O-U-0555,Graphic Era University,RPC (100),22.95,RPC
+2023,Overall,IR-O-U-0555,Graphic Era University,GO (100),64.11,GO
+2023,Overall,IR-O-U-0555,Graphic Era University,OI (100),69.99,OI
+2023,Overall,IR-O-U-0555,Graphic Era University,PERCEPTION (100),33.38,PR
+2023,Overall,IR-O-U-0577,National Institute of Technology Durgapur,TLR (100),51.12,TLR
+2023,Overall,IR-O-U-0577,National Institute of Technology Durgapur,RPC (100),34.57,RPC
+2023,Overall,IR-O-U-0577,National Institute of Technology Durgapur,GO (100),72.25,GO
+2023,Overall,IR-O-U-0577,National Institute of Technology Durgapur,OI (100),56.11,OI
+2023,Overall,IR-O-U-0577,National Institute of Technology Durgapur,PERCEPTION (100),10.45,PR
+2023,Overall,IR-O-U-0355,Indian Institute of Technology Bhubaneswar,TLR (100),47.35,TLR
+2023,Overall,IR-O-U-0355,Indian Institute of Technology Bhubaneswar,RPC (100),37.34,RPC
+2023,Overall,IR-O-U-0355,Indian Institute of Technology Bhubaneswar,GO (100),67.86,GO
+2023,Overall,IR-O-U-0355,Indian Institute of Technology Bhubaneswar,OI (100),58.25,OI
+2023,Overall,IR-O-U-0355,Indian Institute of Technology Bhubaneswar,PERCEPTION (100),19.31,PR
+2023,Overall,IR-O-U-0249,Visvesvaraya Technological University,TLR (100),58.85,TLR
+2023,Overall,IR-O-U-0249,Visvesvaraya Technological University,RPC (100),34.69,RPC
+2023,Overall,IR-O-U-0249,Visvesvaraya Technological University,GO (100),61.46,GO
+2023,Overall,IR-O-U-0249,Visvesvaraya Technological University,OI (100),57.77,OI
+2023,Overall,IR-O-U-0249,Visvesvaraya Technological University,PERCEPTION (100),3.53,PR
+2023,Overall,IR-O-U-0485,Tamil Nadu Agricultural University,TLR (100),71.27,TLR
+2023,Overall,IR-O-U-0485,Tamil Nadu Agricultural University,RPC (100),14.78,RPC
+2023,Overall,IR-O-U-0485,Tamil Nadu Agricultural University,GO (100),69.8,GO
+2023,Overall,IR-O-U-0485,Tamil Nadu Agricultural University,OI (100),55.16,OI
+2023,Overall,IR-O-U-0485,Tamil Nadu Agricultural University,PERCEPTION (100),10.45,PR
+2023,Overall,IR-O-U-0463,Madurai Kamaraj University,TLR (100),63.47,TLR
+2023,Overall,IR-O-U-0463,Madurai Kamaraj University,RPC (100),24.45,RPC
+2023,Overall,IR-O-U-0463,Madurai Kamaraj University,GO (100),68.37,GO
+2023,Overall,IR-O-U-0463,Madurai Kamaraj University,OI (100),51.8,OI
+2023,Overall,IR-O-U-0463,Madurai Kamaraj University,PERCEPTION (100),10.45,PR
+2023,Overall,IR-O-U-0642,Shiv Nadar University,TLR (100),65.26,TLR
+2023,Overall,IR-O-U-0642,Shiv Nadar University,RPC (100),24.23,RPC
+2023,Overall,IR-O-U-0642,Shiv Nadar University,GO (100),59.23,GO
+2023,Overall,IR-O-U-0642,Shiv Nadar University,OI (100),65.34,OI
+2023,Overall,IR-O-U-0642,Shiv Nadar University,PERCEPTION (100),9.48,PR
+2023,Overall,IR-O-U-0318,Mumbai University,TLR (100),56.15,TLR
+2023,Overall,IR-O-U-0318,Mumbai University,RPC (100),17.82,RPC
+2023,Overall,IR-O-U-0318,Mumbai University,GO (100),86.24,GO
+2023,Overall,IR-O-U-0318,Mumbai University,OI (100),56.27,OI
+2023,Overall,IR-O-U-0318,Mumbai University,PERCEPTION (100),7.82,PR
+2023,Overall,IR-O-U-0389,Banasthali Vidyapith,TLR (100),50.45,TLR
+2023,Overall,IR-O-U-0389,Banasthali Vidyapith,RPC (100),17.72,RPC
+2023,Overall,IR-O-U-0389,Banasthali Vidyapith,GO (100),84.22,GO
+2023,Overall,IR-O-U-0389,Banasthali Vidyapith,OI (100),77.31,OI
+2023,Overall,IR-O-U-0389,Banasthali Vidyapith,PERCEPTION (100),8.15,PR
+2023,Overall,IR-O-I-1486,Sri Ramachandra Institute of Higher Education and Research,TLR (100),68.85,TLR
+2023,Overall,IR-O-I-1486,Sri Ramachandra Institute of Higher Education and Research,RPC (100),18.53,RPC
+2023,Overall,IR-O-I-1486,Sri Ramachandra Institute of Higher Education and Research,GO (100),62.74,GO
+2023,Overall,IR-O-I-1486,Sri Ramachandra Institute of Higher Education and Research,OI (100),62.9,OI
+2023,Overall,IR-O-I-1486,Sri Ramachandra Institute of Higher Education and Research,PERCEPTION (100),7.82,PR
+2023,Overall,IR-O-S-8972,Indian Institute of Management Calcutta,TLR (100),60.63,TLR
+2023,Overall,IR-O-S-8972,Indian Institute of Management Calcutta,RPC (100),14.58,RPC
+2023,Overall,IR-O-S-8972,Indian Institute of Management Calcutta,GO (100),63.6,GO
+2023,Overall,IR-O-S-8972,Indian Institute of Management Calcutta,OI (100),66.22,OI
+2023,Overall,IR-O-S-8972,Indian Institute of Management Calcutta,PERCEPTION (100),38.4,PR
+2023,Overall,IR-O-U-0217,Christ University,TLR (100),52.14,TLR
+2023,Overall,IR-O-U-0217,Christ University,RPC (100),18.96,RPC
+2023,Overall,IR-O-U-0217,Christ University,GO (100),67.2,GO
+2023,Overall,IR-O-U-0217,Christ University,OI (100),69.84,OI
+2023,Overall,IR-O-U-0217,Christ University,PERCEPTION (100),39.05,PR

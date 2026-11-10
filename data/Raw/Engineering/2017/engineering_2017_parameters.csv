@@ -1,0 +1,501 @@
+year,category,institute_id,institute_name,parameter_name,parameter_score,canonical_parameter
+2017,Engineering,IR17-ENGG-1-1-77,Indian Institute of Technology Madras,TLR (100),91.85,TLR
+2017,Engineering,IR17-ENGG-1-1-77,Indian Institute of Technology Madras,RPC (100),92.6,RPC
+2017,Engineering,IR17-ENGG-1-1-77,Indian Institute of Technology Madras,GO (100),83.78,GO
+2017,Engineering,IR17-ENGG-1-1-77,Indian Institute of Technology Madras,OI (100),77.19,OI
+2017,Engineering,IR17-ENGG-1-1-77,Indian Institute of Technology Madras,PERCEPTION (100),81.46,PR
+2017,Engineering,IR17-ENGG-2-18633,Indian Institute of Technology Bombay,TLR (100),91.15,TLR
+2017,Engineering,IR17-ENGG-2-18633,Indian Institute of Technology Bombay,RPC (100),94.68,RPC
+2017,Engineering,IR17-ENGG-2-18633,Indian Institute of Technology Bombay,GO (100),83.64,GO
+2017,Engineering,IR17-ENGG-2-18633,Indian Institute of Technology Bombay,OI (100),69.7,OI
+2017,Engineering,IR17-ENGG-2-18633,Indian Institute of Technology Bombay,PERCEPTION (100),84.24,PR
+2017,Engineering,IR17-ENGG-2-18630,Indian Institute of Technology Kharagpur,TLR (100),76.03,TLR
+2017,Engineering,IR17-ENGG-2-18630,Indian Institute of Technology Kharagpur,RPC (100),89.23,RPC
+2017,Engineering,IR17-ENGG-2-18630,Indian Institute of Technology Kharagpur,GO (100),88.02,GO
+2017,Engineering,IR17-ENGG-2-18630,Indian Institute of Technology Kharagpur,OI (100),74.11,OI
+2017,Engineering,IR17-ENGG-2-18630,Indian Institute of Technology Kharagpur,PERCEPTION (100),73.43,PR
+2017,Engineering,IR17-ENGG-2-1-79,Indian Institute of Technology Delhi,TLR (100),79.63,TLR
+2017,Engineering,IR17-ENGG-2-1-79,Indian Institute of Technology Delhi,RPC (100),89.47,RPC
+2017,Engineering,IR17-ENGG-2-1-79,Indian Institute of Technology Delhi,GO (100),77.45,GO
+2017,Engineering,IR17-ENGG-2-1-79,Indian Institute of Technology Delhi,OI (100),71.41,OI
+2017,Engineering,IR17-ENGG-2-1-79,Indian Institute of Technology Delhi,PERCEPTION (100),77.24,PR
+2017,Engineering,IR17-ENGG-2-18248,Indian Institute of Technology Kanpur,TLR (100),84.28,TLR
+2017,Engineering,IR17-ENGG-2-18248,Indian Institute of Technology Kanpur,RPC (100),77.28,RPC
+2017,Engineering,IR17-ENGG-2-18248,Indian Institute of Technology Kanpur,GO (100),74.29,GO
+2017,Engineering,IR17-ENGG-2-18248,Indian Institute of Technology Kanpur,OI (100),61.35,OI
+2017,Engineering,IR17-ENGG-2-18248,Indian Institute of Technology Kanpur,PERCEPTION (100),73.59,PR
+2017,Engineering,IR17-ENGG-2-18677,Indian Institute of Technology Roorkee,TLR (100),72.3,TLR
+2017,Engineering,IR17-ENGG-2-18677,Indian Institute of Technology Roorkee,RPC (100),74.36,RPC
+2017,Engineering,IR17-ENGG-2-18677,Indian Institute of Technology Roorkee,GO (100),88.31,GO
+2017,Engineering,IR17-ENGG-2-18677,Indian Institute of Technology Roorkee,OI (100),70.95,OI
+2017,Engineering,IR17-ENGG-2-18677,Indian Institute of Technology Roorkee,PERCEPTION (100),43.47,PR
+2017,Engineering,IR17-ENGG-2-1-251,Indian Institute of Technology Guwahati,TLR (100),89.29,TLR
+2017,Engineering,IR17-ENGG-2-1-251,Indian Institute of Technology Guwahati,RPC (100),59.98,RPC
+2017,Engineering,IR17-ENGG-2-1-251,Indian Institute of Technology Guwahati,GO (100),77.08,GO
+2017,Engineering,IR17-ENGG-2-1-251,Indian Institute of Technology Guwahati,OI (100),80.11,OI
+2017,Engineering,IR17-ENGG-2-1-251,Indian Institute of Technology Guwahati,PERCEPTION (100),40.95,PR
+2017,Engineering,IR17-ENGG-2-18292,Anna University,TLR (100),63.62,TLR
+2017,Engineering,IR17-ENGG-2-18292,Anna University,RPC (100),67.63,RPC
+2017,Engineering,IR17-ENGG-2-18292,Anna University,GO (100),67.99,GO
+2017,Engineering,IR17-ENGG-2-18292,Anna University,OI (100),59.71,OI
+2017,Engineering,IR17-ENGG-2-18292,Anna University,PERCEPTION (100),50.21,PR
+2017,Engineering,IR17-ENGG-2-10326,Jadavpur University,TLR (100),59.42,TLR
+2017,Engineering,IR17-ENGG-2-10326,Jadavpur University,RPC (100),71.38,RPC
+2017,Engineering,IR17-ENGG-2-10326,Jadavpur University,GO (100),74.96,GO
+2017,Engineering,IR17-ENGG-2-10326,Jadavpur University,OI (100),49.76,OI
+2017,Engineering,IR17-ENGG-2-10326,Jadavpur University,PERCEPTION (100),33.82,PR
+2017,Engineering,IR17-ENGG-2-1-345,Indian Institute of Technology Hyderabad,TLR (100),82.6,TLR
+2017,Engineering,IR17-ENGG-2-1-345,Indian Institute of Technology Hyderabad,RPC (100),36.21,RPC
+2017,Engineering,IR17-ENGG-2-1-345,Indian Institute of Technology Hyderabad,GO (100),71.26,GO
+2017,Engineering,IR17-ENGG-2-1-345,Indian Institute of Technology Hyderabad,OI (100),73.75,OI
+2017,Engineering,IR17-ENGG-2-1-345,Indian Institute of Technology Hyderabad,PERCEPTION (100),29.72,PR
+2017,Engineering,IR17-ENGG-1-1-370,National Institute of Technology Tiruchirappalli,TLR (100),62.0,TLR
+2017,Engineering,IR17-ENGG-1-1-370,National Institute of Technology Tiruchirappalli,RPC (100),46.27,RPC
+2017,Engineering,IR17-ENGG-1-1-370,National Institute of Technology Tiruchirappalli,GO (100),74.38,GO
+2017,Engineering,IR17-ENGG-1-1-370,National Institute of Technology Tiruchirappalli,OI (100),75.81,OI
+2017,Engineering,IR17-ENGG-1-1-370,National Institute of Technology Tiruchirappalli,PERCEPTION (100),45.04,PR
+2017,Engineering,IR17-ENGG-2-1-140,National Institute of Technology Rourkela,TLR (100),64.21,TLR
+2017,Engineering,IR17-ENGG-2-1-140,National Institute of Technology Rourkela,RPC (100),49.22,RPC
+2017,Engineering,IR17-ENGG-2-1-140,National Institute of Technology Rourkela,GO (100),80.12,GO
+2017,Engineering,IR17-ENGG-2-1-140,National Institute of Technology Rourkela,OI (100),68.07,OI
+2017,Engineering,IR17-ENGG-2-1-140,National Institute of Technology Rourkela,PERCEPTION (100),19.23,PR
+2017,Engineering,IR17-ENGG-2-18572,Vellore Institute of Technology,TLR (100),56.49,TLR
+2017,Engineering,IR17-ENGG-2-18572,Vellore Institute of Technology,RPC (100),54.02,RPC
+2017,Engineering,IR17-ENGG-2-18572,Vellore Institute of Technology,GO (100),64.91,GO
+2017,Engineering,IR17-ENGG-2-18572,Vellore Institute of Technology,OI (100),75.56,OI
+2017,Engineering,IR17-ENGG-2-18572,Vellore Institute of Technology,PERCEPTION (100),44.6,PR
+2017,Engineering,IR17-ENGG-2-18261,Institute of Chemical Technology,TLR (100),70.35,TLR
+2017,Engineering,IR17-ENGG-2-18261,Institute of Chemical Technology,RPC (100),47.58,RPC
+2017,Engineering,IR17-ENGG-2-18261,Institute of Chemical Technology,GO (100),74.25,GO
+2017,Engineering,IR17-ENGG-2-18261,Institute of Chemical Technology,OI (100),59.54,OI
+2017,Engineering,IR17-ENGG-2-18261,Institute of Chemical Technology,PERCEPTION (100),17.8,PR
+2017,Engineering,IR17-ENGG-2-1-346,Indian Institute of Technology Indore,TLR (100),83.73,TLR
+2017,Engineering,IR17-ENGG-2-1-346,Indian Institute of Technology Indore,RPC (100),32.72,RPC
+2017,Engineering,IR17-ENGG-2-1-346,Indian Institute of Technology Indore,GO (100),70.72,GO
+2017,Engineering,IR17-ENGG-2-1-346,Indian Institute of Technology Indore,OI (100),75.64,OI
+2017,Engineering,IR17-ENGG-2-1-346,Indian Institute of Technology Indore,PERCEPTION (100),10.64,PR
+2017,Engineering,IR17-ENGG-2-18599,Birla Institute of Technology & Science -Pilani,TLR (100),66.15,TLR
+2017,Engineering,IR17-ENGG-2-18599,Birla Institute of Technology & Science -Pilani,RPC (100),35.05,RPC
+2017,Engineering,IR17-ENGG-2-18599,Birla Institute of Technology & Science -Pilani,GO (100),70.27,GO
+2017,Engineering,IR17-ENGG-2-18599,Birla Institute of Technology & Science -Pilani,OI (100),59.86,OI
+2017,Engineering,IR17-ENGG-2-18599,Birla Institute of Technology & Science -Pilani,PERCEPTION (100),50.32,PR
+2017,Engineering,IR17-ENGG-2-18690,"Indian Institute of Engineering Science And Technology, Shibpur",TLR (100),71.02,TLR
+2017,Engineering,IR17-ENGG-2-18690,"Indian Institute of Engineering Science And Technology, Shibpur",RPC (100),40.3,RPC
+2017,Engineering,IR17-ENGG-2-18690,"Indian Institute of Engineering Science And Technology, Shibpur",GO (100),59.43,GO
+2017,Engineering,IR17-ENGG-2-18690,"Indian Institute of Engineering Science And Technology, Shibpur",OI (100),58.47,OI
+2017,Engineering,IR17-ENGG-2-18690,"Indian Institute of Engineering Science And Technology, Shibpur",PERCEPTION (100),32.82,PR
+2017,Engineering,IR17-ENGG-1-18627,Indian Institute of Technology Bhubaneswar,TLR (100),79.66,TLR
+2017,Engineering,IR17-ENGG-1-18627,Indian Institute of Technology Bhubaneswar,RPC (100),28.87,RPC
+2017,Engineering,IR17-ENGG-1-18627,Indian Institute of Technology Bhubaneswar,GO (100),63.69,GO
+2017,Engineering,IR17-ENGG-1-18627,Indian Institute of Technology Bhubaneswar,OI (100),76.69,OI
+2017,Engineering,IR17-ENGG-1-18627,Indian Institute of Technology Bhubaneswar,PERCEPTION (100),13.5,PR
+2017,Engineering,IR17-ENGG-2-1-344,Indian Institute of Technology Patna,TLR (100),74.78,TLR
+2017,Engineering,IR17-ENGG-2-1-344,Indian Institute of Technology Patna,RPC (100),27.7,RPC
+2017,Engineering,IR17-ENGG-2-1-344,Indian Institute of Technology Patna,GO (100),72.78,GO
+2017,Engineering,IR17-ENGG-2-1-344,Indian Institute of Technology Patna,OI (100),72.78,OI
+2017,Engineering,IR17-ENGG-2-1-344,Indian Institute of Technology Patna,PERCEPTION (100),14.35,PR
+2017,Engineering,IR17-ENGG-1-10356,Jamia Millia Islamia,TLR (100),60.01,TLR
+2017,Engineering,IR17-ENGG-1-10356,Jamia Millia Islamia,RPC (100),38.73,RPC
+2017,Engineering,IR17-ENGG-1-10356,Jamia Millia Islamia,GO (100),80.24,GO
+2017,Engineering,IR17-ENGG-1-10356,Jamia Millia Islamia,OI (100),73.39,OI
+2017,Engineering,IR17-ENGG-1-10356,Jamia Millia Islamia,PERCEPTION (100),6.92,PR
+2017,Engineering,IR17-ENGG-2-1-340,Indian Institute of Technology Ropar,TLR (100),78.92,TLR
+2017,Engineering,IR17-ENGG-2-1-340,Indian Institute of Technology Ropar,RPC (100),27.63,RPC
+2017,Engineering,IR17-ENGG-2-1-340,Indian Institute of Technology Ropar,GO (100),62.97,GO
+2017,Engineering,IR17-ENGG-2-1-340,Indian Institute of Technology Ropar,OI (100),76.06,OI
+2017,Engineering,IR17-ENGG-2-1-340,Indian Institute of Technology Ropar,PERCEPTION (100),7.68,PR
+2017,Engineering,IR17-ENGG-1-1-493,National Institute of Technology Surathkal,TLR (100),62.53,TLR
+2017,Engineering,IR17-ENGG-1-1-493,National Institute of Technology Surathkal,RPC (100),32.6,RPC
+2017,Engineering,IR17-ENGG-1-1-493,National Institute of Technology Surathkal,GO (100),73.71,GO
+2017,Engineering,IR17-ENGG-1-1-493,National Institute of Technology Surathkal,OI (100),64.28,OI
+2017,Engineering,IR17-ENGG-1-1-493,National Institute of Technology Surathkal,PERCEPTION (100),31.56,PR
+2017,Engineering,IR17-ENGG-1-18632,Indian Institute of Technology (Indian School of Mines),TLR (100),57.19,TLR
+2017,Engineering,IR17-ENGG-1-18632,Indian Institute of Technology (Indian School of Mines),RPC (100),40.14,RPC
+2017,Engineering,IR17-ENGG-1-18632,Indian Institute of Technology (Indian School of Mines),GO (100),69.42,GO
+2017,Engineering,IR17-ENGG-1-18632,Indian Institute of Technology (Indian School of Mines),OI (100),67.49,OI
+2017,Engineering,IR17-ENGG-1-18632,Indian Institute of Technology (Indian School of Mines),PERCEPTION (100),27.52,PR
+2017,Engineering,IR17-ENGG-1-1-2809541361,"College of Engineering, Pune",TLR (100),70.56,TLR
+2017,Engineering,IR17-ENGG-1-1-2809541361,"College of Engineering, Pune",RPC (100),24.47,RPC
+2017,Engineering,IR17-ENGG-1-1-2809541361,"College of Engineering, Pune",GO (100),70.09,GO
+2017,Engineering,IR17-ENGG-1-1-2809541361,"College of Engineering, Pune",OI (100),69.81,OI
+2017,Engineering,IR17-ENGG-1-1-2809541361,"College of Engineering, Pune",PERCEPTION (100),26.33,PR
+2017,Engineering,IR17-ENGG-2-18477,Shanmugha Arts Science Technology & Research Academy (SASTRA),TLR (100),62.38,TLR
+2017,Engineering,IR17-ENGG-2-18477,Shanmugha Arts Science Technology & Research Academy (SASTRA),RPC (100),36.31,RPC
+2017,Engineering,IR17-ENGG-2-18477,Shanmugha Arts Science Technology & Research Academy (SASTRA),GO (100),67.32,GO
+2017,Engineering,IR17-ENGG-2-18477,Shanmugha Arts Science Technology & Research Academy (SASTRA),OI (100),67.13,OI
+2017,Engineering,IR17-ENGG-2-18477,Shanmugha Arts Science Technology & Research Academy (SASTRA),PERCEPTION (100),16.73,PR
+2017,Engineering,IR17-ENGG-2-1-2813959492,Thapar University,TLR (100),56.85,TLR
+2017,Engineering,IR17-ENGG-2-1-2813959492,Thapar University,RPC (100),41.77,RPC
+2017,Engineering,IR17-ENGG-2-1-2813959492,Thapar University,GO (100),73.33,GO
+2017,Engineering,IR17-ENGG-2-1-2813959492,Thapar University,OI (100),52.08,OI
+2017,Engineering,IR17-ENGG-2-1-2813959492,Thapar University,PERCEPTION (100),18.9,PR
+2017,Engineering,IR17-ENGG-1-1-2811256746,Sri Sivasubrmaniya Nadar College of Engineering,TLR (100),74.22,TLR
+2017,Engineering,IR17-ENGG-1-1-2811256746,Sri Sivasubrmaniya Nadar College of Engineering,RPC (100),24.88,RPC
+2017,Engineering,IR17-ENGG-1-1-2811256746,Sri Sivasubrmaniya Nadar College of Engineering,GO (100),65.82,GO
+2017,Engineering,IR17-ENGG-1-1-2811256746,Sri Sivasubrmaniya Nadar College of Engineering,OI (100),61.56,OI
+2017,Engineering,IR17-ENGG-1-1-2811256746,Sri Sivasubrmaniya Nadar College of Engineering,PERCEPTION (100),17.17,PR
+2017,Engineering,IR17-ENGG-1-1-249,Indian Institute of Space Science and Technology,TLR (100),81.23,TLR
+2017,Engineering,IR17-ENGG-1-1-249,Indian Institute of Space Science and Technology,RPC (100),14.74,RPC
+2017,Engineering,IR17-ENGG-1-1-249,Indian Institute of Space Science and Technology,GO (100),60.24,GO
+2017,Engineering,IR17-ENGG-1-1-249,Indian Institute of Space Science and Technology,OI (100),70.29,OI
+2017,Engineering,IR17-ENGG-1-1-249,Indian Institute of Space Science and Technology,PERCEPTION (100),27.33,PR
+2017,Engineering,IR17-ENGG-2-18639,Indian Institute of Technology Mandi,TLR (100),78.98,TLR
+2017,Engineering,IR17-ENGG-2-18639,Indian Institute of Technology Mandi,RPC (100),17.99,RPC
+2017,Engineering,IR17-ENGG-2-18639,Indian Institute of Technology Mandi,GO (100),66.78,GO
+2017,Engineering,IR17-ENGG-2-18639,Indian Institute of Technology Mandi,OI (100),74.26,OI
+2017,Engineering,IR17-ENGG-2-18639,Indian Institute of Technology Mandi,PERCEPTION (100),7.24,PR
+2017,Engineering,IR17-ENGG-1-18628,Indian Institute of Technology Gandhinagar,TLR (100),79.73,TLR
+2017,Engineering,IR17-ENGG-1-18628,Indian Institute of Technology Gandhinagar,RPC (100),14.41,RPC
+2017,Engineering,IR17-ENGG-1-18628,Indian Institute of Technology Gandhinagar,GO (100),59.25,GO
+2017,Engineering,IR17-ENGG-1-18628,Indian Institute of Technology Gandhinagar,OI (100),75.94,OI
+2017,Engineering,IR17-ENGG-1-18628,Indian Institute of Technology Gandhinagar,PERCEPTION (100),27.54,PR
+2017,Engineering,IR17-ENGG-2-18672,"Indian Institute of Technology (Banaras Hindu University), Varanasi",TLR (100),61.22,TLR
+2017,Engineering,IR17-ENGG-2-18672,"Indian Institute of Technology (Banaras Hindu University), Varanasi",RPC (100),25.36,RPC
+2017,Engineering,IR17-ENGG-2-18672,"Indian Institute of Technology (Banaras Hindu University), Varanasi",GO (100),71.67,GO
+2017,Engineering,IR17-ENGG-2-18672,"Indian Institute of Technology (Banaras Hindu University), Varanasi",OI (100),59.03,OI
+2017,Engineering,IR17-ENGG-2-18672,"Indian Institute of Technology (Banaras Hindu University), Varanasi",PERCEPTION (100),37.11,PR
+2017,Engineering,IR17-ENGG-2-1-2811781771,Birla Institute of Technology,TLR (100),65.59,TLR
+2017,Engineering,IR17-ENGG-2-1-2811781771,Birla Institute of Technology,RPC (100),29.36,RPC
+2017,Engineering,IR17-ENGG-2-1-2811781771,Birla Institute of Technology,GO (100),64.22,GO
+2017,Engineering,IR17-ENGG-2-1-2811781771,Birla Institute of Technology,OI (100),72.08,OI
+2017,Engineering,IR17-ENGG-2-1-2811781771,Birla Institute of Technology,PERCEPTION (100),13.8,PR
+2017,Engineering,IR17-ENGG-1-2811179135,PSG College of Technology,TLR (100),66.54,TLR
+2017,Engineering,IR17-ENGG-1-2811179135,PSG College of Technology,RPC (100),23.64,RPC
+2017,Engineering,IR17-ENGG-1-2811179135,PSG College of Technology,GO (100),57.05,GO
+2017,Engineering,IR17-ENGG-1-2811179135,PSG College of Technology,OI (100),62.81,OI
+2017,Engineering,IR17-ENGG-1-2811179135,PSG College of Technology,PERCEPTION (100),47.48,PR
+2017,Engineering,IR17-ENGG-2-18622,National Institute of Technology Warangal,TLR (100),66.94,TLR
+2017,Engineering,IR17-ENGG-2-18622,National Institute of Technology Warangal,RPC (100),25.44,RPC
+2017,Engineering,IR17-ENGG-2-18622,National Institute of Technology Warangal,GO (100),68.92,GO
+2017,Engineering,IR17-ENGG-2-18622,National Institute of Technology Warangal,OI (100),65.85,OI
+2017,Engineering,IR17-ENGG-2-18622,National Institute of Technology Warangal,PERCEPTION (100),14.01,PR
+2017,Engineering,IR17-ENGG-2-1-596,S.R.M Institute of Science and Technology,TLR (100),59.75,TLR
+2017,Engineering,IR17-ENGG-2-1-596,S.R.M Institute of Science and Technology,RPC (100),31.69,RPC
+2017,Engineering,IR17-ENGG-2-1-596,S.R.M Institute of Science and Technology,GO (100),57.93,GO
+2017,Engineering,IR17-ENGG-2-1-596,S.R.M Institute of Science and Technology,OI (100),82.94,OI
+2017,Engineering,IR17-ENGG-2-1-596,S.R.M Institute of Science and Technology,PERCEPTION (100),18.79,PR
+2017,Engineering,IR17-ENGG-2-1-NEW5,"National Institute of Industrial Engineering, Mumbai",TLR (100),80.8,TLR
+2017,Engineering,IR17-ENGG-2-1-NEW5,"National Institute of Industrial Engineering, Mumbai",RPC (100),1.25,RPC
+2017,Engineering,IR17-ENGG-2-1-NEW5,"National Institute of Industrial Engineering, Mumbai",GO (100),71.62,GO
+2017,Engineering,IR17-ENGG-2-1-NEW5,"National Institute of Industrial Engineering, Mumbai",OI (100),77.94,OI
+2017,Engineering,IR17-ENGG-2-1-NEW5,"National Institute of Industrial Engineering, Mumbai",PERCEPTION (100),7.54,PR
+2017,Engineering,IR17-ENGG-2-1-2811366803,Thiagarajar College of Engineering,TLR (100),66.01,TLR
+2017,Engineering,IR17-ENGG-2-1-2811366803,Thiagarajar College of Engineering,RPC (100),26.76,RPC
+2017,Engineering,IR17-ENGG-2-1-2811366803,Thiagarajar College of Engineering,GO (100),57.78,GO
+2017,Engineering,IR17-ENGG-2-1-2811366803,Thiagarajar College of Engineering,OI (100),59.0,OI
+2017,Engineering,IR17-ENGG-2-1-2811366803,Thiagarajar College of Engineering,PERCEPTION (100),17.18,PR
+2017,Engineering,IR17-ENGG-1-11736,Pondicherry Engineering College,TLR (100),66.45,TLR
+2017,Engineering,IR17-ENGG-1-11736,Pondicherry Engineering College,RPC (100),20.44,RPC
+2017,Engineering,IR17-ENGG-1-11736,Pondicherry Engineering College,GO (100),69.4,GO
+2017,Engineering,IR17-ENGG-1-11736,Pondicherry Engineering College,OI (100),61.68,OI
+2017,Engineering,IR17-ENGG-1-11736,Pondicherry Engineering College,PERCEPTION (100),2.54,PR
+2017,Engineering,IR17-ENGG-2-12907,Delhi Technological University,TLR (100),50.95,TLR
+2017,Engineering,IR17-ENGG-2-12907,Delhi Technological University,RPC (100),24.48,RPC
+2017,Engineering,IR17-ENGG-2-12907,Delhi Technological University,GO (100),72.9,GO
+2017,Engineering,IR17-ENGG-2-12907,Delhi Technological University,OI (100),67.16,OI
+2017,Engineering,IR17-ENGG-2-12907,Delhi Technological University,PERCEPTION (100),22.64,PR
+2017,Engineering,IR17-ENGG-2-10949,Zakir Husain College of Engineering & Technology,TLR (100),71.3,TLR
+2017,Engineering,IR17-ENGG-2-10949,Zakir Husain College of Engineering & Technology,RPC (100),33.57,RPC
+2017,Engineering,IR17-ENGG-2-10949,Zakir Husain College of Engineering & Technology,GO (100),47.24,GO
+2017,Engineering,IR17-ENGG-2-10949,Zakir Husain College of Engineering & Technology,OI (100),48.05,OI
+2017,Engineering,IR17-ENGG-2-10949,Zakir Husain College of Engineering & Technology,PERCEPTION (100),4.57,PR
+2017,Engineering,IR17-ENGG-2-1-357,Motilal Nehru National Institute of Technology,TLR (100),56.0,TLR
+2017,Engineering,IR17-ENGG-2-1-357,Motilal Nehru National Institute of Technology,RPC (100),30.32,RPC
+2017,Engineering,IR17-ENGG-2-1-357,Motilal Nehru National Institute of Technology,GO (100),66.14,GO
+2017,Engineering,IR17-ENGG-2-1-357,Motilal Nehru National Institute of Technology,OI (100),56.74,OI
+2017,Engineering,IR17-ENGG-2-1-357,Motilal Nehru National Institute of Technology,PERCEPTION (100),8.82,PR
+2017,Engineering,IR17-ENGG-1-1-225,"Visvesvaraya National Institute of Technology, Nagpur (Deemed University)",TLR (100),60.59,TLR
+2017,Engineering,IR17-ENGG-1-1-225,"Visvesvaraya National Institute of Technology, Nagpur (Deemed University)",RPC (100),21.88,RPC
+2017,Engineering,IR17-ENGG-1-1-225,"Visvesvaraya National Institute of Technology, Nagpur (Deemed University)",GO (100),61.04,GO
+2017,Engineering,IR17-ENGG-1-1-225,"Visvesvaraya National Institute of Technology, Nagpur (Deemed University)",OI (100),69.96,OI
+2017,Engineering,IR17-ENGG-1-1-225,"Visvesvaraya National Institute of Technology, Nagpur (Deemed University)",PERCEPTION (100),15.72,PR
+2017,Engineering,IR17-ENGG-1-1-2816307230,Manipal Institute of Technology,TLR (100),70.66,TLR
+2017,Engineering,IR17-ENGG-1-1-2816307230,Manipal Institute of Technology,RPC (100),11.94,RPC
+2017,Engineering,IR17-ENGG-1-1-2816307230,Manipal Institute of Technology,GO (100),59.32,GO
+2017,Engineering,IR17-ENGG-1-1-2816307230,Manipal Institute of Technology,OI (100),63.31,OI
+2017,Engineering,IR17-ENGG-1-1-2816307230,Manipal Institute of Technology,PERCEPTION (100),24.06,PR
+2017,Engineering,IR17-ENGG-2-18613,National Institute of Technology Calicut,TLR (100),53.28,TLR
+2017,Engineering,IR17-ENGG-2-18613,National Institute of Technology Calicut,RPC (100),21.15,RPC
+2017,Engineering,IR17-ENGG-2-18613,National Institute of Technology Calicut,GO (100),60.77,GO
+2017,Engineering,IR17-ENGG-2-18613,National Institute of Technology Calicut,OI (100),73.98,OI
+2017,Engineering,IR17-ENGG-2-18613,National Institute of Technology Calicut,PERCEPTION (100),26.25,PR
+2017,Engineering,IR17-ENGG-1-1-2811981253,M. S. Ramaiah Institute of Technology,TLR (100),67.06,TLR
+2017,Engineering,IR17-ENGG-1-1-2811981253,M. S. Ramaiah Institute of Technology,RPC (100),13.09,RPC
+2017,Engineering,IR17-ENGG-1-1-2811981253,M. S. Ramaiah Institute of Technology,GO (100),65.46,GO
+2017,Engineering,IR17-ENGG-1-1-2811981253,M. S. Ramaiah Institute of Technology,OI (100),62.97,OI
+2017,Engineering,IR17-ENGG-1-1-2811981253,M. S. Ramaiah Institute of Technology,PERCEPTION (100),9.07,PR
+2017,Engineering,IR17-ENGG-2-18259,AMITY University,TLR (100),60.02,TLR
+2017,Engineering,IR17-ENGG-2-18259,AMITY University,RPC (100),29.5,RPC
+2017,Engineering,IR17-ENGG-2-18259,AMITY University,GO (100),51.14,GO
+2017,Engineering,IR17-ENGG-2-18259,AMITY University,OI (100),61.36,OI
+2017,Engineering,IR17-ENGG-2-18259,AMITY University,PERCEPTION (100),9.43,PR
+2017,Engineering,IR17-ENGG-2-1-336,Kalinga Institute of Industrial Technology,TLR (100),52.55,TLR
+2017,Engineering,IR17-ENGG-2-1-336,Kalinga Institute of Industrial Technology,RPC (100),14.08,RPC
+2017,Engineering,IR17-ENGG-2-1-336,Kalinga Institute of Industrial Technology,GO (100),71.82,GO
+2017,Engineering,IR17-ENGG-2-1-336,Kalinga Institute of Industrial Technology,OI (100),66.05,OI
+2017,Engineering,IR17-ENGG-2-1-336,Kalinga Institute of Industrial Technology,PERCEPTION (100),27.39,PR
+2017,Engineering,IR17-ENGG-2-1-668,Sri Venkateswara University,TLR (100),54.81,TLR
+2017,Engineering,IR17-ENGG-2-1-668,Sri Venkateswara University,RPC (100),33.56,RPC
+2017,Engineering,IR17-ENGG-2-1-668,Sri Venkateswara University,GO (100),54.93,GO
+2017,Engineering,IR17-ENGG-2-1-668,Sri Venkateswara University,OI (100),55.88,OI
+2017,Engineering,IR17-ENGG-2-1-668,Sri Venkateswara University,PERCEPTION (100),4.42,PR
+2017,Engineering,IR17-ENGG-1-29885,R.V. College of Engineering,TLR (100),69.03,TLR
+2017,Engineering,IR17-ENGG-1-29885,R.V. College of Engineering,RPC (100),12.13,RPC
+2017,Engineering,IR17-ENGG-1-29885,R.V. College of Engineering,GO (100),60.62,GO
+2017,Engineering,IR17-ENGG-1-29885,R.V. College of Engineering,OI (100),54.58,OI
+2017,Engineering,IR17-ENGG-1-29885,R.V. College of Engineering,PERCEPTION (100),14.86,PR
+2017,Engineering,IR17-ENGG-1-18659,Sardar Vallabhbhai National Institute of Technology,TLR (100),50.43,TLR
+2017,Engineering,IR17-ENGG-1-18659,Sardar Vallabhbhai National Institute of Technology,RPC (100),28.91,RPC
+2017,Engineering,IR17-ENGG-1-18659,Sardar Vallabhbhai National Institute of Technology,GO (100),61.07,GO
+2017,Engineering,IR17-ENGG-1-18659,Sardar Vallabhbhai National Institute of Technology,OI (100),62.28,OI
+2017,Engineering,IR17-ENGG-1-18659,Sardar Vallabhbhai National Institute of Technology,PERCEPTION (100),10.65,PR
+2017,Engineering,IR17-ENGG-1-11716,Coimbatore Institute of Technology,TLR (100),62.88,TLR
+2017,Engineering,IR17-ENGG-1-11716,Coimbatore Institute of Technology,RPC (100),14.72,RPC
+2017,Engineering,IR17-ENGG-1-11716,Coimbatore Institute of Technology,GO (100),57.41,GO
+2017,Engineering,IR17-ENGG-1-11716,Coimbatore Institute of Technology,OI (100),68.04,OI
+2017,Engineering,IR17-ENGG-1-11716,Coimbatore Institute of Technology,PERCEPTION (100),17.42,PR
+2017,Engineering,IR17-ENGG-2-1-2812016223,B.M.S. College of Engineering,TLR (100),68.76,TLR
+2017,Engineering,IR17-ENGG-2-1-2812016223,B.M.S. College of Engineering,RPC (100),5.48,RPC
+2017,Engineering,IR17-ENGG-2-1-2812016223,B.M.S. College of Engineering,GO (100),62.43,GO
+2017,Engineering,IR17-ENGG-2-1-2812016223,B.M.S. College of Engineering,OI (100),68.13,OI
+2017,Engineering,IR17-ENGG-2-1-2812016223,B.M.S. College of Engineering,PERCEPTION (100),12.85,PR
+2017,Engineering,IR17-ENGG-1-18612,National Institute of Technology Silchar,TLR (100),61.17,TLR
+2017,Engineering,IR17-ENGG-1-18612,National Institute of Technology Silchar,RPC (100),18.43,RPC
+2017,Engineering,IR17-ENGG-1-18612,National Institute of Technology Silchar,GO (100),59.99,GO
+2017,Engineering,IR17-ENGG-1-18612,National Institute of Technology Silchar,OI (100),58.3,OI
+2017,Engineering,IR17-ENGG-1-18612,National Institute of Technology Silchar,PERCEPTION (100),10.17,PR
+2017,Engineering,IR17-ENGG-2-1-321,Jaypee Institute of Information Technology,TLR (100),51.11,TLR
+2017,Engineering,IR17-ENGG-2-1-321,Jaypee Institute of Information Technology,RPC (100),19.82,RPC
+2017,Engineering,IR17-ENGG-2-1-321,Jaypee Institute of Information Technology,GO (100),64.97,GO
+2017,Engineering,IR17-ENGG-2-1-321,Jaypee Institute of Information Technology,OI (100),81.02,OI
+2017,Engineering,IR17-ENGG-2-1-321,Jaypee Institute of Information Technology,PERCEPTION (100),2.63,PR
+2017,Engineering,IR17-ENGG-2-18649,National Institute of Technology Durgapur,TLR (100),48.09,TLR
+2017,Engineering,IR17-ENGG-2-18649,National Institute of Technology Durgapur,RPC (100),34.95,RPC
+2017,Engineering,IR17-ENGG-2-18649,National Institute of Technology Durgapur,GO (100),50.88,GO
+2017,Engineering,IR17-ENGG-2-18649,National Institute of Technology Durgapur,OI (100),57.93,OI
+2017,Engineering,IR17-ENGG-2-18649,National Institute of Technology Durgapur,PERCEPTION (100),16.69,PR
+2017,Engineering,IR17-ENGG-1-18257,"Indraprastha Institute of Information Technology-New Delhi (IIIT New Delhi, Delhi)",TLR (100),48.55,TLR
+2017,Engineering,IR17-ENGG-1-18257,"Indraprastha Institute of Information Technology-New Delhi (IIIT New Delhi, Delhi)",RPC (100),20.83,RPC
+2017,Engineering,IR17-ENGG-1-18257,"Indraprastha Institute of Information Technology-New Delhi (IIIT New Delhi, Delhi)",GO (100),70.69,GO
+2017,Engineering,IR17-ENGG-1-18257,"Indraprastha Institute of Information Technology-New Delhi (IIIT New Delhi, Delhi)",OI (100),55.41,OI
+2017,Engineering,IR17-ENGG-1-18257,"Indraprastha Institute of Information Technology-New Delhi (IIIT New Delhi, Delhi)",PERCEPTION (100),20.45,PR
+2017,Engineering,IR17-ENGG-1-12121,Kongu Engineering College,TLR (100),60.47,TLR
+2017,Engineering,IR17-ENGG-1-12121,Kongu Engineering College,RPC (100),13.96,RPC
+2017,Engineering,IR17-ENGG-1-12121,Kongu Engineering College,GO (100),60.8,GO
+2017,Engineering,IR17-ENGG-1-12121,Kongu Engineering College,OI (100),62.39,OI
+2017,Engineering,IR17-ENGG-1-12121,Kongu Engineering College,PERCEPTION (100),17.04,PR
+2017,Engineering,IR17-ENGG-2-1-11112,Vel Tech Rangarajan Dr.Sagunthala R&D Institute of Science and Technology,TLR (100),60.49,TLR
+2017,Engineering,IR17-ENGG-2-1-11112,Vel Tech Rangarajan Dr.Sagunthala R&D Institute of Science and Technology,RPC (100),23.07,RPC
+2017,Engineering,IR17-ENGG-2-1-11112,Vel Tech Rangarajan Dr.Sagunthala R&D Institute of Science and Technology,GO (100),42.07,GO
+2017,Engineering,IR17-ENGG-2-1-11112,Vel Tech Rangarajan Dr.Sagunthala R&D Institute of Science and Technology,OI (100),73.59,OI
+2017,Engineering,IR17-ENGG-2-1-11112,Vel Tech Rangarajan Dr.Sagunthala R&D Institute of Science and Technology,PERCEPTION (100),14.68,PR
+2017,Engineering,IR17-ENGG-2-18615,National Institute of Technology Hamirpur,TLR (100),55.11,TLR
+2017,Engineering,IR17-ENGG-2-18615,National Institute of Technology Hamirpur,RPC (100),19.99,RPC
+2017,Engineering,IR17-ENGG-2-18615,National Institute of Technology Hamirpur,GO (100),62.59,GO
+2017,Engineering,IR17-ENGG-2-18615,National Institute of Technology Hamirpur,OI (100),67.66,OI
+2017,Engineering,IR17-ENGG-2-18615,National Institute of Technology Hamirpur,PERCEPTION (100),1.95,PR
+2017,Engineering,IR17-ENGG-1-1-144,National Institute of Technology Kurukshetra,TLR (100),52.27,TLR
+2017,Engineering,IR17-ENGG-1-1-144,National Institute of Technology Kurukshetra,RPC (100),28.6,RPC
+2017,Engineering,IR17-ENGG-1-1-144,National Institute of Technology Kurukshetra,GO (100),53.5,GO
+2017,Engineering,IR17-ENGG-1-1-144,National Institute of Technology Kurukshetra,OI (100),58.03,OI
+2017,Engineering,IR17-ENGG-1-1-144,National Institute of Technology Kurukshetra,PERCEPTION (100),8.53,PR
+2017,Engineering,IR17-ENGG-2-1-441,Maulana Azad National Institute of Technology,TLR (100),51.97,TLR
+2017,Engineering,IR17-ENGG-2-1-441,Maulana Azad National Institute of Technology,RPC (100),13.74,RPC
+2017,Engineering,IR17-ENGG-2-1-441,Maulana Azad National Institute of Technology,GO (100),71.45,GO
+2017,Engineering,IR17-ENGG-2-1-441,Maulana Azad National Institute of Technology,OI (100),65.33,OI
+2017,Engineering,IR17-ENGG-2-1-441,Maulana Azad National Institute of Technology,PERCEPTION (100),7.2,PR
+2017,Engineering,IR17-ENGG-2-18312,Karunya Institute of Technology and Sciences-Coimbatore,TLR (100),54.14,TLR
+2017,Engineering,IR17-ENGG-2-18312,Karunya Institute of Technology and Sciences-Coimbatore,RPC (100),20.06,RPC
+2017,Engineering,IR17-ENGG-2-18312,Karunya Institute of Technology and Sciences-Coimbatore,GO (100),49.83,GO
+2017,Engineering,IR17-ENGG-2-18312,Karunya Institute of Technology and Sciences-Coimbatore,OI (100),77.68,OI
+2017,Engineering,IR17-ENGG-2-18312,Karunya Institute of Technology and Sciences-Coimbatore,PERCEPTION (100),9.66,PR
+2017,Engineering,IR17-ENGG-1-18288,Jawaharlal Nehru Technological University,TLR (100),54.92,TLR
+2017,Engineering,IR17-ENGG-1-18288,Jawaharlal Nehru Technological University,RPC (100),17.44,RPC
+2017,Engineering,IR17-ENGG-1-18288,Jawaharlal Nehru Technological University,GO (100),63.55,GO
+2017,Engineering,IR17-ENGG-1-18288,Jawaharlal Nehru Technological University,OI (100),55.51,OI
+2017,Engineering,IR17-ENGG-1-18288,Jawaharlal Nehru Technological University,PERCEPTION (100),4.82,PR
+2017,Engineering,IR17-ENGG-2-24411,Shri Ramdeobaba College of Engineering and Management,TLR (100),64.46,TLR
+2017,Engineering,IR17-ENGG-2-24411,Shri Ramdeobaba College of Engineering and Management,RPC (100),2.11,RPC
+2017,Engineering,IR17-ENGG-2-24411,Shri Ramdeobaba College of Engineering and Management,GO (100),56.14,GO
+2017,Engineering,IR17-ENGG-2-24411,Shri Ramdeobaba College of Engineering and Management,OI (100),70.19,OI
+2017,Engineering,IR17-ENGG-2-24411,Shri Ramdeobaba College of Engineering and Management,PERCEPTION (100),21.36,PR
+2017,Engineering,IR17-ENGG-1-18631,Indian Institute of Technology Jodhpur,TLR (100),68.8,TLR
+2017,Engineering,IR17-ENGG-1-18631,Indian Institute of Technology Jodhpur,RPC (100),8.51,RPC
+2017,Engineering,IR17-ENGG-1-18631,Indian Institute of Technology Jodhpur,GO (100),50.37,GO
+2017,Engineering,IR17-ENGG-1-18631,Indian Institute of Technology Jodhpur,OI (100),60.47,OI
+2017,Engineering,IR17-ENGG-1-18631,Indian Institute of Technology Jodhpur,PERCEPTION (100),8.9,PR
+2017,Engineering,IR17-ENGG-2-10518,Bharati Vidyapeeth Deemed University College of Engineering,TLR (100),59.88,TLR
+2017,Engineering,IR17-ENGG-2-10518,Bharati Vidyapeeth Deemed University College of Engineering,RPC (100),2.45,RPC
+2017,Engineering,IR17-ENGG-2-10518,Bharati Vidyapeeth Deemed University College of Engineering,GO (100),58.41,GO
+2017,Engineering,IR17-ENGG-2-10518,Bharati Vidyapeeth Deemed University College of Engineering,OI (100),72.03,OI
+2017,Engineering,IR17-ENGG-2-10518,Bharati Vidyapeeth Deemed University College of Engineering,PERCEPTION (100),25.99,PR
+2017,Engineering,IR17-ENGG-2-12233,"G. H. Raisoni College of Engineering, NAGPUR",TLR (100),52.12,TLR
+2017,Engineering,IR17-ENGG-2-12233,"G. H. Raisoni College of Engineering, NAGPUR",RPC (100),8.9,RPC
+2017,Engineering,IR17-ENGG-2-12233,"G. H. Raisoni College of Engineering, NAGPUR",GO (100),55.53,GO
+2017,Engineering,IR17-ENGG-2-12233,"G. H. Raisoni College of Engineering, NAGPUR",OI (100),69.84,OI
+2017,Engineering,IR17-ENGG-2-12233,"G. H. Raisoni College of Engineering, NAGPUR",PERCEPTION (100),34.72,PR
+2017,Engineering,IR17-ENGG-1-11519,Koneru Lakshmaiah Education Foundation University (K L College of Engineering),TLR (100),58.15,TLR
+2017,Engineering,IR17-ENGG-1-11519,Koneru Lakshmaiah Education Foundation University (K L College of Engineering),RPC (100),12.72,RPC
+2017,Engineering,IR17-ENGG-1-11519,Koneru Lakshmaiah Education Foundation University (K L College of Engineering),GO (100),54.89,GO
+2017,Engineering,IR17-ENGG-1-11519,Koneru Lakshmaiah Education Foundation University (K L College of Engineering),OI (100),66.69,OI
+2017,Engineering,IR17-ENGG-1-11519,Koneru Lakshmaiah Education Foundation University (K L College of Engineering),PERCEPTION (100),7.28,PR
+2017,Engineering,IR17-ENGG-2-1-424,"Pandit Dwarka Prasad Mishra Indian Institute of Information Technology, Design and Manufacturing (IIITDM), Jabalpur",TLR (100),45.09,TLR
+2017,Engineering,IR17-ENGG-2-1-424,"Pandit Dwarka Prasad Mishra Indian Institute of Information Technology, Design and Manufacturing (IIITDM), Jabalpur",RPC (100),20.91,RPC
+2017,Engineering,IR17-ENGG-2-1-424,"Pandit Dwarka Prasad Mishra Indian Institute of Information Technology, Design and Manufacturing (IIITDM), Jabalpur",GO (100),62.1,GO
+2017,Engineering,IR17-ENGG-2-1-424,"Pandit Dwarka Prasad Mishra Indian Institute of Information Technology, Design and Manufacturing (IIITDM), Jabalpur",OI (100),69.27,OI
+2017,Engineering,IR17-ENGG-2-1-424,"Pandit Dwarka Prasad Mishra Indian Institute of Information Technology, Design and Manufacturing (IIITDM), Jabalpur",PERCEPTION (100),3.13,PR
+2017,Engineering,IR17-ENGG-2-18620,"Malaviya National Institute of Technology, Jaipur",TLR (100),50.94,TLR
+2017,Engineering,IR17-ENGG-2-18620,"Malaviya National Institute of Technology, Jaipur",RPC (100),25.26,RPC
+2017,Engineering,IR17-ENGG-2-18620,"Malaviya National Institute of Technology, Jaipur",GO (100),52.53,GO
+2017,Engineering,IR17-ENGG-2-18620,"Malaviya National Institute of Technology, Jaipur",OI (100),53.47,OI
+2017,Engineering,IR17-ENGG-2-18620,"Malaviya National Institute of Technology, Jaipur",PERCEPTION (100),6.62,PR
+2017,Engineering,IR17-ENGG-1-18173,Dhirubhai Ambani Institute of Information and Communication Technology,TLR (100),55.93,TLR
+2017,Engineering,IR17-ENGG-1-18173,Dhirubhai Ambani Institute of Information and Communication Technology,RPC (100),7.81,RPC
+2017,Engineering,IR17-ENGG-1-18173,Dhirubhai Ambani Institute of Information and Communication Technology,GO (100),60.31,GO
+2017,Engineering,IR17-ENGG-1-18173,Dhirubhai Ambani Institute of Information and Communication Technology,OI (100),70.52,OI
+2017,Engineering,IR17-ENGG-1-18173,Dhirubhai Ambani Institute of Information and Communication Technology,PERCEPTION (100),11.47,PR
+2017,Engineering,IR17-ENGG-1-1-2812032529,Siddaganga Institute of Technology,TLR (100),64.56,TLR
+2017,Engineering,IR17-ENGG-1-1-2812032529,Siddaganga Institute of Technology,RPC (100),5.41,RPC
+2017,Engineering,IR17-ENGG-1-1-2812032529,Siddaganga Institute of Technology,GO (100),59.89,GO
+2017,Engineering,IR17-ENGG-1-1-2812032529,Siddaganga Institute of Technology,OI (100),59.86,OI
+2017,Engineering,IR17-ENGG-1-1-2812032529,Siddaganga Institute of Technology,PERCEPTION (100),4.0,PR
+2017,Engineering,IR17-ENGG-2-1-2811134396,Mepco Schlenk Engineering College,TLR (100),54.66,TLR
+2017,Engineering,IR17-ENGG-2-1-2811134396,Mepco Schlenk Engineering College,RPC (100),11.5,RPC
+2017,Engineering,IR17-ENGG-2-1-2811134396,Mepco Schlenk Engineering College,GO (100),60.25,GO
+2017,Engineering,IR17-ENGG-2-1-2811134396,Mepco Schlenk Engineering College,OI (100),60.08,OI
+2017,Engineering,IR17-ENGG-2-1-2811134396,Mepco Schlenk Engineering College,PERCEPTION (100),13.05,PR
+2017,Engineering,IR17-ENGG-2-12969,Guru Gobind Singh Indraprastha University,TLR (100),51.63,TLR
+2017,Engineering,IR17-ENGG-2-12969,Guru Gobind Singh Indraprastha University,RPC (100),25.78,RPC
+2017,Engineering,IR17-ENGG-2-12969,Guru Gobind Singh Indraprastha University,GO (100),53.25,GO
+2017,Engineering,IR17-ENGG-2-12969,Guru Gobind Singh Indraprastha University,OI (100),49.44,OI
+2017,Engineering,IR17-ENGG-2-12969,Guru Gobind Singh Indraprastha University,PERCEPTION (100),3.45,PR
+2017,Engineering,IR17-ENGG-1-1-2812988445,International Institute of Information Technology,TLR (100),40.86,TLR
+2017,Engineering,IR17-ENGG-1-1-2812988445,International Institute of Information Technology,RPC (100),24.99,RPC
+2017,Engineering,IR17-ENGG-1-1-2812988445,International Institute of Information Technology,GO (100),62.56,GO
+2017,Engineering,IR17-ENGG-1-1-2812988445,International Institute of Information Technology,OI (100),51.3,OI
+2017,Engineering,IR17-ENGG-1-1-2812988445,International Institute of Information Technology,PERCEPTION (100),15.51,PR
+2017,Engineering,IR17-ENGG-1-17931,"Faculty of Technology & Engineering, The Maharaja Sayajirao University of Baroda",TLR (100),58.28,TLR
+2017,Engineering,IR17-ENGG-1-17931,"Faculty of Technology & Engineering, The Maharaja Sayajirao University of Baroda",RPC (100),16.62,RPC
+2017,Engineering,IR17-ENGG-1-17931,"Faculty of Technology & Engineering, The Maharaja Sayajirao University of Baroda",GO (100),52.82,GO
+2017,Engineering,IR17-ENGG-1-17931,"Faculty of Technology & Engineering, The Maharaja Sayajirao University of Baroda",OI (100),48.97,OI
+2017,Engineering,IR17-ENGG-1-17931,"Faculty of Technology & Engineering, The Maharaja Sayajirao University of Baroda",PERCEPTION (100),8.81,PR
+2017,Engineering,IR17-ENGG-1-1-2809338810,Army Institute of Technology,TLR (100),54.85,TLR
+2017,Engineering,IR17-ENGG-1-1-2809338810,Army Institute of Technology,RPC (100),1.05,RPC
+2017,Engineering,IR17-ENGG-1-1-2809338810,Army Institute of Technology,GO (100),67.36,GO
+2017,Engineering,IR17-ENGG-1-1-2809338810,Army Institute of Technology,OI (100),76.35,OI
+2017,Engineering,IR17-ENGG-1-1-2809338810,Army Institute of Technology,PERCEPTION (100),8.24,PR
+2017,Engineering,IR17-ENGG-1-1-2811457679,"PSNA College of Engineering and Technology, Dindigul",TLR (100),56.27,TLR
+2017,Engineering,IR17-ENGG-1-1-2811457679,"PSNA College of Engineering and Technology, Dindigul",RPC (100),7.1,RPC
+2017,Engineering,IR17-ENGG-1-1-2811457679,"PSNA College of Engineering and Technology, Dindigul",GO (100),57.06,GO
+2017,Engineering,IR17-ENGG-1-1-2811457679,"PSNA College of Engineering and Technology, Dindigul",OI (100),65.64,OI
+2017,Engineering,IR17-ENGG-1-1-2811457679,"PSNA College of Engineering and Technology, Dindigul",PERCEPTION (100),12.9,PR
+2017,Engineering,IR17-ENGG-2-18406,Nirma University,TLR (100),54.77,TLR
+2017,Engineering,IR17-ENGG-2-18406,Nirma University,RPC (100),13.56,RPC
+2017,Engineering,IR17-ENGG-2-18406,Nirma University,GO (100),54.21,GO
+2017,Engineering,IR17-ENGG-2-18406,Nirma University,OI (100),56.89,OI
+2017,Engineering,IR17-ENGG-2-18406,Nirma University,PERCEPTION (100),10.38,PR
+2017,Engineering,IR17-ENGG-1-1-2814018067,University College of Engineering,TLR (100),61.64,TLR
+2017,Engineering,IR17-ENGG-1-1-2814018067,University College of Engineering,RPC (100),2.55,RPC
+2017,Engineering,IR17-ENGG-1-1-2814018067,University College of Engineering,GO (100),63.13,GO
+2017,Engineering,IR17-ENGG-1-1-2814018067,University College of Engineering,OI (100),59.62,OI
+2017,Engineering,IR17-ENGG-1-1-2814018067,University College of Engineering,PERCEPTION (100),2.12,PR
+2017,Engineering,IR17-ENGG-2-1-2813435762,Sagi Ramakrishnam Raju Engineering College,TLR (100),58.45,TLR
+2017,Engineering,IR17-ENGG-2-1-2813435762,Sagi Ramakrishnam Raju Engineering College,RPC (100),0.83,RPC
+2017,Engineering,IR17-ENGG-2-1-2813435762,Sagi Ramakrishnam Raju Engineering College,GO (100),56.33,GO
+2017,Engineering,IR17-ENGG-2-1-2813435762,Sagi Ramakrishnam Raju Engineering College,OI (100),71.44,OI
+2017,Engineering,IR17-ENGG-2-1-2813435762,Sagi Ramakrishnam Raju Engineering College,PERCEPTION (100),16.85,PR
+2017,Engineering,IR17-ENGG-2-1-2456189964,Kumaraguru College of Technology,TLR (100),58.07,TLR
+2017,Engineering,IR17-ENGG-2-1-2456189964,Kumaraguru College of Technology,RPC (100),6.31,RPC
+2017,Engineering,IR17-ENGG-2-1-2456189964,Kumaraguru College of Technology,GO (100),58.34,GO
+2017,Engineering,IR17-ENGG-2-1-2456189964,Kumaraguru College of Technology,OI (100),59.69,OI
+2017,Engineering,IR17-ENGG-2-1-2456189964,Kumaraguru College of Technology,PERCEPTION (100),7.88,PR
+2017,Engineering,IR17-ENGG-2-18296,Jaypee University of Information Technology-Solan,TLR (100),49.84,TLR
+2017,Engineering,IR17-ENGG-2-18296,Jaypee University of Information Technology-Solan,RPC (100),13.87,RPC
+2017,Engineering,IR17-ENGG-2-18296,Jaypee University of Information Technology-Solan,GO (100),52.03,GO
+2017,Engineering,IR17-ENGG-2-18296,Jaypee University of Information Technology-Solan,OI (100),76.54,OI
+2017,Engineering,IR17-ENGG-2-18296,Jaypee University of Information Technology-Solan,PERCEPTION (100),2.91,PR
+2017,Engineering,IR17-ENGG-1-1-2811165868,R.M.K. Engineering College,TLR (100),60.64,TLR
+2017,Engineering,IR17-ENGG-1-1-2811165868,R.M.K. Engineering College,RPC (100),4.51,RPC
+2017,Engineering,IR17-ENGG-1-1-2811165868,R.M.K. Engineering College,GO (100),55.86,GO
+2017,Engineering,IR17-ENGG-1-1-2811165868,R.M.K. Engineering College,OI (100),61.68,OI
+2017,Engineering,IR17-ENGG-1-1-2811165868,R.M.K. Engineering College,PERCEPTION (100),5.67,PR
+2017,Engineering,IR17-ENGG-1-1-556,Punjab Engineering College,TLR (100),51.52,TLR
+2017,Engineering,IR17-ENGG-1-1-556,Punjab Engineering College,RPC (100),6.65,RPC
+2017,Engineering,IR17-ENGG-1-1-556,Punjab Engineering College,GO (100),60.52,GO
+2017,Engineering,IR17-ENGG-1-1-556,Punjab Engineering College,OI (100),62.62,OI
+2017,Engineering,IR17-ENGG-1-1-556,Punjab Engineering College,PERCEPTION (100),16.34,PR
+2017,Engineering,IR17-ENGG-2-1-541,PES University,TLR (100),52.98,TLR
+2017,Engineering,IR17-ENGG-2-1-541,PES University,RPC (100),8.51,RPC
+2017,Engineering,IR17-ENGG-2-1-541,PES University,GO (100),56.54,GO
+2017,Engineering,IR17-ENGG-2-1-541,PES University,OI (100),58.95,OI
+2017,Engineering,IR17-ENGG-2-1-541,PES University,PERCEPTION (100),16.59,PR
+2017,Engineering,IR17-ENGG-2-18392,National Institute of Technology Manipur,TLR (100),62.72,TLR
+2017,Engineering,IR17-ENGG-2-18392,National Institute of Technology Manipur,RPC (100),0.68,RPC
+2017,Engineering,IR17-ENGG-2-18392,National Institute of Technology Manipur,GO (100),54.18,GO
+2017,Engineering,IR17-ENGG-2-18392,National Institute of Technology Manipur,OI (100),70.89,OI
+2017,Engineering,IR17-ENGG-2-18392,National Institute of Technology Manipur,PERCEPTION (100),3.19,PR
+2017,Engineering,IR17-ENGG-1-18575,"Vignan's Foundation for Science, Technology and Research",TLR (100),57.25,TLR
+2017,Engineering,IR17-ENGG-1-18575,"Vignan's Foundation for Science, Technology and Research",RPC (100),2.82,RPC
+2017,Engineering,IR17-ENGG-1-18575,"Vignan's Foundation for Science, Technology and Research",GO (100),48.23,GO
+2017,Engineering,IR17-ENGG-1-18575,"Vignan's Foundation for Science, Technology and Research",OI (100),70.42,OI
+2017,Engineering,IR17-ENGG-1-18575,"Vignan's Foundation for Science, Technology and Research",PERCEPTION (100),23.89,PR
+2017,Engineering,IR17-ENGG-2-1-57,B.S. Abdur Rahman Institute of Science and Technology,TLR (100),62.6,TLR
+2017,Engineering,IR17-ENGG-2-1-57,B.S. Abdur Rahman Institute of Science and Technology,RPC (100),9.92,RPC
+2017,Engineering,IR17-ENGG-2-1-57,B.S. Abdur Rahman Institute of Science and Technology,GO (100),42.97,GO
+2017,Engineering,IR17-ENGG-2-1-57,B.S. Abdur Rahman Institute of Science and Technology,OI (100),62.83,OI
+2017,Engineering,IR17-ENGG-2-1-57,B.S. Abdur Rahman Institute of Science and Technology,PERCEPTION (100),3.51,PR
+2017,Engineering,IR17-ENGG-2-10487,Chaitanya Bharathi Institute of Technology,TLR (100),58.85,TLR
+2017,Engineering,IR17-ENGG-2-10487,Chaitanya Bharathi Institute of Technology,RPC (100),1.35,RPC
+2017,Engineering,IR17-ENGG-2-10487,Chaitanya Bharathi Institute of Technology,GO (100),57.79,GO
+2017,Engineering,IR17-ENGG-2-10487,Chaitanya Bharathi Institute of Technology,OI (100),65.58,OI
+2017,Engineering,IR17-ENGG-2-10487,Chaitanya Bharathi Institute of Technology,PERCEPTION (100),7.45,PR
+2017,Engineering,IR17-ENGG-2-15188,Saveetha Engineering College,TLR (100),49.94,TLR
+2017,Engineering,IR17-ENGG-2-15188,Saveetha Engineering College,RPC (100),4.73,RPC
+2017,Engineering,IR17-ENGG-2-15188,Saveetha Engineering College,GO (100),64.45,GO
+2017,Engineering,IR17-ENGG-2-15188,Saveetha Engineering College,OI (100),70.27,OI
+2017,Engineering,IR17-ENGG-2-15188,Saveetha Engineering College,PERCEPTION (100),5.64,PR
+2017,Engineering,IR17-ENGG-1-26228,C.V. Raman College of Engineering,TLR (100),52.53,TLR
+2017,Engineering,IR17-ENGG-1-26228,C.V. Raman College of Engineering,RPC (100),5.51,RPC
+2017,Engineering,IR17-ENGG-1-26228,C.V. Raman College of Engineering,GO (100),49.95,GO
+2017,Engineering,IR17-ENGG-1-26228,C.V. Raman College of Engineering,OI (100),72.48,OI
+2017,Engineering,IR17-ENGG-1-26228,C.V. Raman College of Engineering,PERCEPTION (100),21.66,PR
+2017,Engineering,IR17-ENGG-2-10284,College of Engineering Trivandrum,TLR (100),49.73,TLR
+2017,Engineering,IR17-ENGG-2-10284,College of Engineering Trivandrum,RPC (100),9.47,RPC
+2017,Engineering,IR17-ENGG-2-10284,College of Engineering Trivandrum,GO (100),55.11,GO
+2017,Engineering,IR17-ENGG-2-10284,College of Engineering Trivandrum,OI (100),62.08,OI
+2017,Engineering,IR17-ENGG-2-10284,College of Engineering Trivandrum,PERCEPTION (100),18.11,PR
+2017,Engineering,IR17-ENGG-2-10476,"Maharashtra Institute of Technology, Pune",TLR (100),62.7,TLR
+2017,Engineering,IR17-ENGG-2-10476,"Maharashtra Institute of Technology, Pune",RPC (100),3.4,RPC
+2017,Engineering,IR17-ENGG-2-10476,"Maharashtra Institute of Technology, Pune",GO (100),52.13,GO
+2017,Engineering,IR17-ENGG-2-10476,"Maharashtra Institute of Technology, Pune",OI (100),63.39,OI
+2017,Engineering,IR17-ENGG-2-10476,"Maharashtra Institute of Technology, Pune",PERCEPTION (100),1.46,PR
+2017,Engineering,IR17-ENGG-1-12784,BMS Institute of Technology & Management,TLR (100),60.5,TLR
+2017,Engineering,IR17-ENGG-1-12784,BMS Institute of Technology & Management,RPC (100),5.27,RPC
+2017,Engineering,IR17-ENGG-1-12784,BMS Institute of Technology & Management,GO (100),50.66,GO
+2017,Engineering,IR17-ENGG-1-12784,BMS Institute of Technology & Management,OI (100),62.29,OI
+2017,Engineering,IR17-ENGG-1-12784,BMS Institute of Technology & Management,PERCEPTION (100),5.78,PR
+2017,Engineering,IR17-ENGG-2-12411,Sri Sai Ram Engineering College,TLR (100),54.19,TLR
+2017,Engineering,IR17-ENGG-2-12411,Sri Sai Ram Engineering College,RPC (100),3.84,RPC
+2017,Engineering,IR17-ENGG-2-12411,Sri Sai Ram Engineering College,GO (100),59.32,GO
+2017,Engineering,IR17-ENGG-2-12411,Sri Sai Ram Engineering College,OI (100),68.75,OI
+2017,Engineering,IR17-ENGG-2-12411,Sri Sai Ram Engineering College,PERCEPTION (100),4.86,PR
+2017,Engineering,IR17-ENGG-2-12581,ST. Joseph's College of Engineering,TLR (100),59.47,TLR
+2017,Engineering,IR17-ENGG-2-12581,ST. Joseph's College of Engineering,RPC (100),6.74,RPC
+2017,Engineering,IR17-ENGG-2-12581,ST. Joseph's College of Engineering,GO (100),49.39,GO
+2017,Engineering,IR17-ENGG-2-12581,ST. Joseph's College of Engineering,OI (100),64.92,OI
+2017,Engineering,IR17-ENGG-2-12581,ST. Joseph's College of Engineering,PERCEPTION (100),2.8,PR
+2017,Engineering,IR17-ENGG-2-1-31,Andhra University,TLR (100),41.94,TLR
+2017,Engineering,IR17-ENGG-2-1-31,Andhra University,RPC (100),15.81,RPC
+2017,Engineering,IR17-ENGG-2-1-31,Andhra University,GO (100),66.86,GO
+2017,Engineering,IR17-ENGG-2-1-31,Andhra University,OI (100),48.27,OI
+2017,Engineering,IR17-ENGG-2-1-31,Andhra University,PERCEPTION (100),9.03,PR
+2017,Engineering,IR17-ENGG-2-1-2810997882,K.S.Rangasamy College of Technology,TLR (100),53.78,TLR
+2017,Engineering,IR17-ENGG-2-1-2810997882,K.S.Rangasamy College of Technology,RPC (100),14.29,RPC
+2017,Engineering,IR17-ENGG-2-1-2810997882,K.S.Rangasamy College of Technology,GO (100),46.44,GO
+2017,Engineering,IR17-ENGG-2-1-2810997882,K.S.Rangasamy College of Technology,OI (100),60.98,OI
+2017,Engineering,IR17-ENGG-2-1-2810997882,K.S.Rangasamy College of Technology,PERCEPTION (100),5.85,PR
+2017,Engineering,IR17-ENGG-2-1-365,National Institute of Technology Meghalaya,TLR (100),62.02,TLR
+2017,Engineering,IR17-ENGG-2-1-365,National Institute of Technology Meghalaya,RPC (100),4.12,RPC
+2017,Engineering,IR17-ENGG-2-1-365,National Institute of Technology Meghalaya,GO (100),48.34,GO
+2017,Engineering,IR17-ENGG-2-1-365,National Institute of Technology Meghalaya,OI (100),60.6,OI
+2017,Engineering,IR17-ENGG-2-1-365,National Institute of Technology Meghalaya,PERCEPTION (100),6.29,PR

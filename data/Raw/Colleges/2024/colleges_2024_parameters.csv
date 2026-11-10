@@ -1,0 +1,501 @@
+year,category,institute_id,institute_name,parameter_name,parameter_score,canonical_parameter
+2024,Colleges,IR-C-C-6377,Hindu College,TLR (100),63.91,TLR
+2024,Colleges,IR-C-C-6377,Hindu College,RPC (100),59.88,RPC
+2024,Colleges,IR-C-C-6377,Hindu College,GO (100),90.57,GO
+2024,Colleges,IR-C-C-6377,Hindu College,OI (100),77.68,OI
+2024,Colleges,IR-C-C-6377,Hindu College,PERCEPTION (100),95.21,PR
+2024,Colleges,IR-C-C-6355,Miranda House,TLR (100),63.31,TLR
+2024,Colleges,IR-C-C-6355,Miranda House,RPC (100),64.01,RPC
+2024,Colleges,IR-C-C-6355,Miranda House,GO (100),87.63,GO
+2024,Colleges,IR-C-C-6355,Miranda House,OI (100),77.22,OI
+2024,Colleges,IR-C-C-6355,Miranda House,PERCEPTION (100),86.65,PR
+2024,Colleges,IR-C-C-22470,St. Stephens's College,TLR (100),71.94,TLR
+2024,Colleges,IR-C-C-22470,St. Stephens's College,RPC (100),36.27,RPC
+2024,Colleges,IR-C-C-22470,St. Stephens's College,GO (100),88.46,GO
+2024,Colleges,IR-C-C-22470,St. Stephens's College,OI (100),73.84,OI
+2024,Colleges,IR-C-C-22470,St. Stephens's College,PERCEPTION (100),92.47,PR
+2024,Colleges,IR-C-I-1317,Rama Krishna Mission Vivekananda Centenary College,TLR (100),72.3,TLR
+2024,Colleges,IR-C-I-1317,Rama Krishna Mission Vivekananda Centenary College,RPC (100),65.33,RPC
+2024,Colleges,IR-C-I-1317,Rama Krishna Mission Vivekananda Centenary College,GO (100),100.0,GO
+2024,Colleges,IR-C-I-1317,Rama Krishna Mission Vivekananda Centenary College,OI (100),53.69,OI
+2024,Colleges,IR-C-I-1317,Rama Krishna Mission Vivekananda Centenary College,PERCEPTION (100),38.75,PR
+2024,Colleges,IR-C-C-22462,Atma Ram Sanatan Dharm College,TLR (100),64.86,TLR
+2024,Colleges,IR-C-C-22462,Atma Ram Sanatan Dharm College,RPC (100),94.84,RPC
+2024,Colleges,IR-C-C-22462,Atma Ram Sanatan Dharm College,GO (100),78.35,GO
+2024,Colleges,IR-C-C-22462,Atma Ram Sanatan Dharm College,OI (100),73.45,OI
+2024,Colleges,IR-C-C-22462,Atma Ram Sanatan Dharm College,PERCEPTION (100),54.87,PR
+2024,Colleges,IR-C-C-11881,St. Xavier`s College,TLR (100),66.78,TLR
+2024,Colleges,IR-C-C-11881,St. Xavier`s College,RPC (100),67.75,RPC
+2024,Colleges,IR-C-C-11881,St. Xavier`s College,GO (100),88.22,GO
+2024,Colleges,IR-C-C-11881,St. Xavier`s College,OI (100),57.23,OI
+2024,Colleges,IR-C-C-11881,St. Xavier`s College,PERCEPTION (100),74.99,PR
+2024,Colleges,IR-C-C-41046,PSGR Krishnammal College for Women,TLR (100),73.19,TLR
+2024,Colleges,IR-C-C-41046,PSGR Krishnammal College for Women,RPC (100),55.22,RPC
+2024,Colleges,IR-C-C-41046,PSGR Krishnammal College for Women,GO (100),81.67,GO
+2024,Colleges,IR-C-C-41046,PSGR Krishnammal College for Women,OI (100),66.27,OI
+2024,Colleges,IR-C-C-41046,PSGR Krishnammal College for Women,PERCEPTION (100),74.81,PR
+2024,Colleges,IR-C-C-44006,Loyola College,TLR (100),62.47,TLR
+2024,Colleges,IR-C-C-44006,Loyola College,RPC (100),100.0,RPC
+2024,Colleges,IR-C-C-44006,Loyola College,GO (100),64.52,GO
+2024,Colleges,IR-C-C-44006,Loyola College,OI (100),46.51,OI
+2024,Colleges,IR-C-C-44006,Loyola College,PERCEPTION (100),99.7,PR
+2024,Colleges,IR-C-C-6385,Kirori Mal College,TLR (100),62.96,TLR
+2024,Colleges,IR-C-C-6385,Kirori Mal College,RPC (100),76.99,RPC
+2024,Colleges,IR-C-C-6385,Kirori Mal College,GO (100),81.58,GO
+2024,Colleges,IR-C-C-6385,Kirori Mal College,OI (100),73.33,OI
+2024,Colleges,IR-C-C-6385,Kirori Mal College,PERCEPTION (100),53.99,PR
+2024,Colleges,IR-C-C-6415,Lady Shri Ram College for Women,TLR (100),60.27,TLR
+2024,Colleges,IR-C-C-6415,Lady Shri Ram College for Women,RPC (100),29.01,RPC
+2024,Colleges,IR-C-C-6415,Lady Shri Ram College for Women,GO (100),93.87,GO
+2024,Colleges,IR-C-C-6415,Lady Shri Ram College for Women,OI (100),75.59,OI
+2024,Colleges,IR-C-C-6415,Lady Shri Ram College for Women,PERCEPTION (100),100.0,PR
+2024,Colleges,IR-C-C-41124,PSG College of Arts and Science,TLR (100),67.4,TLR
+2024,Colleges,IR-C-C-41124,PSG College of Arts and Science,RPC (100),67.37,RPC
+2024,Colleges,IR-C-C-41124,PSG College of Arts and Science,GO (100),71.92,GO
+2024,Colleges,IR-C-C-41124,PSG College of Arts and Science,OI (100),53.35,OI
+2024,Colleges,IR-C-C-41124,PSG College of Arts and Science,PERCEPTION (100),86.79,PR
+2024,Colleges,IR-C-C-6425,Hans Raj College,TLR (100),56.38,TLR
+2024,Colleges,IR-C-C-6425,Hans Raj College,RPC (100),80.11,RPC
+2024,Colleges,IR-C-C-6425,Hans Raj College,GO (100),75.67,GO
+2024,Colleges,IR-C-C-6425,Hans Raj College,OI (100),78.59,OI
+2024,Colleges,IR-C-C-6425,Hans Raj College,PERCEPTION (100),74.09,PR
+2024,Colleges,IR-C-C-43921,Presidency College,TLR (100),69.75,TLR
+2024,Colleges,IR-C-C-43921,Presidency College,RPC (100),70.0,RPC
+2024,Colleges,IR-C-C-43921,Presidency College,GO (100),68.28,GO
+2024,Colleges,IR-C-C-43921,Presidency College,OI (100),52.76,OI
+2024,Colleges,IR-C-C-43921,Presidency College,PERCEPTION (100),76.06,PR
+2024,Colleges,IR-C-C-43965,Madras Christian College,TLR (100),67.7,TLR
+2024,Colleges,IR-C-C-43965,Madras Christian College,RPC (100),70.49,RPC
+2024,Colleges,IR-C-C-43965,Madras Christian College,GO (100),66.1,GO
+2024,Colleges,IR-C-C-43965,Madras Christian College,OI (100),57.37,OI
+2024,Colleges,IR-C-C-43965,Madras Christian College,PERCEPTION (100),74.99,PR
+2024,Colleges,IR-C-C-36513,Thiagarajar College,TLR (100),68.38,TLR
+2024,Colleges,IR-C-C-36513,Thiagarajar College,RPC (100),79.31,RPC
+2024,Colleges,IR-C-C-36513,Thiagarajar College,GO (100),75.35,GO
+2024,Colleges,IR-C-C-36513,Thiagarajar College,OI (100),53.46,OI
+2024,Colleges,IR-C-C-36513,Thiagarajar College,PERCEPTION (100),33.76,PR
+2024,Colleges,IR-C-C-6409,Deshbandhu College,TLR (100),59.84,TLR
+2024,Colleges,IR-C-C-6409,Deshbandhu College,RPC (100),77.62,RPC
+2024,Colleges,IR-C-C-6409,Deshbandhu College,GO (100),85.37,GO
+2024,Colleges,IR-C-C-6409,Deshbandhu College,OI (100),67.74,OI
+2024,Colleges,IR-C-C-6409,Deshbandhu College,PERCEPTION (100),23.41,PR
+2024,Colleges,IR-C-C-11926,Ramakrishna Mission Vidyamandira,TLR (100),70.8,TLR
+2024,Colleges,IR-C-C-11926,Ramakrishna Mission Vidyamandira,RPC (100),59.09,RPC
+2024,Colleges,IR-C-C-11926,Ramakrishna Mission Vidyamandira,GO (100),87.42,GO
+2024,Colleges,IR-C-C-11926,Ramakrishna Mission Vidyamandira,OI (100),29.5,OI
+2024,Colleges,IR-C-C-11926,Ramakrishna Mission Vidyamandira,PERCEPTION (100),35.18,PR
+2024,Colleges,IR-C-C-6380,Acharya Narendra Dev College,TLR (100),68.47,TLR
+2024,Colleges,IR-C-C-6380,Acharya Narendra Dev College,RPC (100),76.19,RPC
+2024,Colleges,IR-C-C-6380,Acharya Narendra Dev College,GO (100),64.52,GO
+2024,Colleges,IR-C-C-6380,Acharya Narendra Dev College,OI (100),63.11,OI
+2024,Colleges,IR-C-C-6380,Acharya Narendra Dev College,PERCEPTION (100),34.71,PR
+2024,Colleges,IR-C-C-6419,Shri Ram College of Commerce,TLR (100),58.44,TLR
+2024,Colleges,IR-C-C-6419,Shri Ram College of Commerce,RPC (100),15.01,RPC
+2024,Colleges,IR-C-C-6419,Shri Ram College of Commerce,GO (100),94.3,GO
+2024,Colleges,IR-C-C-6419,Shri Ram College of Commerce,OI (100),78.42,OI
+2024,Colleges,IR-C-C-6419,Shri Ram College of Commerce,PERCEPTION (100),75.35,PR
+2024,Colleges,IR-C-C-11691,Rajagiri College of Social Sciences,TLR (100),74.17,TLR
+2024,Colleges,IR-C-C-11691,Rajagiri College of Social Sciences,RPC (100),63.26,RPC
+2024,Colleges,IR-C-C-11691,Rajagiri College of Social Sciences,GO (100),71.77,GO
+2024,Colleges,IR-C-C-11691,Rajagiri College of Social Sciences,OI (100),54.54,OI
+2024,Colleges,IR-C-C-11691,Rajagiri College of Social Sciences,PERCEPTION (100),16.73,PR
+2024,Colleges,IR-C-C-6369,Sri Venkateswara College,TLR (100),56.05,TLR
+2024,Colleges,IR-C-C-6369,Sri Venkateswara College,RPC (100),75.8,RPC
+2024,Colleges,IR-C-C-6369,Sri Venkateswara College,GO (100),78.15,GO
+2024,Colleges,IR-C-C-6369,Sri Venkateswara College,OI (100),74.19,OI
+2024,Colleges,IR-C-C-6369,Sri Venkateswara College,PERCEPTION (100),32.29,PR
+2024,Colleges,IR-C-C-43671,"University College, Thiruvananthapuram",TLR (100),73.69,TLR
+2024,Colleges,IR-C-C-43671,"University College, Thiruvananthapuram",RPC (100),56.71,RPC
+2024,Colleges,IR-C-C-43671,"University College, Thiruvananthapuram",GO (100),73.94,GO
+2024,Colleges,IR-C-C-43671,"University College, Thiruvananthapuram",OI (100),54.44,OI
+2024,Colleges,IR-C-C-43671,"University College, Thiruvananthapuram",PERCEPTION (100),17.45,PR
+2024,Colleges,IR-C-C-27608,Lady Irwin College,TLR (100),71.49,TLR
+2024,Colleges,IR-C-C-27608,Lady Irwin College,RPC (100),36.5,RPC
+2024,Colleges,IR-C-C-27608,Lady Irwin College,GO (100),73.7,GO
+2024,Colleges,IR-C-C-27608,Lady Irwin College,OI (100),59.87,OI
+2024,Colleges,IR-C-C-27608,Lady Irwin College,PERCEPTION (100),47.93,PR
+2024,Colleges,IR-C-C-42814,Ramakrishna Mission Residential College,TLR (100),68.47,TLR
+2024,Colleges,IR-C-C-42814,Ramakrishna Mission Residential College,RPC (100),48.96,RPC
+2024,Colleges,IR-C-C-42814,Ramakrishna Mission Residential College,GO (100),86.6,GO
+2024,Colleges,IR-C-C-42814,Ramakrishna Mission Residential College,OI (100),31.71,OI
+2024,Colleges,IR-C-C-42814,Ramakrishna Mission Residential College,PERCEPTION (100),32.29,PR
+2024,Colleges,IR-C-C-35860,"St. Joseph's College, Tiruchirappalli",TLR (100),63.84,TLR
+2024,Colleges,IR-C-C-35860,"St. Joseph's College, Tiruchirappalli",RPC (100),61.55,RPC
+2024,Colleges,IR-C-C-35860,"St. Joseph's College, Tiruchirappalli",GO (100),75.46,GO
+2024,Colleges,IR-C-C-35860,"St. Joseph's College, Tiruchirappalli",OI (100),48.61,OI
+2024,Colleges,IR-C-C-35860,"St. Joseph's College, Tiruchirappalli",PERCEPTION (100),42.43,PR
+2024,Colleges,IR-C-C-6361,Deen Dayal Upadhyaya College,TLR (100),58.6,TLR
+2024,Colleges,IR-C-C-6361,Deen Dayal Upadhyaya College,RPC (100),73.09,RPC
+2024,Colleges,IR-C-C-6361,Deen Dayal Upadhyaya College,GO (100),66.57,GO
+2024,Colleges,IR-C-C-6361,Deen Dayal Upadhyaya College,OI (100),71.91,OI
+2024,Colleges,IR-C-C-6361,Deen Dayal Upadhyaya College,PERCEPTION (100),42.43,PR
+2024,Colleges,IR-C-C-6387,Bhaskaracharya College of Applied Sciences,TLR (100),65.34,TLR
+2024,Colleges,IR-C-C-6387,Bhaskaracharya College of Applied Sciences,RPC (100),82.02,RPC
+2024,Colleges,IR-C-C-6387,Bhaskaracharya College of Applied Sciences,GO (100),64.32,GO
+2024,Colleges,IR-C-C-6387,Bhaskaracharya College of Applied Sciences,OI (100),52.07,OI
+2024,Colleges,IR-C-C-6387,Bhaskaracharya College of Applied Sciences,PERCEPTION (100),18.16,PR
+2024,Colleges,IR-C-C-41157,V.O. Chidambaram College,TLR (100),62.25,TLR
+2024,Colleges,IR-C-C-41157,V.O. Chidambaram College,RPC (100),65.44,RPC
+2024,Colleges,IR-C-C-41157,V.O. Chidambaram College,GO (100),77.46,GO
+2024,Colleges,IR-C-C-41157,V.O. Chidambaram College,OI (100),57.48,OI
+2024,Colleges,IR-C-C-41157,V.O. Chidambaram College,PERCEPTION (100),9.63,PR
+2024,Colleges,IR-C-C-6391,Maitreyi College,TLR (100),62.28,TLR
+2024,Colleges,IR-C-C-6391,Maitreyi College,RPC (100),44.1,RPC
+2024,Colleges,IR-C-C-6391,Maitreyi College,GO (100),79.13,GO
+2024,Colleges,IR-C-C-6391,Maitreyi College,OI (100),70.91,OI
+2024,Colleges,IR-C-C-6391,Maitreyi College,PERCEPTION (100),12.13,PR
+2024,Colleges,IR-C-C-43931,Stella Maris College for Women,TLR (100),57.6,TLR
+2024,Colleges,IR-C-C-43931,Stella Maris College for Women,RPC (100),57.09,RPC
+2024,Colleges,IR-C-C-43931,Stella Maris College for Women,GO (100),64.05,GO
+2024,Colleges,IR-C-C-43931,Stella Maris College for Women,OI (100),61.58,OI
+2024,Colleges,IR-C-C-43931,Stella Maris College for Women,PERCEPTION (100),57.4,PR
+2024,Colleges,IR-C-C-6429,Gargi College,TLR (100),64.31,TLR
+2024,Colleges,IR-C-C-6429,Gargi College,RPC (100),36.91,RPC
+2024,Colleges,IR-C-C-6429,Gargi College,GO (100),68.16,GO
+2024,Colleges,IR-C-C-6429,Gargi College,OI (100),72.38,OI
+2024,Colleges,IR-C-C-6429,Gargi College,PERCEPTION (100),37.45,PR
+2024,Colleges,IR-C-C-19103,Midnapore College,TLR (100),67.67,TLR
+2024,Colleges,IR-C-C-19103,Midnapore College,RPC (100),55.58,RPC
+2024,Colleges,IR-C-C-19103,Midnapore College,GO (100),60.51,GO
+2024,Colleges,IR-C-C-19103,Midnapore College,OI (100),59.7,OI
+2024,Colleges,IR-C-C-19103,Midnapore College,PERCEPTION (100),24.03,PR
+2024,Colleges,IR-C-C-35825,Bishop Heber College,TLR (100),58.63,TLR
+2024,Colleges,IR-C-C-35825,Bishop Heber College,RPC (100),53.63,RPC
+2024,Colleges,IR-C-C-35825,Bishop Heber College,GO (100),73.04,GO
+2024,Colleges,IR-C-C-35825,Bishop Heber College,OI (100),48.58,OI
+2024,Colleges,IR-C-C-35825,Bishop Heber College,PERCEPTION (100),40.02,PR
+2024,Colleges,IR-C-C-6432,Dyal Singh College,TLR (100),63.15,TLR
+2024,Colleges,IR-C-C-6432,Dyal Singh College,RPC (100),46.5,RPC
+2024,Colleges,IR-C-C-6432,Dyal Singh College,GO (100),70.69,GO
+2024,Colleges,IR-C-C-6432,Dyal Singh College,OI (100),70.38,OI
+2024,Colleges,IR-C-C-6432,Dyal Singh College,PERCEPTION (100),16.0,PR
+2024,Colleges,IR-C-C-8308,Pachhunga University College,TLR (100),59.99,TLR
+2024,Colleges,IR-C-C-8308,Pachhunga University College,RPC (100),80.46,RPC
+2024,Colleges,IR-C-C-8308,Pachhunga University College,GO (100),63.87,GO
+2024,Colleges,IR-C-C-8308,Pachhunga University College,OI (100),56.86,OI
+2024,Colleges,IR-C-C-8308,Pachhunga University College,PERCEPTION (100),5.09,PR
+2024,Colleges,IR-C-C-41173,"St. Xavier's College, Palayamkottai",TLR (100),63.11,TLR
+2024,Colleges,IR-C-C-41173,"St. Xavier's College, Palayamkottai",RPC (100),63.95,RPC
+2024,Colleges,IR-C-C-41173,"St. Xavier's College, Palayamkottai",GO (100),64.34,GO
+2024,Colleges,IR-C-C-41173,"St. Xavier's College, Palayamkottai",OI (100),51.53,OI
+2024,Colleges,IR-C-C-41173,"St. Xavier's College, Palayamkottai",PERCEPTION (100),21.52,PR
+2024,Colleges,IR-C-C-41126,Sri Krishna Arts and Science College,TLR (100),64.19,TLR
+2024,Colleges,IR-C-C-41126,Sri Krishna Arts and Science College,RPC (100),18.36,RPC
+2024,Colleges,IR-C-C-41126,Sri Krishna Arts and Science College,GO (100),87.28,GO
+2024,Colleges,IR-C-C-41126,Sri Krishna Arts and Science College,OI (100),59.65,OI
+2024,Colleges,IR-C-C-41126,Sri Krishna Arts and Science College,PERCEPTION (100),20.21,PR
+2024,Colleges,IR-C-C-6426,Shaheed Rajguru College of Applied Sciences for Women,TLR (100),61.8,TLR
+2024,Colleges,IR-C-C-6426,Shaheed Rajguru College of Applied Sciences for Women,RPC (100),60.95,RPC
+2024,Colleges,IR-C-C-6426,Shaheed Rajguru College of Applied Sciences for Women,GO (100),68.26,GO
+2024,Colleges,IR-C-C-6426,Shaheed Rajguru College of Applied Sciences for Women,OI (100),69.4,OI
+2024,Colleges,IR-C-C-6426,Shaheed Rajguru College of Applied Sciences for Women,PERCEPTION (100),3.13,PR
+2024,Colleges,IR-C-C-6420,Jesus & Mary College,TLR (100),64.79,TLR
+2024,Colleges,IR-C-C-6420,Jesus & Mary College,RPC (100),11.91,RPC
+2024,Colleges,IR-C-C-6420,Jesus & Mary College,GO (100),80.52,GO
+2024,Colleges,IR-C-C-6420,Jesus & Mary College,OI (100),68.66,OI
+2024,Colleges,IR-C-C-6420,Jesus & Mary College,PERCEPTION (100),30.76,PR
+2024,Colleges,IR-C-C-6413,Sri Guru Gobind Singh College of Commerce,TLR (100),62.76,TLR
+2024,Colleges,IR-C-C-6413,Sri Guru Gobind Singh College of Commerce,RPC (100),7.07,RPC
+2024,Colleges,IR-C-C-6413,Sri Guru Gobind Singh College of Commerce,GO (100),93.04,GO
+2024,Colleges,IR-C-C-6413,Sri Guru Gobind Singh College of Commerce,OI (100),67.7,OI
+2024,Colleges,IR-C-C-6413,Sri Guru Gobind Singh College of Commerce,PERCEPTION (100),16.0,PR
+2024,Colleges,IR-C-C-35787,"Holy Cross College, Tiruchirappalli",TLR (100),64.71,TLR
+2024,Colleges,IR-C-C-35787,"Holy Cross College, Tiruchirappalli",RPC (100),34.29,RPC
+2024,Colleges,IR-C-C-35787,"Holy Cross College, Tiruchirappalli",GO (100),75.78,GO
+2024,Colleges,IR-C-C-35787,"Holy Cross College, Tiruchirappalli",OI (100),54.72,OI
+2024,Colleges,IR-C-C-35787,"Holy Cross College, Tiruchirappalli",PERCEPTION (100),20.87,PR
+2024,Colleges,IR-C-C-41154,"Nesamony Memorial Christian College, Marthandam, Kanyakumari Dist.",TLR (100),68.06,TLR
+2024,Colleges,IR-C-C-41154,"Nesamony Memorial Christian College, Marthandam, Kanyakumari Dist.",RPC (100),65.42,RPC
+2024,Colleges,IR-C-C-41154,"Nesamony Memorial Christian College, Marthandam, Kanyakumari Dist.",GO (100),57.2,GO
+2024,Colleges,IR-C-C-41154,"Nesamony Memorial Christian College, Marthandam, Kanyakumari Dist.",OI (100),55.8,OI
+2024,Colleges,IR-C-C-41154,"Nesamony Memorial Christian College, Marthandam, Kanyakumari Dist.",PERCEPTION (100),1.07,PR
+2024,Colleges,IR-C-C-6417,Kamala Nehru College,TLR (100),57.16,TLR
+2024,Colleges,IR-C-C-6417,Kamala Nehru College,RPC (100),16.09,RPC
+2024,Colleges,IR-C-C-6417,Kamala Nehru College,GO (100),87.54,GO
+2024,Colleges,IR-C-C-6417,Kamala Nehru College,OI (100),76.5,OI
+2024,Colleges,IR-C-C-6417,Kamala Nehru College,PERCEPTION (100),21.52,PR
+2024,Colleges,IR-C-C-35868,Dhanalakshmi Srinivasan College of Arts and Science for Women,TLR (100),73.26,TLR
+2024,Colleges,IR-C-C-35868,Dhanalakshmi Srinivasan College of Arts and Science for Women,RPC (100),11.56,RPC
+2024,Colleges,IR-C-C-35868,Dhanalakshmi Srinivasan College of Arts and Science for Women,GO (100),71.24,GO
+2024,Colleges,IR-C-C-35868,Dhanalakshmi Srinivasan College of Arts and Science for Women,OI (100),62.47,OI
+2024,Colleges,IR-C-C-35868,Dhanalakshmi Srinivasan College of Arts and Science for Women,PERCEPTION (100),18.16,PR
+2024,Colleges,IR-C-I-1385,Fergusson College (Autonomous),TLR (100),48.85,TLR
+2024,Colleges,IR-C-I-1385,Fergusson College (Autonomous),RPC (100),30.42,RPC
+2024,Colleges,IR-C-I-1385,Fergusson College (Autonomous),GO (100),73.22,GO
+2024,Colleges,IR-C-I-1385,Fergusson College (Autonomous),OI (100),51.37,OI
+2024,Colleges,IR-C-I-1385,Fergusson College (Autonomous),PERCEPTION (100),92.35,PR
+2024,Colleges,IR-C-C-11582,"St. Teresa's College, Ernakulam",TLR (100),69.75,TLR
+2024,Colleges,IR-C-C-11582,"St. Teresa's College, Ernakulam",RPC (100),15.25,RPC
+2024,Colleges,IR-C-C-11582,"St. Teresa's College, Ernakulam",GO (100),79.87,GO
+2024,Colleges,IR-C-C-11582,"St. Teresa's College, Ernakulam",OI (100),56.67,OI
+2024,Colleges,IR-C-C-11582,"St. Teresa's College, Ernakulam",PERCEPTION (100),8.76,PR
+2024,Colleges,IR-C-C-36411,Sacred Heart College (Autonomous),TLR (100),56.78,TLR
+2024,Colleges,IR-C-C-36411,Sacred Heart College (Autonomous),RPC (100),87.7,RPC
+2024,Colleges,IR-C-C-36411,Sacred Heart College (Autonomous),GO (100),56.29,GO
+2024,Colleges,IR-C-C-36411,Sacred Heart College (Autonomous),OI (100),53.71,OI
+2024,Colleges,IR-C-C-36411,Sacred Heart College (Autonomous),PERCEPTION (100),11.32,PR
+2024,Colleges,IR-C-C-11708,Sacred Heart College,TLR (100),62.29,TLR
+2024,Colleges,IR-C-C-11708,Sacred Heart College,RPC (100),44.4,RPC
+2024,Colleges,IR-C-C-11708,Sacred Heart College,GO (100),73.24,GO
+2024,Colleges,IR-C-C-11708,Sacred Heart College,OI (100),54.57,OI
+2024,Colleges,IR-C-C-11708,Sacred Heart College,PERCEPTION (100),9.63,PR
+2024,Colleges,IR-C-C-6366,Shivaji College,TLR (100),56.65,TLR
+2024,Colleges,IR-C-C-6366,Shivaji College,RPC (100),52.51,RPC
+2024,Colleges,IR-C-C-6366,Shivaji College,GO (100),76.04,GO
+2024,Colleges,IR-C-C-6366,Shivaji College,OI (100),60.49,OI
+2024,Colleges,IR-C-C-6366,Shivaji College,PERCEPTION (100),5.09,PR
+2024,Colleges,IR-C-C-43705,"Govt. College for Women, Thiruvananthapuram",TLR (100),68.72,TLR
+2024,Colleges,IR-C-C-43705,"Govt. College for Women, Thiruvananthapuram",RPC (100),44.04,RPC
+2024,Colleges,IR-C-C-43705,"Govt. College for Women, Thiruvananthapuram",GO (100),61.99,GO
+2024,Colleges,IR-C-C-43705,"Govt. College for Women, Thiruvananthapuram",OI (100),52.99,OI
+2024,Colleges,IR-C-C-43705,"Govt. College for Women, Thiruvananthapuram",PERCEPTION (100),12.13,PR
+2024,Colleges,IR-C-C-29284,Govt Home Science College,TLR (100),65.39,TLR
+2024,Colleges,IR-C-C-29284,Govt Home Science College,RPC (100),10.7,RPC
+2024,Colleges,IR-C-C-29284,Govt Home Science College,GO (100),81.21,GO
+2024,Colleges,IR-C-C-29284,Govt Home Science College,OI (100),63.35,OI
+2024,Colleges,IR-C-C-29284,Govt Home Science College,PERCEPTION (100),15.25,PR
+2024,Colleges,IR-C-C-41106,Kongunadu Arts and Science College,TLR (100),47.3,TLR
+2024,Colleges,IR-C-C-41106,Kongunadu Arts and Science College,RPC (100),82.32,RPC
+2024,Colleges,IR-C-C-41106,Kongunadu Arts and Science College,GO (100),69.75,GO
+2024,Colleges,IR-C-C-41106,Kongunadu Arts and Science College,OI (100),42.28,OI
+2024,Colleges,IR-C-C-41106,Kongunadu Arts and Science College,PERCEPTION (100),29.71,PR
+2024,Colleges,IR-C-C-11697,"Maharaja's College, Ernakulam",TLR (100),70.45,TLR
+2024,Colleges,IR-C-C-11697,"Maharaja's College, Ernakulam",RPC (100),32.16,RPC
+2024,Colleges,IR-C-C-11697,"Maharaja's College, Ernakulam",GO (100),62.74,GO
+2024,Colleges,IR-C-C-11697,"Maharaja's College, Ernakulam",OI (100),56.51,OI
+2024,Colleges,IR-C-C-11697,"Maharaja's College, Ernakulam",PERCEPTION (100),13.72,PR
+2024,Colleges,IR-C-C-36547,The American College,TLR (100),67.64,TLR
+2024,Colleges,IR-C-C-36547,The American College,RPC (100),43.74,RPC
+2024,Colleges,IR-C-C-36547,The American College,GO (100),58.12,GO
+2024,Colleges,IR-C-C-36547,The American College,OI (100),45.83,OI
+2024,Colleges,IR-C-C-36547,The American College,PERCEPTION (100),29.71,PR
+2024,Colleges,IR-C-C-20830,St. Joseph`s College of Commerce,TLR (100),60.78,TLR
+2024,Colleges,IR-C-C-20830,St. Joseph`s College of Commerce,RPC (100),1.67,RPC
+2024,Colleges,IR-C-C-20830,St. Joseph`s College of Commerce,GO (100),87.59,GO
+2024,Colleges,IR-C-C-20830,St. Joseph`s College of Commerce,OI (100),65.49,OI
+2024,Colleges,IR-C-C-20830,St. Joseph`s College of Commerce,PERCEPTION (100),26.4,PR
+2024,Colleges,IR-C-C-41100,Sri Ramakrishna College of Arts and Science,TLR (100),66.48,TLR
+2024,Colleges,IR-C-C-41100,Sri Ramakrishna College of Arts and Science,RPC (100),17.53,RPC
+2024,Colleges,IR-C-C-41100,Sri Ramakrishna College of Arts and Science,GO (100),74.7,GO
+2024,Colleges,IR-C-C-41100,Sri Ramakrishna College of Arts and Science,OI (100),55.3,OI
+2024,Colleges,IR-C-C-41100,Sri Ramakrishna College of Arts and Science,PERCEPTION (100),22.16,PR
+2024,Colleges,IR-C-C-8169,"St. Thomas College, Thrissur",TLR (100),59.8,TLR
+2024,Colleges,IR-C-C-8169,"St. Thomas College, Thrissur",RPC (100),39.8,RPC
+2024,Colleges,IR-C-C-8169,"St. Thomas College, Thrissur",GO (100),78.35,GO
+2024,Colleges,IR-C-C-8169,"St. Thomas College, Thrissur",OI (100),54.13,OI
+2024,Colleges,IR-C-C-8169,"St. Thomas College, Thrissur",PERCEPTION (100),6.97,PR
+2024,Colleges,IR-C-C-16897,St. Aloysius College,TLR (100),63.88,TLR
+2024,Colleges,IR-C-C-16897,St. Aloysius College,RPC (100),22.58,RPC
+2024,Colleges,IR-C-C-16897,St. Aloysius College,GO (100),67.05,GO
+2024,Colleges,IR-C-C-16897,St. Aloysius College,OI (100),70.64,OI
+2024,Colleges,IR-C-C-16897,St. Aloysius College,PERCEPTION (100),28.09,PR
+2024,Colleges,IR-C-C-35832,"Jamal Mohamed College, Tiruchirappalli",TLR (100),62.92,TLR
+2024,Colleges,IR-C-C-35832,"Jamal Mohamed College, Tiruchirappalli",RPC (100),43.06,RPC
+2024,Colleges,IR-C-C-35832,"Jamal Mohamed College, Tiruchirappalli",GO (100),66.77,GO
+2024,Colleges,IR-C-C-35832,"Jamal Mohamed College, Tiruchirappalli",OI (100),50.46,OI
+2024,Colleges,IR-C-C-35832,"Jamal Mohamed College, Tiruchirappalli",PERCEPTION (100),20.87,PR
+2024,Colleges,IR-C-C-20653,Kristu Jayanti College,TLR (100),63.69,TLR
+2024,Colleges,IR-C-C-20653,Kristu Jayanti College,RPC (100),36.04,RPC
+2024,Colleges,IR-C-C-20653,Kristu Jayanti College,GO (100),63.79,GO
+2024,Colleges,IR-C-C-20653,Kristu Jayanti College,OI (100),69.93,OI
+2024,Colleges,IR-C-C-20653,Kristu Jayanti College,PERCEPTION (100),15.25,PR
+2024,Colleges,IR-C-C-8010,"St. Joseph`s College, Devagiri",TLR (100),66.88,TLR
+2024,Colleges,IR-C-C-8010,"St. Joseph`s College, Devagiri",RPC (100),32.16,RPC
+2024,Colleges,IR-C-C-8010,"St. Joseph`s College, Devagiri",GO (100),68.62,GO
+2024,Colleges,IR-C-C-8010,"St. Joseph`s College, Devagiri",OI (100),53.18,OI
+2024,Colleges,IR-C-C-8010,"St. Joseph`s College, Devagiri",PERCEPTION (100),12.93,PR
+2024,Colleges,IR-C-C-43711,Bishop Moore College,TLR (100),61.37,TLR
+2024,Colleges,IR-C-C-43711,Bishop Moore College,RPC (100),66.82,RPC
+2024,Colleges,IR-C-C-43711,Bishop Moore College,GO (100),59.78,GO
+2024,Colleges,IR-C-C-43711,Bishop Moore College,OI (100),55.27,OI
+2024,Colleges,IR-C-C-43711,Bishop Moore College,PERCEPTION (100),2.11,PR
+2024,Colleges,IR-C-C-36579,Ayya Nadar Janaki Ammal College,TLR (100),60.92,TLR
+2024,Colleges,IR-C-C-36579,Ayya Nadar Janaki Ammal College,RPC (100),44.15,RPC
+2024,Colleges,IR-C-C-36579,Ayya Nadar Janaki Ammal College,GO (100),66.55,GO
+2024,Colleges,IR-C-C-36579,Ayya Nadar Janaki Ammal College,OI (100),49.77,OI
+2024,Colleges,IR-C-C-36579,Ayya Nadar Janaki Ammal College,PERCEPTION (100),25.23,PR
+2024,Colleges,IR-C-C-18938,"Government Institute of Science, Nagpur",TLR (100),63.25,TLR
+2024,Colleges,IR-C-C-18938,"Government Institute of Science, Nagpur",RPC (100),33.41,RPC
+2024,Colleges,IR-C-C-18938,"Government Institute of Science, Nagpur",GO (100),69.01,GO
+2024,Colleges,IR-C-C-18938,"Government Institute of Science, Nagpur",OI (100),54.04,OI
+2024,Colleges,IR-C-C-18938,"Government Institute of Science, Nagpur",PERCEPTION (100),19.53,PR
+2024,Colleges,IR-C-C-6431,Ramanujan College,TLR (100),55.81,TLR
+2024,Colleges,IR-C-C-6431,Ramanujan College,RPC (100),35.13,RPC
+2024,Colleges,IR-C-C-6431,Ramanujan College,GO (100),80.63,GO
+2024,Colleges,IR-C-C-6431,Ramanujan College,OI (100),60.55,OI
+2024,Colleges,IR-C-C-6431,Ramanujan College,PERCEPTION (100),10.48,PR
+2024,Colleges,IR-C-C-43767,Mar Ivanios College,TLR (100),56.75,TLR
+2024,Colleges,IR-C-C-43767,Mar Ivanios College,RPC (100),67.87,RPC
+2024,Colleges,IR-C-C-43767,Mar Ivanios College,GO (100),63.4,GO
+2024,Colleges,IR-C-C-43767,Mar Ivanios College,OI (100),53.23,OI
+2024,Colleges,IR-C-C-43767,Mar Ivanios College,PERCEPTION (100),6.97,PR
+2024,Colleges,IR-C-C-43946,Women`s Christian College,TLR (100),59.53,TLR
+2024,Colleges,IR-C-C-43946,Women`s Christian College,RPC (100),27.61,RPC
+2024,Colleges,IR-C-C-43946,Women`s Christian College,GO (100),69.85,GO
+2024,Colleges,IR-C-C-43946,Women`s Christian College,OI (100),59.96,OI
+2024,Colleges,IR-C-C-43946,Women`s Christian College,PERCEPTION (100),31.28,PR
+2024,Colleges,IR-C-C-41035,Government Arts College,TLR (100),63.26,TLR
+2024,Colleges,IR-C-C-41035,Government Arts College,RPC (100),23.6,RPC
+2024,Colleges,IR-C-C-41035,Government Arts College,GO (100),71.05,GO
+2024,Colleges,IR-C-C-41035,Government Arts College,OI (100),54.84,OI
+2024,Colleges,IR-C-C-41035,Government Arts College,PERCEPTION (100),24.63,PR
+2024,Colleges,IR-C-C-11831,"S.B. College, Changanassery",TLR (100),57.14,TLR
+2024,Colleges,IR-C-C-11831,"S.B. College, Changanassery",RPC (100),70.0,RPC
+2024,Colleges,IR-C-C-11831,"S.B. College, Changanassery",GO (100),65.17,GO
+2024,Colleges,IR-C-C-11831,"S.B. College, Changanassery",OI (100),47.48,OI
+2024,Colleges,IR-C-C-11831,"S.B. College, Changanassery",PERCEPTION (100),1.07,PR
+2024,Colleges,IR-C-I-1373,Goswami Ganesh Dutta S.D. College,TLR (100),46.83,TLR
+2024,Colleges,IR-C-I-1373,Goswami Ganesh Dutta S.D. College,RPC (100),36.48,RPC
+2024,Colleges,IR-C-I-1373,Goswami Ganesh Dutta S.D. College,GO (100),83.08,GO
+2024,Colleges,IR-C-I-1373,Goswami Ganesh Dutta S.D. College,OI (100),73.77,OI
+2024,Colleges,IR-C-I-1373,Goswami Ganesh Dutta S.D. College,PERCEPTION (100),21.52,PR
+2024,Colleges,IR-C-N-6,Queen Mary`s College,TLR (100),58.17,TLR
+2024,Colleges,IR-C-N-6,Queen Mary`s College,RPC (100),32.65,RPC
+2024,Colleges,IR-C-N-6,Queen Mary`s College,GO (100),72.64,GO
+2024,Colleges,IR-C-N-6,Queen Mary`s College,OI (100),58.23,OI
+2024,Colleges,IR-C-N-6,Queen Mary`s College,PERCEPTION (100),23.41,PR
+2024,Colleges,IR-C-C-6367,Daulat Ram College,TLR (100),53.45,TLR
+2024,Colleges,IR-C-C-6367,Daulat Ram College,RPC (100),25.42,RPC
+2024,Colleges,IR-C-C-6367,Daulat Ram College,GO (100),68.59,GO
+2024,Colleges,IR-C-C-6367,Daulat Ram College,OI (100),73.42,OI
+2024,Colleges,IR-C-C-6367,Daulat Ram College,PERCEPTION (100),46.88,PR
+2024,Colleges,IR-C-C-43964,Madras School of Social Work,TLR (100),66.93,TLR
+2024,Colleges,IR-C-C-43964,Madras School of Social Work,RPC (100),2.7,RPC
+2024,Colleges,IR-C-C-43964,Madras School of Social Work,GO (100),79.2,GO
+2024,Colleges,IR-C-C-43964,Madras School of Social Work,OI (100),53.71,OI
+2024,Colleges,IR-C-C-43964,Madras School of Social Work,PERCEPTION (100),18.16,PR
+2024,Colleges,IR-C-C-11815,Mar Athanasius College,TLR (100),64.27,TLR
+2024,Colleges,IR-C-C-11815,Mar Athanasius College,RPC (100),39.18,RPC
+2024,Colleges,IR-C-C-11815,Mar Athanasius College,GO (100),66.72,GO
+2024,Colleges,IR-C-C-11815,Mar Athanasius College,OI (100),54.61,OI
+2024,Colleges,IR-C-C-11815,Mar Athanasius College,PERCEPTION (100),2.11,PR
+2024,Colleges,IR-C-C-41054,Dr. N. G. P. Arts and Science College,TLR (100),59.04,TLR
+2024,Colleges,IR-C-C-41054,Dr. N. G. P. Arts and Science College,RPC (100),35.03,RPC
+2024,Colleges,IR-C-C-41054,Dr. N. G. P. Arts and Science College,GO (100),71.33,GO
+2024,Colleges,IR-C-C-41054,Dr. N. G. P. Arts and Science College,OI (100),52.82,OI
+2024,Colleges,IR-C-C-41054,Dr. N. G. P. Arts and Science College,PERCEPTION (100),19.53,PR
+2024,Colleges,IR-C-C-28526,Alagappa Government Arts College,TLR (100),55.04,TLR
+2024,Colleges,IR-C-C-28526,Alagappa Government Arts College,RPC (100),38.45,RPC
+2024,Colleges,IR-C-C-28526,Alagappa Government Arts College,GO (100),70.71,GO
+2024,Colleges,IR-C-C-28526,Alagappa Government Arts College,OI (100),47.86,OI
+2024,Colleges,IR-C-C-28526,Alagappa Government Arts College,PERCEPTION (100),36.1,PR
+2024,Colleges,IR-C-C-6502,Kanchi Mamunivar Govt. Institute for Postgraduate Studies and Research,TLR (100),50.98,TLR
+2024,Colleges,IR-C-C-6502,Kanchi Mamunivar Govt. Institute for Postgraduate Studies and Research,RPC (100),63.39,RPC
+2024,Colleges,IR-C-C-6502,Kanchi Mamunivar Govt. Institute for Postgraduate Studies and Research,GO (100),77.83,GO
+2024,Colleges,IR-C-C-6502,Kanchi Mamunivar Govt. Institute for Postgraduate Studies and Research,OI (100),39.25,OI
+2024,Colleges,IR-C-C-6502,Kanchi Mamunivar Govt. Institute for Postgraduate Studies and Research,PERCEPTION (100),5.09,PR
+2024,Colleges,IR-C-C-41140,A.P.C. Mahalaxmi College for Women,TLR (100),64.91,TLR
+2024,Colleges,IR-C-C-41140,A.P.C. Mahalaxmi College for Women,RPC (100),14.86,RPC
+2024,Colleges,IR-C-C-41140,A.P.C. Mahalaxmi College for Women,GO (100),77.14,GO
+2024,Colleges,IR-C-C-41140,A.P.C. Mahalaxmi College for Women,OI (100),58.8,OI
+2024,Colleges,IR-C-C-41140,A.P.C. Mahalaxmi College for Women,PERCEPTION (100),4.12,PR
+2024,Colleges,IR-C-C-43902,Ethiraj College for Women,TLR (100),62.28,TLR
+2024,Colleges,IR-C-C-43902,Ethiraj College for Women,RPC (100),16.42,RPC
+2024,Colleges,IR-C-C-43902,Ethiraj College for Women,GO (100),63.93,GO
+2024,Colleges,IR-C-C-43902,Ethiraj College for Women,OI (100),53.65,OI
+2024,Colleges,IR-C-C-43902,Ethiraj College for Women,PERCEPTION (100),48.95,PR
+2024,Colleges,IR-C-C-8008,"Vimala College, Thrissur",TLR (100),67.42,TLR
+2024,Colleges,IR-C-C-8008,"Vimala College, Thrissur",RPC (100),19.13,RPC
+2024,Colleges,IR-C-C-8008,"Vimala College, Thrissur",GO (100),70.74,GO
+2024,Colleges,IR-C-C-8008,"Vimala College, Thrissur",OI (100),57.46,OI
+2024,Colleges,IR-C-C-8008,"Vimala College, Thrissur",PERCEPTION (100),2.11,PR
+2024,Colleges,IR-C-C-39206,"S S Jain Subodh P G College, Jaipur",TLR (100),72.86,TLR
+2024,Colleges,IR-C-C-39206,"S S Jain Subodh P G College, Jaipur",RPC (100),18.08,RPC
+2024,Colleges,IR-C-C-39206,"S S Jain Subodh P G College, Jaipur",GO (100),53.28,GO
+2024,Colleges,IR-C-C-39206,"S S Jain Subodh P G College, Jaipur",OI (100),80.83,OI
+2024,Colleges,IR-C-C-39206,"S S Jain Subodh P G College, Jaipur",PERCEPTION (100),2.11,PR
+2024,Colleges,IR-C-C-35878,National College,TLR (100),60.65,TLR
+2024,Colleges,IR-C-C-35878,National College,RPC (100),51.58,RPC
+2024,Colleges,IR-C-C-35878,National College,GO (100),60.01,GO
+2024,Colleges,IR-C-C-35878,National College,OI (100),42.6,OI
+2024,Colleges,IR-C-C-35878,National College,PERCEPTION (100),18.85,PR
+2024,Colleges,IR-C-I-1293,Sri Ramakrishna Mission Vidyalaya College of Arts and Science,TLR (100),54.63,TLR
+2024,Colleges,IR-C-I-1293,Sri Ramakrishna Mission Vidyalaya College of Arts and Science,RPC (100),94.6,RPC
+2024,Colleges,IR-C-I-1293,Sri Ramakrishna Mission Vidyalaya College of Arts and Science,GO (100),61.32,GO
+2024,Colleges,IR-C-I-1293,Sri Ramakrishna Mission Vidyalaya College of Arts and Science,OI (100),8.08,OI
+2024,Colleges,IR-C-I-1293,Sri Ramakrishna Mission Vidyalaya College of Arts and Science,PERCEPTION (100),9.63,PR
+2024,Colleges,IR-C-C-8209,Government Victoria College,TLR (100),61.34,TLR
+2024,Colleges,IR-C-C-8209,Government Victoria College,RPC (100),31.62,RPC
+2024,Colleges,IR-C-C-8209,Government Victoria College,GO (100),72.57,GO
+2024,Colleges,IR-C-C-8209,Government Victoria College,OI (100),47.08,OI
+2024,Colleges,IR-C-C-8209,Government Victoria College,PERCEPTION (100),9.63,PR
+2024,Colleges,IR-C-I-1322,St. Joseph's College,TLR (100),57.6,TLR
+2024,Colleges,IR-C-I-1322,St. Joseph's College,RPC (100),20.23,RPC
+2024,Colleges,IR-C-I-1322,St. Joseph's College,GO (100),80.61,GO
+2024,Colleges,IR-C-I-1322,St. Joseph's College,OI (100),58.39,OI
+2024,Colleges,IR-C-I-1322,St. Joseph's College,PERCEPTION (100),8.76,PR
+2024,Colleges,IR-C-C-6412,Maharaja Agrasen College,TLR (100),62.24,TLR
+2024,Colleges,IR-C-C-6412,Maharaja Agrasen College,RPC (100),30.49,RPC
+2024,Colleges,IR-C-C-6412,Maharaja Agrasen College,GO (100),65.26,GO
+2024,Colleges,IR-C-C-6412,Maharaja Agrasen College,OI (100),63.19,OI
+2024,Colleges,IR-C-C-6412,Maharaja Agrasen College,PERCEPTION (100),7.87,PR
+2024,Colleges,IR-C-C-20729,"M S Ramaiah College of Arts, Science, and Commerce",TLR (100),48.84,TLR
+2024,Colleges,IR-C-C-20729,"M S Ramaiah College of Arts, Science, and Commerce",RPC (100),23.13,RPC
+2024,Colleges,IR-C-C-20729,"M S Ramaiah College of Arts, Science, and Commerce",GO (100),81.32,GO
+2024,Colleges,IR-C-C-20729,"M S Ramaiah College of Arts, Science, and Commerce",OI (100),61.49,OI
+2024,Colleges,IR-C-C-20729,"M S Ramaiah College of Arts, Science, and Commerce",PERCEPTION (100),33.76,PR
+2024,Colleges,IR-C-C-11964,Scottish Church College,TLR (100),62.92,TLR
+2024,Colleges,IR-C-C-11964,Scottish Church College,RPC (100),45.6,RPC
+2024,Colleges,IR-C-C-11964,Scottish Church College,GO (100),56.96,GO
+2024,Colleges,IR-C-C-11964,Scottish Church College,OI (100),47.99,OI
+2024,Colleges,IR-C-C-11964,Scottish Church College,PERCEPTION (100),17.45,PR
+2024,Colleges,IR-C-C-43998,Guru Nanak College,TLR (100),65.6,TLR
+2024,Colleges,IR-C-C-43998,Guru Nanak College,RPC (100),24.89,RPC
+2024,Colleges,IR-C-C-43998,Guru Nanak College,GO (100),63.68,GO
+2024,Colleges,IR-C-C-43998,Guru Nanak College,OI (100),52.61,OI
+2024,Colleges,IR-C-C-43998,Guru Nanak College,PERCEPTION (100),14.49,PR
+2024,Colleges,IR-C-C-33555,St. Xavier`s College,TLR (100),47.83,TLR
+2024,Colleges,IR-C-C-33555,St. Xavier`s College,RPC (100),30.15,RPC
+2024,Colleges,IR-C-C-33555,St. Xavier`s College,GO (100),74.17,GO
+2024,Colleges,IR-C-C-33555,St. Xavier`s College,OI (100),59.44,OI
+2024,Colleges,IR-C-C-33555,St. Xavier`s College,PERCEPTION (100),44.72,PR
+2024,Colleges,IR-C-C-11991,Bethune College,TLR (100),62.22,TLR
+2024,Colleges,IR-C-C-11991,Bethune College,RPC (100),24.47,RPC
+2024,Colleges,IR-C-C-11991,Bethune College,GO (100),64.73,GO
+2024,Colleges,IR-C-C-11991,Bethune College,OI (100),44.34,OI
+2024,Colleges,IR-C-C-11991,Bethune College,PERCEPTION (100),33.27,PR
+2024,Colleges,IR-C-C-11771,CMS College Kottayam,TLR (100),64.63,TLR
+2024,Colleges,IR-C-C-11771,CMS College Kottayam,RPC (100),41.75,RPC
+2024,Colleges,IR-C-C-11771,CMS College Kottayam,GO (100),59.23,GO
+2024,Colleges,IR-C-C-11771,CMS College Kottayam,OI (100),53.35,OI
+2024,Colleges,IR-C-C-11771,CMS College Kottayam,PERCEPTION (100),1.07,PR
+2024,Colleges,IR-C-C-6381,Keshav Mahavidyalya,TLR (100),64.21,TLR
+2024,Colleges,IR-C-C-6381,Keshav Mahavidyalya,RPC (100),35.74,RPC
+2024,Colleges,IR-C-C-6381,Keshav Mahavidyalya,GO (100),61.51,GO
+2024,Colleges,IR-C-C-6381,Keshav Mahavidyalya,OI (100),57.07,OI
+2024,Colleges,IR-C-C-6381,Keshav Mahavidyalya,PERCEPTION (100),0.0,PR
+2024,Colleges,IR-C-C-41042,Dr. S. N. S. Rajalakshmi College of Arts and Science,TLR (100),70.11,TLR
+2024,Colleges,IR-C-C-41042,Dr. S. N. S. Rajalakshmi College of Arts and Science,RPC (100),2.13,RPC
+2024,Colleges,IR-C-C-41042,Dr. S. N. S. Rajalakshmi College of Arts and Science,GO (100),66.61,GO
+2024,Colleges,IR-C-C-41042,Dr. S. N. S. Rajalakshmi College of Arts and Science,OI (100),64.67,OI
+2024,Colleges,IR-C-C-41042,Dr. S. N. S. Rajalakshmi College of Arts and Science,PERCEPTION (100),6.04,PR
+2024,Colleges,IR-C-C-36502,Virudhunagar Hindu Nadars Senthikumara Nadar College,TLR (100),58.97,TLR
+2024,Colleges,IR-C-C-36502,Virudhunagar Hindu Nadars Senthikumara Nadar College,RPC (100),52.77,RPC
+2024,Colleges,IR-C-C-36502,Virudhunagar Hindu Nadars Senthikumara Nadar College,GO (100),59.71,GO
+2024,Colleges,IR-C-C-36502,Virudhunagar Hindu Nadars Senthikumara Nadar College,OI (100),45.68,OI
+2024,Colleges,IR-C-C-36502,Virudhunagar Hindu Nadars Senthikumara Nadar College,PERCEPTION (100),10.48,PR
+2024,Colleges,IR-C-C-35848,Government Arts College,TLR (100),58.16,TLR
+2024,Colleges,IR-C-C-35848,Government Arts College,RPC (100),29.32,RPC
+2024,Colleges,IR-C-C-35848,Government Arts College,GO (100),74.85,GO
+2024,Colleges,IR-C-C-35848,Government Arts College,OI (100),53.4,OI
+2024,Colleges,IR-C-C-35848,Government Arts College,PERCEPTION (100),2.11,PR
+2024,Colleges,IR-C-C-6376,Delhi College of Arts and Commerce,TLR (100),48.21,TLR
+2024,Colleges,IR-C-C-6376,Delhi College of Arts and Commerce,RPC (100),13.0,RPC
+2024,Colleges,IR-C-C-6376,Delhi College of Arts and Commerce,GO (100),79.55,GO
+2024,Colleges,IR-C-C-6376,Delhi College of Arts and Commerce,OI (100),66.32,OI
+2024,Colleges,IR-C-C-6376,Delhi College of Arts and Commerce,PERCEPTION (100),41.64,PR
+2024,Colleges,IR-C-C-41191,Sadakathullah Appa College,TLR (100),59.79,TLR
+2024,Colleges,IR-C-C-41191,Sadakathullah Appa College,RPC (100),18.47,RPC
+2024,Colleges,IR-C-C-41191,Sadakathullah Appa College,GO (100),77.37,GO
+2024,Colleges,IR-C-C-41191,Sadakathullah Appa College,OI (100),50.94,OI
+2024,Colleges,IR-C-C-41191,Sadakathullah Appa College,PERCEPTION (100),7.87,PR
+2024,Colleges,IR-C-C-43229,Shri Shivaji Science College,TLR (100),57.36,TLR
+2024,Colleges,IR-C-C-43229,Shri Shivaji Science College,RPC (100),30.83,RPC
+2024,Colleges,IR-C-C-43229,Shri Shivaji Science College,GO (100),79.59,GO
+2024,Colleges,IR-C-C-43229,Shri Shivaji Science College,OI (100),41.88,OI
+2024,Colleges,IR-C-C-43229,Shri Shivaji Science College,PERCEPTION (100),2.11,PR
+2024,Colleges,IR-C-C-41189,Scott Christian College,TLR (100),68.39,TLR
+2024,Colleges,IR-C-C-41189,Scott Christian College,RPC (100),25.68,RPC
+2024,Colleges,IR-C-C-41189,Scott Christian College,GO (100),57.83,GO
+2024,Colleges,IR-C-C-41189,Scott Christian College,OI (100),51.25,OI
+2024,Colleges,IR-C-C-41189,Scott Christian College,PERCEPTION (100),10.48,PR

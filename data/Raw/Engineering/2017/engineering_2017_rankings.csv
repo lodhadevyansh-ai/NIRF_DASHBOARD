@@ -1,0 +1,101 @@
+year,category,institute_id,institute_name,city,state,official_rank,numeric_rank,overall_score,source_url
+2017,Engineering,IR17-ENGG-1-1-77,Indian Institute of Technology Madras,Chennai,Tamil Nadu,1,1,87.96,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-2-18633,Indian Institute of Technology Bombay,Mumbai,Maharashtra,2,2,87.87,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-2-18630,Indian Institute of Technology Kharagpur,Kharagpur,West Bengal,3,3,81.93,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-2-1-79,Indian Institute of Technology Delhi,New Delhi,Delhi,4,4,81.08,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-2-18248,Indian Institute of Technology Kanpur,Kanpur,Uttar Pradesh,5,5,76.83,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-2-18677,Indian Institute of Technology Roorkee,Roorkee,Uttarakhand,6,6,73.1,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-2-1-251,Indian Institute of Technology Guwahati,Guwahati,Assam,7,7,72.3,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-2-18292,Anna University,Chennai,Tamil Nadu,8,8,63.97,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-2-10326,Jadavpur University,Kolkata,West Bengal,9,9,62.59,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-2-1-345,Indian Institute of Technology Hyderabad,Hyderabad,Telangana,10,10,60.24,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-1-1-370,National Institute of Technology Tiruchirappalli,Tiruchirappalli,Tamil Nadu,11,11,59.44,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-2-1-140,National Institute of Technology Rourkela,Rourkela,Odisha,12,12,58.78,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-2-18572,Vellore Institute of Technology,Vellore,Tamil Nadu,13,13,58.16,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-2-18261,Institute of Chemical Technology,Mumbai,Maharashtra,14,14,57.97,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-2-1-346,Indian Institute of Technology Indore,Indore,Madhya Pradesh,15,15,57.7,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-2-18599,Birla Institute of Technology & Science -Pilani,Pilani,Rajasthan,16,16,55.43,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-2-18690,"Indian Institute of Engineering Science And Technology, Shibpur",Howrah,West Bengal,17,17,54.42,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-1-18627,Indian Institute of Technology Bhubaneswar,Bhubaneswar,Odisha,18,18,54.32,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-2-1-344,Indian Institute of Technology Patna,Patna,Bihar,19,19,54.02,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-1-10356,Jamia Millia Islamia,New Delhi,Delhi,20,20,53.7,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-2-1-340,Indian Institute of Technology Ropar,Rupnagar,Punjab,21,21,52.93,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-1-1-493,National Institute of Technology Surathkal,Surathkal,Karnataka,22,22,52.87,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-1-18632,Indian Institute of Technology (Indian School of Mines),Dhanbad,Jharkhand,23,23,52.58,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-1-1-2809541361,"College of Engineering, Pune",Pune,Maharashtra,24,24,52.14,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-2-18477,Shanmugha Arts Science Technology & Research Academy (SASTRA),Thanjavur,Tamil Nadu,25,25,51.44,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-2-1-2813959492,Thapar University,Patiala,Punjab,26,26,51.35,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-1-1-2811256746,Sri Sivasubrmaniya Nadar College of Engineering,Kalavakkam,Tamil Nadu,27,27,50.77,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-1-1-249,Indian Institute of Space Science and Technology,Thiruvananthapuram,Kerala,28,28,50.6,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-2-18639,Indian Institute of Technology Mandi,Mandi,Himachal Pradesh,28,28,50.6,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-1-18628,Indian Institute of Technology Gandhinagar,Ahmedabad,Gujarat,30,30,50.43,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-2-18672,"Indian Institute of Technology (Banaras Hindu University), Varanasi",Varanasi,Uttar Pradesh,31,31,49.92,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-2-1-2811781771,Birla Institute of Technology,Ranchi,Jharkhand,31,31,49.92,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-1-2811179135,PSG College of Technology,Coimbatore,Tamil Nadu,33,33,49.49,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-2-18622,National Institute of Technology Warangal,Warangal,Telangana,34,34,49.47,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-2-1-596,S.R.M Institute of Science and Technology,Chennai,Tamil Nadu,35,35,49.2,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-2-1-NEW5,"National Institute of Industrial Engineering, Mumbai",Mumbai,Maharashtra,36,36,47.47,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-2-1-2811366803,Thiagarajar College of Engineering,Madurai,Tamil Nadu,37,37,47.01,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-1-11736,Pondicherry Engineering College,Puducherry,Pondicherry,38,38,46.37,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-2-12907,Delhi Technological University,New Delhi,Delhi,39,39,46.19,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-2-10949,Zakir Husain College of Engineering & Technology,Aligarh,Uttar Pradesh,40,40,46.18,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-2-1-357,Motilal Nehru National Institute of Technology,Allahabad,Uttar Pradesh,41,41,45.68,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-1-1-225,"Visvesvaraya National Institute of Technology, Nagpur (Deemed University)",Nagpur,Maharashtra,42,42,45.52,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-1-1-2816307230,Manipal Institute of Technology,Manipal,Karnataka,43,43,45.38,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-2-18613,National Institute of Technology Calicut,Calicut,Kerala,44,44,44.5,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-1-1-2811981253,M. S. Ramaiah Institute of Technology,Bengaluru,Karnataka,45,45,44.35,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-2-18259,AMITY University,Gautam Budh Nagar,Uttar Pradesh,46,46,44.16,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-2-1-336,Kalinga Institute of Industrial Technology,Bhubneshwar,Odisha,47,47,43.68,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-2-1-668,Sri Venkateswara University,Tirupati,Andhra Pradesh,48,48,43.53,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-1-29885,R.V. College of Engineering,Bengaluru,Karnataka,49,49,43.42,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-1-18659,Sardar Vallabhbhai National Institute of Technology,Surat,Gujarat,50,50,43.3,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-1-11716,Coimbatore Institute of Technology,Coimbatore,Tamil Nadu,51,51,43.29,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-2-1-2812016223,B.M.S. College of Engineering,Bengaluru,Karnataka,52,52,42.86,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-1-18612,National Institute of Technology Silchar,Silchar,Assam,53,53,42.73,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-2-1-321,Jaypee Institute of Information Technology,Noida,Uttar Pradesh,54,54,42.63,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-2-18649,National Institute of Technology Durgapur,Durgapur,West Bengal,55,55,42.56,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-1-18257,"Indraprastha Institute of Information Technology-New Delhi (IIIT New Delhi, Delhi)",New Delhi,Delhi,56,56,42.55,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-1-12121,Kongu Engineering College,Perundurai,Tamil Nadu,57,57,42.43,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-2-1-11112,Vel Tech Rangarajan Dr.Sagunthala R&D Institute of Science and Technology,Chennai,Tamil Nadu,58,58,42.31,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-2-18615,National Institute of Technology Hamirpur,Hamirpur,Himachal Pradesh,59,59,42.02,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-1-1-144,National Institute of Technology Kurukshetra,Kurukshetra,Haryana,60,60,41.61,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-2-1-441,Maulana Azad National Institute of Technology,Bhopal,Madhya Pradesh,61,61,41.25,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-2-18312,Karunya Institute of Technology and Sciences-Coimbatore,Coimbatore,Tamil Nadu,62,62,40.97,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-1-18288,Jawaharlal Nehru Technological University,Hyderabad,Telangana,63,63,40.45,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-2-24411,Shri Ramdeobaba College of Engineering and Management,District Nagpur,Maharashtra,64,64,40.36,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-1-18631,Indian Institute of Technology Jodhpur,Jodhpur,Rajasthan,65,65,40.2,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-2-10518,Bharati Vidyapeeth Deemed University College of Engineering,Pune,Maharashtra,66,66,40.18,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-2-12233,"G. H. Raisoni College of Engineering, NAGPUR",Nagpur,Maharashtra,67,67,39.87,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-1-11519,Koneru Lakshmaiah Education Foundation University (K L College of Engineering),Vaddeswaram,Andhra Pradesh,68,68,39.64,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-2-1-424,"Pandit Dwarka Prasad Mishra Indian Institute of Information Technology, Design and Manufacturing (IIITDM), Jabalpur",Jabalpur,Madhya Pradesh,69,69,39.46,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-2-18620,"Malaviya National Institute of Technology, Jaipur",Jaipur,Rajasthan,70,70,39.38,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-1-18173,Dhirubhai Ambani Institute of Information and Communication Technology,Gandhinagar,Gujarat,70,70,39.38,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-1-1-2812032529,Siddaganga Institute of Technology,Tumkur,Karnataka,72,72,39.36,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-2-1-2811134396,Mepco Schlenk Engineering College,Sivakasi,Tamil Nadu,73,73,39.21,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-2-12969,Guru Gobind Singh Indraprastha University,Dwarka,Delhi,74,74,39.16,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-1-1-2812988445,International Institute of Information Technology,Hyderabad,Telangana,75,75,38.95,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-1-17931,"Faculty of Technology & Engineering, The Maharaja Sayajirao University of Baroda",Vadodara,Gujarat,76,76,38.81,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-1-1-2809338810,Army Institute of Technology,Pune,Maharashtra,77,77,38.7,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-1-1-2811457679,"PSNA College of Engineering and Technology, Dindigul",Dindigul,Tamil Nadu,78,78,38.27,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-2-18406,Nirma University,Ahmedabad,Gujarat,79,79,38.07,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-1-1-2814018067,University College of Engineering,Hyderabad,Telangana,80,80,38.06,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-2-1-2813435762,Sagi Ramakrishnam Raju Engineering College,Bhimavaram,Andhra Pradesh,81,81,37.88,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-2-1-2456189964,Kumaraguru College of Technology,Coimbatore,Tamil Nadu,82,82,37.74,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-2-18296,Jaypee University of Information Technology-Solan,Solan,Himachal Pradesh,83,83,37.46,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-1-1-2811165868,R.M.K. Engineering College,Kavaraipettai,Tamil Nadu,84,84,37.45,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-1-1-556,Punjab Engineering College,Chandigarh,Chandigarh,85,85,37.44,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-2-1-541,PES University,Bengaluru,Karnataka,86,86,37.31,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-2-18392,National Institute of Technology Manipur,Manipur,Manipur,87,87,37.27,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-1-18575,"Vignan's Foundation for Science, Technology and Research",Guntur,Andhra Pradesh,88,88,37.11,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-2-1-57,B.S. Abdur Rahman Institute of Science and Technology,Chennai,Tamil Nadu,89,89,36.97,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-2-10487,Chaitanya Bharathi Institute of Technology,Hyderabad,Telangana,90,90,36.93,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-2-15188,Saveetha Engineering College,Sriperumbudur,Tamil Nadu,91,91,36.88,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-1-26228,C.V. Raman College of Engineering,Bhubneshwar,Odisha,92,92,36.82,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-2-10284,College of Engineering Trivandrum,Thiruvananthapuram,Kerala,93,93,36.8,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-2-10476,"Maharashtra Institute of Technology, Pune",Pune,Maharashtra,94,94,36.75,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-1-12784,BMS Institute of Technology & Management,Bengaluru,Karnataka,95,95,36.67,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-2-12411,Sri Sai Ram Engineering College,Chennai,Tamil Nadu,96,96,36.64,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-2-12581,ST. Joseph's College of Engineering,Chennai,Tamil Nadu,97,97,36.51,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-2-1-31,Andhra University,Visakhapatnam,Andhra Pradesh,98,98,36.42,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-2-1-2810997882,K.S.Rangasamy College of Technology,Tiruchengode,Tamil Nadu,99,99,36.4,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html
+2017,Engineering,IR17-ENGG-2-1-365,National Institute of Technology Meghalaya,Shillong,Meghalaya,100,100,36.21,https://www.nirfindia.org/Rankings/2017/EngineeringRanking.html

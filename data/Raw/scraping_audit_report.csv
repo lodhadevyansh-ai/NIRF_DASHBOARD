@@ -1,0 +1,154 @@
+category,year,availability_status,ranking_csv_exists,parameter_csv_exists,raw_html_exists,metadata_json_exists,csv_readable,ranking_records_count,parameter_records_count,min_rank,max_rank,has_rank_bands,duplicate_ids_count,null_names_count,category_year_aligned,html_match_count,audit_status,notes
+Overall,2017,available,True,True,True,True,True,100,500,1.0,100.0,False,0,0,True,True,PASS,All 10 checks passed.
+Overall,2018,available,True,True,True,True,True,100,500,1.0,100.0,False,0,0,True,True,PASS,All 10 checks passed.
+Overall,2019,available,True,True,True,True,True,100,500,1.0,99.0,False,0,0,True,True,PASS,All 10 checks passed.
+Overall,2020,available,True,True,True,True,True,101,505,1.0,100.0,False,0,0,True,True,PASS,All 10 checks passed.
+Overall,2021,available,True,True,True,True,True,100,500,1.0,100.0,False,0,0,True,True,PASS,All 10 checks passed.
+Overall,2022,available,True,True,True,True,True,100,500,1.0,100.0,False,0,0,True,True,PASS,All 10 checks passed.
+Overall,2023,available,True,True,True,True,True,100,500,1.0,100.0,False,0,0,True,True,PASS,All 10 checks passed.
+Overall,2024,available,True,True,True,True,True,100,500,1.0,100.0,False,0,0,True,True,PASS,All 10 checks passed.
+Overall,2025,available,True,True,True,True,True,100,500,1.0,100.0,False,0,0,True,True,PASS,All 10 checks passed.
+Universities,2017,available,True,True,True,True,True,100,500,1.0,100.0,False,0,0,True,True,PASS,All 10 checks passed.
+Universities,2018,available,True,True,True,True,True,100,500,1.0,100.0,False,0,0,True,True,PASS,All 10 checks passed.
+Universities,2019,available,True,True,True,True,True,100,500,1.0,100.0,False,0,0,True,True,PASS,All 10 checks passed.
+Universities,2020,available,True,True,True,True,True,100,500,1.0,100.0,False,0,0,True,True,PASS,All 10 checks passed.
+Universities,2021,available,True,True,True,True,True,100,500,1.0,100.0,False,0,0,True,True,PASS,All 10 checks passed.
+Universities,2022,available,True,True,True,True,True,100,500,1.0,100.0,False,0,0,True,True,PASS,All 10 checks passed.
+Universities,2023,available,True,True,True,True,True,100,500,1.0,100.0,False,0,0,True,True,PASS,All 10 checks passed.
+Universities,2024,available,True,True,True,True,True,100,500,1.0,100.0,False,0,0,True,True,PASS,All 10 checks passed.
+Universities,2025,available,True,True,True,True,True,100,500,1.0,100.0,False,0,0,True,True,PASS,All 10 checks passed.
+Colleges,2017,available,True,True,True,True,True,100,500,1.0,100.0,False,0,0,True,True,PASS,All 10 checks passed.
+Colleges,2018,available,True,True,True,True,True,99,495,1.0,100.0,False,0,0,True,True,PASS,All 10 checks passed.
+Colleges,2019,available,True,True,True,True,True,100,500,1.0,100.0,False,0,0,True,True,PASS,All 10 checks passed.
+Colleges,2020,available,True,True,True,True,True,100,500,1.0,100.0,False,0,0,True,True,PASS,All 10 checks passed.
+Colleges,2021,available,True,True,True,True,True,100,500,1.0,100.0,False,0,0,True,True,PASS,All 10 checks passed.
+Colleges,2022,available,True,True,True,True,True,100,500,1.0,100.0,False,0,0,True,True,PASS,All 10 checks passed.
+Colleges,2023,available,True,True,True,True,True,100,500,1.0,100.0,False,0,0,True,True,PASS,All 10 checks passed.
+Colleges,2024,available,True,True,True,True,True,100,500,1.0,100.0,False,0,0,True,True,PASS,All 10 checks passed.
+Colleges,2025,available,True,True,True,True,True,100,500,1.0,100.0,False,0,0,True,True,PASS,All 10 checks passed.
+Research Institutions,2017,unavailable,False,False,False,False,True,0,0,,,False,0,0,True,True,SKIPPED_UNAVAILABLE,Category introduced in 2021.
+Research Institutions,2018,unavailable,False,False,False,False,True,0,0,,,False,0,0,True,True,SKIPPED_UNAVAILABLE,Category introduced in 2021.
+Research Institutions,2019,unavailable,False,False,False,False,True,0,0,,,False,0,0,True,True,SKIPPED_UNAVAILABLE,Category introduced in 2021.
+Research Institutions,2020,unavailable,False,False,False,False,True,0,0,,,False,0,0,True,True,SKIPPED_UNAVAILABLE,Category introduced in 2021.
+Research Institutions,2021,available,True,True,True,True,True,50,250,1.0,50.0,False,0,0,True,True,PASS,All 10 checks passed.
+Research Institutions,2022,available,True,True,True,True,True,50,250,1.0,50.0,False,0,0,True,True,PASS,All 10 checks passed.
+Research Institutions,2023,available,True,True,True,True,True,50,250,1.0,50.0,False,0,0,True,True,PASS,All 10 checks passed.
+Research Institutions,2024,available,True,True,True,True,True,50,250,1.0,50.0,False,0,0,True,True,PASS,All 10 checks passed.
+Research Institutions,2025,available,True,True,True,True,True,50,250,1.0,50.0,False,0,0,True,True,PASS,All 10 checks passed.
+Engineering,2017,available,True,True,True,True,True,100,500,1.0,100.0,False,0,0,True,True,PASS,All 10 checks passed.
+Engineering,2018,available,True,True,True,True,True,98,490,1.0,100.0,False,0,0,True,True,PASS,All 10 checks passed.
+Engineering,2019,available,True,True,True,True,True,100,500,1.0,100.0,False,0,0,True,True,PASS,All 10 checks passed.
+Engineering,2020,available,True,True,True,True,True,100,500,1.0,100.0,False,0,0,True,True,PASS,All 10 checks passed.
+Engineering,2021,available,True,True,True,True,True,100,500,1.0,100.0,False,0,0,True,True,PASS,All 10 checks passed.
+Engineering,2022,available,True,True,True,True,True,100,500,1.0,100.0,False,0,0,True,True,PASS,All 10 checks passed.
+Engineering,2023,available,True,True,True,True,True,100,500,1.0,100.0,False,0,0,True,True,PASS,All 10 checks passed.
+Engineering,2024,available,True,True,True,True,True,100,500,1.0,100.0,False,0,0,True,True,PASS,All 10 checks passed.
+Engineering,2025,available,True,True,True,True,True,100,500,1.0,100.0,False,0,0,True,True,PASS,All 10 checks passed.
+Management,2017,available,True,True,True,True,True,50,250,1.0,50.0,False,0,0,True,True,PASS,All 10 checks passed.
+Management,2018,available,True,True,True,True,True,50,250,1.0,50.0,False,0,0,True,True,PASS,All 10 checks passed.
+Management,2019,available,True,True,True,True,True,75,375,1.0,75.0,False,0,0,True,True,PASS,All 10 checks passed.
+Management,2020,available,True,True,True,True,True,75,375,1.0,75.0,False,0,0,True,True,PASS,All 10 checks passed.
+Management,2021,available,True,True,True,True,True,75,375,1.0,75.0,False,0,0,True,True,PASS,All 10 checks passed.
+Management,2022,available,True,True,True,True,True,101,505,1.0,100.0,False,0,0,True,True,PASS,All 10 checks passed.
+Management,2023,available,True,True,True,True,True,100,500,1.0,100.0,False,0,0,True,True,PASS,All 10 checks passed.
+Management,2024,available,True,True,True,True,True,100,500,1.0,100.0,False,0,0,True,True,PASS,All 10 checks passed.
+Management,2025,available,True,True,True,True,True,100,500,1.0,100.0,False,0,0,True,True,PASS,All 10 checks passed.
+Pharmacy,2017,available,True,True,True,True,True,50,250,1.0,50.0,False,0,0,True,True,PASS,All 10 checks passed.
+Pharmacy,2018,available,True,True,True,True,True,49,245,1.0,50.0,False,0,0,True,True,PASS,All 10 checks passed.
+Pharmacy,2019,available,True,True,True,True,True,75,375,1.0,75.0,False,0,0,True,True,PASS,All 10 checks passed.
+Pharmacy,2020,available,True,True,True,True,True,75,375,1.0,75.0,False,0,0,True,True,PASS,All 10 checks passed.
+Pharmacy,2021,available,True,True,True,True,True,75,375,1.0,75.0,False,0,0,True,True,PASS,All 10 checks passed.
+Pharmacy,2022,available,True,True,True,True,True,101,505,1.0,100.0,False,0,0,True,True,PASS,All 10 checks passed.
+Pharmacy,2023,available,True,True,True,True,True,100,500,1.0,100.0,False,0,0,True,True,PASS,All 10 checks passed.
+Pharmacy,2024,available,True,True,True,True,True,100,500,1.0,100.0,False,0,0,True,True,PASS,All 10 checks passed.
+Pharmacy,2025,available,True,True,True,True,True,101,505,1.0,100.0,False,0,0,True,True,PASS,All 10 checks passed.
+Medical,2017,unavailable,False,False,False,False,True,0,0,,,False,0,0,True,True,SKIPPED_UNAVAILABLE,Category introduced in 2018.
+Medical,2018,available,True,True,True,True,True,25,125,1.0,25.0,False,0,0,True,True,PASS,All 10 checks passed.
+Medical,2019,available,True,True,True,True,True,30,150,1.0,30.0,False,0,0,True,True,PASS,All 10 checks passed.
+Medical,2020,available,True,True,True,True,True,40,200,1.0,40.0,False,0,0,True,True,PASS,All 10 checks passed.
+Medical,2021,available,True,True,True,True,True,50,250,1.0,50.0,False,0,0,True,True,PASS,All 10 checks passed.
+Medical,2022,available,True,True,True,True,True,50,250,1.0,50.0,False,0,0,True,True,PASS,All 10 checks passed.
+Medical,2023,available,True,True,True,True,True,50,250,1.0,50.0,False,0,0,True,True,PASS,All 10 checks passed.
+Medical,2024,available,True,True,True,True,True,50,250,1.0,50.0,False,0,0,True,True,PASS,All 10 checks passed.
+Medical,2025,available,True,True,True,True,True,50,250,1.0,50.0,False,0,0,True,True,PASS,All 10 checks passed.
+Dental,2017,unavailable,False,False,False,False,True,0,0,,,False,0,0,True,True,SKIPPED_UNAVAILABLE,Category introduced in 2020.
+Dental,2018,unavailable,False,False,False,False,True,0,0,,,False,0,0,True,True,SKIPPED_UNAVAILABLE,Category introduced in 2020.
+Dental,2019,unavailable,False,False,False,False,True,0,0,,,False,0,0,True,True,SKIPPED_UNAVAILABLE,Category introduced in 2020.
+Dental,2020,available,True,True,True,True,True,30,150,1.0,30.0,False,0,0,True,True,PASS,All 10 checks passed.
+Dental,2021,available,True,True,True,True,True,40,200,1.0,40.0,False,0,0,True,True,PASS,All 10 checks passed.
+Dental,2022,available,True,True,True,True,True,40,200,1.0,40.0,False,0,0,True,True,PASS,All 10 checks passed.
+Dental,2023,available,True,True,True,True,True,40,200,1.0,40.0,False,0,0,True,True,PASS,All 10 checks passed.
+Dental,2024,available,True,True,True,True,True,40,200,1.0,40.0,False,0,0,True,True,PASS,All 10 checks passed.
+Dental,2025,available,True,True,True,True,True,40,195,1.0,40.0,False,0,0,True,True,PASS,All 10 checks passed.
+Law,2017,unavailable,False,False,False,False,True,0,0,,,False,0,0,True,True,SKIPPED_UNAVAILABLE,Category introduced in 2018.
+Law,2018,available,True,True,True,True,True,10,50,1.0,10.0,False,0,0,True,True,PASS,All 10 checks passed.
+Law,2019,available,True,True,True,True,True,15,75,1.0,15.0,False,0,0,True,True,PASS,All 10 checks passed.
+Law,2020,available,True,True,True,True,True,20,100,1.0,20.0,False,0,0,True,True,PASS,All 10 checks passed.
+Law,2021,available,True,True,True,True,True,30,150,1.0,30.0,False,0,0,True,True,PASS,All 10 checks passed.
+Law,2022,available,True,True,True,True,True,30,150,1.0,30.0,False,0,0,True,True,PASS,All 10 checks passed.
+Law,2023,available,True,True,True,True,True,30,150,1.0,30.0,False,0,0,True,True,PASS,All 10 checks passed.
+Law,2024,available,True,True,True,True,True,40,200,1.0,39.0,False,0,0,True,True,PASS,All 10 checks passed.
+Law,2025,available,True,True,True,True,True,40,200,1.0,40.0,False,0,0,True,True,PASS,All 10 checks passed.
+Architecture and Planning,2017,unavailable,False,False,False,False,True,0,0,,,False,0,0,True,True,SKIPPED_UNAVAILABLE,Category introduced in 2018.
+Architecture and Planning,2018,available,True,True,True,True,True,10,50,1.0,10.0,False,0,0,True,True,PASS,All 10 checks passed.
+Architecture and Planning,2019,available,True,True,True,True,True,15,75,1.0,15.0,False,0,0,True,True,PASS,All 10 checks passed.
+Architecture and Planning,2020,available,True,True,True,True,True,20,100,1.0,20.0,False,0,0,True,True,PASS,All 10 checks passed.
+Architecture and Planning,2021,available,True,True,True,True,True,25,125,1.0,25.0,False,0,0,True,True,PASS,All 10 checks passed.
+Architecture and Planning,2022,available,True,True,True,True,True,30,150,1.0,30.0,False,0,0,True,True,PASS,All 10 checks passed.
+Architecture and Planning,2023,available,True,True,True,True,True,30,150,1.0,30.0,False,0,0,True,True,PASS,All 10 checks passed.
+Architecture and Planning,2024,available,True,True,True,True,True,40,200,1.0,40.0,False,0,0,True,True,PASS,All 10 checks passed.
+Architecture and Planning,2025,available,True,True,True,True,True,40,200,1.0,40.0,False,0,0,True,True,PASS,All 10 checks passed.
+Agriculture and Allied Sectors,2017,unavailable,False,False,False,False,True,0,0,,,False,0,0,True,True,SKIPPED_UNAVAILABLE,Category introduced in 2023.
+Agriculture and Allied Sectors,2018,unavailable,False,False,False,False,True,0,0,,,False,0,0,True,True,SKIPPED_UNAVAILABLE,Category introduced in 2023.
+Agriculture and Allied Sectors,2019,unavailable,False,False,False,False,True,0,0,,,False,0,0,True,True,SKIPPED_UNAVAILABLE,Category introduced in 2023.
+Agriculture and Allied Sectors,2020,unavailable,False,False,False,False,True,0,0,,,False,0,0,True,True,SKIPPED_UNAVAILABLE,Category introduced in 2023.
+Agriculture and Allied Sectors,2021,unavailable,False,False,False,False,True,0,0,,,False,0,0,True,True,SKIPPED_UNAVAILABLE,Category introduced in 2023.
+Agriculture and Allied Sectors,2022,unavailable,False,False,False,False,True,0,0,,,False,0,0,True,True,SKIPPED_UNAVAILABLE,Category introduced in 2023.
+Agriculture and Allied Sectors,2023,available,True,True,True,True,True,40,200,1.0,40.0,False,0,0,True,True,PASS,All 10 checks passed.
+Agriculture and Allied Sectors,2024,available,True,True,True,True,True,40,200,1.0,40.0,False,0,0,True,True,PASS,All 10 checks passed.
+Agriculture and Allied Sectors,2025,available,True,True,True,True,True,40,200,1.0,40.0,False,0,0,True,True,PASS,All 10 checks passed.
+Innovation,2017,unavailable,False,False,False,False,True,0,0,,,False,0,0,True,True,SKIPPED_UNAVAILABLE,Category introduced in 2023.
+Innovation,2018,unavailable,False,False,False,False,True,0,0,,,False,0,0,True,True,SKIPPED_UNAVAILABLE,Category introduced in 2023.
+Innovation,2019,unavailable,False,False,False,False,True,0,0,,,False,0,0,True,True,SKIPPED_UNAVAILABLE,Category introduced in 2023.
+Innovation,2020,unavailable,False,False,False,False,True,0,0,,,False,0,0,True,True,SKIPPED_UNAVAILABLE,Category introduced in 2023.
+Innovation,2021,unavailable,False,False,False,False,True,0,0,,,False,0,0,True,True,SKIPPED_UNAVAILABLE,Category introduced in 2023.
+Innovation,2022,unavailable,False,False,False,False,True,0,0,,,False,0,0,True,True,SKIPPED_UNAVAILABLE,Category introduced in 2023.
+Innovation,2023,available,True,True,True,True,True,10,0,1.0,10.0,False,0,0,True,True,PASS,All 10 checks passed.
+Innovation,2024,available,True,True,True,True,True,10,0,1.0,10.0,False,0,0,True,True,PASS,All 10 checks passed.
+Innovation,2025,available,True,True,True,True,True,10,0,1.0,10.0,False,0,0,True,True,PASS,All 10 checks passed.
+Open University,2017,unavailable,False,False,False,False,True,0,0,,,False,0,0,True,True,SKIPPED_UNAVAILABLE,Category introduced in 2024.
+Open University,2018,unavailable,False,False,False,False,True,0,0,,,False,0,0,True,True,SKIPPED_UNAVAILABLE,Category introduced in 2024.
+Open University,2019,unavailable,False,False,False,False,True,0,0,,,False,0,0,True,True,SKIPPED_UNAVAILABLE,Category introduced in 2024.
+Open University,2020,unavailable,False,False,False,False,True,0,0,,,False,0,0,True,True,SKIPPED_UNAVAILABLE,Category introduced in 2024.
+Open University,2021,unavailable,False,False,False,False,True,0,0,,,False,0,0,True,True,SKIPPED_UNAVAILABLE,Category introduced in 2024.
+Open University,2022,unavailable,False,False,False,False,True,0,0,,,False,0,0,True,True,SKIPPED_UNAVAILABLE,Category introduced in 2024.
+Open University,2023,unavailable,False,False,False,False,True,0,0,,,False,0,0,True,True,SKIPPED_UNAVAILABLE,Category introduced in 2024.
+Open University,2024,available,True,True,True,True,True,3,0,1.0,3.0,False,0,0,True,True,PASS,All 10 checks passed.
+Open University,2025,available,True,True,True,True,True,3,0,1.0,3.0,False,0,0,True,True,PASS,All 10 checks passed.
+Skill University,2017,unavailable,False,False,False,False,True,0,0,,,False,0,0,True,True,SKIPPED_UNAVAILABLE,Category introduced in 2024.
+Skill University,2018,unavailable,False,False,False,False,True,0,0,,,False,0,0,True,True,SKIPPED_UNAVAILABLE,Category introduced in 2024.
+Skill University,2019,unavailable,False,False,False,False,True,0,0,,,False,0,0,True,True,SKIPPED_UNAVAILABLE,Category introduced in 2024.
+Skill University,2020,unavailable,False,False,False,False,True,0,0,,,False,0,0,True,True,SKIPPED_UNAVAILABLE,Category introduced in 2024.
+Skill University,2021,unavailable,False,False,False,False,True,0,0,,,False,0,0,True,True,SKIPPED_UNAVAILABLE,Category introduced in 2024.
+Skill University,2022,unavailable,False,False,False,False,True,0,0,,,False,0,0,True,True,SKIPPED_UNAVAILABLE,Category introduced in 2024.
+Skill University,2023,unavailable,False,False,False,False,True,0,0,,,False,0,0,True,True,SKIPPED_UNAVAILABLE,Category introduced in 2024.
+Skill University,2024,available,True,True,True,True,True,3,0,1.0,3.0,False,0,0,True,True,PASS,All 10 checks passed.
+Skill University,2025,available,True,True,True,True,True,3,0,1.0,3.0,False,0,0,True,True,PASS,All 10 checks passed.
+State Public University,2017,unavailable,False,False,False,False,True,0,0,,,False,0,0,True,True,SKIPPED_UNAVAILABLE,Category introduced in 2024.
+State Public University,2018,unavailable,False,False,False,False,True,0,0,,,False,0,0,True,True,SKIPPED_UNAVAILABLE,Category introduced in 2024.
+State Public University,2019,unavailable,False,False,False,False,True,0,0,,,False,0,0,True,True,SKIPPED_UNAVAILABLE,Category introduced in 2024.
+State Public University,2020,unavailable,False,False,False,False,True,0,0,,,False,0,0,True,True,SKIPPED_UNAVAILABLE,Category introduced in 2024.
+State Public University,2021,unavailable,False,False,False,False,True,0,0,,,False,0,0,True,True,SKIPPED_UNAVAILABLE,Category introduced in 2024.
+State Public University,2022,unavailable,False,False,False,False,True,0,0,,,False,0,0,True,True,SKIPPED_UNAVAILABLE,Category introduced in 2024.
+State Public University,2023,unavailable,False,False,False,False,True,0,0,,,False,0,0,True,True,SKIPPED_UNAVAILABLE,Category introduced in 2024.
+State Public University,2024,available,True,True,True,True,True,50,250,1.0,50.0,False,0,0,True,True,PASS,All 10 checks passed.
+State Public University,2025,available,True,True,True,True,True,50,250,1.0,50.0,False,0,0,True,True,PASS,All 10 checks passed.
+Sustainable Development Goals,2017,unavailable,False,False,False,False,True,0,0,,,False,0,0,True,True,SKIPPED_UNAVAILABLE,Category introduced in 2025.
+Sustainable Development Goals,2018,unavailable,False,False,False,False,True,0,0,,,False,0,0,True,True,SKIPPED_UNAVAILABLE,Category introduced in 2025.
+Sustainable Development Goals,2019,unavailable,False,False,False,False,True,0,0,,,False,0,0,True,True,SKIPPED_UNAVAILABLE,Category introduced in 2025.
+Sustainable Development Goals,2020,unavailable,False,False,False,False,True,0,0,,,False,0,0,True,True,SKIPPED_UNAVAILABLE,Category introduced in 2025.
+Sustainable Development Goals,2021,unavailable,False,False,False,False,True,0,0,,,False,0,0,True,True,SKIPPED_UNAVAILABLE,Category introduced in 2025.
+Sustainable Development Goals,2022,unavailable,False,False,False,False,True,0,0,,,False,0,0,True,True,SKIPPED_UNAVAILABLE,Category introduced in 2025.
+Sustainable Development Goals,2023,unavailable,False,False,False,False,True,0,0,,,False,0,0,True,True,SKIPPED_UNAVAILABLE,Category introduced in 2025.
+Sustainable Development Goals,2024,unavailable,False,False,False,False,True,0,0,,,False,0,0,True,True,SKIPPED_UNAVAILABLE,Category introduced in 2025.
+Sustainable Development Goals,2025,available,True,True,True,True,True,10,0,1.0,10.0,False,0,0,True,True,PASS,All 10 checks passed.

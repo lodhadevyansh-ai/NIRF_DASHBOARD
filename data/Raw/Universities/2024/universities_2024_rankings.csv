@@ -1,0 +1,101 @@
+year,category,institute_id,institute_name,city,state,official_rank,numeric_rank,overall_score,source_url
+2024,Universities,IR-O-U-0220,"Indian Institute of Science, Bengaluru",Bengaluru,Karnataka,1,1,83.29,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0109,Jawaharlal Nehru University,New Delhi,Delhi,2,2,69.8,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0108,Jamia Millia Islamia,New Delhi,Delhi,3,3,68.11,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0234,"Manipal Academy of Higher Education, Manipal",Manipal,Karnataka,4,4,67.18,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0500,Banaras Hindu University,Varanasi,Uttar Pradesh,5,5,66.05,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0120,University of Delhi,Delhi,Delhi,6,6,65.9,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0436,Amrita Vishwa Vidyapeetham,Coimbatore,Tamil Nadu,7,7,65.73,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0496,Aligarh Muslim University,Aligarh,Uttar Pradesh,8,8,65.57,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0575,Jadavpur University,Kolkata,West Bengal,9,9,65.39,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0490,Vellore Institute of Technology,Vellore,Tamil Nadu,10,10,64.79,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-I-1441,Saveetha Institute of Medical and Technical Sciences,Chennai,Tamil Nadu,11,11,64.62,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0473,S.R.M. Institute of Science and Technology,Chennai,Tamil Nadu,12,12,64.56,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0439,Anna University,Chennai,Tamil Nadu,13,13,63.85,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0363,Siksha `O` Anusandhan,Bhubaneswar,Odisha,14,14,62.61,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0356,Kalinga Institute of Industrial Technology,Bhubaneswar,Odisha,15,15,62.53,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0304,Homi Bhabha National Institute,Mumbai,Maharashtra,16,16,62.31,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0042,University of Hyderabad,Hyderabad,Telangana,17,17,62.18,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0570,Calcutta University,Kolkata,West Bengal,18,18,61.1,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0391,"Birla Institute of Technology and Science, Pilani",Pilani,Rajasthan,19,19,60.03,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0747,Chandigarh University,Mohali,Punjab,20,20,59.96,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0260,Kerala University,Thiruvananthapuram,Kerala,21,21,58.48,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0020,Koneru Lakshmaiah Education Foundation University (K L College of Engineering),Vaddeswaram,Andhra Pradesh,22,22,57.98,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0323,Savitribai Phule Pune University,Pune,Maharashtra,23,23,57.96,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0222,JSS Academy of Higher Education and Research,Mysuru,Karnataka,24,24,57.74,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0006,Andhra University,Visakhapatnam,Andhra Pradesh,25,25,57.67,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0447,Bharathiar University,Coimbatore,Tamil Nadu,26,26,57.26,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0379,Lovely Professional University,Phagwara,Punjab,27,27,56.92,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0476,Shanmugha Arts Science Technology and Research Academy,Thanjavur,Tamil Nadu,28,28,56.81,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-I-1480,Thapar Institute of Engineering and Technology (Deemed-to-be-university),Patiala,Punjab,29,29,56.72,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0458,Kalasalingam Academy of Research and Education,Srivilliputhur,Tamil Nadu,30,30,56.71,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0329,Symbiosis International,Pune,Maharashtra,31,31,56.41,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0497,Amity University,Gautam Budh Nagar,Uttar Pradesh,32,32,56.14,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0498,Babasaheb Bhimrao Ambedkar University,Lucknow,Uttar Pradesh,33,33,56.03,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0253,Cochin University of Science and Technology,Cochin,Kerala,34,34,55.95,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0308,Institute of Chemical Technology,Mumbai,Maharashtra,35,35,55.67,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0448,Bharathidasan University,Tiruchirappalli,Tamil Nadu,36,36,55.6,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0262,Mahatma Gandhi University,Kottayam,Kerala,37,37,55.18,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0078,Panjab University,Chandigarh,Chandigarh,38,38,55.11,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-I-1357,University of Madras,Chennai,Tamil Nadu,39,39,55.03,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0052,Gauhati University,Guwahati,Assam,40,40,54.86,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0107,Jamia Hamdard,New Delhi,Delhi,40,40,54.86,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0295,Datta Meghe Institute of Higher Education and Research,Wardha,Maharashtra,42,42,54.71,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0027,Osmania University,Hyderabad,Telangana,43,43,54.69,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-I-1110,Dr. D. Y. Patil Vidyapeeth,Pune,Maharashtra,44,44,54.59,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0196,University of Kashmir,Srinagar,Jammu and Kashmir,45,45,54.43,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0564,UPES,Dehradun,Uttarakhand,46,46,54.02,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0435,Alagappa University,Karaikudi,Tamil Nadu,47,47,53.84,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0098,Delhi Technological University,New Delhi,Delhi,48,48,53.31,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-N-10,SVKM`s Narsee Monjee Institute of Management Studies,Mumbai,Maharashtra,49,49,52.43,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0195,University of Jammu,Jammu,Jammu and Kashmir,50,50,52.33,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0474,Sathyabama Institute of Science and Technology,Chennai,Tamil Nadu,51,51,52.16,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0555,Graphic Era University,Dehradun,Uttarakhand,52,52,52.01,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0523,King George`s Medical University,Lucknow,Uttar Pradesh,53,53,51.1,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0235,Mysore University,Mysuru,Karnataka,54,54,51.04,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-I-1486,Sri Ramachandra Institute of Higher Education and Research,Chennai,Tamil Nadu,55,55,50.86,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0470,Periyar University,Salem,Tamil Nadu,56,56,50.36,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0381,Punjab Agricultural University,Ludhiana,Punjab,57,57,50.32,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0331,Tata Institute of Social Sciences,Mumbai,Maharashtra,58,58,50.2,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0003,Acharya Nagarjuna University,Guntur,Andhra Pradesh,59,59,50.06,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0217,Christ University,Bengaluru,Karnataka,60,60,49.87,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0318,Mumbai University,Mumbai,Maharashtra,61,61,49.86,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0642,Shiv Nadar University,Gautam Buddha Nagar,Uttar Pradesh,62,62,49.8,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0463,Madurai Kamaraj University,Madurai,Tamil Nadu,63,63,49.72,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0749,"Manipal University, Jaipur",Jaipur,Rajasthan,64,64,49.5,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0223,"Jain University, Bangalore",Bengaluru,Karnataka,65,65,49.47,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0239,NITTE,Mangaluru,Karnataka,66,66,49.45,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0389,Banasthali Vidyapith,Banasthali,Rajasthan,67,67,49.38,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0370,Sri Balaji Vidyapeeth Mahatma Gandhi Medical College,Puducherry,Pondicherry,68,68,49.14,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0056,Tezpur University,Tezpur,Assam,69,69,49.01,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0190,Shoolini University of Biotechnology and Management Sciences,Solan,Himachal Pradesh,70,70,48.82,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0168,Maharishi Markandeshwar (Deemed to be University),Ambala,Haryana,71,71,48.67,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0043,"Vignan's Foundation for Science, Technology and Research",Guntur,Andhra Pradesh,72,72,48.45,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0446,Bharath Institute of Higher Education and Research,Chennai,Tamil Nadu,73,73,48.36,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0014,International Institute of Information Technology Hyderabad,Hyderabad,Telangana,74,74,48.32,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0249,Visvesvaraya Technological University,Belgaum,Karnataka,75,75,48.1,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0136,Gujarat University,Ahmedabad,Gujarat,76,76,48.04,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0345,Mizoram University,Aizawl,Mizoram,77,77,48.03,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-I-1361,Bharati Vidyapeeth,Pune,Maharashtra,78,78,47.94,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0451,Chettinad Academy of Research and Education,"Kelambakkam, Chengalpattu District",Tamil Nadu,79,79,47.8,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0099,Guru Gobind Singh Indraprastha University,New Delhi,Delhi,80,80,47.66,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0215,Bangalore University,Bengaluru,Karnataka,81,81,47.45,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0202,Birla Institute of Technology,Ranchi,Jharkhand,82,82,47.31,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0372,Central University of Punjab,Bathinda,Punjab,83,83,47.11,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0485,Tamil Nadu Agricultural University,Coimbatore,Tamil Nadu,84,84,47.03,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0384,Sant Longowal Institute of Engineering and Technology,Longowal,Punjab,85,85,46.9,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0541,Sharda University,Greater Noida,Uttar Pradesh,86,86,46.88,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0037,Sri Venkateswara University,Tirupati,Andhra Pradesh,87,87,46.65,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0554,G.B. Pant Universtiy of Agriculture and Technology,Pantnagar,Uttarakhand,88,88,46.64,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0251,Calicut University,Malappuram,Kerala,89,89,46.63,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0248,University of Agricultural Sciences,Bengaluru,Karnataka,90,90,46.47,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0373,Chitkara University,Rajpura,Punjab,90,90,46.47,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0169,Manav Rachna International Institute of Research and Studies,Faridabad,Haryana,92,92,46.46,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0464,"Manonmaniam Sundaranar University, Tirunelveli",Tirunelveli,Tamil Nadu,93,93,46.34,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0739,Madan Mohan Malaviya University of Technology,Gorakhpur,Uttar Pradesh,94,94,46.33,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0250,Yenepoya University,Mangaluru,Karnataka,95,95,46.31,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0489,Vel Tech Rangarajan Dr. Sagunthala R & D Institute of Science and Technology,Chennai,Tamil Nadu,96,96,46.22,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0524,University of Lucknow,Lucknow,Uttar Pradesh,97,97,45.89,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0444,Avinashilingam Institute for Home Science and Higher Education for Women,Coimbatore,Tamil Nadu,98,98,45.78,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-U-0449,Central University of Tamil Nadu,Tiruvarur,Tamil Nadu,99,99,45.73,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html
+2024,Universities,IR-O-C-6379,Netaji Subhas University of Technology (NSUT),Delhi,Delhi,100,100,45.51,https://www.nirfindia.org/Rankings/2024/UniversityRanking.html

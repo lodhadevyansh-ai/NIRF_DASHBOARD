@@ -1,0 +1,116 @@
+{
+  "dataset_title": "NIRF Master Dataset (2017 - 2025)",
+  "description": "Unified dataset combining all officially published NIRF rankings and parameter scores across all 17 categories.",
+  "version": "1.0.0",
+  "unique_record_key": [
+    "year",
+    "category",
+    "institute_id"
+  ],
+  "columns": {
+    "year": {
+      "type": "integer",
+      "description": "Ranking edition year (2017 to 2025)."
+    },
+    "category": {
+      "type": "string",
+      "description": "NIRF ranking category (one of 17 official disciplines)."
+    },
+    "institute_id": {
+      "type": "string",
+      "description": "Official NIRF institution identifier (e.g. IR-E-U-0456)."
+    },
+    "institution_name": {
+      "type": "string",
+      "description": "Cleaned official name of the ranked institution."
+    },
+    "city": {
+      "type": "string",
+      "description": "City where the institution is located."
+    },
+    "state": {
+      "type": "string",
+      "description": "Standardized Indian State or Union Territory."
+    },
+    "rank": {
+      "type": "string",
+      "description": "Official rank as published (integer or rank band e.g. '1', '11-50')."
+    },
+    "numeric_rank": {
+      "type": "float",
+      "description": "Integer numeric rank for exact ranks; null for rank bands."
+    },
+    "overall_score": {
+      "type": "float",
+      "description": "Composite NIRF score (out of 100); null where unranked or uncomputed."
+    },
+    "tlr_score": {
+      "type": "float",
+      "description": "Teaching, Learning and Resources score (out of 100)."
+    },
+    "rpc_score": {
+      "type": "float",
+      "description": "Research and Professional Practice score (out of 100)."
+    },
+    "go_score": {
+      "type": "float",
+      "description": "Graduation Outcomes score (out of 100)."
+    },
+    "oi_score": {
+      "type": "float",
+      "description": "Outreach and Inclusivity score (out of 100)."
+    },
+    "pr_score": {
+      "type": "float",
+      "description": "Peer Perception score (out of 100)."
+    },
+    "qnr_score": {
+      "type": "float",
+      "description": "Quantitative Research Output score (Research Institutions)."
+    },
+    "qlr_score": {
+      "type": "float",
+      "description": "Quality of Publications and Citations score (Research Institutions)."
+    },
+    "sfc_score": {
+      "type": "float",
+      "description": "Student and Faculty Credentials score (Research Institutions)."
+    },
+    "original_parameter_names": {
+      "type": "string",
+      "description": "Semicolon-separated list of exact parameter names published in source."
+    },
+    "source_url": {
+      "type": "string",
+      "description": "Official NIRF webpage URL from which the data was scraped."
+    },
+    "source_category": {
+      "type": "string",
+      "description": "Exact category identifier in the source directory."
+    },
+    "source_year": {
+      "type": "integer",
+      "description": "Exact year identifier in the source directory."
+    },
+    "source_file": {
+      "type": "string",
+      "description": "Relative file path of the source rankings CSV."
+    },
+    "data_collection_date": {
+      "type": "string",
+      "description": "ISO 8601 UTC timestamp of data scraping/extraction."
+    }
+  },
+  "parameter_mappings": {
+    "TLR (100)": "tlr_score",
+    "RPC (100)": "rpc_score",
+    "RP (100)": "rpc_score",
+    "GO (100)": "go_score",
+    "OI (100)": "oi_score",
+    "PERCEPTION (100)": "pr_score",
+    "PR (100)": "pr_score",
+    "QNR (100)": "qnr_score",
+    "QLR (100)": "qlr_score",
+    "SFC (100)": "sfc_score"
+  }
+}

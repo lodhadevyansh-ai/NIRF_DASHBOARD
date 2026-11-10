@@ -1,0 +1,101 @@
+year,category,institute_id,institute_name,parameter_name,parameter_score,canonical_parameter
+2020,Architecture and Planning,IR-A-U-0573,Indian Institute of Technology Kharagpur,TLR (100),78.58,TLR
+2020,Architecture and Planning,IR-A-U-0573,Indian Institute of Technology Kharagpur,RPC (100),79.73,RPC
+2020,Architecture and Planning,IR-A-U-0573,Indian Institute of Technology Kharagpur,GO (100),91.8,GO
+2020,Architecture and Planning,IR-A-U-0573,Indian Institute of Technology Kharagpur,OI (100),71.71,OI
+2020,Architecture and Planning,IR-A-U-0573,Indian Institute of Technology Kharagpur,PERCEPTION (100),75.54,PR
+2020,Architecture and Planning,IR-A-U-0560,Indian Institute of Technology Roorkee,TLR (100),81.32,TLR
+2020,Architecture and Planning,IR-A-U-0560,Indian Institute of Technology Roorkee,RPC (100),85.34,RPC
+2020,Architecture and Planning,IR-A-U-0560,Indian Institute of Technology Roorkee,GO (100),87.15,GO
+2020,Architecture and Planning,IR-A-U-0560,Indian Institute of Technology Roorkee,OI (100),70.9,OI
+2020,Architecture and Planning,IR-A-U-0560,Indian Institute of Technology Roorkee,PERCEPTION (100),56.3,PR
+2020,Architecture and Planning,IR-A-U-0263,National Institute of Technology Calicut,TLR (100),89.7,TLR
+2020,Architecture and Planning,IR-A-U-0263,National Institute of Technology Calicut,RPC (100),27.93,RPC
+2020,Architecture and Planning,IR-A-U-0263,National Institute of Technology Calicut,GO (100),75.96,GO
+2020,Architecture and Planning,IR-A-U-0263,National Institute of Technology Calicut,OI (100),66.96,OI
+2020,Architecture and Planning,IR-A-U-0263,National Institute of Technology Calicut,PERCEPTION (100),58.79,PR
+2020,Architecture and Planning,IR-A-U-0127,Centre for Environmental Planning and Technology University,TLR (100),70.14,TLR
+2020,Architecture and Planning,IR-A-U-0127,Centre for Environmental Planning and Technology University,RPC (100),43.18,RPC
+2020,Architecture and Planning,IR-A-U-0127,Centre for Environmental Planning and Technology University,GO (100),82.53,GO
+2020,Architecture and Planning,IR-A-U-0127,Centre for Environmental Planning and Technology University,OI (100),59.98,OI
+2020,Architecture and Planning,IR-A-U-0127,Centre for Environmental Planning and Technology University,PERCEPTION (100),74.72,PR
+2020,Architecture and Planning,IR-A-U-0116,School of Planning and Architecture,TLR (100),74.58,TLR
+2020,Architecture and Planning,IR-A-U-0116,School of Planning and Architecture,RPC (100),20.51,RPC
+2020,Architecture and Planning,IR-A-U-0116,School of Planning and Architecture,GO (100),73.47,GO
+2020,Architecture and Planning,IR-A-U-0116,School of Planning and Architecture,OI (100),70.15,OI
+2020,Architecture and Planning,IR-A-U-0116,School of Planning and Architecture,PERCEPTION (100),100.0,PR
+2020,Architecture and Planning,IR-A-U-0584,Indian Institute of Engineering Science and Technology,TLR (100),71.68,TLR
+2020,Architecture and Planning,IR-A-U-0584,Indian Institute of Engineering Science and Technology,RPC (100),62.31,RPC
+2020,Architecture and Planning,IR-A-U-0584,Indian Institute of Engineering Science and Technology,GO (100),74.67,GO
+2020,Architecture and Planning,IR-A-U-0584,Indian Institute of Engineering Science and Technology,OI (100),52.88,OI
+2020,Architecture and Planning,IR-A-U-0584,Indian Institute of Engineering Science and Technology,PERCEPTION (100),37.0,PR
+2020,Architecture and Planning,IR-A-U-0626,School of Planning and Architecture,TLR (100),79.91,TLR
+2020,Architecture and Planning,IR-A-U-0626,School of Planning and Architecture,RPC (100),22.57,RPC
+2020,Architecture and Planning,IR-A-U-0626,School of Planning and Architecture,GO (100),74.12,GO
+2020,Architecture and Planning,IR-A-U-0626,School of Planning and Architecture,OI (100),73.51,OI
+2020,Architecture and Planning,IR-A-U-0626,School of Planning and Architecture,PERCEPTION (100),52.25,PR
+2020,Architecture and Planning,IR-A-U-0467,National Institute of Technology Tiruchirappalli,TLR (100),49.63,TLR
+2020,Architecture and Planning,IR-A-U-0467,National Institute of Technology Tiruchirappalli,RPC (100),52.1,RPC
+2020,Architecture and Planning,IR-A-U-0467,National Institute of Technology Tiruchirappalli,GO (100),83.9,GO
+2020,Architecture and Planning,IR-A-U-0467,National Institute of Technology Tiruchirappalli,OI (100),59.37,OI
+2020,Architecture and Planning,IR-A-U-0467,National Institute of Technology Tiruchirappalli,PERCEPTION (100),73.03,PR
+2020,Architecture and Planning,IR-A-U-0627,School of Planning and Architecture,TLR (100),74.2,TLR
+2020,Architecture and Planning,IR-A-U-0627,School of Planning and Architecture,RPC (100),5.2,RPC
+2020,Architecture and Planning,IR-A-U-0627,School of Planning and Architecture,GO (100),82.32,GO
+2020,Architecture and Planning,IR-A-U-0627,School of Planning and Architecture,OI (100),68.21,OI
+2020,Architecture and Planning,IR-A-U-0627,School of Planning and Architecture,PERCEPTION (100),56.3,PR
+2020,Architecture and Planning,IR-A-U-0108,Jamia Millia Islamia,TLR (100),66.06,TLR
+2020,Architecture and Planning,IR-A-U-0108,Jamia Millia Islamia,RPC (100),0.67,RPC
+2020,Architecture and Planning,IR-A-U-0108,Jamia Millia Islamia,GO (100),87.09,GO
+2020,Architecture and Planning,IR-A-U-0108,Jamia Millia Islamia,OI (100),78.6,OI
+2020,Architecture and Planning,IR-A-U-0108,Jamia Millia Islamia,PERCEPTION (100),44.47,PR
+2020,Architecture and Planning,IR-A-C-43708,College of Engineering Trivandrum,TLR (100),57.69,TLR
+2020,Architecture and Planning,IR-A-C-43708,College of Engineering Trivandrum,RPC (100),25.46,RPC
+2020,Architecture and Planning,IR-A-C-43708,College of Engineering Trivandrum,GO (100),92.24,GO
+2020,Architecture and Planning,IR-A-C-43708,College of Engineering Trivandrum,OI (100),54.3,OI
+2020,Architecture and Planning,IR-A-C-43708,College of Engineering Trivandrum,PERCEPTION (100),37.0,PR
+2020,Architecture and Planning,IR-A-C-46330,Manipal Academy of Higher Education,TLR (100),61.52,TLR
+2020,Architecture and Planning,IR-A-C-46330,Manipal Academy of Higher Education,RPC (100),0.0,RPC
+2020,Architecture and Planning,IR-A-C-46330,Manipal Academy of Higher Education,GO (100),79.85,GO
+2020,Architecture and Planning,IR-A-C-46330,Manipal Academy of Higher Education,OI (100),70.35,OI
+2020,Architecture and Planning,IR-A-C-46330,Manipal Academy of Higher Education,PERCEPTION (100),54.99,PR
+2020,Architecture and Planning,IR-A-U-0202,Birla Institute of Technology,TLR (100),51.76,TLR
+2020,Architecture and Planning,IR-A-U-0202,Birla Institute of Technology,RPC (100),40.71,RPC
+2020,Architecture and Planning,IR-A-U-0202,Birla Institute of Technology,GO (100),60.95,GO
+2020,Architecture and Planning,IR-A-U-0202,Birla Institute of Technology,OI (100),60.59,OI
+2020,Architecture and Planning,IR-A-U-0202,Birla Institute of Technology,PERCEPTION (100),53.64,PR
+2020,Architecture and Planning,IR-A-C-57952,BMS College of Arhitecture,TLR (100),63.4,TLR
+2020,Architecture and Planning,IR-A-C-57952,BMS College of Arhitecture,RPC (100),0.01,RPC
+2020,Architecture and Planning,IR-A-C-57952,BMS College of Arhitecture,GO (100),77.67,GO
+2020,Architecture and Planning,IR-A-C-57952,BMS College of Arhitecture,OI (100),57.88,OI
+2020,Architecture and Planning,IR-A-C-57952,BMS College of Arhitecture,PERCEPTION (100),54.99,PR
+2020,Architecture and Planning,IR-A-U-0284,Maulana Azad National Institute of Technology,TLR (100),56.44,TLR
+2020,Architecture and Planning,IR-A-U-0284,Maulana Azad National Institute of Technology,RPC (100),34.3,RPC
+2020,Architecture and Planning,IR-A-U-0284,Maulana Azad National Institute of Technology,GO (100),71.03,GO
+2020,Architecture and Planning,IR-A-U-0284,Maulana Azad National Institute of Technology,OI (100),55.22,OI
+2020,Architecture and Planning,IR-A-U-0284,Maulana Azad National Institute of Technology,PERCEPTION (100),25.28,PR
+2020,Architecture and Planning,IR-A-U-0496,Aligarh Muslim University,TLR (100),40.68,TLR
+2020,Architecture and Planning,IR-A-U-0496,Aligarh Muslim University,RPC (100),50.18,RPC
+2020,Architecture and Planning,IR-A-U-0496,Aligarh Muslim University,GO (100),88.25,GO
+2020,Architecture and Planning,IR-A-U-0496,Aligarh Muslim University,OI (100),40.73,OI
+2020,Architecture and Planning,IR-A-U-0496,Aligarh Muslim University,PERCEPTION (100),34.91,PR
+2020,Architecture and Planning,IR-A-C-26794,Thiagarajar College of Engineering,TLR (100),47.68,TLR
+2020,Architecture and Planning,IR-A-C-26794,Thiagarajar College of Engineering,RPC (100),24.6,RPC
+2020,Architecture and Planning,IR-A-C-26794,Thiagarajar College of Engineering,GO (100),78.55,GO
+2020,Architecture and Planning,IR-A-C-26794,Thiagarajar College of Engineering,OI (100),51.0,OI
+2020,Architecture and Planning,IR-A-C-26794,Thiagarajar College of Engineering,PERCEPTION (100),54.99,PR
+2020,Architecture and Planning,IR-A-U-0439,Anna University,TLR (100),46.6,TLR
+2020,Architecture and Planning,IR-A-U-0439,Anna University,RPC (100),25.5,RPC
+2020,Architecture and Planning,IR-A-U-0439,Anna University,GO (100),58.1,GO
+2020,Architecture and Planning,IR-A-U-0439,Anna University,OI (100),52.83,OI
+2020,Architecture and Planning,IR-A-U-0439,Anna University,PERCEPTION (100),80.87,PR
+2020,Architecture and Planning,IR-A-U-0189,National Institute of Technology Hamirpur,TLR (100),44.44,TLR
+2020,Architecture and Planning,IR-A-U-0189,National Institute of Technology Hamirpur,RPC (100),51.07,RPC
+2020,Architecture and Planning,IR-A-U-0189,National Institute of Technology Hamirpur,GO (100),59.84,GO
+2020,Architecture and Planning,IR-A-U-0189,National Institute of Technology Hamirpur,OI (100),58.42,OI
+2020,Architecture and Planning,IR-A-U-0189,National Institute of Technology Hamirpur,PERCEPTION (100),27.9,PR
+2020,Architecture and Planning,IR-A-U-0454,Hindustan Institute of Technology and Science (HITS),TLR (100),53.75,TLR
+2020,Architecture and Planning,IR-A-U-0454,Hindustan Institute of Technology and Science (HITS),RPC (100),19.68,RPC
+2020,Architecture and Planning,IR-A-U-0454,Hindustan Institute of Technology and Science (HITS),GO (100),80.14,GO
+2020,Architecture and Planning,IR-A-U-0454,Hindustan Institute of Technology and Science (HITS),OI (100),47.84,OI
+2020,Architecture and Planning,IR-A-U-0454,Hindustan Institute of Technology and Science (HITS),PERCEPTION (100),22.48,PR

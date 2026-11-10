@@ -1,0 +1,51 @@
+year,category,institute_id,institute_name,parameter_name,parameter_score,canonical_parameter
+2018,Architecture and Planning,IR-5-A-OEMAL-U-0573,Indian Institute of Technology Kharagpur,TLR (100),69.71,TLR
+2018,Architecture and Planning,IR-5-A-OEMAL-U-0573,Indian Institute of Technology Kharagpur,RPC (100),82.84,RPC
+2018,Architecture and Planning,IR-5-A-OEMAL-U-0573,Indian Institute of Technology Kharagpur,GO (100),89.09,GO
+2018,Architecture and Planning,IR-5-A-OEMAL-U-0573,Indian Institute of Technology Kharagpur,OI (100),69.81,OI
+2018,Architecture and Planning,IR-5-A-OEMAL-U-0573,Indian Institute of Technology Kharagpur,PERCEPTION (100),78.51,PR
+2018,Architecture and Planning,IR-4-A-OEMA-U-0560,Indian Institute of Technology Roorkee,TLR (100),71.11,TLR
+2018,Architecture and Planning,IR-4-A-OEMA-U-0560,Indian Institute of Technology Roorkee,RPC (100),77.53,RPC
+2018,Architecture and Planning,IR-4-A-OEMA-U-0560,Indian Institute of Technology Roorkee,GO (100),79.42,GO
+2018,Architecture and Planning,IR-4-A-OEMA-U-0560,Indian Institute of Technology Roorkee,OI (100),65.2,OI
+2018,Architecture and Planning,IR-4-A-OEMA-U-0560,Indian Institute of Technology Roorkee,PERCEPTION (100),72.46,PR
+2018,Architecture and Planning,IR-3-A-OEA-U-0116,School of Planning and Architecture New Delhi,TLR (100),67.29,TLR
+2018,Architecture and Planning,IR-3-A-OEA-U-0116,School of Planning and Architecture New Delhi,RPC (100),17.9,RPC
+2018,Architecture and Planning,IR-3-A-OEA-U-0116,School of Planning and Architecture New Delhi,GO (100),68.81,GO
+2018,Architecture and Planning,IR-3-A-OEA-U-0116,School of Planning and Architecture New Delhi,OI (100),59.43,OI
+2018,Architecture and Planning,IR-3-A-OEA-U-0116,School of Planning and Architecture New Delhi,PERCEPTION (100),95.97,PR
+2018,Architecture and Planning,IR-3-A-EMA-C-43708,College of Engineering Trivandrum,TLR (100),59.74,TLR
+2018,Architecture and Planning,IR-3-A-EMA-C-43708,College of Engineering Trivandrum,RPC (100),27.46,RPC
+2018,Architecture and Planning,IR-3-A-EMA-C-43708,College of Engineering Trivandrum,GO (100),91.21,GO
+2018,Architecture and Planning,IR-3-A-EMA-C-43708,College of Engineering Trivandrum,OI (100),41.98,OI
+2018,Architecture and Planning,IR-3-A-EMA-C-43708,College of Engineering Trivandrum,PERCEPTION (100),55.51,PR
+2018,Architecture and Planning,IR-1-A-A-U-0626,School of Planning and Architecture Bhopal,TLR (100),77.27,TLR
+2018,Architecture and Planning,IR-1-A-A-U-0626,School of Planning and Architecture Bhopal,RPC (100),19.87,RPC
+2018,Architecture and Planning,IR-1-A-A-U-0626,School of Planning and Architecture Bhopal,GO (100),62.37,GO
+2018,Architecture and Planning,IR-1-A-A-U-0626,School of Planning and Architecture Bhopal,OI (100),62.27,OI
+2018,Architecture and Planning,IR-1-A-A-U-0626,School of Planning and Architecture Bhopal,PERCEPTION (100),52.62,PR
+2018,Architecture and Planning,IR-4-A-OEMA-U-0439,Anna University,TLR (100),55.25,TLR
+2018,Architecture and Planning,IR-4-A-OEMA-U-0439,Anna University,RPC (100),24.97,RPC
+2018,Architecture and Planning,IR-4-A-OEMA-U-0439,Anna University,GO (100),57.82,GO
+2018,Architecture and Planning,IR-4-A-OEMA-U-0439,Anna University,OI (100),52.05,OI
+2018,Architecture and Planning,IR-4-A-OEMA-U-0439,Anna University,PERCEPTION (100),100.0,PR
+2018,Architecture and Planning,IR-3-A-OEA-C-17029,JNAFAU School of Planning and Architecture,TLR (100),69.21,TLR
+2018,Architecture and Planning,IR-3-A-OEA-C-17029,JNAFAU School of Planning and Architecture,RPC (100),10.0,RPC
+2018,Architecture and Planning,IR-3-A-OEA-C-17029,JNAFAU School of Planning and Architecture,GO (100),86.52,GO
+2018,Architecture and Planning,IR-3-A-OEA-C-17029,JNAFAU School of Planning and Architecture,OI (100),58.43,OI
+2018,Architecture and Planning,IR-3-A-OEA-C-17029,JNAFAU School of Planning and Architecture,PERCEPTION (100),29.17,PR
+2018,Architecture and Planning,IR-5-A-OEMAL-U-0108,Jamia Millia Islamia,TLR (100),52.07,TLR
+2018,Architecture and Planning,IR-5-A-OEMAL-U-0108,Jamia Millia Islamia,RPC (100),23.62,RPC
+2018,Architecture and Planning,IR-5-A-OEMAL-U-0108,Jamia Millia Islamia,GO (100),75.95,GO
+2018,Architecture and Planning,IR-5-A-OEMAL-U-0108,Jamia Millia Islamia,OI (100),65.73,OI
+2018,Architecture and Planning,IR-5-A-OEMAL-U-0108,Jamia Millia Islamia,PERCEPTION (100),46.17,PR
+2018,Architecture and Planning,IR-3-A-OEA-U-0189,National Institute of Technology Hamirpur,TLR (100),48.36,TLR
+2018,Architecture and Planning,IR-3-A-OEA-U-0189,National Institute of Technology Hamirpur,RPC (100),43.82,RPC
+2018,Architecture and Planning,IR-3-A-OEA-U-0189,National Institute of Technology Hamirpur,GO (100),48.99,GO
+2018,Architecture and Planning,IR-3-A-OEA-U-0189,National Institute of Technology Hamirpur,OI (100),51.67,OI
+2018,Architecture and Planning,IR-3-A-OEA-U-0189,National Institute of Technology Hamirpur,PERCEPTION (100),34.11,PR
+2018,Architecture and Planning,IR-1-A-A-C-46330,"Faculty of Architecture, Manipal Academy of Higher Education",TLR (100),59.09,TLR
+2018,Architecture and Planning,IR-1-A-A-C-46330,"Faculty of Architecture, Manipal Academy of Higher Education",RPC (100),0.0,RPC
+2018,Architecture and Planning,IR-1-A-A-C-46330,"Faculty of Architecture, Manipal Academy of Higher Education",GO (100),74.22,GO
+2018,Architecture and Planning,IR-1-A-A-C-46330,"Faculty of Architecture, Manipal Academy of Higher Education",OI (100),65.15,OI
+2018,Architecture and Planning,IR-1-A-A-C-46330,"Faculty of Architecture, Manipal Academy of Higher Education",PERCEPTION (100),40.57,PR

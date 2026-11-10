@@ -1,0 +1,101 @@
+year,category,institute_id,institute_name,city,state,official_rank,numeric_rank,overall_score,source_url
+2022,Overall,IR-O-U-0456,Indian Institute of Technology Madras,Chennai,Tamil Nadu,1,1,87.59,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0220,Indian Institute of Science,Bengaluru,Karnataka,2,2,83.57,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0306,"Indian Institute of Technology, Bombay",Mumbai,Maharashtra,3,3,82.35,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-I-1074,"Indian Institute of Technology, Delhi",New Delhi,Delhi,4,4,82.22,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-I-1075,Indian Institute of Technology Kanpur,Kanpur,Uttar Pradesh,5,5,77.83,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0573,"Indian Institute of Technology, Kharagpur",Kharagpur,West Bengal,6,6,75.94,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0560,"Indian Institute of Technology, Roorkee",Roorkee,Uttarakhand,7,7,71.48,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0053,Indian Institute of Technology Guwahati,Guwahati,Assam,8,8,69.75,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-N-15,"All India Institute of Medical Sciences, Delhi",New Delhi,Delhi,9,9,69.57,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0109,Jawaharlal Nehru University,New Delhi,Delhi,10,10,67.25,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0500,Banaras Hindu University,Varanasi,Uttar Pradesh,11,11,64.81,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0575,Jadavpur University,Kolkata,West Bengal,12,12,63.85,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0108,"Jamia Millia Islamia, New Delhi",New Delhi,Delhi,13,13,63.62,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0013,Indian Institute of Technology Hyderabad,Hyderabad,Telangana,14,14,62.86,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0570,Calcutta University,Kolkata,West Bengal,15,15,61.57,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0436,Amrita Vishwa Vidyapeetham,Coimbatore,Tamil Nadu,16,16,61.54,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0234,"Manipal Academy of Higher Education, Manipal",Manipal,Karnataka,17,17,61.23,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0490,Vellore Institute of Technology,Vellore,Tamil Nadu,18,18,60.14,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0496,Aligarh Muslim University,Aligarh,Uttar Pradesh,19,19,59.86,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0042,University of Hyderabad,Hyderabad,Telangana,20,20,59.67,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0467,"National Institute of Technology, Tiruchirappalli",Tiruchirappalli,Tamil Nadu,21,21,58.95,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0439,Anna University,Chennai,Tamil Nadu,22,22,58.08,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0120,University of Delhi,Delhi,Delhi,23,23,57.63,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0447,Bharathiar University,Coimbatore,Tamil Nadu,24,24,57.26,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0323,Savitribai Phule Pune University,Pune,Maharashtra,25,25,56.99,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0305,"Indian Institute of Science Education & Research, Pune",Pune,Maharashtra,26,26,56.91,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0237,"National Institute of Technology Karnataka, Surathkal",Surathkal,Karnataka,27,27,56.74,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0308,Institute of Chemical Technology,Mumbai,Maharashtra,28,28,56.16,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0701,Indian Institute of Technology (Banaras Hindu University) Varanasi,Varanasi,Uttar Pradesh,29,29,55.85,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0363,Siksha `O` Anusandhan,Bhubaneswar,Odisha,30,30,55.42,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0273,Indian Institute of Technology Indore,Indore,Madhya Pradesh,31,31,55.13,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0391,Birla Institute of Technology & Science - Pilani,Pilani,Rajasthan,32,32,55.1,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0304,Homi Bhabha National Institute,Mumbai,Maharashtra,33,33,54.85,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0356,Kalinga Institute of Industrial Technology,Bhubaneswar,Odisha,34,34,54.35,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0378,Indian Institute of Technology Ropar,Rupnagar,Punjab,35,35,54.29,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0473,S.R.M. Institute of Science and Technology,Chennai,Tamil Nadu,36,36,53.99,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0139,"Indian Institute of Technology, Gandhinagar",Gandhinagar,Gujarat,37,37,53.92,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0205,Indian Institute of Technology (Indian School of Mines),Dhanbad,Jharkhand,38,38,53.87,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0357,National Institute of Technology Rourkela,Rourkela,Odisha,39,39,53.77,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0572,"Indian Institute of Science Education & Research, Kolkata",Mohanpur,West Bengal,40,40,52.35,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0078,Panjab University,Chandigarh,Chandigarh,41,41,51.23,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0497,Amity University,Gautam Budh Nagar,Uttar Pradesh,42,42,51.07,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0184,"Indian Institute of Technology, Mandi",Mandi,Himachal Pradesh,43,43,51.05,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-I-1441,Saveetha Institute of Medical and Technical Sciences,Chennai,Tamil Nadu,44,44,50.81,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0025,National Institute of Technology Warangal,Warangal,Telangana,45,45,50.61,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0027,Osmania University,Hyderabad,Telangana,46,46,50.6,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0377,"Indian Institute of Science Education & Research, Mohali",Mohali,Punjab,47,47,50.55,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0747,Chandigarh University,Mohali,Punjab,48,48,50.39,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0476,Shanmugha Arts Science Technology & Research Academy,Thanjavur,Tamil Nadu,49,49,50.33,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0458,Kalasalingam Academy of Research and Education,Srivilliputtur,Tamil Nadu,50,50,49.97,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0262,"Mahatma Gandhi University, Kottayam",Kottayam,Kerala,51,51,49.89,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0260,Kerala University,Thiruvananthapuram,Kerala,52,52,49.87,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0435,Alagappa University,Karaikudi,Tamil Nadu,53,53,49.73,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0368,Jawaharlal Institute of Post Graduate Medical Education & Research,Puducherry,Pondicherry,54,54,49.71,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0020,Koneru Lakshmaiah Education Foundation University (K L College of Engineering),Vaddeswaram,Andhra Pradesh,54,54,49.71,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0235,Mysore University,Mysuru,Karnataka,54,54,49.71,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-I-1480,Thapar Institute of Engineering and Technology,Patiala,Punjab,57,57,49.65,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0379,Lovely Professional University,Phagwara,Punjab,58,58,49.54,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0064,"Indian Institute of Technology, Patna",Patna,Bihar,59,59,49.47,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0222,JSS Academy of Higher Education and Research,Mysuru,Karnataka,60,60,49.31,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0272,Indian Institute of Science Education & Research Bhopal,Bhopal,Madhya Pradesh,61,61,49.29,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0329,Symbiosis International,Pune,Maharashtra,62,62,49.22,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0098,Delhi Technological University,New Delhi,Delhi,63,63,49.03,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0052,Gauhati University,Guwahati,Assam,64,64,48.98,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0355,Indian Institute of Technology Bhubaneswar,Bhubaneswar,Odisha,65,65,48.46,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0584,"Indian Institute of Engineering Science and Technology, Shibpur",Howrah,West Bengal,66,66,48.45,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0474,Sathyabama Institute of Science and Technology,Chennai,Tamil Nadu,67,67,48.09,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0334,"Visvesvaraya National Institute of Technology, Nagpur",Nagpur,Maharashtra,68,68,48.05,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0253,Cochin University of Science and Technology,Cochin,Kerala,69,69,48.02,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-I-1357,University of Madras,Chennai,Tamil Nadu,70,70,48.01,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0006,"Andhra University, Visakhapatnam",Visakhapatnam,Andhra Pradesh,71,71,47.97,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0577,National Institute of Technology Durgapur,Durgapur,West Bengal,72,72,47.9,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0136,Gujarat University,Ahmedabad,Gujarat,73,73,47.72,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0107,Jamia Hamdard,New Delhi,Delhi,74,74,47.5,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0523,King George`s Medical University,Lucknow,Uttar Pradesh,75,75,47.0,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-I-1110,Dr. D. Y. Patil Vidyapeeth,Pune,Maharashtra,76,76,46.76,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0055,"National Institute of Technology, Silchar",Silchar,Assam,76,76,46.76,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0498,Babasheb Bhimrao Ambedkar University,Lucknow,Uttar Pradesh,78,78,46.39,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-S-8909,Indian Institute of Management Kozhikode,Kozhikode,Kerala,79,79,46.36,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0376,Guru Nanak Dev University,Amritsar,Punjab,80,80,46.31,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0318,Mumbai University,Mumbai,Maharashtra,81,81,46.15,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0448,Bharathidasan University,Tiruchirappalli,Tamil Nadu,82,82,46.14,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-I-1486,Sri Ramachandra Institute of Higher Education and Research,Chennai,Tamil Nadu,83,83,46.08,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0196,University of Kashmir,Srinagar,Jammu and Kashmir,84,84,45.98,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0374,"Dr. B R Ambedkar National Institute of Technology, Jalandhar",Jalandhar,Punjab,85,85,45.85,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0689,All India Institute of Medical Sciences Jodhpur,Jodhpur,Rajasthan,86,86,45.81,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0389,Banasthali Vidyapith,Banasthali,Rajasthan,87,87,45.8,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0463,Madurai Kamaraj University,Madurai,Tamil Nadu,88,88,45.77,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-N-10,SVKM`s Narsee Monjee Institute of Management Studies,Mumbai,Maharashtra,89,89,45.68,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0056,Tezpur University,Tezpur,Assam,90,90,45.59,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0410,Malaviya National Institute of Technology,Jaipur,Rajasthan,91,91,45.27,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0295,Datta Meghe Institute of Medical Sciences,Wardha,Maharashtra,92,92,45.21,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0195,University of Jammu,Jammu,Jammu and Kashmir,93,93,45.11,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0642,Shiv Nadar University,Dadri,Uttar Pradesh,94,94,44.94,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0446,Bharath Institute of Higher Education & Research,Chennai,Tamil Nadu,95,95,44.73,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-C-16604,Sri Sivasubramaniya Nadar College of Engineering,Kancheepuram,Tamil Nadu,96,96,44.69,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0564,University of Petroleum and Energy Studies,Dehradun,Uttarakhand,97,97,44.65,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0215,Bangalore University,Bangalore,Karnataka,98,98,44.53,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0331,Tata Institute of Social Sciences,Mumbai,Maharashtra,99,99,44.52,https://www.nirfindia.org/Rankings/2022/OverallRanking.html
+2022,Overall,IR-O-U-0249,Visvesvaraya Technological University,Belgaum,Karnataka,100,100,44.35,https://www.nirfindia.org/Rankings/2022/OverallRanking.html

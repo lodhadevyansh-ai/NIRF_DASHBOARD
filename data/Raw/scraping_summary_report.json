@@ -1,0 +1,492 @@
+{
+  "total_checked": 153,
+  "successfully_scraped": 102,
+  "failed": 0,
+  "unavailable": 51,
+  "total_institutions": 6572,
+  "total_parameters": 32595,
+  "category_counts": {
+    "Overall": {
+      "institutions": 901,
+      "parameters": 4505,
+      "years": 9
+    },
+    "Universities": {
+      "institutions": 900,
+      "parameters": 4500,
+      "years": 9
+    },
+    "Colleges": {
+      "institutions": 899,
+      "parameters": 4495,
+      "years": 9
+    },
+    "Research Institutions": {
+      "institutions": 250,
+      "parameters": 1250,
+      "years": 5
+    },
+    "Engineering": {
+      "institutions": 898,
+      "parameters": 4490,
+      "years": 9
+    },
+    "Management": {
+      "institutions": 726,
+      "parameters": 3630,
+      "years": 9
+    },
+    "Pharmacy": {
+      "institutions": 726,
+      "parameters": 3630,
+      "years": 9
+    },
+    "Medical": {
+      "institutions": 345,
+      "parameters": 1725,
+      "years": 8
+    },
+    "Dental": {
+      "institutions": 230,
+      "parameters": 1145,
+      "years": 6
+    },
+    "Law": {
+      "institutions": 215,
+      "parameters": 1075,
+      "years": 8
+    },
+    "Architecture and Planning": {
+      "institutions": 210,
+      "parameters": 1050,
+      "years": 8
+    },
+    "Agriculture and Allied Sectors": {
+      "institutions": 120,
+      "parameters": 600,
+      "years": 3
+    },
+    "Innovation": {
+      "institutions": 30,
+      "parameters": 0,
+      "years": 3
+    },
+    "Open University": {
+      "institutions": 6,
+      "parameters": 0,
+      "years": 2
+    },
+    "Skill University": {
+      "institutions": 6,
+      "parameters": 0,
+      "years": 2
+    },
+    "State Public University": {
+      "institutions": 100,
+      "parameters": 500,
+      "years": 2
+    },
+    "Sustainable Development Goals": {
+      "institutions": 10,
+      "parameters": 0,
+      "years": 1
+    }
+  },
+  "year_counts": {
+    "2017": {
+      "institutions": 500,
+      "parameters": 2500,
+      "categories": 6
+    },
+    "2018": {
+      "institutions": 541,
+      "parameters": 2705,
+      "categories": 9
+    },
+    "2019": {
+      "institutions": 610,
+      "parameters": 3050,
+      "categories": 9
+    },
+    "2020": {
+      "institutions": 661,
+      "parameters": 3305,
+      "categories": 10
+    },
+    "2021": {
+      "institutions": 745,
+      "parameters": 3725,
+      "categories": 11
+    },
+    "2022": {
+      "institutions": 802,
+      "parameters": 4010,
+      "categories": 11
+    },
+    "2023": {
+      "institutions": 850,
+      "parameters": 4200,
+      "categories": 13
+    },
+    "2024": {
+      "institutions": 926,
+      "parameters": 4550,
+      "categories": 16
+    },
+    "2025": {
+      "institutions": 937,
+      "parameters": 4550,
+      "categories": 17
+    }
+  },
+  "fewer_than_100": [
+    {
+      "category": "Colleges",
+      "year": 2018,
+      "count": 99
+    },
+    {
+      "category": "Research Institutions",
+      "year": 2021,
+      "count": 50
+    },
+    {
+      "category": "Research Institutions",
+      "year": 2022,
+      "count": 50
+    },
+    {
+      "category": "Research Institutions",
+      "year": 2023,
+      "count": 50
+    },
+    {
+      "category": "Research Institutions",
+      "year": 2024,
+      "count": 50
+    },
+    {
+      "category": "Research Institutions",
+      "year": 2025,
+      "count": 50
+    },
+    {
+      "category": "Engineering",
+      "year": 2018,
+      "count": 98
+    },
+    {
+      "category": "Management",
+      "year": 2017,
+      "count": 50
+    },
+    {
+      "category": "Management",
+      "year": 2018,
+      "count": 50
+    },
+    {
+      "category": "Management",
+      "year": 2019,
+      "count": 75
+    },
+    {
+      "category": "Management",
+      "year": 2020,
+      "count": 75
+    },
+    {
+      "category": "Management",
+      "year": 2021,
+      "count": 75
+    },
+    {
+      "category": "Pharmacy",
+      "year": 2017,
+      "count": 50
+    },
+    {
+      "category": "Pharmacy",
+      "year": 2018,
+      "count": 49
+    },
+    {
+      "category": "Pharmacy",
+      "year": 2019,
+      "count": 75
+    },
+    {
+      "category": "Pharmacy",
+      "year": 2020,
+      "count": 75
+    },
+    {
+      "category": "Pharmacy",
+      "year": 2021,
+      "count": 75
+    },
+    {
+      "category": "Medical",
+      "year": 2018,
+      "count": 25
+    },
+    {
+      "category": "Medical",
+      "year": 2019,
+      "count": 30
+    },
+    {
+      "category": "Medical",
+      "year": 2020,
+      "count": 40
+    },
+    {
+      "category": "Medical",
+      "year": 2021,
+      "count": 50
+    },
+    {
+      "category": "Medical",
+      "year": 2022,
+      "count": 50
+    },
+    {
+      "category": "Medical",
+      "year": 2023,
+      "count": 50
+    },
+    {
+      "category": "Medical",
+      "year": 2024,
+      "count": 50
+    },
+    {
+      "category": "Medical",
+      "year": 2025,
+      "count": 50
+    },
+    {
+      "category": "Dental",
+      "year": 2020,
+      "count": 30
+    },
+    {
+      "category": "Dental",
+      "year": 2021,
+      "count": 40
+    },
+    {
+      "category": "Dental",
+      "year": 2022,
+      "count": 40
+    },
+    {
+      "category": "Dental",
+      "year": 2023,
+      "count": 40
+    },
+    {
+      "category": "Dental",
+      "year": 2024,
+      "count": 40
+    },
+    {
+      "category": "Dental",
+      "year": 2025,
+      "count": 40
+    },
+    {
+      "category": "Law",
+      "year": 2018,
+      "count": 10
+    },
+    {
+      "category": "Law",
+      "year": 2019,
+      "count": 15
+    },
+    {
+      "category": "Law",
+      "year": 2020,
+      "count": 20
+    },
+    {
+      "category": "Law",
+      "year": 2021,
+      "count": 30
+    },
+    {
+      "category": "Law",
+      "year": 2022,
+      "count": 30
+    },
+    {
+      "category": "Law",
+      "year": 2023,
+      "count": 30
+    },
+    {
+      "category": "Law",
+      "year": 2024,
+      "count": 40
+    },
+    {
+      "category": "Law",
+      "year": 2025,
+      "count": 40
+    },
+    {
+      "category": "Architecture and Planning",
+      "year": 2018,
+      "count": 10
+    },
+    {
+      "category": "Architecture and Planning",
+      "year": 2019,
+      "count": 15
+    },
+    {
+      "category": "Architecture and Planning",
+      "year": 2020,
+      "count": 20
+    },
+    {
+      "category": "Architecture and Planning",
+      "year": 2021,
+      "count": 25
+    },
+    {
+      "category": "Architecture and Planning",
+      "year": 2022,
+      "count": 30
+    },
+    {
+      "category": "Architecture and Planning",
+      "year": 2023,
+      "count": 30
+    },
+    {
+      "category": "Architecture and Planning",
+      "year": 2024,
+      "count": 40
+    },
+    {
+      "category": "Architecture and Planning",
+      "year": 2025,
+      "count": 40
+    },
+    {
+      "category": "Agriculture and Allied Sectors",
+      "year": 2023,
+      "count": 40
+    },
+    {
+      "category": "Agriculture and Allied Sectors",
+      "year": 2024,
+      "count": 40
+    },
+    {
+      "category": "Agriculture and Allied Sectors",
+      "year": 2025,
+      "count": 40
+    },
+    {
+      "category": "Innovation",
+      "year": 2023,
+      "count": 10
+    },
+    {
+      "category": "Innovation",
+      "year": 2024,
+      "count": 10
+    },
+    {
+      "category": "Innovation",
+      "year": 2025,
+      "count": 10
+    },
+    {
+      "category": "Open University",
+      "year": 2024,
+      "count": 3
+    },
+    {
+      "category": "Open University",
+      "year": 2025,
+      "count": 3
+    },
+    {
+      "category": "Skill University",
+      "year": 2024,
+      "count": 3
+    },
+    {
+      "category": "Skill University",
+      "year": 2025,
+      "count": 3
+    },
+    {
+      "category": "State Public University",
+      "year": 2024,
+      "count": 50
+    },
+    {
+      "category": "State Public University",
+      "year": 2025,
+      "count": 50
+    },
+    {
+      "category": "Sustainable Development Goals",
+      "year": 2025,
+      "count": 10
+    }
+  ],
+  "rank_bands_detected": [],
+  "no_params_extracted": [
+    {
+      "category": "Innovation",
+      "year": 2023,
+      "institutions": 10
+    },
+    {
+      "category": "Innovation",
+      "year": 2024,
+      "institutions": 10
+    },
+    {
+      "category": "Innovation",
+      "year": 2025,
+      "institutions": 10
+    },
+    {
+      "category": "Open University",
+      "year": 2024,
+      "institutions": 3
+    },
+    {
+      "category": "Open University",
+      "year": 2025,
+      "institutions": 3
+    },
+    {
+      "category": "Skill University",
+      "year": 2024,
+      "institutions": 3
+    },
+    {
+      "category": "Skill University",
+      "year": 2025,
+      "institutions": 3
+    },
+    {
+      "category": "Sustainable Development Goals",
+      "year": 2025,
+      "institutions": 10
+    }
+  ],
+  "failed_list": [],
+  "file_verification": {
+    "verified_datasets": 102,
+    "missing_files": []
+  }
+}

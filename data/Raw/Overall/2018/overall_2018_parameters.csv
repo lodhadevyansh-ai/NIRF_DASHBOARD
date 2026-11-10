@@ -1,0 +1,501 @@
+year,category,institute_id,institute_name,parameter_name,parameter_score,canonical_parameter
+2018,Overall,IR-1-O-O-U-0220,Indian Institute of Science,TLR (100),84.54,TLR
+2018,Overall,IR-1-O-O-U-0220,Indian Institute of Science,RPC (100),91.08,RPC
+2018,Overall,IR-1-O-O-U-0220,Indian Institute of Science,GO (100),75.48,GO
+2018,Overall,IR-1-O-O-U-0220,Indian Institute of Science,OI (100),43.7,OI
+2018,Overall,IR-1-O-O-U-0220,Indian Institute of Science,PERCEPTION (100),100.0,PR
+2018,Overall,IR-2-O-OE-U-0456,Indian Institute of Technology Madras,TLR (100),82.49,TLR
+2018,Overall,IR-2-O-OE-U-0456,Indian Institute of Technology Madras,RPC (100),81.42,RPC
+2018,Overall,IR-2-O-OE-U-0456,Indian Institute of Technology Madras,GO (100),85.36,GO
+2018,Overall,IR-2-O-OE-U-0456,Indian Institute of Technology Madras,OI (100),64.81,OI
+2018,Overall,IR-2-O-OE-U-0456,Indian Institute of Technology Madras,PERCEPTION (100),86.61,PR
+2018,Overall,IR-3-O-OEM-U-0306,Indian Institute of Technology Bombay,TLR (100),81.34,TLR
+2018,Overall,IR-3-O-OEM-U-0306,Indian Institute of Technology Bombay,RPC (100),85.59,RPC
+2018,Overall,IR-3-O-OEM-U-0306,Indian Institute of Technology Bombay,GO (100),81.53,GO
+2018,Overall,IR-3-O-OEM-U-0306,Indian Institute of Technology Bombay,OI (100),48.53,OI
+2018,Overall,IR-3-O-OEM-U-0306,Indian Institute of Technology Bombay,PERCEPTION (100),79.61,PR
+2018,Overall,IR-3-O-OEM-I-1074,Indian Institute of Technology Delhi,TLR (100),73.38,TLR
+2018,Overall,IR-3-O-OEM-I-1074,Indian Institute of Technology Delhi,RPC (100),78.67,RPC
+2018,Overall,IR-3-O-OEM-I-1074,Indian Institute of Technology Delhi,GO (100),74.91,GO
+2018,Overall,IR-3-O-OEM-I-1074,Indian Institute of Technology Delhi,OI (100),60.96,OI
+2018,Overall,IR-3-O-OEM-I-1074,Indian Institute of Technology Delhi,PERCEPTION (100),72.79,PR
+2018,Overall,IR-5-O-OEMAL-U-0573,Indian Institute of Technology Kharagpur,TLR (100),67.96,TLR
+2018,Overall,IR-5-O-OEMAL-U-0573,Indian Institute of Technology Kharagpur,RPC (100),74.57,RPC
+2018,Overall,IR-5-O-OEMAL-U-0573,Indian Institute of Technology Kharagpur,GO (100),83.99,GO
+2018,Overall,IR-5-O-OEMAL-U-0573,Indian Institute of Technology Kharagpur,OI (100),56.16,OI
+2018,Overall,IR-5-O-OEMAL-U-0573,Indian Institute of Technology Kharagpur,PERCEPTION (100),62.12,PR
+2018,Overall,IR-1-O-O-U-0109,Jawaharlal Nehru University,TLR (100),74.71,TLR
+2018,Overall,IR-1-O-O-U-0109,Jawaharlal Nehru University,RPC (100),42.6,RPC
+2018,Overall,IR-1-O-O-U-0109,Jawaharlal Nehru University,GO (100),99.12,GO
+2018,Overall,IR-1-O-O-U-0109,Jawaharlal Nehru University,OI (100),79.32,OI
+2018,Overall,IR-1-O-O-U-0109,Jawaharlal Nehru University,PERCEPTION (100),46.28,PR
+2018,Overall,IR-3-O-OEM-I-1075,Indian Institute of Technology Kanpur,TLR (100),71.71,TLR
+2018,Overall,IR-3-O-OEM-I-1075,Indian Institute of Technology Kanpur,RPC (100),68.63,RPC
+2018,Overall,IR-3-O-OEM-I-1075,Indian Institute of Technology Kanpur,GO (100),62.76,GO
+2018,Overall,IR-3-O-OEM-I-1075,Indian Institute of Technology Kanpur,OI (100),39.81,OI
+2018,Overall,IR-3-O-OEM-I-1075,Indian Institute of Technology Kanpur,PERCEPTION (100),67.59,PR
+2018,Overall,IR-4-O-OEMA-U-0560,Indian Institute of Technology Roorkee,TLR (100),65.88,TLR
+2018,Overall,IR-4-O-OEMA-U-0560,Indian Institute of Technology Roorkee,RPC (100),61.59,RPC
+2018,Overall,IR-4-O-OEMA-U-0560,Indian Institute of Technology Roorkee,GO (100),85.29,GO
+2018,Overall,IR-4-O-OEMA-U-0560,Indian Institute of Technology Roorkee,OI (100),58.65,OI
+2018,Overall,IR-4-O-OEMA-U-0560,Indian Institute of Technology Roorkee,PERCEPTION (100),37.56,PR
+2018,Overall,IR-3-O-OMD-U-0500,Banaras Hindu University,TLR (100),65.15,TLR
+2018,Overall,IR-3-O-OMD-U-0500,Banaras Hindu University,RPC (100),50.76,RPC
+2018,Overall,IR-3-O-OMD-U-0500,Banaras Hindu University,GO (100),95.42,GO
+2018,Overall,IR-3-O-OMD-U-0500,Banaras Hindu University,OI (100),53.13,OI
+2018,Overall,IR-3-O-OMD-U-0500,Banaras Hindu University,PERCEPTION (100),43.62,PR
+2018,Overall,IR-4-O-OEMA-U-0439,Anna University,TLR (100),57.31,TLR
+2018,Overall,IR-4-O-OEMA-U-0439,Anna University,RPC (100),60.76,RPC
+2018,Overall,IR-4-O-OEMA-U-0439,Anna University,GO (100),79.15,GO
+2018,Overall,IR-4-O-OEMA-U-0439,Anna University,OI (100),52.55,OI
+2018,Overall,IR-4-O-OEMA-U-0439,Anna University,PERCEPTION (100),63.22,PR
+2018,Overall,IR-1-O-O-U-0042,University of Hyderabad,TLR (100),74.36,TLR
+2018,Overall,IR-1-O-O-U-0042,University of Hyderabad,RPC (100),45.34,RPC
+2018,Overall,IR-1-O-O-U-0042,University of Hyderabad,GO (100),84.45,GO
+2018,Overall,IR-1-O-O-U-0042,University of Hyderabad,OI (100),55.71,OI
+2018,Overall,IR-1-O-O-U-0042,University of Hyderabad,PERCEPTION (100),21.66,PR
+2018,Overall,IR-2-O-OE-U-0053,Indian Institute of Technology Guwahati,TLR (100),79.25,TLR
+2018,Overall,IR-2-O-OE-U-0053,Indian Institute of Technology Guwahati,RPC (100),52.13,RPC
+2018,Overall,IR-2-O-OE-U-0053,Indian Institute of Technology Guwahati,GO (100),63.2,GO
+2018,Overall,IR-2-O-OE-U-0053,Indian Institute of Technology Guwahati,OI (100),52.97,OI
+2018,Overall,IR-2-O-OE-U-0053,Indian Institute of Technology Guwahati,PERCEPTION (100),28.01,PR
+2018,Overall,IR-2-O-OE-U-0575,Jadavpur University,TLR (100),57.08,TLR
+2018,Overall,IR-2-O-OE-U-0575,Jadavpur University,RPC (100),57.07,RPC
+2018,Overall,IR-2-O-OE-U-0575,Jadavpur University,GO (100),91.39,GO
+2018,Overall,IR-2-O-OE-U-0575,Jadavpur University,OI (100),36.0,OI
+2018,Overall,IR-2-O-OE-U-0575,Jadavpur University,PERCEPTION (100),35.5,PR
+2018,Overall,IR-1-O-O-U-0120,University of Delhi,TLR (100),52.52,TLR
+2018,Overall,IR-1-O-O-U-0120,University of Delhi,RPC (100),58.16,RPC
+2018,Overall,IR-1-O-O-U-0120,University of Delhi,GO (100),85.14,GO
+2018,Overall,IR-1-O-O-U-0120,University of Delhi,OI (100),51.26,OI
+2018,Overall,IR-1-O-O-U-0120,University of Delhi,PERCEPTION (100),33.15,PR
+2018,Overall,IR-1-O-O-U-0436,Amrita Vishwa Vidyapeetham,TLR (100),74.05,TLR
+2018,Overall,IR-1-O-O-U-0436,Amrita Vishwa Vidyapeetham,RPC (100),43.56,RPC
+2018,Overall,IR-1-O-O-U-0436,Amrita Vishwa Vidyapeetham,GO (100),71.03,GO
+2018,Overall,IR-1-O-O-U-0436,Amrita Vishwa Vidyapeetham,OI (100),58.27,OI
+2018,Overall,IR-1-O-O-U-0436,Amrita Vishwa Vidyapeetham,PERCEPTION (100),31.44,PR
+2018,Overall,IR-1-O-O-U-0323,Savitribai Phule Pune University,TLR (100),70.7,TLR
+2018,Overall,IR-1-O-O-U-0323,Savitribai Phule Pune University,RPC (100),43.64,RPC
+2018,Overall,IR-1-O-O-U-0323,Savitribai Phule Pune University,GO (100),84.55,GO
+2018,Overall,IR-1-O-O-U-0323,Savitribai Phule Pune University,OI (100),55.29,OI
+2018,Overall,IR-1-O-O-U-0323,Savitribai Phule Pune University,PERCEPTION (100),15.04,PR
+2018,Overall,IR-7-O-OEMALDC-U-0496,Aligarh Muslim University,TLR (100),70.28,TLR
+2018,Overall,IR-7-O-OEMALDC-U-0496,Aligarh Muslim University,RPC (100),36.87,RPC
+2018,Overall,IR-7-O-OEMALDC-U-0496,Aligarh Muslim University,GO (100),90.56,GO
+2018,Overall,IR-7-O-OEMALDC-U-0496,Aligarh Muslim University,OI (100),49.03,OI
+2018,Overall,IR-7-O-OEMALDC-U-0496,Aligarh Muslim University,PERCEPTION (100),26.3,PR
+2018,Overall,IR-1-O-O-U-0234,Manipal Academy of Higher Education,TLR (100),76.05,TLR
+2018,Overall,IR-1-O-O-U-0234,Manipal Academy of Higher Education,RPC (100),44.15,RPC
+2018,Overall,IR-1-O-O-U-0234,Manipal Academy of Higher Education,GO (100),61.29,GO
+2018,Overall,IR-1-O-O-U-0234,Manipal Academy of Higher Education,OI (100),64.23,OI
+2018,Overall,IR-1-O-O-U-0234,Manipal Academy of Higher Education,PERCEPTION (100),26.3,PR
+2018,Overall,IR-5-O-OEMAL-U-0108,Jamia Millia Islamia,TLR (100),72.33,TLR
+2018,Overall,IR-5-O-OEMAL-U-0108,Jamia Millia Islamia,RPC (100),33.21,RPC
+2018,Overall,IR-5-O-OEMAL-U-0108,Jamia Millia Islamia,GO (100),82.27,GO
+2018,Overall,IR-5-O-OEMAL-U-0108,Jamia Millia Islamia,OI (100),68.86,OI
+2018,Overall,IR-5-O-OEMAL-U-0108,Jamia Millia Islamia,PERCEPTION (100),11.76,PR
+2018,Overall,IR-1-O-C-U-0447,Bharathiar University,TLR (100),65.54,TLR
+2018,Overall,IR-1-O-C-U-0447,Bharathiar University,RPC (100),41.7,RPC
+2018,Overall,IR-1-O-C-U-0447,Bharathiar University,GO (100),76.95,GO
+2018,Overall,IR-1-O-C-U-0447,Bharathiar University,OI (100),52.63,OI
+2018,Overall,IR-1-O-C-U-0447,Bharathiar University,PERCEPTION (100),22.63,PR
+2018,Overall,IR-1-O-O-U-0570,Calcutta University,TLR (100),45.47,TLR
+2018,Overall,IR-1-O-O-U-0570,Calcutta University,RPC (100),50.26,RPC
+2018,Overall,IR-1-O-O-U-0570,Calcutta University,GO (100),86.81,GO
+2018,Overall,IR-1-O-O-U-0570,Calcutta University,OI (100),46.72,OI
+2018,Overall,IR-1-O-O-U-0570,Calcutta University,PERCEPTION (100),26.3,PR
+2018,Overall,IR-2-O-OE-U-0013,Indian Institute of Technology Hyderabad,TLR (100),71.72,TLR
+2018,Overall,IR-2-O-OE-U-0013,Indian Institute of Technology Hyderabad,RPC (100),35.33,RPC
+2018,Overall,IR-2-O-OE-U-0013,Indian Institute of Technology Hyderabad,GO (100),65.12,GO
+2018,Overall,IR-2-O-OE-U-0013,Indian Institute of Technology Hyderabad,OI (100),57.08,OI
+2018,Overall,IR-2-O-OE-U-0013,Indian Institute of Technology Hyderabad,PERCEPTION (100),22.15,PR
+2018,Overall,IR-1-O-D-U-0523,King George`s Medical University,TLR (100),83.08,TLR
+2018,Overall,IR-1-O-D-U-0523,King George`s Medical University,RPC (100),29.71,RPC
+2018,Overall,IR-1-O-D-U-0523,King George`s Medical University,GO (100),62.7,GO
+2018,Overall,IR-1-O-D-U-0523,King George`s Medical University,OI (100),59.66,OI
+2018,Overall,IR-1-O-D-U-0523,King George`s Medical University,PERCEPTION (100),3.93,PR
+2018,Overall,IR-3-O-OEM-U-0490,Vellore Institute of Technology,TLR (100),50.3,TLR
+2018,Overall,IR-3-O-OEM-U-0490,Vellore Institute of Technology,RPC (100),47.42,RPC
+2018,Overall,IR-3-O-OEM-U-0490,Vellore Institute of Technology,GO (100),68.43,GO
+2018,Overall,IR-3-O-OEM-U-0490,Vellore Institute of Technology,OI (100),60.02,OI
+2018,Overall,IR-3-O-OEM-U-0490,Vellore Institute of Technology,PERCEPTION (100),36.71,PR
+2018,Overall,IR-1-O-O-U-0572,Indian Institute of Science Education & Research Kolkata,TLR (100),70.87,TLR
+2018,Overall,IR-1-O-O-U-0572,Indian Institute of Science Education & Research Kolkata,RPC (100),35.6,RPC
+2018,Overall,IR-1-O-O-U-0572,Indian Institute of Science Education & Research Kolkata,GO (100),65.91,GO
+2018,Overall,IR-1-O-O-U-0572,Indian Institute of Science Education & Research Kolkata,OI (100),62.92,OI
+2018,Overall,IR-1-O-O-U-0572,Indian Institute of Science Education & Research Kolkata,PERCEPTION (100),11.13,PR
+2018,Overall,IR-3-O-OEP-U-0391,Birla Institute of Technology & Science,TLR (100),61.02,TLR
+2018,Overall,IR-3-O-OEP-U-0391,Birla Institute of Technology & Science,RPC (100),35.56,RPC
+2018,Overall,IR-3-O-OEP-U-0391,Birla Institute of Technology & Science,GO (100),69.33,GO
+2018,Overall,IR-3-O-OEP-U-0391,Birla Institute of Technology & Science,OI (100),57.73,OI
+2018,Overall,IR-3-O-OEP-U-0391,Birla Institute of Technology & Science,PERCEPTION (100),35.32,PR
+2018,Overall,IR-2-O-OE-U-0205,Indian Institute of Technology (Indian School of Mines) Dhanbad,TLR (100),54.46,TLR
+2018,Overall,IR-2-O-OE-U-0205,Indian Institute of Technology (Indian School of Mines) Dhanbad,RPC (100),44.24,RPC
+2018,Overall,IR-2-O-OE-U-0205,Indian Institute of Technology (Indian School of Mines) Dhanbad,GO (100),74.36,GO
+2018,Overall,IR-2-O-OE-U-0205,Indian Institute of Technology (Indian School of Mines) Dhanbad,OI (100),61.08,OI
+2018,Overall,IR-2-O-OE-U-0205,Indian Institute of Technology (Indian School of Mines) Dhanbad,PERCEPTION (100),14.46,PR
+2018,Overall,IR-1-O-E-U-0701,Indian Institute of Technology (Banaras Hindu University) Varanasi,TLR (100),57.85,TLR
+2018,Overall,IR-1-O-E-U-0701,Indian Institute of Technology (Banaras Hindu University) Varanasi,RPC (100),48.53,RPC
+2018,Overall,IR-1-O-E-U-0701,Indian Institute of Technology (Banaras Hindu University) Varanasi,GO (100),67.0,GO
+2018,Overall,IR-1-O-E-U-0701,Indian Institute of Technology (Banaras Hindu University) Varanasi,OI (100),42.5,OI
+2018,Overall,IR-1-O-E-U-0701,Indian Institute of Technology (Banaras Hindu University) Varanasi,PERCEPTION (100),22.87,PR
+2018,Overall,IR-1-O-O-I-1357,University of Madras,TLR (100),66.06,TLR
+2018,Overall,IR-1-O-O-I-1357,University of Madras,RPC (100),33.4,RPC
+2018,Overall,IR-1-O-O-I-1357,University of Madras,GO (100),68.6,GO
+2018,Overall,IR-1-O-O-I-1357,University of Madras,OI (100),53.07,OI
+2018,Overall,IR-1-O-O-I-1357,University of Madras,PERCEPTION (100),26.52,PR
+2018,Overall,IR-3-O-OEP-U-0308,Institute of Chemical Technology,TLR (100),53.82,TLR
+2018,Overall,IR-3-O-OEP-U-0308,Institute of Chemical Technology,RPC (100),48.52,RPC
+2018,Overall,IR-3-O-OEP-U-0308,Institute of Chemical Technology,GO (100),69.18,GO
+2018,Overall,IR-3-O-OEP-U-0308,Institute of Chemical Technology,OI (100),52.55,OI
+2018,Overall,IR-3-O-OEP-U-0308,Institute of Chemical Technology,PERCEPTION (100),15.9,PR
+2018,Overall,IR-2-O-OE-U-0467,National Institute of Technology Tiruchirappalli,TLR (100),57.09,TLR
+2018,Overall,IR-2-O-OE-U-0467,National Institute of Technology Tiruchirappalli,RPC (100),34.41,RPC
+2018,Overall,IR-2-O-OE-U-0467,National Institute of Technology Tiruchirappalli,GO (100),69.99,GO
+2018,Overall,IR-2-O-OE-U-0467,National Institute of Technology Tiruchirappalli,OI (100),60.81,OI
+2018,Overall,IR-2-O-OE-U-0467,National Institute of Technology Tiruchirappalli,PERCEPTION (100),38.55,PR
+2018,Overall,IR-1-O-O-U-0305,Indian Institute of Science Education & Research Pune,TLR (100),66.57,TLR
+2018,Overall,IR-1-O-O-U-0305,Indian Institute of Science Education & Research Pune,RPC (100),33.04,RPC
+2018,Overall,IR-1-O-O-U-0305,Indian Institute of Science Education & Research Pune,GO (100),61.4,GO
+2018,Overall,IR-1-O-O-U-0305,Indian Institute of Science Education & Research Pune,OI (100),62.86,OI
+2018,Overall,IR-1-O-O-U-0305,Indian Institute of Science Education & Research Pune,PERCEPTION (100),25.85,PR
+2018,Overall,IR-6-O-OEMLDP-U-0078,Panjab University,TLR (100),52.59,TLR
+2018,Overall,IR-6-O-OEMLDP-U-0078,Panjab University,RPC (100),44.75,RPC
+2018,Overall,IR-6-O-OEMLDP-U-0078,Panjab University,GO (100),73.16,GO
+2018,Overall,IR-6-O-OEMLDP-U-0078,Panjab University,OI (100),47.52,OI
+2018,Overall,IR-6-O-OEMLDP-U-0078,Panjab University,PERCEPTION (100),23.58,PR
+2018,Overall,IR-1-O-M-S-8972,Indian Institute of Management Calcutta,TLR (100),82.44,TLR
+2018,Overall,IR-1-O-M-S-8972,Indian Institute of Management Calcutta,RPC (100),14.54,RPC
+2018,Overall,IR-1-O-M-S-8972,Indian Institute of Management Calcutta,GO (100),61.99,GO
+2018,Overall,IR-1-O-M-S-8972,Indian Institute of Management Calcutta,OI (100),66.05,OI
+2018,Overall,IR-1-O-M-S-8972,Indian Institute of Management Calcutta,PERCEPTION (100),27.8,PR
+2018,Overall,IR-1-O-O-U-0446,Bharath Institute of Higher Education & Research,TLR (100),70.22,TLR
+2018,Overall,IR-1-O-O-U-0446,Bharath Institute of Higher Education & Research,RPC (100),29.22,RPC
+2018,Overall,IR-1-O-O-U-0446,Bharath Institute of Higher Education & Research,GO (100),63.76,GO
+2018,Overall,IR-1-O-O-U-0446,Bharath Institute of Higher Education & Research,OI (100),79.16,OI
+2018,Overall,IR-1-O-O-U-0446,Bharath Institute of Higher Education & Research,PERCEPTION (100),2.4,PR
+2018,Overall,IR-6-O-OEMALP-U-0006,Andhra University,TLR (100),65.98,TLR
+2018,Overall,IR-6-O-OEMALP-U-0006,Andhra University,RPC (100),25.12,RPC
+2018,Overall,IR-6-O-OEMALP-U-0006,Andhra University,GO (100),83.14,GO
+2018,Overall,IR-6-O-OEMALP-U-0006,Andhra University,OI (100),54.75,OI
+2018,Overall,IR-6-O-OEMALP-U-0006,Andhra University,PERCEPTION (100),9.53,PR
+2018,Overall,IR-5-O-OEMDP-U-0107,Jamia Hamdard,TLR (100),67.67,TLR
+2018,Overall,IR-5-O-OEMDP-U-0107,Jamia Hamdard,RPC (100),32.29,RPC
+2018,Overall,IR-5-O-OEMDP-U-0107,Jamia Hamdard,GO (100),74.48,GO
+2018,Overall,IR-5-O-OEMDP-U-0107,Jamia Hamdard,OI (100),52.2,OI
+2018,Overall,IR-5-O-OEMDP-U-0107,Jamia Hamdard,PERCEPTION (100),2.01,PR
+2018,Overall,IR-2-O-OD-U-0363,Siksha `O` Anusandhan,TLR (100),74.34,TLR
+2018,Overall,IR-2-O-OD-U-0363,Siksha `O` Anusandhan,RPC (100),23.4,RPC
+2018,Overall,IR-2-O-OD-U-0363,Siksha `O` Anusandhan,GO (100),66.21,GO
+2018,Overall,IR-2-O-OD-U-0363,Siksha `O` Anusandhan,OI (100),63.07,OI
+2018,Overall,IR-2-O-OD-U-0363,Siksha `O` Anusandhan,PERCEPTION (100),7.17,PR
+2018,Overall,IR-2-O-OE-U-0139,Indian Institute of Technology Gandhinagar,TLR (100),73.72,TLR
+2018,Overall,IR-2-O-OE-U-0139,Indian Institute of Technology Gandhinagar,RPC (100),27.29,RPC
+2018,Overall,IR-2-O-OE-U-0139,Indian Institute of Technology Gandhinagar,GO (100),56.79,GO
+2018,Overall,IR-2-O-OE-U-0139,Indian Institute of Technology Gandhinagar,OI (100),60.47,OI
+2018,Overall,IR-2-O-OE-U-0139,Indian Institute of Technology Gandhinagar,PERCEPTION (100),15.9,PR
+2018,Overall,IR-1-O-O-U-0485,Tamil Nadu Agricultural University,TLR (100),78.6,TLR
+2018,Overall,IR-1-O-O-U-0485,Tamil Nadu Agricultural University,RPC (100),12.99,RPC
+2018,Overall,IR-1-O-O-U-0485,Tamil Nadu Agricultural University,GO (100),75.58,GO
+2018,Overall,IR-1-O-O-U-0485,Tamil Nadu Agricultural University,OI (100),54.06,OI
+2018,Overall,IR-1-O-O-U-0485,Tamil Nadu Agricultural University,PERCEPTION (100),12.07,PR
+2018,Overall,IR-1-O-O-U-0304,Homi Bhabha National Institute,TLR (100),84.14,TLR
+2018,Overall,IR-1-O-O-U-0304,Homi Bhabha National Institute,RPC (100),14.18,RPC
+2018,Overall,IR-1-O-O-U-0304,Homi Bhabha National Institute,GO (100),70.13,GO
+2018,Overall,IR-1-O-O-U-0304,Homi Bhabha National Institute,OI (100),44.74,OI
+2018,Overall,IR-1-O-O-U-0304,Homi Bhabha National Institute,PERCEPTION (100),9.85,PR
+2018,Overall,IR-2-O-OE-U-0357,National Institute of Technology Rourkela,TLR (100),55.85,TLR
+2018,Overall,IR-2-O-OE-U-0357,National Institute of Technology Rourkela,RPC (100),41.93,RPC
+2018,Overall,IR-2-O-OE-U-0357,National Institute of Technology Rourkela,GO (100),69.73,GO
+2018,Overall,IR-2-O-OE-U-0357,National Institute of Technology Rourkela,OI (100),43.4,OI
+2018,Overall,IR-2-O-OE-U-0357,National Institute of Technology Rourkela,PERCEPTION (100),9.85,PR
+2018,Overall,IR-1-O-C-U-0435,Alagappa University,TLR (100),65.74,TLR
+2018,Overall,IR-1-O-C-U-0435,Alagappa University,RPC (100),22.27,RPC
+2018,Overall,IR-1-O-C-U-0435,Alagappa University,GO (100),70.4,GO
+2018,Overall,IR-1-O-C-U-0435,Alagappa University,OI (100),53.19,OI
+2018,Overall,IR-1-O-C-U-0435,Alagappa University,PERCEPTION (100),24.5,PR
+2018,Overall,IR-2-O-OE-U-0584,"Indian Institute of Engineering Science and Technology, Shibpur",TLR (100),60.01,TLR
+2018,Overall,IR-2-O-OE-U-0584,"Indian Institute of Engineering Science and Technology, Shibpur",RPC (100),35.5,RPC
+2018,Overall,IR-2-O-OE-U-0584,"Indian Institute of Engineering Science and Technology, Shibpur",GO (100),64.06,GO
+2018,Overall,IR-2-O-OE-U-0584,"Indian Institute of Engineering Science and Technology, Shibpur",OI (100),43.37,OI
+2018,Overall,IR-2-O-OE-U-0584,"Indian Institute of Engineering Science and Technology, Shibpur",PERCEPTION (100),22.63,PR
+2018,Overall,IR-1-O-O-U-0027,Osmania University,TLR (100),55.09,TLR
+2018,Overall,IR-1-O-O-U-0027,Osmania University,RPC (100),25.9,RPC
+2018,Overall,IR-1-O-O-U-0027,Osmania University,GO (100),93.35,GO
+2018,Overall,IR-1-O-O-U-0027,Osmania University,OI (100),44.69,OI
+2018,Overall,IR-1-O-O-U-0027,Osmania University,PERCEPTION (100),5.76,PR
+2018,Overall,IR-1-O-O-U-0056,Tezpur University,TLR (100),66.61,TLR
+2018,Overall,IR-1-O-O-U-0056,Tezpur University,RPC (100),30.54,RPC
+2018,Overall,IR-1-O-O-U-0056,Tezpur University,GO (100),65.26,GO
+2018,Overall,IR-1-O-O-U-0056,Tezpur University,OI (100),47.3,OI
+2018,Overall,IR-1-O-O-U-0056,Tezpur University,PERCEPTION (100),10.82,PR
+2018,Overall,IR-1-O-O-U-0260,Kerala University,TLR (100),65.16,TLR
+2018,Overall,IR-1-O-O-U-0260,Kerala University,RPC (100),19.8,RPC
+2018,Overall,IR-1-O-O-U-0260,Kerala University,GO (100),83.76,GO
+2018,Overall,IR-1-O-O-U-0260,Kerala University,OI (100),47.6,OI
+2018,Overall,IR-1-O-O-U-0260,Kerala University,PERCEPTION (100),7.17,PR
+2018,Overall,IR-1-O-O-U-0589,Visva Bharati,TLR (100),63.49,TLR
+2018,Overall,IR-1-O-O-U-0589,Visva Bharati,RPC (100),27.44,RPC
+2018,Overall,IR-1-O-O-U-0589,Visva Bharati,GO (100),72.24,GO
+2018,Overall,IR-1-O-O-U-0589,Visva Bharati,OI (100),53.87,OI
+2018,Overall,IR-1-O-O-U-0589,Visva Bharati,PERCEPTION (100),5.03,PR
+2018,Overall,IR-1-O-O-U-0331,Tata Institute of Social Sciences,TLR (100),68.98,TLR
+2018,Overall,IR-1-O-O-U-0331,Tata Institute of Social Sciences,RPC (100),9.77,RPC
+2018,Overall,IR-1-O-O-U-0331,Tata Institute of Social Sciences,GO (100),78.3,GO
+2018,Overall,IR-1-O-O-U-0331,Tata Institute of Social Sciences,OI (100),71.56,OI
+2018,Overall,IR-1-O-O-U-0331,Tata Institute of Social Sciences,PERCEPTION (100),10.18,PR
+2018,Overall,IR-2-O-EM-I-1480,Thapar Institute of Engineering and Technology,TLR (100),58.24,TLR
+2018,Overall,IR-2-O-EM-I-1480,Thapar Institute of Engineering and Technology,RPC (100),34.97,RPC
+2018,Overall,IR-2-O-EM-I-1480,Thapar Institute of Engineering and Technology,GO (100),65.36,GO
+2018,Overall,IR-2-O-EM-I-1480,Thapar Institute of Engineering and Technology,OI (100),57.27,OI
+2018,Overall,IR-2-O-EM-I-1480,Thapar Institute of Engineering and Technology,PERCEPTION (100),3.55,PR
+2018,Overall,IR-2-O-OE-U-0355,Indian Institute of Technology Bhubaneswar,TLR (100),70.95,TLR
+2018,Overall,IR-2-O-OE-U-0355,Indian Institute of Technology Bhubaneswar,RPC (100),28.14,RPC
+2018,Overall,IR-2-O-OE-U-0355,Indian Institute of Technology Bhubaneswar,GO (100),52.36,GO
+2018,Overall,IR-2-O-OE-U-0355,Indian Institute of Technology Bhubaneswar,OI (100),59.78,OI
+2018,Overall,IR-2-O-OE-U-0355,Indian Institute of Technology Bhubaneswar,PERCEPTION (100),8.87,PR
+2018,Overall,IR-1-O-O-U-0262,Mahatma Gandhi University,TLR (100),64.21,TLR
+2018,Overall,IR-1-O-O-U-0262,Mahatma Gandhi University,RPC (100),22.89,RPC
+2018,Overall,IR-1-O-O-U-0262,Mahatma Gandhi University,GO (100),72.84,GO
+2018,Overall,IR-1-O-O-U-0262,Mahatma Gandhi University,OI (100),51.76,OI
+2018,Overall,IR-1-O-O-U-0262,Mahatma Gandhi University,PERCEPTION (100),6.82,PR
+2018,Overall,IR-1-O-O-U-0554,G. B. Pant Universtiy of Agriculture and Technology,TLR (100),72.14,TLR
+2018,Overall,IR-1-O-O-U-0554,G. B. Pant Universtiy of Agriculture and Technology,RPC (100),15.04,RPC
+2018,Overall,IR-1-O-O-U-0554,G. B. Pant Universtiy of Agriculture and Technology,GO (100),75.45,GO
+2018,Overall,IR-1-O-O-U-0554,G. B. Pant Universtiy of Agriculture and Technology,OI (100),48.16,OI
+2018,Overall,IR-1-O-O-U-0554,G. B. Pant Universtiy of Agriculture and Technology,PERCEPTION (100),5.03,PR
+2018,Overall,IR-4-O-OEML-U-0476,Shanmugha Arts Science Technology & Research Academy,TLR (100),53.44,TLR
+2018,Overall,IR-4-O-OEML-U-0476,Shanmugha Arts Science Technology & Research Academy,RPC (100),34.57,RPC
+2018,Overall,IR-4-O-OEML-U-0476,Shanmugha Arts Science Technology & Research Academy,GO (100),64.43,GO
+2018,Overall,IR-4-O-OEML-U-0476,Shanmugha Arts Science Technology & Research Academy,OI (100),58.95,OI
+2018,Overall,IR-4-O-OEML-U-0476,Shanmugha Arts Science Technology & Research Academy,PERCEPTION (100),11.45,PR
+2018,Overall,IR-1-O-O-U-0377,Indian Institute of Science Education & Research Mohali,TLR (100),63.32,TLR
+2018,Overall,IR-1-O-O-U-0377,Indian Institute of Science Education & Research Mohali,RPC (100),21.34,RPC
+2018,Overall,IR-1-O-O-U-0377,Indian Institute of Science Education & Research Mohali,GO (100),63.29,GO
+2018,Overall,IR-1-O-O-U-0377,Indian Institute of Science Education & Research Mohali,OI (100),65.05,OI
+2018,Overall,IR-1-O-O-U-0377,Indian Institute of Science Education & Research Mohali,PERCEPTION (100),16.73,PR
+2018,Overall,IR-1-O-O-U-0272,Indian Institute of Science Education & Research Bhopal,TLR (100),61.55,TLR
+2018,Overall,IR-1-O-O-U-0272,Indian Institute of Science Education & Research Bhopal,RPC (100),26.6,RPC
+2018,Overall,IR-1-O-O-U-0272,Indian Institute of Science Education & Research Bhopal,GO (100),62.83,GO
+2018,Overall,IR-1-O-O-U-0272,Indian Institute of Science Education & Research Bhopal,OI (100),63.71,OI
+2018,Overall,IR-1-O-O-U-0272,Indian Institute of Science Education & Research Bhopal,PERCEPTION (100),7.86,PR
+2018,Overall,IR-2-O-OE-U-0237,National Institute of Technology Surathkal,TLR (100),52.66,TLR
+2018,Overall,IR-2-O-OE-U-0237,National Institute of Technology Surathkal,RPC (100),29.51,RPC
+2018,Overall,IR-2-O-OE-U-0237,National Institute of Technology Surathkal,GO (100),68.64,GO
+2018,Overall,IR-2-O-OE-U-0237,National Institute of Technology Surathkal,OI (100),51.71,OI
+2018,Overall,IR-2-O-OE-U-0237,National Institute of Technology Surathkal,PERCEPTION (100),25.85,PR
+2018,Overall,IR-1-O-O-U-0254,Indian Institute of Science Education & Research Thiruvananthapuram,TLR (100),69.8,TLR
+2018,Overall,IR-1-O-O-U-0254,Indian Institute of Science Education & Research Thiruvananthapuram,RPC (100),20.45,RPC
+2018,Overall,IR-1-O-O-U-0254,Indian Institute of Science Education & Research Thiruvananthapuram,GO (100),59.51,GO
+2018,Overall,IR-1-O-O-U-0254,Indian Institute of Science Education & Research Thiruvananthapuram,OI (100),47.58,OI
+2018,Overall,IR-1-O-O-U-0254,Indian Institute of Science Education & Research Thiruvananthapuram,PERCEPTION (100),22.39,PR
+2018,Overall,IR-2-O-OP-U-0222,JSS Academy of Higher Education and Research,TLR (100),69.0,TLR
+2018,Overall,IR-2-O-OP-U-0222,JSS Academy of Higher Education and Research,RPC (100),17.24,RPC
+2018,Overall,IR-2-O-OP-U-0222,JSS Academy of Higher Education and Research,GO (100),61.89,GO
+2018,Overall,IR-2-O-OP-U-0222,JSS Academy of Higher Education and Research,OI (100),68.65,OI
+2018,Overall,IR-2-O-OP-U-0222,JSS Academy of Higher Education and Research,PERCEPTION (100),6.47,PR
+2018,Overall,IR-1-O-O-U-0381,Punjab Agricultural University,TLR (100),80.46,TLR
+2018,Overall,IR-1-O-O-U-0381,Punjab Agricultural University,RPC (100),19.35,RPC
+2018,Overall,IR-1-O-O-U-0381,Punjab Agricultural University,GO (100),54.02,GO
+2018,Overall,IR-1-O-O-U-0381,Punjab Agricultural University,OI (100),42.72,OI
+2018,Overall,IR-1-O-O-U-0381,Punjab Agricultural University,PERCEPTION (100),5.4,PR
+2018,Overall,IR-1-O-O-U-0052,Gauhati University,TLR (100),64.91,TLR
+2018,Overall,IR-1-O-O-U-0052,Gauhati University,RPC (100),19.8,RPC
+2018,Overall,IR-1-O-O-U-0052,Gauhati University,GO (100),74.9,GO
+2018,Overall,IR-1-O-O-U-0052,Gauhati University,OI (100),44.44,OI
+2018,Overall,IR-1-O-O-U-0052,Gauhati University,PERCEPTION (100),6.11,PR
+2018,Overall,IR-3-O-ODP-I-1486,Sri Ramachandra Medical College and Research Institute,TLR (100),76.9,TLR
+2018,Overall,IR-3-O-ODP-I-1486,Sri Ramachandra Medical College and Research Institute,RPC (100),19.5,RPC
+2018,Overall,IR-3-O-ODP-I-1486,Sri Ramachandra Medical College and Research Institute,GO (100),51.41,GO
+2018,Overall,IR-3-O-ODP-I-1486,Sri Ramachandra Medical College and Research Institute,OI (100),55.1,OI
+2018,Overall,IR-3-O-ODP-I-1486,Sri Ramachandra Medical College and Research Institute,PERCEPTION (100),5.76,PR
+2018,Overall,IR-5-O-OEMDP-U-0473,SRM Institute of Science and Technology,TLR (100),56.87,TLR
+2018,Overall,IR-5-O-OEMDP-U-0473,SRM Institute of Science and Technology,RPC (100),28.54,RPC
+2018,Overall,IR-5-O-OEMDP-U-0473,SRM Institute of Science and Technology,GO (100),64.68,GO
+2018,Overall,IR-5-O-OEMDP-U-0473,SRM Institute of Science and Technology,OI (100),57.57,OI
+2018,Overall,IR-5-O-OEMDP-U-0473,SRM Institute of Science and Technology,PERCEPTION (100),8.53,PR
+2018,Overall,IR-3-O-OEM-C-37013,PSG College of Technology,TLR (100),62.6,TLR
+2018,Overall,IR-3-O-OEM-C-37013,PSG College of Technology,RPC (100),16.92,RPC
+2018,Overall,IR-3-O-OEM-C-37013,PSG College of Technology,GO (100),61.14,GO
+2018,Overall,IR-3-O-OEM-C-37013,PSG College of Technology,OI (100),49.77,OI
+2018,Overall,IR-3-O-OEM-C-37013,PSG College of Technology,PERCEPTION (100),38.71,PR
+2018,Overall,IR-5-O-OEMLD-U-0356,Kalinga Institute of Industrial Technology,TLR (100),57.32,TLR
+2018,Overall,IR-5-O-OEMLD-U-0356,Kalinga Institute of Industrial Technology,RPC (100),22.53,RPC
+2018,Overall,IR-5-O-OEMLD-U-0356,Kalinga Institute of Industrial Technology,GO (100),69.57,GO
+2018,Overall,IR-5-O-OEMLD-U-0356,Kalinga Institute of Industrial Technology,OI (100),65.94,OI
+2018,Overall,IR-5-O-OEMLD-U-0356,Kalinga Institute of Industrial Technology,PERCEPTION (100),3.55,PR
+2018,Overall,IR-5-O-OEMAP-U-0202,Birla Institute of Technology,TLR (100),57.73,TLR
+2018,Overall,IR-5-O-OEMAP-U-0202,Birla Institute of Technology,RPC (100),29.45,RPC
+2018,Overall,IR-5-O-OEMAP-U-0202,Birla Institute of Technology,GO (100),61.31,GO
+2018,Overall,IR-5-O-OEMAP-U-0202,Birla Institute of Technology,OI (100),52.43,OI
+2018,Overall,IR-5-O-OEMAP-U-0202,Birla Institute of Technology,PERCEPTION (100),10.5,PR
+2018,Overall,IR-1-O-O-U-0329,Symbiosis International,TLR (100),69.88,TLR
+2018,Overall,IR-1-O-O-U-0329,Symbiosis International,RPC (100),12.46,RPC
+2018,Overall,IR-1-O-O-U-0329,Symbiosis International,GO (100),60.9,GO
+2018,Overall,IR-1-O-O-U-0329,Symbiosis International,OI (100),71.23,OI
+2018,Overall,IR-1-O-O-U-0329,Symbiosis International,PERCEPTION (100),6.11,PR
+2018,Overall,IR-4-O-OEMA-U-0474,Sathyabama Institute of Science and Technology,TLR (100),52.38,TLR
+2018,Overall,IR-4-O-OEMA-U-0474,Sathyabama Institute of Science and Technology,RPC (100),29.43,RPC
+2018,Overall,IR-4-O-OEMA-U-0474,Sathyabama Institute of Science and Technology,GO (100),65.31,GO
+2018,Overall,IR-4-O-OEMA-U-0474,Sathyabama Institute of Science and Technology,OI (100),63.14,OI
+2018,Overall,IR-4-O-OEMA-U-0474,Sathyabama Institute of Science and Technology,PERCEPTION (100),4.3,PR
+2018,Overall,IR-2-O-OE-U-0064,Indian Institute of Technology Patna,TLR (100),67.81,TLR
+2018,Overall,IR-2-O-OE-U-0064,Indian Institute of Technology Patna,RPC (100),25.42,RPC
+2018,Overall,IR-2-O-OE-U-0064,Indian Institute of Technology Patna,GO (100),52.87,GO
+2018,Overall,IR-2-O-OE-U-0064,Indian Institute of Technology Patna,OI (100),49.93,OI
+2018,Overall,IR-2-O-OE-U-0064,Indian Institute of Technology Patna,PERCEPTION (100),7.17,PR
+2018,Overall,IR-2-O-OD-I-1441,Saveetha Institute of Medical and Technical Sciences,TLR (100),65.4,TLR
+2018,Overall,IR-2-O-OD-I-1441,Saveetha Institute of Medical and Technical Sciences,RPC (100),18.67,RPC
+2018,Overall,IR-2-O-OD-I-1441,Saveetha Institute of Medical and Technical Sciences,GO (100),60.34,GO
+2018,Overall,IR-2-O-OD-I-1441,Saveetha Institute of Medical and Technical Sciences,OI (100),63.92,OI
+2018,Overall,IR-2-O-OD-I-1441,Saveetha Institute of Medical and Technical Sciences,PERCEPTION (100),3.17,PR
+2018,Overall,IR-1-O-O-U-0196,University of Kashmir,TLR (100),62.39,TLR
+2018,Overall,IR-1-O-O-U-0196,University of Kashmir,RPC (100),20.08,RPC
+2018,Overall,IR-1-O-O-U-0196,University of Kashmir,GO (100),77.61,GO
+2018,Overall,IR-1-O-O-U-0196,University of Kashmir,OI (100),36.99,OI
+2018,Overall,IR-1-O-O-U-0196,University of Kashmir,PERCEPTION (100),0.0,PR
+2018,Overall,IR-1-O-O-U-0642,Shiv Nadar University,TLR (100),69.21,TLR
+2018,Overall,IR-1-O-O-U-0642,Shiv Nadar University,RPC (100),12.55,RPC
+2018,Overall,IR-1-O-O-U-0642,Shiv Nadar University,GO (100),60.17,GO
+2018,Overall,IR-1-O-O-U-0642,Shiv Nadar University,OI (100),71.18,OI
+2018,Overall,IR-1-O-O-U-0642,Shiv Nadar University,PERCEPTION (100),0.0,PR
+2018,Overall,IR-1-O-E-C-16604,Sri Sivasubramaniya Nadar College of Engineering,TLR (100),62.51,TLR
+2018,Overall,IR-1-O-E-C-16604,Sri Sivasubramaniya Nadar College of Engineering,RPC (100),20.31,RPC
+2018,Overall,IR-1-O-E-C-16604,Sri Sivasubramaniya Nadar College of Engineering,GO (100),62.21,GO
+2018,Overall,IR-1-O-E-C-16604,Sri Sivasubramaniya Nadar College of Engineering,OI (100),52.43,OI
+2018,Overall,IR-1-O-E-C-16604,Sri Sivasubramaniya Nadar College of Engineering,PERCEPTION (100),10.82,PR
+2018,Overall,IR-2-O-OE-U-0037,Sri Venkateswara University,TLR (100),60.43,TLR
+2018,Overall,IR-2-O-OE-U-0037,Sri Venkateswara University,RPC (100),25.94,RPC
+2018,Overall,IR-2-O-OE-U-0037,Sri Venkateswara University,GO (100),61.66,GO
+2018,Overall,IR-2-O-OE-U-0037,Sri Venkateswara University,OI (100),50.03,OI
+2018,Overall,IR-2-O-OE-U-0037,Sri Venkateswara University,PERCEPTION (100),2.01,PR
+2018,Overall,IR-1-O-D-C-45515,PSG Institute of Medical Sciences & Research,TLR (100),82.71,TLR
+2018,Overall,IR-1-O-D-C-45515,PSG Institute of Medical Sciences & Research,RPC (100),2.12,RPC
+2018,Overall,IR-1-O-D-C-45515,PSG Institute of Medical Sciences & Research,GO (100),58.65,GO
+2018,Overall,IR-1-O-D-C-45515,PSG Institute of Medical Sciences & Research,OI (100),50.06,OI
+2018,Overall,IR-1-O-D-C-45515,PSG Institute of Medical Sciences & Research,PERCEPTION (100),10.5,PR
+2018,Overall,IR-1-O-O-U-0159,Chaudhary Charan Singh Haryana Agricultural University,TLR (100),78.3,TLR
+2018,Overall,IR-1-O-O-U-0159,Chaudhary Charan Singh Haryana Agricultural University,RPC (100),8.04,RPC
+2018,Overall,IR-1-O-O-U-0159,Chaudhary Charan Singh Haryana Agricultural University,GO (100),65.06,GO
+2018,Overall,IR-1-O-O-U-0159,Chaudhary Charan Singh Haryana Agricultural University,OI (100),41.03,OI
+2018,Overall,IR-1-O-O-U-0159,Chaudhary Charan Singh Haryana Agricultural University,PERCEPTION (100),2.01,PR
+2018,Overall,IR-3-O-OML-U-0195,University of Jammu,TLR (100),65.22,TLR
+2018,Overall,IR-3-O-OML-U-0195,University of Jammu,RPC (100),18.9,RPC
+2018,Overall,IR-3-O-OML-U-0195,University of Jammu,GO (100),69.46,GO
+2018,Overall,IR-3-O-OML-U-0195,University of Jammu,OI (100),39.44,OI
+2018,Overall,IR-3-O-OML-U-0195,University of Jammu,PERCEPTION (100),1.22,PR
+2018,Overall,IR-2-O-OE-U-0025,National Institute of Technology Warangal,TLR (100),56.18,TLR
+2018,Overall,IR-2-O-OE-U-0025,National Institute of Technology Warangal,RPC (100),22.73,RPC
+2018,Overall,IR-2-O-OE-U-0025,National Institute of Technology Warangal,GO (100),67.06,GO
+2018,Overall,IR-2-O-OE-U-0025,National Institute of Technology Warangal,OI (100),54.72,OI
+2018,Overall,IR-2-O-OE-U-0025,National Institute of Technology Warangal,PERCEPTION (100),6.11,PR
+2018,Overall,IR-2-O-OD-I-1110,Dr. D. Y. Patil Vidyapeeth,TLR (100),76.37,TLR
+2018,Overall,IR-2-O-OD-I-1110,Dr. D. Y. Patil Vidyapeeth,RPC (100),8.25,RPC
+2018,Overall,IR-2-O-OD-I-1110,Dr. D. Y. Patil Vidyapeeth,GO (100),56.74,GO
+2018,Overall,IR-2-O-OD-I-1110,Dr. D. Y. Patil Vidyapeeth,OI (100),62.9,OI
+2018,Overall,IR-2-O-OD-I-1110,Dr. D. Y. Patil Vidyapeeth,PERCEPTION (100),1.22,PR
+2018,Overall,IR-6-O-OEMALP-U-0497,Amity University,TLR (100),48.75,TLR
+2018,Overall,IR-6-O-OEMALP-U-0497,Amity University,RPC (100),30.1,RPC
+2018,Overall,IR-6-O-OEMALP-U-0497,Amity University,GO (100),62.95,GO
+2018,Overall,IR-6-O-OEMALP-U-0497,Amity University,OI (100),62.11,OI
+2018,Overall,IR-6-O-OEMALP-U-0497,Amity University,PERCEPTION (100),5.4,PR
+2018,Overall,IR-1-O-O-U-0463,Madurai Kamraj University,TLR (100),61.57,TLR
+2018,Overall,IR-1-O-O-U-0463,Madurai Kamraj University,RPC (100),28.03,RPC
+2018,Overall,IR-1-O-O-U-0463,Madurai Kamraj University,GO (100),49.87,GO
+2018,Overall,IR-1-O-O-U-0463,Madurai Kamraj University,OI (100),45.12,OI
+2018,Overall,IR-1-O-O-U-0463,Madurai Kamraj University,PERCEPTION (100),16.18,PR
+2018,Overall,IR-6-O-OEMAPC-N-10,SVKM`s Narsee Monjee Institute of Management Studies,TLR (100),65.29,TLR
+2018,Overall,IR-6-O-OEMAPC-N-10,SVKM`s Narsee Monjee Institute of Management Studies,RPC (100),12.61,RPC
+2018,Overall,IR-6-O-OEMAPC-N-10,SVKM`s Narsee Monjee Institute of Management Studies,GO (100),63.9,GO
+2018,Overall,IR-6-O-OEMAPC-N-10,SVKM`s Narsee Monjee Institute of Management Studies,OI (100),65.69,OI
+2018,Overall,IR-6-O-OEMAPC-N-10,SVKM`s Narsee Monjee Institute of Management Studies,PERCEPTION (100),0.81,PR
+2018,Overall,IR-2-O-EM-U-0020,Koneru Lakshmaiah Education Foundation University,TLR (100),65.81,TLR
+2018,Overall,IR-2-O-EM-U-0020,Koneru Lakshmaiah Education Foundation University,RPC (100),15.23,RPC
+2018,Overall,IR-2-O-EM-U-0020,Koneru Lakshmaiah Education Foundation University,GO (100),62.65,GO
+2018,Overall,IR-2-O-EM-U-0020,Koneru Lakshmaiah Education Foundation University,OI (100),59.43,OI
+2018,Overall,IR-2-O-EM-U-0020,Koneru Lakshmaiah Education Foundation University,PERCEPTION (100),0.0,PR
+2018,Overall,IR-1-O-O-U-0225,KLE Academy of Higher Education and Research,TLR (100),74.67,TLR
+2018,Overall,IR-1-O-O-U-0225,KLE Academy of Higher Education and Research,RPC (100),11.37,RPC
+2018,Overall,IR-1-O-O-U-0225,KLE Academy of Higher Education and Research,GO (100),50.08,GO
+2018,Overall,IR-1-O-O-U-0225,KLE Academy of Higher Education and Research,OI (100),66.52,OI
+2018,Overall,IR-1-O-O-U-0225,KLE Academy of Higher Education and Research,PERCEPTION (100),2.79,PR
+2018,Overall,IR-1-O-O-U-0246,University of Agricultural Sciences,TLR (100),73.71,TLR
+2018,Overall,IR-1-O-O-U-0246,University of Agricultural Sciences,RPC (100),2.64,RPC
+2018,Overall,IR-1-O-O-U-0246,University of Agricultural Sciences,GO (100),70.63,GO
+2018,Overall,IR-1-O-O-U-0246,University of Agricultural Sciences,OI (100),54.04,OI
+2018,Overall,IR-1-O-O-U-0246,University of Agricultural Sciences,PERCEPTION (100),1.22,PR
+2018,Overall,IR-3-O-OEM-U-0369,Pondicherry University,TLR (100),46.64,TLR
+2018,Overall,IR-3-O-OEM-U-0369,Pondicherry University,RPC (100),26.49,RPC
+2018,Overall,IR-3-O-OEM-U-0369,Pondicherry University,GO (100),69.92,GO
+2018,Overall,IR-3-O-OEM-U-0369,Pondicherry University,OI (100),49.6,OI
+2018,Overall,IR-3-O-OEM-U-0369,Pondicherry University,PERCEPTION (100),14.76,PR
+2018,Overall,IR-1-O-O-U-0376,Guru Nanak Dev University,TLR (100),44.09,TLR
+2018,Overall,IR-1-O-O-U-0376,Guru Nanak Dev University,RPC (100),31.78,RPC
+2018,Overall,IR-1-O-O-U-0376,Guru Nanak Dev University,GO (100),70.3,GO
+2018,Overall,IR-1-O-O-U-0376,Guru Nanak Dev University,OI (100),48.22,OI
+2018,Overall,IR-1-O-O-U-0376,Guru Nanak Dev University,PERCEPTION (100),7.17,PR
+2018,Overall,IR-1-O-O-U-0341,North Eastern Hill University,TLR (100),64.85,TLR
+2018,Overall,IR-1-O-O-U-0341,North Eastern Hill University,RPC (100),13.43,RPC
+2018,Overall,IR-1-O-O-U-0341,North Eastern Hill University,GO (100),70.21,GO
+2018,Overall,IR-1-O-O-U-0341,North Eastern Hill University,OI (100),43.1,OI
+2018,Overall,IR-1-O-O-U-0341,North Eastern Hill University,PERCEPTION (100),5.03,PR
+2018,Overall,IR-1-O-D-U-0036,Sri Venkateswara Institute of Medical Sciences,TLR (100),77.09,TLR
+2018,Overall,IR-1-O-D-U-0036,Sri Venkateswara Institute of Medical Sciences,RPC (100),3.0,RPC
+2018,Overall,IR-1-O-D-U-0036,Sri Venkateswara Institute of Medical Sciences,GO (100),64.64,GO
+2018,Overall,IR-1-O-D-U-0036,Sri Venkateswara Institute of Medical Sciences,OI (100),53.34,OI
+2018,Overall,IR-1-O-D-U-0036,Sri Venkateswara Institute of Medical Sciences,PERCEPTION (100),0.41,PR
+2018,Overall,IR-2-O-OE-U-0507,Dayalbagh Educational Institute,TLR (100),64.14,TLR
+2018,Overall,IR-2-O-OE-U-0507,Dayalbagh Educational Institute,RPC (100),5.05,RPC
+2018,Overall,IR-2-O-OE-U-0507,Dayalbagh Educational Institute,GO (100),69.03,GO
+2018,Overall,IR-2-O-OE-U-0507,Dayalbagh Educational Institute,OI (100),61.36,OI
+2018,Overall,IR-2-O-OE-U-0507,Dayalbagh Educational Institute,PERCEPTION (100),12.38,PR
+2018,Overall,IR-4-O-OEMP-U-0389,Banasthali Vidyapith,TLR (100),47.08,TLR
+2018,Overall,IR-4-O-OEMP-U-0389,Banasthali Vidyapith,RPC (100),14.16,RPC
+2018,Overall,IR-4-O-OEMP-U-0389,Banasthali Vidyapith,GO (100),82.05,GO
+2018,Overall,IR-4-O-OEMP-U-0389,Banasthali Vidyapith,OI (100),66.66,OI
+2018,Overall,IR-4-O-OEMP-U-0389,Banasthali Vidyapith,PERCEPTION (100),4.3,PR
+2018,Overall,IR-1-O-O-U-0487,Tamil Nadu Veterinary & Animal Sciences University,TLR (100),74.76,TLR
+2018,Overall,IR-1-O-O-U-0487,Tamil Nadu Veterinary & Animal Sciences University,RPC (100),7.95,RPC
+2018,Overall,IR-1-O-O-U-0487,Tamil Nadu Veterinary & Animal Sciences University,GO (100),58.9,GO
+2018,Overall,IR-1-O-O-U-0487,Tamil Nadu Veterinary & Animal Sciences University,OI (100),47.51,OI
+2018,Overall,IR-1-O-O-U-0487,Tamil Nadu Veterinary & Animal Sciences University,PERCEPTION (100),3.93,PR
+2018,Overall,IR-1-O-O-I-1361,Bharati Vidyapeeth,TLR (100),58.92,TLR
+2018,Overall,IR-1-O-O-I-1361,Bharati Vidyapeeth,RPC (100),16.06,RPC
+2018,Overall,IR-1-O-O-I-1361,Bharati Vidyapeeth,GO (100),61.04,GO
+2018,Overall,IR-1-O-O-I-1361,Bharati Vidyapeeth,OI (100),55.26,OI
+2018,Overall,IR-1-O-O-I-1361,Bharati Vidyapeeth,PERCEPTION (100),14.76,PR
+2018,Overall,IR-1-O-O-U-0448,Bharathidasan University,TLR (100),57.01,TLR
+2018,Overall,IR-1-O-O-U-0448,Bharathidasan University,RPC (100),29.21,RPC
+2018,Overall,IR-1-O-O-U-0448,Bharathidasan University,GO (100),48.45,GO
+2018,Overall,IR-1-O-O-U-0448,Bharathidasan University,OI (100),34.45,OI
+2018,Overall,IR-1-O-O-U-0448,Bharathidasan University,PERCEPTION (100),26.3,PR
+2018,Overall,IR-3-O-OEA-C-26794,Thiagarajar College of Engineering,TLR (100),57.09,TLR
+2018,Overall,IR-3-O-OEA-C-26794,Thiagarajar College of Engineering,RPC (100),19.19,RPC
+2018,Overall,IR-3-O-OEA-C-26794,Thiagarajar College of Engineering,GO (100),61.91,GO
+2018,Overall,IR-3-O-OEA-C-26794,Thiagarajar College of Engineering,OI (100),46.95,OI
+2018,Overall,IR-3-O-OEA-C-26794,Thiagarajar College of Engineering,PERCEPTION (100),14.46,PR
+2018,Overall,IR-1-O-E-C-41593,College of Engineering,TLR (100),55.86,TLR
+2018,Overall,IR-1-O-E-C-41593,College of Engineering,RPC (100),17.22,RPC
+2018,Overall,IR-1-O-E-C-41593,College of Engineering,GO (100),62.43,GO
+2018,Overall,IR-1-O-E-C-41593,College of Engineering,OI (100),51.12,OI
+2018,Overall,IR-1-O-E-C-41593,College of Engineering,PERCEPTION (100),12.07,PR
+2018,Overall,IR-1-O-D-C-47762,Mahatma Gandhi Medical College and Research Institute,TLR (100),72.43,TLR
+2018,Overall,IR-1-O-D-C-47762,Mahatma Gandhi Medical College and Research Institute,RPC (100),5.83,RPC
+2018,Overall,IR-1-O-D-C-47762,Mahatma Gandhi Medical College and Research Institute,GO (100),50.15,GO
+2018,Overall,IR-1-O-D-C-47762,Mahatma Gandhi Medical College and Research Institute,OI (100),69.66,OI
+2018,Overall,IR-1-O-D-C-47762,Mahatma Gandhi Medical College and Research Institute,PERCEPTION (100),2.4,PR
+2018,Overall,IR-1-O-O-U-0121,Goa University,TLR (100),59.83,TLR
+2018,Overall,IR-1-O-O-U-0121,Goa University,RPC (100),13.77,RPC
+2018,Overall,IR-1-O-O-U-0121,Goa University,GO (100),66.09,GO
+2018,Overall,IR-1-O-O-U-0121,Goa University,OI (100),51.58,OI
+2018,Overall,IR-1-O-O-U-0121,Goa University,PERCEPTION (100),2.01,PR
+2018,Overall,IR-1-O-O-U-0253,Cochin University of Science and Technology,TLR (100),47.72,TLR
+2018,Overall,IR-1-O-O-U-0253,Cochin University of Science and Technology,RPC (100),24.36,RPC
+2018,Overall,IR-1-O-O-U-0253,Cochin University of Science and Technology,GO (100),62.94,GO
+2018,Overall,IR-1-O-O-U-0253,Cochin University of Science and Technology,OI (100),44.19,OI
+2018,Overall,IR-1-O-O-U-0253,Cochin University of Science and Technology,PERCEPTION (100),18.88,PR
+2018,Overall,IR-2-O-OE-U-0098,Delhi Technological University,TLR (100),47.77,TLR
+2018,Overall,IR-2-O-OE-U-0098,Delhi Technological University,RPC (100),24.12,RPC
+2018,Overall,IR-2-O-OE-U-0098,Delhi Technological University,GO (100),62.86,GO
+2018,Overall,IR-2-O-OE-U-0098,Delhi Technological University,OI (100),48.83,OI
+2018,Overall,IR-2-O-OE-U-0098,Delhi Technological University,PERCEPTION (100),15.04,PR

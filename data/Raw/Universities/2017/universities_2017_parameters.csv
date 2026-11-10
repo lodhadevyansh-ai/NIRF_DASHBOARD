@@ -1,0 +1,501 @@
+year,category,institute_id,institute_name,parameter_name,parameter_score,canonical_parameter
+2017,Universities,IR17-I-2-18243,Indian Institute of Science Bangalore,TLR (100),83.11,TLR
+2017,Universities,IR17-I-2-18243,Indian Institute of Science Bangalore,RPC (100),87.59,RPC
+2017,Universities,IR17-I-2-18243,Indian Institute of Science Bangalore,GO (100),87.97,GO
+2017,Universities,IR17-I-2-18243,Indian Institute of Science Bangalore,OI (100),61.48,OI
+2017,Universities,IR17-I-2-18243,Indian Institute of Science Bangalore,PERCEPTION (100),83.33,PR
+2017,Universities,IR17-I-2-1-319,Jawaharlal Nehru University,TLR (100),62.11,TLR
+2017,Universities,IR17-I-2-1-319,Jawaharlal Nehru University,RPC (100),33.96,RPC
+2017,Universities,IR17-I-2-1-319,Jawaharlal Nehru University,GO (100),98.71,GO
+2017,Universities,IR17-I-2-1-319,Jawaharlal Nehru University,OI (100),82.4,OI
+2017,Universities,IR17-I-2-1-319,Jawaharlal Nehru University,PERCEPTION (100),47.27,PR
+2017,Universities,IR17-I-2-18500,Banaras Hindu University,TLR (100),47.85,TLR
+2017,Universities,IR17-I-2-18500,Banaras Hindu University,RPC (100),49.96,RPC
+2017,Universities,IR17-I-2-18500,Banaras Hindu University,GO (100),94.36,GO
+2017,Universities,IR17-I-2-18500,Banaras Hindu University,OI (100),62.97,OI
+2017,Universities,IR17-I-2-18500,Banaras Hindu University,PERCEPTION (100),44.01,PR
+2017,Universities,IR17-I-2-30673,Jawaharlal Nehru Centre for Advanced Scientific Research,TLR (100),78.28,TLR
+2017,Universities,IR17-I-2-30673,Jawaharlal Nehru Centre for Advanced Scientific Research,RPC (100),51.93,RPC
+2017,Universities,IR17-I-2-30673,Jawaharlal Nehru Centre for Advanced Scientific Research,GO (100),68.79,GO
+2017,Universities,IR17-I-2-30673,Jawaharlal Nehru Centre for Advanced Scientific Research,OI (100),47.44,OI
+2017,Universities,IR17-I-2-30673,Jawaharlal Nehru Centre for Advanced Scientific Research,PERCEPTION (100),6.92,PR
+2017,Universities,IR17-I-2-10326,Jadavpur University,TLR (100),48.64,TLR
+2017,Universities,IR17-I-2-10326,Jadavpur University,RPC (100),54.09,RPC
+2017,Universities,IR17-I-2-10326,Jadavpur University,GO (100),91.42,GO
+2017,Universities,IR17-I-2-10326,Jadavpur University,OI (100),53.37,OI
+2017,Universities,IR17-I-2-10326,Jadavpur University,PERCEPTION (100),28.81,PR
+2017,Universities,IR17-I-2-18292,Anna University,TLR (100),46.25,TLR
+2017,Universities,IR17-I-2-18292,Anna University,RPC (100),54.58,RPC
+2017,Universities,IR17-I-2-18292,Anna University,GO (100),79.31,GO
+2017,Universities,IR17-I-2-18292,Anna University,OI (100),60.01,OI
+2017,Universities,IR17-I-2-18292,Anna University,PERCEPTION (100),43.94,PR
+2017,Universities,IR17-I-2-1-2813521158,University of Hyderabad,TLR (100),57.3,TLR
+2017,Universities,IR17-I-2-1-2813521158,University of Hyderabad,RPC (100),42.77,RPC
+2017,Universities,IR17-I-2-1-2813521158,University of Hyderabad,GO (100),78.79,GO
+2017,Universities,IR17-I-2-1-2813521158,University of Hyderabad,OI (100),78.13,OI
+2017,Universities,IR17-I-2-1-2813521158,University of Hyderabad,PERCEPTION (100),27.06,PR
+2017,Universities,IR17-I-2-18552,University of Delhi,TLR (100),43.48,TLR
+2017,Universities,IR17-I-2-18552,University of Delhi,RPC (100),56.61,RPC
+2017,Universities,IR17-I-2-18552,University of Delhi,GO (100),82.06,GO
+2017,Universities,IR17-I-2-18552,University of Delhi,OI (100),58.6,OI
+2017,Universities,IR17-I-2-18552,University of Delhi,PERCEPTION (100),30.76,PR
+2017,Universities,IR17-I-2-18267,Amrita Vishwa Vidyapeetham,TLR (100),62.9,TLR
+2017,Universities,IR17-I-2-18267,Amrita Vishwa Vidyapeetham,RPC (100),39.49,RPC
+2017,Universities,IR17-I-2-18267,Amrita Vishwa Vidyapeetham,GO (100),65.77,GO
+2017,Universities,IR17-I-2-18267,Amrita Vishwa Vidyapeetham,OI (100),82.17,OI
+2017,Universities,IR17-I-2-18267,Amrita Vishwa Vidyapeetham,PERCEPTION (100),26.12,PR
+2017,Universities,IR17-I-2-1-618,Savitribai Phule Pune University,TLR (100),56.39,TLR
+2017,Universities,IR17-I-2-1-618,Savitribai Phule Pune University,RPC (100),35.03,RPC
+2017,Universities,IR17-I-2-1-618,Savitribai Phule Pune University,GO (100),85.13,GO
+2017,Universities,IR17-I-2-1-618,Savitribai Phule Pune University,OI (100),72.26,OI
+2017,Universities,IR17-I-2-1-618,Savitribai Phule Pune University,PERCEPTION (100),11.2,PR
+2017,Universities,IR17-I-2-18189,Aligarh Muslim University,TLR (100),58.56,TLR
+2017,Universities,IR17-I-2-18189,Aligarh Muslim University,RPC (100),36.2,RPC
+2017,Universities,IR17-I-2-18189,Aligarh Muslim University,GO (100),87.43,GO
+2017,Universities,IR17-I-2-18189,Aligarh Muslim University,OI (100),51.55,OI
+2017,Universities,IR17-I-2-18189,Aligarh Muslim University,PERCEPTION (100),16.62,PR
+2017,Universities,IR17-I-2-1-2814289415,Jamia Millia Islamia,TLR (100),58.98,TLR
+2017,Universities,IR17-I-2-1-2814289415,Jamia Millia Islamia,RPC (100),27.99,RPC
+2017,Universities,IR17-I-2-1-2814289415,Jamia Millia Islamia,GO (100),81.63,GO
+2017,Universities,IR17-I-2-1-2814289415,Jamia Millia Islamia,OI (100),83.55,OI
+2017,Universities,IR17-I-2-1-2814289415,Jamia Millia Islamia,PERCEPTION (100),9.73,PR
+2017,Universities,IR17-I-2-18599,Birla Institute of Technology & Science -Pilani,TLR (100),54.83,TLR
+2017,Universities,IR17-I-2-18599,Birla Institute of Technology & Science -Pilani,RPC (100),31.26,RPC
+2017,Universities,IR17-I-2-18599,Birla Institute of Technology & Science -Pilani,GO (100),73.88,GO
+2017,Universities,IR17-I-2-18599,Birla Institute of Technology & Science -Pilani,OI (100),58.5,OI
+2017,Universities,IR17-I-2-18599,Birla Institute of Technology & Science -Pilani,PERCEPTION (100),49.96,PR
+2017,Universities,IR17-I-2-18572,Vellore Institute of Technology,TLR (100),41.65,TLR
+2017,Universities,IR17-I-2-18572,Vellore Institute of Technology,RPC (100),42.87,RPC
+2017,Universities,IR17-I-2-18572,Vellore Institute of Technology,GO (100),75.57,GO
+2017,Universities,IR17-I-2-18572,Vellore Institute of Technology,OI (100),75.99,OI
+2017,Universities,IR17-I-2-18572,Vellore Institute of Technology,PERCEPTION (100),32.95,PR
+2017,Universities,IR17-I-2-1-243,Indian Agricultural Research Institute,TLR (100),58.22,TLR
+2017,Universities,IR17-I-2-1-243,Indian Agricultural Research Institute,RPC (100),33.6,RPC
+2017,Universities,IR17-I-2-1-243,Indian Agricultural Research Institute,GO (100),74.11,GO
+2017,Universities,IR17-I-2-1-243,Indian Agricultural Research Institute,OI (100),76.79,OI
+2017,Universities,IR17-I-2-1-243,Indian Agricultural Research Institute,PERCEPTION (100),11.52,PR
+2017,Universities,IR17-I-2-18606,Calcutta University,TLR (100),36.34,TLR
+2017,Universities,IR17-I-2-18606,Calcutta University,RPC (100),44.1,RPC
+2017,Universities,IR17-I-2-18606,Calcutta University,GO (100),95.76,GO
+2017,Universities,IR17-I-2-18606,Calcutta University,OI (100),39.02,OI
+2017,Universities,IR17-I-2-18606,Calcutta University,PERCEPTION (100),17.15,PR
+2017,Universities,IR17-I-2-15598,Tamil Nadu Agricultural University,TLR (100),77.67,TLR
+2017,Universities,IR17-I-2-15598,Tamil Nadu Agricultural University,RPC (100),12.56,RPC
+2017,Universities,IR17-I-2-15598,Tamil Nadu Agricultural University,GO (100),75.33,GO
+2017,Universities,IR17-I-2-15598,Tamil Nadu Agricultural University,OI (100),63.48,OI
+2017,Universities,IR17-I-2-15598,Tamil Nadu Agricultural University,PERCEPTION (100),3.53,PR
+2017,Universities,IR17-I-2-18364,Manipal Academy of Higher Education-Manipal,TLR (100),64.76,TLR
+2017,Universities,IR17-I-2-18364,Manipal Academy of Higher Education-Manipal,RPC (100),29.31,RPC
+2017,Universities,IR17-I-2-18364,Manipal Academy of Higher Education-Manipal,GO (100),58.66,GO
+2017,Universities,IR17-I-2-18364,Manipal Academy of Higher Education-Manipal,OI (100),55.51,OI
+2017,Universities,IR17-I-2-18364,Manipal Academy of Higher Education-Manipal,PERCEPTION (100),27.67,PR
+2017,Universities,IR17-I-2-18581,Visva Bharati,TLR (100),53.56,TLR
+2017,Universities,IR17-I-2-18581,Visva Bharati,RPC (100),25.23,RPC
+2017,Universities,IR17-I-2-18581,Visva Bharati,GO (100),86.74,GO
+2017,Universities,IR17-I-2-18581,Visva Bharati,OI (100),67.26,OI
+2017,Universities,IR17-I-2-18581,Visva Bharati,PERCEPTION (100),4.71,PR
+2017,Universities,IR17-I-2-1-624,Siksha`O` Anusandhan University,TLR (100),63.31,TLR
+2017,Universities,IR17-I-2-1-624,Siksha`O` Anusandhan University,RPC (100),17.17,RPC
+2017,Universities,IR17-I-2-1-624,Siksha`O` Anusandhan University,GO (100),66.02,GO
+2017,Universities,IR17-I-2-1-624,Siksha`O` Anusandhan University,OI (100),78.18,OI
+2017,Universities,IR17-I-2-1-624,Siksha`O` Anusandhan University,PERCEPTION (100),15.57,PR
+2017,Universities,IR17-I-2-18230,Homi Bhabha National Institute,TLR (100),79.17,TLR
+2017,Universities,IR17-I-2-18230,Homi Bhabha National Institute,RPC (100),8.75,RPC
+2017,Universities,IR17-I-2-18230,Homi Bhabha National Institute,GO (100),66.98,GO
+2017,Universities,IR17-I-2-18230,Homi Bhabha National Institute,OI (100),58.08,OI
+2017,Universities,IR17-I-2-18230,Homi Bhabha National Institute,PERCEPTION (100),8.7,PR
+2017,Universities,IR17-I-2-18559,Bharath Institute of Higher Education & Research,TLR (100),59.33,TLR
+2017,Universities,IR17-I-2-18559,Bharath Institute of Higher Education & Research,RPC (100),23.12,RPC
+2017,Universities,IR17-I-2-18559,Bharath Institute of Higher Education & Research,GO (100),63.42,GO
+2017,Universities,IR17-I-2-18559,Bharath Institute of Higher Education & Research,OI (100),86.49,OI
+2017,Universities,IR17-I-2-18559,Bharath Institute of Higher Education & Research,PERCEPTION (100),3.79,PR
+2017,Universities,IR17-I-2-18414,Osmania University,TLR (100),46.63,TLR
+2017,Universities,IR17-I-2-18414,Osmania University,RPC (100),20.56,RPC
+2017,Universities,IR17-I-2-18414,Osmania University,GO (100),91.98,GO
+2017,Universities,IR17-I-2-18414,Osmania University,OI (100),58.41,OI
+2017,Universities,IR17-I-2-18414,Osmania University,PERCEPTION (100),11.16,PR
+2017,Universities,IR17-I-1-30713,"Punjab Agricultural University, Ludhiana",TLR (100),77.94,TLR
+2017,Universities,IR17-I-1-30713,"Punjab Agricultural University, Ludhiana",RPC (100),16.51,RPC
+2017,Universities,IR17-I-1-30713,"Punjab Agricultural University, Ludhiana",GO (100),57.2,GO
+2017,Universities,IR17-I-1-30713,"Punjab Agricultural University, Ludhiana",OI (100),48.44,OI
+2017,Universities,IR17-I-1-30713,"Punjab Agricultural University, Ludhiana",PERCEPTION (100),3.83,PR
+2017,Universities,IR17-I-2-18261,Institute of Chemical Technology,TLR (100),41.33,TLR
+2017,Universities,IR17-I-2-18261,Institute of Chemical Technology,RPC (100),36.82,RPC
+2017,Universities,IR17-I-2-18261,Institute of Chemical Technology,GO (100),69.31,GO
+2017,Universities,IR17-I-2-18261,Institute of Chemical Technology,OI (100),55.73,OI
+2017,Universities,IR17-I-2-18261,Institute of Chemical Technology,PERCEPTION (100),20.69,PR
+2017,Universities,IR17-I-2-17784,Jamia Hamdard,TLR (100),52.44,TLR
+2017,Universities,IR17-I-2-17784,Jamia Hamdard,RPC (100),27.86,RPC
+2017,Universities,IR17-I-2-17784,Jamia Hamdard,GO (100),73.99,GO
+2017,Universities,IR17-I-2-17784,Jamia Hamdard,OI (100),57.57,OI
+2017,Universities,IR17-I-2-17784,Jamia Hamdard,PERCEPTION (100),1.87,PR
+2017,Universities,IR17-I-2-30702,Gauhati University,TLR (100),50.65,TLR
+2017,Universities,IR17-I-2-30702,Gauhati University,RPC (100),16.84,RPC
+2017,Universities,IR17-I-2-30702,Gauhati University,GO (100),89.89,GO
+2017,Universities,IR17-I-2-30702,Gauhati University,OI (100),59.41,OI
+2017,Universities,IR17-I-2-30702,Gauhati University,PERCEPTION (100),2.48,PR
+2017,Universities,IR17-I-2-18567,Bharathiar University,TLR (100),45.67,TLR
+2017,Universities,IR17-I-2-18567,Bharathiar University,RPC (100),35.58,RPC
+2017,Universities,IR17-I-2-18567,Bharathiar University,GO (100),63.73,GO
+2017,Universities,IR17-I-2-18567,Bharathiar University,OI (100),62.6,OI
+2017,Universities,IR17-I-2-18567,Bharathiar University,PERCEPTION (100),9.11,PR
+2017,Universities,IR17-I-2-18317,Kerala University,TLR (100),50.61,TLR
+2017,Universities,IR17-I-2-18317,Kerala University,RPC (100),14.62,RPC
+2017,Universities,IR17-I-2-18317,Kerala University,GO (100),89.18,GO
+2017,Universities,IR17-I-2-18317,Kerala University,OI (100),64.47,OI
+2017,Universities,IR17-I-2-18317,Kerala University,PERCEPTION (100),0.89,PR
+2017,Universities,IR17-I-2-10563,Tezpur University,TLR (100),51.89,TLR
+2017,Universities,IR17-I-2-10563,Tezpur University,RPC (100),28.83,RPC
+2017,Universities,IR17-I-2-10563,Tezpur University,GO (100),62.76,GO
+2017,Universities,IR17-I-2-10563,Tezpur University,OI (100),63.05,OI
+2017,Universities,IR17-I-2-10563,Tezpur University,PERCEPTION (100),7.09,PR
+2017,Universities,IR17-I-1-700,TATA Institute of Social Sciences,TLR (100),51.92,TLR
+2017,Universities,IR17-I-1-700,TATA Institute of Social Sciences,RPC (100),6.59,RPC
+2017,Universities,IR17-I-1-700,TATA Institute of Social Sciences,GO (100),76.5,GO
+2017,Universities,IR17-I-1-700,TATA Institute of Social Sciences,OI (100),85.16,OI
+2017,Universities,IR17-I-1-700,TATA Institute of Social Sciences,PERCEPTION (100),23.31,PR
+2017,Universities,IR17-I-2-18477,Shanmugha Arts Science Technology & Research Academy (SASTRA),TLR (100),43.1,TLR
+2017,Universities,IR17-I-2-18477,Shanmugha Arts Science Technology & Research Academy (SASTRA),RPC (100),31.09,RPC
+2017,Universities,IR17-I-2-18477,Shanmugha Arts Science Technology & Research Academy (SASTRA),GO (100),68.04,GO
+2017,Universities,IR17-I-2-18477,Shanmugha Arts Science Technology & Research Academy (SASTRA),OI (100),65.18,OI
+2017,Universities,IR17-I-2-18477,Shanmugha Arts Science Technology & Research Academy (SASTRA),PERCEPTION (100),11.1,PR
+2017,Universities,IR17-I-2-1-2814248400,Panjab University,TLR (100),36.7,TLR
+2017,Universities,IR17-I-2-1-2814248400,Panjab University,RPC (100),40.79,RPC
+2017,Universities,IR17-I-2-1-2814248400,Panjab University,GO (100),66.18,GO
+2017,Universities,IR17-I-2-1-2814248400,Panjab University,OI (100),47.4,OI
+2017,Universities,IR17-I-2-1-2814248400,Panjab University,PERCEPTION (100),18.99,PR
+2017,Universities,IR17-I-2-1-596,S.R.M Institute of Science and Technology,TLR (100),45.8,TLR
+2017,Universities,IR17-I-2-1-596,S.R.M Institute of Science and Technology,RPC (100),25.07,RPC
+2017,Universities,IR17-I-2-1-596,S.R.M Institute of Science and Technology,GO (100),64.33,GO
+2017,Universities,IR17-I-2-1-596,S.R.M Institute of Science and Technology,OI (100),78.65,OI
+2017,Universities,IR17-I-2-1-596,S.R.M Institute of Science and Technology,PERCEPTION (100),10.8,PR
+2017,Universities,IR17-I-1-1-249,Indian Institute of Space Science and Technology,TLR (100),69.46,TLR
+2017,Universities,IR17-I-1-1-249,Indian Institute of Space Science and Technology,RPC (100),11.63,RPC
+2017,Universities,IR17-I-1-1-249,Indian Institute of Space Science and Technology,GO (100),51.78,GO
+2017,Universities,IR17-I-1-1-249,Indian Institute of Space Science and Technology,OI (100),70.33,OI
+2017,Universities,IR17-I-1-1-249,Indian Institute of Space Science and Technology,PERCEPTION (100),13.45,PR
+2017,Universities,IR17-I-2-1-457,Mysore University,TLR (100),41.59,TLR
+2017,Universities,IR17-I-2-1-457,Mysore University,RPC (100),20.1,RPC
+2017,Universities,IR17-I-2-1-457,Mysore University,GO (100),93.17,GO
+2017,Universities,IR17-I-2-1-457,Mysore University,OI (100),53.51,OI
+2017,Universities,IR17-I-2-1-457,Mysore University,PERCEPTION (100),3.44,PR
+2017,Universities,IR17-I-2-18424,Pondicherry University,TLR (100),44.07,TLR
+2017,Universities,IR17-I-2-18424,Pondicherry University,RPC (100),26.33,RPC
+2017,Universities,IR17-I-2-18424,Pondicherry University,GO (100),72.73,GO
+2017,Universities,IR17-I-2-18424,Pondicherry University,OI (100),65.61,OI
+2017,Universities,IR17-I-2-18424,Pondicherry University,PERCEPTION (100),4.67,PR
+2017,Universities,IR17-I-2-1-697,Tamil Nadu Veterinary & Animal Sciences University,TLR (100),75.08,TLR
+2017,Universities,IR17-I-2-1-697,Tamil Nadu Veterinary & Animal Sciences University,RPC (100),6.36,RPC
+2017,Universities,IR17-I-2-1-697,Tamil Nadu Veterinary & Animal Sciences University,GO (100),61.11,GO
+2017,Universities,IR17-I-2-1-697,Tamil Nadu Veterinary & Animal Sciences University,OI (100),57.5,OI
+2017,Universities,IR17-I-2-1-697,Tamil Nadu Veterinary & Animal Sciences University,PERCEPTION (100),0.67,PR
+2017,Universities,IR17-I-2-1-661,Sri Ramachandra University,TLR (100),68.16,TLR
+2017,Universities,IR17-I-2-1-661,Sri Ramachandra University,RPC (100),14.1,RPC
+2017,Universities,IR17-I-2-1-661,Sri Ramachandra University,GO (100),47.94,GO
+2017,Universities,IR17-I-2-1-661,Sri Ramachandra University,OI (100),73.02,OI
+2017,Universities,IR17-I-2-1-661,Sri Ramachandra University,PERCEPTION (100),8.86,PR
+2017,Universities,IR17-I-2-18276,Anand Agricultural University,TLR (100),72.99,TLR
+2017,Universities,IR17-I-2-18276,Anand Agricultural University,RPC (100),5.89,RPC
+2017,Universities,IR17-I-2-18276,Anand Agricultural University,GO (100),70.24,GO
+2017,Universities,IR17-I-2-18276,Anand Agricultural University,OI (100),42.67,OI
+2017,Universities,IR17-I-2-18276,Anand Agricultural University,PERCEPTION (100),2.75,PR
+2017,Universities,IR17-I-2-18341,University of Madras,TLR (100),44.22,TLR
+2017,Universities,IR17-I-2-18341,University of Madras,RPC (100),29.26,RPC
+2017,Universities,IR17-I-2-18341,University of Madras,GO (100),62.26,GO
+2017,Universities,IR17-I-2-18341,University of Madras,OI (100),62.75,OI
+2017,Universities,IR17-I-2-18341,University of Madras,PERCEPTION (100),10.82,PR
+2017,Universities,IR17-I-2-1-668,Sri Venkateswara University,TLR (100),45.88,TLR
+2017,Universities,IR17-I-2-1-668,Sri Venkateswara University,RPC (100),24.43,RPC
+2017,Universities,IR17-I-2-1-668,Sri Venkateswara University,GO (100),68.72,GO
+2017,Universities,IR17-I-2-1-668,Sri Venkateswara University,OI (100),64.57,OI
+2017,Universities,IR17-I-2-1-668,Sri Venkateswara University,PERCEPTION (100),1.94,PR
+2017,Universities,IR17-I-2-1-31,Andhra University,TLR (100),40.32,TLR
+2017,Universities,IR17-I-2-1-31,Andhra University,RPC (100),18.59,RPC
+2017,Universities,IR17-I-2-1-31,Andhra University,GO (100),80.31,GO
+2017,Universities,IR17-I-2-1-31,Andhra University,OI (100),55.75,OI
+2017,Universities,IR17-I-2-1-31,Andhra University,PERCEPTION (100),20.72,PR
+2017,Universities,IR17-I-2-18472,Sathyabama Institute of Science and Technology,TLR (100),42.32,TLR
+2017,Universities,IR17-I-2-18472,Sathyabama Institute of Science and Technology,RPC (100),22.17,RPC
+2017,Universities,IR17-I-2-18472,Sathyabama Institute of Science and Technology,GO (100),65.64,GO
+2017,Universities,IR17-I-2-18472,Sathyabama Institute of Science and Technology,OI (100),77.13,OI
+2017,Universities,IR17-I-2-18472,Sathyabama Institute of Science and Technology,PERCEPTION (100),11.08,PR
+2017,Universities,IR17-I-2-1-299,Jagadguru Sri Shivarathreeshwara University,TLR (100),55.34,TLR
+2017,Universities,IR17-I-2-1-299,Jagadguru Sri Shivarathreeshwara University,RPC (100),10.32,RPC
+2017,Universities,IR17-I-2-1-299,Jagadguru Sri Shivarathreeshwara University,GO (100),61.55,GO
+2017,Universities,IR17-I-2-1-299,Jagadguru Sri Shivarathreeshwara University,OI (100),76.67,OI
+2017,Universities,IR17-I-2-1-299,Jagadguru Sri Shivarathreeshwara University,PERCEPTION (100),14.99,PR
+2017,Universities,IR17-I-2-1-2813959492,Thapar University,TLR (100),39.35,TLR
+2017,Universities,IR17-I-2-1-2813959492,Thapar University,RPC (100),29.05,RPC
+2017,Universities,IR17-I-2-1-2813959492,Thapar University,GO (100),70.16,GO
+2017,Universities,IR17-I-2-1-2813959492,Thapar University,OI (100),49.1,OI
+2017,Universities,IR17-I-2-1-2813959492,Thapar University,PERCEPTION (100),13.17,PR
+2017,Universities,IR17-I-2-30671,Dr. D. Y. Patil Vidyapeeth Pune,TLR (100),64.52,TLR
+2017,Universities,IR17-I-2-30671,Dr. D. Y. Patil Vidyapeeth Pune,RPC (100),4.9,RPC
+2017,Universities,IR17-I-2-30671,Dr. D. Y. Patil Vidyapeeth Pune,GO (100),60.27,GO
+2017,Universities,IR17-I-2-30671,Dr. D. Y. Patil Vidyapeeth Pune,OI (100),65.47,OI
+2017,Universities,IR17-I-2-30671,Dr. D. Y. Patil Vidyapeeth Pune,PERCEPTION (100),11.61,PR
+2017,Universities,IR17-I-2-18409,North Eastern Hill University,TLR (100),53.99,TLR
+2017,Universities,IR17-I-2-18409,North Eastern Hill University,RPC (100),11.83,RPC
+2017,Universities,IR17-I-2-18409,North Eastern Hill University,GO (100),71.52,GO
+2017,Universities,IR17-I-2-18409,North Eastern Hill University,OI (100),61.35,OI
+2017,Universities,IR17-I-2-18409,North Eastern Hill University,PERCEPTION (100),3.24,PR
+2017,Universities,IR17-I-2-1-336,Kalinga Institute of Industrial Technology,TLR (100),46.39,TLR
+2017,Universities,IR17-I-2-1-336,Kalinga Institute of Industrial Technology,RPC (100),12.75,RPC
+2017,Universities,IR17-I-2-1-336,Kalinga Institute of Industrial Technology,GO (100),68.53,GO
+2017,Universities,IR17-I-2-1-336,Kalinga Institute of Industrial Technology,OI (100),69.17,OI
+2017,Universities,IR17-I-2-1-336,Kalinga Institute of Industrial Technology,PERCEPTION (100),20.95,PR
+2017,Universities,IR17-I-2-18214,Guru Angad Dev Veterinary & Animal Sciences University,TLR (100),71.99,TLR
+2017,Universities,IR17-I-2-18214,Guru Angad Dev Veterinary & Animal Sciences University,RPC (100),10.08,RPC
+2017,Universities,IR17-I-2-18214,Guru Angad Dev Veterinary & Animal Sciences University,GO (100),56.99,GO
+2017,Universities,IR17-I-2-18214,Guru Angad Dev Veterinary & Animal Sciences University,OI (100),40.19,OI
+2017,Universities,IR17-I-2-18214,Guru Angad Dev Veterinary & Animal Sciences University,PERCEPTION (100),0.59,PR
+2017,Universities,IR17-I-2-1-178,Dr. Y.S.Parmar University of Horticulture & Forestry,TLR (100),68.64,TLR
+2017,Universities,IR17-I-2-1-178,Dr. Y.S.Parmar University of Horticulture & Forestry,RPC (100),4.39,RPC
+2017,Universities,IR17-I-2-1-178,Dr. Y.S.Parmar University of Horticulture & Forestry,GO (100),65.58,GO
+2017,Universities,IR17-I-2-1-178,Dr. Y.S.Parmar University of Horticulture & Forestry,OI (100),44.54,OI
+2017,Universities,IR17-I-2-1-178,Dr. Y.S.Parmar University of Horticulture & Forestry,PERCEPTION (100),0.64,PR
+2017,Universities,IR17-I-2-18259,AMITY University,TLR (100),38.5,TLR
+2017,Universities,IR17-I-2-18259,AMITY University,RPC (100),23.36,RPC
+2017,Universities,IR17-I-2-18259,AMITY University,GO (100),63.06,GO
+2017,Universities,IR17-I-2-18259,AMITY University,OI (100),61.86,OI
+2017,Universities,IR17-I-2-18259,AMITY University,PERCEPTION (100),18.06,PR
+2017,Universities,IR17-I-2-18508,Banasthali Vidyapith,TLR (100),37.11,TLR
+2017,Universities,IR17-I-2-18508,Banasthali Vidyapith,RPC (100),9.99,RPC
+2017,Universities,IR17-I-2-18508,Banasthali Vidyapith,GO (100),82.16,GO
+2017,Universities,IR17-I-2-18508,Banasthali Vidyapith,OI (100),74.26,OI
+2017,Universities,IR17-I-2-18508,Banasthali Vidyapith,PERCEPTION (100),7.46,PR
+2017,Universities,IR17-I-2-18580,Bharati Vidyapeeth,TLR (100),48.43,TLR
+2017,Universities,IR17-I-2-18580,Bharati Vidyapeeth,RPC (100),12.95,RPC
+2017,Universities,IR17-I-2-18580,Bharati Vidyapeeth,GO (100),55.18,GO
+2017,Universities,IR17-I-2-18580,Bharati Vidyapeeth,OI (100),62.17,OI
+2017,Universities,IR17-I-2-18580,Bharati Vidyapeeth,PERCEPTION (100),30.64,PR
+2017,Universities,IR17-I-2-18474,Saveetha Institute of Medical and Technical Sciences,TLR (100),51.11,TLR
+2017,Universities,IR17-I-2-18474,Saveetha Institute of Medical and Technical Sciences,RPC (100),11.81,RPC
+2017,Universities,IR17-I-2-18474,Saveetha Institute of Medical and Technical Sciences,GO (100),57.85,GO
+2017,Universities,IR17-I-2-18474,Saveetha Institute of Medical and Technical Sciences,OI (100),76.63,OI
+2017,Universities,IR17-I-2-18474,Saveetha Institute of Medical and Technical Sciences,PERCEPTION (100),5.81,PR
+2017,Universities,IR17-I-2-1-33,Annamalai University,TLR (100),39.03,TLR
+2017,Universities,IR17-I-2-1-33,Annamalai University,RPC (100),26.87,RPC
+2017,Universities,IR17-I-2-1-33,Annamalai University,GO (100),68.64,GO
+2017,Universities,IR17-I-2-1-33,Annamalai University,OI (100),47.19,OI
+2017,Universities,IR17-I-2-1-33,Annamalai University,PERCEPTION (100),3.67,PR
+2017,Universities,IR17-I-2-18607,Calicut University,TLR (100),50.3,TLR
+2017,Universities,IR17-I-2-18607,Calicut University,RPC (100),8.81,RPC
+2017,Universities,IR17-I-2-18607,Calicut University,GO (100),72.68,GO
+2017,Universities,IR17-I-2-18607,Calicut University,OI (100),57.08,OI
+2017,Universities,IR17-I-2-18607,Calicut University,PERCEPTION (100),4.74,PR
+2017,Universities,IR17-I-2-1-448,Mizoram University,TLR (100),52.31,TLR
+2017,Universities,IR17-I-2-1-448,Mizoram University,RPC (100),5.27,RPC
+2017,Universities,IR17-I-2-1-448,Mizoram University,GO (100),70.52,GO
+2017,Universities,IR17-I-2-1-448,Mizoram University,OI (100),69.93,OI
+2017,Universities,IR17-I-2-1-448,Mizoram University,PERCEPTION (100),0.03,PR
+2017,Universities,IR17-I-2-1-373,Kurukshetra University,TLR (100),43.43,TLR
+2017,Universities,IR17-I-2-1-373,Kurukshetra University,RPC (100),13.44,RPC
+2017,Universities,IR17-I-2-1-373,Kurukshetra University,GO (100),79.64,GO
+2017,Universities,IR17-I-2-1-373,Kurukshetra University,OI (100),50.37,OI
+2017,Universities,IR17-I-2-1-373,Kurukshetra University,PERCEPTION (100),2.33,PR
+2017,Universities,IR17-I-2-10933,Shiv Nadar University,TLR (100),59.15,TLR
+2017,Universities,IR17-I-2-10933,Shiv Nadar University,RPC (100),9.43,RPC
+2017,Universities,IR17-I-2-10933,Shiv Nadar University,GO (100),47.7,GO
+2017,Universities,IR17-I-2-10933,Shiv Nadar University,OI (100),73.23,OI
+2017,Universities,IR17-I-2-10933,Shiv Nadar University,PERCEPTION (100),5.24,PR
+2017,Universities,IR17-I-2-21078,Symbiosis International University,TLR (100),44.8,TLR
+2017,Universities,IR17-I-2-21078,Symbiosis International University,RPC (100),8.92,RPC
+2017,Universities,IR17-I-2-21078,Symbiosis International University,GO (100),60.44,GO
+2017,Universities,IR17-I-2-21078,Symbiosis International University,OI (100),80.33,OI
+2017,Universities,IR17-I-2-21078,Symbiosis International University,PERCEPTION (100),14.31,PR
+2017,Universities,IR17-I-2-1-N002,KLE Academy of Higher Education and Research,TLR (100),64.13,TLR
+2017,Universities,IR17-I-2-1-N002,KLE Academy of Higher Education and Research,RPC (100),4.9,RPC
+2017,Universities,IR17-I-2-1-N002,KLE Academy of Higher Education and Research,GO (100),49.61,GO
+2017,Universities,IR17-I-2-1-N002,KLE Academy of Higher Education and Research,OI (100),65.54,OI
+2017,Universities,IR17-I-2-1-N002,KLE Academy of Higher Education and Research,PERCEPTION (100),0.69,PR
+2017,Universities,IR17-I-2-1-2809340824,University of Jammu,TLR (100),44.96,TLR
+2017,Universities,IR17-I-2-1-2809340824,University of Jammu,RPC (100),17.36,RPC
+2017,Universities,IR17-I-2-1-2809340824,University of Jammu,GO (100),71.1,GO
+2017,Universities,IR17-I-2-1-2809340824,University of Jammu,OI (100),42.5,OI
+2017,Universities,IR17-I-2-1-2809340824,University of Jammu,PERCEPTION (100),0.59,PR
+2017,Universities,IR17-I-2-18200,Goa University-Goa,TLR (100),43.69,TLR
+2017,Universities,IR17-I-2-18200,Goa University-Goa,RPC (100),11.65,RPC
+2017,Universities,IR17-I-2-18200,Goa University-Goa,GO (100),68.15,GO
+2017,Universities,IR17-I-2-18200,Goa University-Goa,OI (100),64.16,OI
+2017,Universities,IR17-I-2-18200,Goa University-Goa,PERCEPTION (100),5.09,PR
+2017,Universities,IR17-I-2-1-11112,Vel Tech Rangarajan Dr.Sagunthala R&D Institute of Science and Technology,TLR (100),45.32,TLR
+2017,Universities,IR17-I-2-1-11112,Vel Tech Rangarajan Dr.Sagunthala R&D Institute of Science and Technology,RPC (100),20.13,RPC
+2017,Universities,IR17-I-2-1-11112,Vel Tech Rangarajan Dr.Sagunthala R&D Institute of Science and Technology,GO (100),43.86,GO
+2017,Universities,IR17-I-2-1-11112,Vel Tech Rangarajan Dr.Sagunthala R&D Institute of Science and Technology,OI (100),72.48,OI
+2017,Universities,IR17-I-2-1-11112,Vel Tech Rangarajan Dr.Sagunthala R&D Institute of Science and Technology,PERCEPTION (100),14.69,PR
+2017,Universities,IR17-I-2-18305,Kalyani University,TLR (100),34.93,TLR
+2017,Universities,IR17-I-2-18305,Kalyani University,RPC (100),20.54,RPC
+2017,Universities,IR17-I-2-18305,Kalyani University,GO (100),79.69,GO
+2017,Universities,IR17-I-2-18305,Kalyani University,OI (100),42.61,OI
+2017,Universities,IR17-I-2-18305,Kalyani University,PERCEPTION (100),0.02,PR
+2017,Universities,IR17-I-2-18356,Mahatma Gandhi Unversity,TLR (100),39.81,TLR
+2017,Universities,IR17-I-2-18356,Mahatma Gandhi Unversity,RPC (100),15.3,RPC
+2017,Universities,IR17-I-2-18356,Mahatma Gandhi Unversity,GO (100),73.72,GO
+2017,Universities,IR17-I-2-18356,Mahatma Gandhi Unversity,OI (100),52.78,OI
+2017,Universities,IR17-I-2-18356,Mahatma Gandhi Unversity,PERCEPTION (100),2.43,PR
+2017,Universities,IR17-I-2-18446,Rajasthan University of Veterinary & Animal Sciences,TLR (100),58.97,TLR
+2017,Universities,IR17-I-2-18446,Rajasthan University of Veterinary & Animal Sciences,RPC (100),1.52,RPC
+2017,Universities,IR17-I-2-18446,Rajasthan University of Veterinary & Animal Sciences,GO (100),61.19,GO
+2017,Universities,IR17-I-2-18446,Rajasthan University of Veterinary & Animal Sciences,OI (100),63.32,OI
+2017,Universities,IR17-I-2-18446,Rajasthan University of Veterinary & Animal Sciences,PERCEPTION (100),0.6,PR
+2017,Universities,IR17-I-2-1-663,Sri Sathya Sai Institute of Higher Learning,TLR (100),53.99,TLR
+2017,Universities,IR17-I-2-1-663,Sri Sathya Sai Institute of Higher Learning,RPC (100),3.64,RPC
+2017,Universities,IR17-I-2-1-663,Sri Sathya Sai Institute of Higher Learning,GO (100),61.44,GO
+2017,Universities,IR17-I-2-1-663,Sri Sathya Sai Institute of Higher Learning,OI (100),70.84,OI
+2017,Universities,IR17-I-2-1-663,Sri Sathya Sai Institute of Higher Learning,PERCEPTION (100),0.94,PR
+2017,Universities,IR17-I-2-1-445,Meenakshi Academy of Higher Education and Research,TLR (100),56.87,TLR
+2017,Universities,IR17-I-2-1-445,Meenakshi Academy of Higher Education and Research,RPC (100),2.75,RPC
+2017,Universities,IR17-I-2-1-445,Meenakshi Academy of Higher Education and Research,GO (100),59.66,GO
+2017,Universities,IR17-I-2-1-445,Meenakshi Academy of Higher Education and Research,OI (100),66.49,OI
+2017,Universities,IR17-I-2-1-445,Meenakshi Academy of Higher Education and Research,PERCEPTION (100),0.09,PR
+2017,Universities,IR17-I-2-18312,Karunya Institute of Technology and Sciences-Coimbatore,TLR (100),38.08,TLR
+2017,Universities,IR17-I-2-18312,Karunya Institute of Technology and Sciences-Coimbatore,RPC (100),14.77,RPC
+2017,Universities,IR17-I-2-18312,Karunya Institute of Technology and Sciences-Coimbatore,GO (100),60.31,GO
+2017,Universities,IR17-I-2-18312,Karunya Institute of Technology and Sciences-Coimbatore,OI (100),77.36,OI
+2017,Universities,IR17-I-2-18312,Karunya Institute of Technology and Sciences-Coimbatore,PERCEPTION (100),7.82,PR
+2017,Universities,IR17-I-2-1-2812766280,Dayalbagh Educational Institute,TLR (100),51.44,TLR
+2017,Universities,IR17-I-2-1-2812766280,Dayalbagh Educational Institute,RPC (100),6.21,RPC
+2017,Universities,IR17-I-2-1-2812766280,Dayalbagh Educational Institute,GO (100),46.9,GO
+2017,Universities,IR17-I-2-1-2812766280,Dayalbagh Educational Institute,OI (100),81.21,OI
+2017,Universities,IR17-I-2-1-2812766280,Dayalbagh Educational Institute,PERCEPTION (100),15.65,PR
+2017,Universities,IR17-I-2-1-351,University of Kashmir,TLR (100),47.85,TLR
+2017,Universities,IR17-I-2-1-351,University of Kashmir,RPC (100),16.74,RPC
+2017,Universities,IR17-I-2-1-351,University of Kashmir,GO (100),66.95,GO
+2017,Universities,IR17-I-2-1-351,University of Kashmir,OI (100),35.44,OI
+2017,Universities,IR17-I-2-1-351,University of Kashmir,PERCEPTION (100),0.1,PR
+2017,Universities,IR17-I-2-1-159,Dibrugarh University,TLR (100),43.38,TLR
+2017,Universities,IR17-I-2-1-159,Dibrugarh University,RPC (100),8.35,RPC
+2017,Universities,IR17-I-2-1-159,Dibrugarh University,GO (100),69.95,GO
+2017,Universities,IR17-I-2-1-159,Dibrugarh University,OI (100),66.98,OI
+2017,Universities,IR17-I-2-1-159,Dibrugarh University,PERCEPTION (100),0.68,PR
+2017,Universities,IR17-I-2-18406,Nirma University,TLR (100),41.98,TLR
+2017,Universities,IR17-I-2-18406,Nirma University,RPC (100),9.96,RPC
+2017,Universities,IR17-I-2-18406,Nirma University,GO (100),64.47,GO
+2017,Universities,IR17-I-2-18406,Nirma University,OI (100),63.01,OI
+2017,Universities,IR17-I-2-18406,Nirma University,PERCEPTION (100),14.37,PR
+2017,Universities,IR17-I-2-18449,Rajiv Gandhi University,TLR (100),54.28,TLR
+2017,Universities,IR17-I-2-18449,Rajiv Gandhi University,RPC (100),3.43,RPC
+2017,Universities,IR17-I-2-18449,Rajiv Gandhi University,GO (100),56.43,GO
+2017,Universities,IR17-I-2-18449,Rajiv Gandhi University,OI (100),74.78,OI
+2017,Universities,IR17-I-2-18449,Rajiv Gandhi University,PERCEPTION (100),0.57,PR
+2017,Universities,IR17-I-2-18342,Madurai Kamraj University,TLR (100),43.14,TLR
+2017,Universities,IR17-I-2-18342,Madurai Kamraj University,RPC (100),25.87,RPC
+2017,Universities,IR17-I-2-18342,Madurai Kamraj University,GO (100),47.93,GO
+2017,Universities,IR17-I-2-18342,Madurai Kamraj University,OI (100),54.17,OI
+2017,Universities,IR17-I-2-18342,Madurai Kamraj University,PERCEPTION (100),3.33,PR
+2017,Universities,IR17-I-2-1-670,Sri Venkateswara Veterinary University,TLR (100),60.66,TLR
+2017,Universities,IR17-I-2-1-670,Sri Venkateswara Veterinary University,RPC (100),1.04,RPC
+2017,Universities,IR17-I-2-1-670,Sri Venkateswara Veterinary University,GO (100),61.23,GO
+2017,Universities,IR17-I-2-1-670,Sri Venkateswara Veterinary University,OI (100),51.62,OI
+2017,Universities,IR17-I-2-1-670,Sri Venkateswara Veterinary University,PERCEPTION (100),0.05,PR
+2017,Universities,IR17-I-2-1-570,Rajasthan University,TLR (100),25.62,TLR
+2017,Universities,IR17-I-2-1-570,Rajasthan University,RPC (100),16.98,RPC
+2017,Universities,IR17-I-2-1-570,Rajasthan University,GO (100),89.05,GO
+2017,Universities,IR17-I-2-1-570,Rajasthan University,OI (100),51.99,OI
+2017,Universities,IR17-I-2-1-570,Rajasthan University,PERCEPTION (100),0.64,PR
+2017,Universities,IR17-I-2-18110,Guru Nanak Dev University,TLR (100),28.85,TLR
+2017,Universities,IR17-I-2-18110,Guru Nanak Dev University,RPC (100),25.31,RPC
+2017,Universities,IR17-I-2-18110,Guru Nanak Dev University,GO (100),72.44,GO
+2017,Universities,IR17-I-2-18110,Guru Nanak Dev University,OI (100),46.25,OI
+2017,Universities,IR17-I-2-18110,Guru Nanak Dev University,PERCEPTION (100),4.65,PR
+2017,Universities,IR17-I-2-1-321,Jaypee Institute of Information Technology,TLR (100),35.72,TLR
+2017,Universities,IR17-I-2-1-321,Jaypee Institute of Information Technology,RPC (100),13.91,RPC
+2017,Universities,IR17-I-2-1-321,Jaypee Institute of Information Technology,GO (100),62.84,GO
+2017,Universities,IR17-I-2-1-321,Jaypee Institute of Information Technology,OI (100),78.44,OI
+2017,Universities,IR17-I-2-1-321,Jaypee Institute of Information Technology,PERCEPTION (100),3.91,PR
+2017,Universities,IR17-I-2-12969,Guru Gobind Singh Indraprastha University,TLR (100),42.18,TLR
+2017,Universities,IR17-I-2-12969,Guru Gobind Singh Indraprastha University,RPC (100),14.29,RPC
+2017,Universities,IR17-I-2-12969,Guru Gobind Singh Indraprastha University,GO (100),58.33,GO
+2017,Universities,IR17-I-2-12969,Guru Gobind Singh Indraprastha University,OI (100),66.52,OI
+2017,Universities,IR17-I-2-12969,Guru Gobind Singh Indraprastha University,PERCEPTION (100),3.37,PR
+2017,Universities,IR17-I-2-1-653,Sri Balaji Vidyapeeth Mahatma Gandhi Medical College Campus,TLR (100),60.12,TLR
+2017,Universities,IR17-I-2-1-653,Sri Balaji Vidyapeeth Mahatma Gandhi Medical College Campus,RPC (100),4.67,RPC
+2017,Universities,IR17-I-2-1-653,Sri Balaji Vidyapeeth Mahatma Gandhi Medical College Campus,GO (100),35.08,GO
+2017,Universities,IR17-I-2-1-653,Sri Balaji Vidyapeeth Mahatma Gandhi Medical College Campus,OI (100),86.23,OI
+2017,Universities,IR17-I-2-1-653,Sri Balaji Vidyapeeth Mahatma Gandhi Medical College Campus,PERCEPTION (100),4.34,PR
+2017,Universities,IR17-I-2-18407,NITTE University,TLR (100),56.23,TLR
+2017,Universities,IR17-I-2-18407,NITTE University,RPC (100),4.89,RPC
+2017,Universities,IR17-I-2-18407,NITTE University,GO (100),46.39,GO
+2017,Universities,IR17-I-2-18407,NITTE University,OI (100),74.89,OI
+2017,Universities,IR17-I-2-18407,NITTE University,PERCEPTION (100),3.95,PR
+2017,Universities,IR17-I-2-18422,Periyar University,TLR (100),38.13,TLR
+2017,Universities,IR17-I-2-18422,Periyar University,RPC (100),17.6,RPC
+2017,Universities,IR17-I-2-18422,Periyar University,GO (100),59.46,GO
+2017,Universities,IR17-I-2-18422,Periyar University,OI (100),62.4,OI
+2017,Universities,IR17-I-2-18422,Periyar University,PERCEPTION (100),5.85,PR
+2017,Universities,IR17-I-2-18161,Cochin University of Science and Technology,TLR (100),40.34,TLR
+2017,Universities,IR17-I-2-18161,Cochin University of Science and Technology,RPC (100),16.39,RPC
+2017,Universities,IR17-I-2-18161,Cochin University of Science and Technology,GO (100),62.76,GO
+2017,Universities,IR17-I-2-18161,Cochin University of Science and Technology,OI (100),56.64,OI
+2017,Universities,IR17-I-2-18161,Cochin University of Science and Technology,PERCEPTION (100),1.89,PR
+2017,Universities,IR17-I-2-15640,Vidyasagar University,TLR (100),35.35,TLR
+2017,Universities,IR17-I-2-15640,Vidyasagar University,RPC (100),14.01,RPC
+2017,Universities,IR17-I-2-15640,Vidyasagar University,GO (100),73.13,GO
+2017,Universities,IR17-I-2-15640,Vidyasagar University,OI (100),57.86,OI
+2017,Universities,IR17-I-2-15640,Vidyasagar University,PERCEPTION (100),0.03,PR
+2017,Universities,IR17-I-2-30492,Bharathidasan University,TLR (100),39.08,TLR
+2017,Universities,IR17-I-2-30492,Bharathidasan University,RPC (100),27.22,RPC
+2017,Universities,IR17-I-2-30492,Bharathidasan University,GO (100),46.39,GO
+2017,Universities,IR17-I-2-30492,Bharathidasan University,OI (100),51.66,OI
+2017,Universities,IR17-I-2-30492,Bharathidasan University,PERCEPTION (100),8.03,PR
+2017,Universities,IR17-I-2-1-2812182676,Gandhi Institute of Technology and Management (GITAM),TLR (100),44.03,TLR
+2017,Universities,IR17-I-2-1-2812182676,Gandhi Institute of Technology and Management (GITAM),RPC (100),8.2,RPC
+2017,Universities,IR17-I-2-1-2812182676,Gandhi Institute of Technology and Management (GITAM),GO (100),59.86,GO
+2017,Universities,IR17-I-2-1-2812182676,Gandhi Institute of Technology and Management (GITAM),OI (100),59.22,OI
+2017,Universities,IR17-I-2-1-2812182676,Gandhi Institute of Technology and Management (GITAM),PERCEPTION (100),15.35,PR
+2017,Universities,IR17-I-2-18311,Karpagam Academy of Higher Education,TLR (100),50.69,TLR
+2017,Universities,IR17-I-2-18311,Karpagam Academy of Higher Education,RPC (100),8.94,RPC
+2017,Universities,IR17-I-2-18311,Karpagam Academy of Higher Education,GO (100),51.21,GO
+2017,Universities,IR17-I-2-18311,Karpagam Academy of Higher Education,OI (100),63.92,OI
+2017,Universities,IR17-I-2-18311,Karpagam Academy of Higher Education,PERCEPTION (100),3.39,PR
+2017,Universities,IR17-I-2-12265,The Gandhigram Rural Institute - Deemed University,TLR (100),39.88,TLR
+2017,Universities,IR17-I-2-12265,The Gandhigram Rural Institute - Deemed University,RPC (100),15.06,RPC
+2017,Universities,IR17-I-2-12265,The Gandhigram Rural Institute - Deemed University,GO (100),58.14,GO
+2017,Universities,IR17-I-2-12265,The Gandhigram Rural Institute - Deemed University,OI (100),57.62,OI
+2017,Universities,IR17-I-2-12265,The Gandhigram Rural Institute - Deemed University,PERCEPTION (100),6.91,PR
+2017,Universities,IR17-I-2-277952,Assam University-Silchar,TLR (100),45.75,TLR
+2017,Universities,IR17-I-2-277952,Assam University-Silchar,RPC (100),12.09,RPC
+2017,Universities,IR17-I-2-277952,Assam University-Silchar,GO (100),56.02,GO
+2017,Universities,IR17-I-2-277952,Assam University-Silchar,OI (100),52.53,OI
+2017,Universities,IR17-I-2-277952,Assam University-Silchar,PERCEPTION (100),5.65,PR
+2017,Universities,IR17-I-2-18296,Jaypee University of Information Technology-Solan,TLR (100),33.76,TLR
+2017,Universities,IR17-I-2-18296,Jaypee University of Information Technology-Solan,RPC (100),13.92,RPC
+2017,Universities,IR17-I-2-18296,Jaypee University of Information Technology-Solan,GO (100),60.56,GO
+2017,Universities,IR17-I-2-18296,Jaypee University of Information Technology-Solan,OI (100),74.6,OI
+2017,Universities,IR17-I-2-18296,Jaypee University of Information Technology-Solan,PERCEPTION (100),2.61,PR
+2017,Universities,IR17-I-2-1-541,PES University,TLR (100),42.31,TLR
+2017,Universities,IR17-I-2-1-541,PES University,RPC (100),5.84,RPC
+2017,Universities,IR17-I-2-1-541,PES University,GO (100),60.61,GO
+2017,Universities,IR17-I-2-1-541,PES University,OI (100),60.1,OI
+2017,Universities,IR17-I-2-1-541,PES University,PERCEPTION (100),13.75,PR
+2017,Universities,IR17-I-2-18551,University of Allahabad,TLR (100),22.61,TLR
+2017,Universities,IR17-I-2-18551,University of Allahabad,RPC (100),17.9,RPC
+2017,Universities,IR17-I-2-18551,University of Allahabad,GO (100),77.84,GO
+2017,Universities,IR17-I-2-18551,University of Allahabad,OI (100),58.61,OI
+2017,Universities,IR17-I-2-18551,University of Allahabad,PERCEPTION (100),2.84,PR
+2017,Universities,IR17-I-2-1-N001,Sri Krishnadevaraya University,TLR (100),34.29,TLR
+2017,Universities,IR17-I-2-1-N001,Sri Krishnadevaraya University,RPC (100),7.72,RPC
+2017,Universities,IR17-I-2-1-N001,Sri Krishnadevaraya University,GO (100),77.37,GO
+2017,Universities,IR17-I-2-1-N001,Sri Krishnadevaraya University,OI (100),56.81,OI
+2017,Universities,IR17-I-2-1-N001,Sri Krishnadevaraya University,PERCEPTION (100),0.04,PR
+2017,Universities,IR17-I-2-18168,Alagappa University,TLR (100),38.56,TLR
+2017,Universities,IR17-I-2-18168,Alagappa University,RPC (100),18.92,RPC
+2017,Universities,IR17-I-2-18168,Alagappa University,GO (100),49.32,GO
+2017,Universities,IR17-I-2-18168,Alagappa University,OI (100),61.29,OI
+2017,Universities,IR17-I-2-18168,Alagappa University,PERCEPTION (100),4.17,PR
+2017,Universities,IR17-I-2-18385,Narsee Monjee Institute of Management Studies -Mumbai,TLR (100),40.46,TLR
+2017,Universities,IR17-I-2-18385,Narsee Monjee Institute of Management Studies -Mumbai,RPC (100),8.45,RPC
+2017,Universities,IR17-I-2-18385,Narsee Monjee Institute of Management Studies -Mumbai,GO (100),63.88,GO
+2017,Universities,IR17-I-2-18385,Narsee Monjee Institute of Management Studies -Mumbai,OI (100),55.34,OI
+2017,Universities,IR17-I-2-18385,Narsee Monjee Institute of Management Studies -Mumbai,PERCEPTION (100),6.1,PR
+2017,Universities,IR17-I-1-18289,Jawaharlal Nehru Technological University,TLR (100),36.81,TLR
+2017,Universities,IR17-I-1-18289,Jawaharlal Nehru Technological University,RPC (100),14.03,RPC
+2017,Universities,IR17-I-1-18289,Jawaharlal Nehru Technological University,GO (100),60.18,GO
+2017,Universities,IR17-I-1-18289,Jawaharlal Nehru Technological University,OI (100),57.19,OI
+2017,Universities,IR17-I-1-18289,Jawaharlal Nehru Technological University,PERCEPTION (100),4.32,PR
+2017,Universities,IR17-I-2-1-57,B.S. Abdur Rahman Institute of Science and Technology,TLR (100),42.56,TLR
+2017,Universities,IR17-I-2-1-57,B.S. Abdur Rahman Institute of Science and Technology,RPC (100),6.33,RPC
+2017,Universities,IR17-I-2-1-57,B.S. Abdur Rahman Institute of Science and Technology,GO (100),56.98,GO
+2017,Universities,IR17-I-2-1-57,B.S. Abdur Rahman Institute of Science and Technology,OI (100),63.08,OI
+2017,Universities,IR17-I-2-1-57,B.S. Abdur Rahman Institute of Science and Technology,PERCEPTION (100),6.07,PR

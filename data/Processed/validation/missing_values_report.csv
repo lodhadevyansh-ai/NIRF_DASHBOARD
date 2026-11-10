@@ -1,0 +1,24 @@
+Column Name,Total Records,Missing Records,Missing Percentage,Value Type,Classification,Description
+year,6572,0,0.00%,int64,ZERO_MISSING,Identification / ranking constraint satisfied (100% complete)
+category,6572,0,0.00%,str,ZERO_MISSING,Identification / ranking constraint satisfied (100% complete)
+institute_id,6572,0,0.00%,str,ZERO_MISSING,Identification / ranking constraint satisfied (100% complete)
+institution_name,6572,0,0.00%,str,ZERO_MISSING,Identification / ranking constraint satisfied (100% complete)
+city,6572,0,0.00%,str,ZERO_MISSING,Identification / ranking constraint satisfied (100% complete)
+state,6572,0,0.00%,str,ZERO_MISSING,Identification / ranking constraint satisfied (100% complete)
+rank,6572,0,0.00%,int64,ZERO_MISSING,Identification / ranking constraint satisfied (100% complete)
+numeric_rank,6572,0,0.00%,int64,ZERO_MISSING,Identification / ranking constraint satisfied (100% complete)
+overall_score,6572,53,0.81%,float64,EXPECTED_SOURCE_UNAVAILABLE,"Innovation (30), Open Univ (6), Skill Univ (6), SDG (10), and Dental 2025 rank 18 (1) do not publish overall scores on NIRF"
+tlr_score,6572,303,4.61%,float64,EXPECTED_SOURCE_UNAVAILABLE,"Research Institutions (250) uses QNR/QLR/SFC; Innovation (30), Open Univ (6), Skill Univ (6), SDG (10), Dental 2025 rank 18 (1) have no parameter tables"
+rpc_score,6572,303,4.61%,float64,EXPECTED_SOURCE_UNAVAILABLE,"Research Institutions (250) uses QNR/QLR/SFC; Innovation (30), Open Univ (6), Skill Univ (6), SDG (10), Dental 2025 rank 18 (1) have no parameter tables"
+go_score,6572,303,4.61%,float64,EXPECTED_SOURCE_UNAVAILABLE,"Research Institutions (250) uses QNR/QLR/SFC; Innovation (30), Open Univ (6), Skill Univ (6), SDG (10), Dental 2025 rank 18 (1) have no parameter tables"
+oi_score,6572,53,0.81%,float64,EXPECTED_SOURCE_UNAVAILABLE,"Categories without parameter tables: Innovation (30), Open Univ (6), Skill Univ (6), SDG (10), and Dental 2025 rank 18 (1)"
+pr_score,6572,53,0.81%,float64,EXPECTED_SOURCE_UNAVAILABLE,"Categories without parameter tables: Innovation (30), Open Univ (6), Skill Univ (6), SDG (10), and Dental 2025 rank 18 (1)"
+qnr_score,6572,6322,96.20%,float64,EXPECTED_SPECIALIZED_PARAMETER,Exclusively published for Research Institutions category (250 valid records); absent by design in other 16 categories (6322 expected nulls)
+qlr_score,6572,6322,96.20%,float64,EXPECTED_SPECIALIZED_PARAMETER,Exclusively published for Research Institutions category (250 valid records); absent by design in other 16 categories (6322 expected nulls)
+sfc_score,6572,6322,96.20%,float64,EXPECTED_SPECIALIZED_PARAMETER,Exclusively published for Research Institutions category (250 valid records); absent by design in other 16 categories (6322 expected nulls)
+original_parameter_names,6572,53,0.81%,str,EXPECTED_SOURCE_UNAVAILABLE,"Categories without parameter tables: Innovation (30), Open Univ (6), Skill Univ (6), SDG (10), and Dental 2025 rank 18 (1)"
+source_url,6572,0,0.00%,str,ZERO_MISSING,Identification / ranking constraint satisfied (100% complete)
+source_category,6572,0,0.00%,str,ZERO_MISSING,Identification / ranking constraint satisfied (100% complete)
+source_year,6572,0,0.00%,int64,ZERO_MISSING,Identification / ranking constraint satisfied (100% complete)
+source_file,6572,0,0.00%,str,ZERO_MISSING,Identification / ranking constraint satisfied (100% complete)
+data_collection_date,6572,0,0.00%,str,ZERO_MISSING,Identification / ranking constraint satisfied (100% complete)

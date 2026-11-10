@@ -1,0 +1,376 @@
+year,category,institute_id,institute_name,parameter_name,parameter_score,canonical_parameter
+2021,Pharmacy,IR-P-U-0107,Jamia Hamdard,TLR (100),75.03,TLR
+2021,Pharmacy,IR-P-U-0107,Jamia Hamdard,RPC (100),82.33,RPC
+2021,Pharmacy,IR-P-U-0107,Jamia Hamdard,GO (100),82.36,GO
+2021,Pharmacy,IR-P-U-0107,Jamia Hamdard,OI (100),57.63,OI
+2021,Pharmacy,IR-P-U-0107,Jamia Hamdard,PERCEPTION (100),90.75,PR
+2021,Pharmacy,IR-P-U-0078,Panjab University,TLR (100),76.44,TLR
+2021,Pharmacy,IR-P-U-0078,Panjab University,RPC (100),80.63,RPC
+2021,Pharmacy,IR-P-U-0078,Panjab University,GO (100),77.42,GO
+2021,Pharmacy,IR-P-U-0078,Panjab University,OI (100),73.07,OI
+2021,Pharmacy,IR-P-U-0078,Panjab University,PERCEPTION (100),80.78,PR
+2021,Pharmacy,IR-P-U-0391,Birla Institute of Technology & Science -Pilani,TLR (100),90.02,TLR
+2021,Pharmacy,IR-P-U-0391,Birla Institute of Technology & Science -Pilani,RPC (100),61.69,RPC
+2021,Pharmacy,IR-P-U-0391,Birla Institute of Technology & Science -Pilani,GO (100),81.75,GO
+2021,Pharmacy,IR-P-U-0391,Birla Institute of Technology & Science -Pilani,OI (100),70.71,OI
+2021,Pharmacy,IR-P-U-0391,Birla Institute of Technology & Science -Pilani,PERCEPTION (100),66.33,PR
+2021,Pharmacy,IR-P-U-0380,National Institute of Pharmaceutical Education and Research Mohali,TLR (100),77.38,TLR
+2021,Pharmacy,IR-P-U-0380,National Institute of Pharmaceutical Education and Research Mohali,RPC (100),61.47,RPC
+2021,Pharmacy,IR-P-U-0380,National Institute of Pharmaceutical Education and Research Mohali,GO (100),81.56,GO
+2021,Pharmacy,IR-P-U-0380,National Institute of Pharmaceutical Education and Research Mohali,OI (100),65.54,OI
+2021,Pharmacy,IR-P-U-0380,National Institute of Pharmaceutical Education and Research Mohali,PERCEPTION (100),100.0,PR
+2021,Pharmacy,IR-P-U-0308,Institute of Chemical Technology,TLR (100),80.79,TLR
+2021,Pharmacy,IR-P-U-0308,Institute of Chemical Technology,RPC (100),66.1,RPC
+2021,Pharmacy,IR-P-U-0308,Institute of Chemical Technology,GO (100),84.0,GO
+2021,Pharmacy,IR-P-U-0308,Institute of Chemical Technology,OI (100),52.33,OI
+2021,Pharmacy,IR-P-U-0308,Institute of Chemical Technology,PERCEPTION (100),80.78,PR
+2021,Pharmacy,IR-P-I-1077,National Institute of Pharmaceutical Education and Research Hyderabad,TLR (100),79.55,TLR
+2021,Pharmacy,IR-P-I-1077,National Institute of Pharmaceutical Education and Research Hyderabad,RPC (100),58.82,RPC
+2021,Pharmacy,IR-P-I-1077,National Institute of Pharmaceutical Education and Research Hyderabad,GO (100),89.96,GO
+2021,Pharmacy,IR-P-I-1077,National Institute of Pharmaceutical Education and Research Hyderabad,OI (100),71.06,OI
+2021,Pharmacy,IR-P-I-1077,National Institute of Pharmaceutical Education and Research Hyderabad,PERCEPTION (100),74.72,PR
+2021,Pharmacy,IR-P-C-35006,JSS College of Pharmacy,TLR (100),83.34,TLR
+2021,Pharmacy,IR-P-C-35006,JSS College of Pharmacy,RPC (100),33.64,RPC
+2021,Pharmacy,IR-P-C-35006,JSS College of Pharmacy,GO (100),90.34,GO
+2021,Pharmacy,IR-P-C-35006,JSS College of Pharmacy,OI (100),73.91,OI
+2021,Pharmacy,IR-P-C-35006,JSS College of Pharmacy,PERCEPTION (100),84.38,PR
+2021,Pharmacy,IR-P-C-7249,"Manipal College of Pharmaceutical Sciences, Manipal",TLR (100),75.73,TLR
+2021,Pharmacy,IR-P-C-7249,"Manipal College of Pharmaceutical Sciences, Manipal",RPC (100),50.2,RPC
+2021,Pharmacy,IR-P-C-7249,"Manipal College of Pharmaceutical Sciences, Manipal",GO (100),74.53,GO
+2021,Pharmacy,IR-P-C-7249,"Manipal College of Pharmaceutical Sciences, Manipal",OI (100),67.9,OI
+2021,Pharmacy,IR-P-C-7249,"Manipal College of Pharmaceutical Sciences, Manipal",PERCEPTION (100),81.71,PR
+2021,Pharmacy,IR-P-C-35007,JSS College of Pharmacy,TLR (100),78.93,TLR
+2021,Pharmacy,IR-P-C-35007,JSS College of Pharmacy,RPC (100),30.3,RPC
+2021,Pharmacy,IR-P-C-35007,JSS College of Pharmacy,GO (100),89.7,GO
+2021,Pharmacy,IR-P-C-35007,JSS College of Pharmacy,OI (100),66.85,OI
+2021,Pharmacy,IR-P-C-35007,JSS College of Pharmacy,PERCEPTION (100),77.86,PR
+2021,Pharmacy,IR-P-N-14,National Institute of Pharmaceutical Education and Research Ahmedabad,TLR (100),73.18,TLR
+2021,Pharmacy,IR-P-N-14,National Institute of Pharmaceutical Education and Research Ahmedabad,RPC (100),51.41,RPC
+2021,Pharmacy,IR-P-N-14,National Institute of Pharmaceutical Education and Research Ahmedabad,GO (100),73.85,GO
+2021,Pharmacy,IR-P-N-14,National Institute of Pharmaceutical Education and Research Ahmedabad,OI (100),65.41,OI
+2021,Pharmacy,IR-P-N-14,National Institute of Pharmaceutical Education and Research Ahmedabad,PERCEPTION (100),46.25,PR
+2021,Pharmacy,IR-P-U-0497,Amity University,TLR (100),73.61,TLR
+2021,Pharmacy,IR-P-U-0497,Amity University,RPC (100),61.77,RPC
+2021,Pharmacy,IR-P-U-0497,Amity University,GO (100),57.72,GO
+2021,Pharmacy,IR-P-U-0497,Amity University,OI (100),59.54,OI
+2021,Pharmacy,IR-P-U-0497,Amity University,PERCEPTION (100),33.82,PR
+2021,Pharmacy,IR-P-U-0436,Amrita Vishwa Vidyapeetham,TLR (100),68.19,TLR
+2021,Pharmacy,IR-P-U-0436,Amrita Vishwa Vidyapeetham,RPC (100),57.78,RPC
+2021,Pharmacy,IR-P-U-0436,Amrita Vishwa Vidyapeetham,GO (100),68.21,GO
+2021,Pharmacy,IR-P-U-0436,Amrita Vishwa Vidyapeetham,OI (100),77.63,OI
+2021,Pharmacy,IR-P-U-0436,Amrita Vishwa Vidyapeetham,PERCEPTION (100),20.25,PR
+2021,Pharmacy,IR-P-N-26,National Institute of Pharmaceutical Education and Research Raebareli,TLR (100),86.81,TLR
+2021,Pharmacy,IR-P-N-26,National Institute of Pharmaceutical Education and Research Raebareli,RPC (100),36.87,RPC
+2021,Pharmacy,IR-P-N-26,National Institute of Pharmaceutical Education and Research Raebareli,GO (100),63.82,GO
+2021,Pharmacy,IR-P-N-26,National Institute of Pharmaceutical Education and Research Raebareli,OI (100),63.0,OI
+2021,Pharmacy,IR-P-N-26,National Institute of Pharmaceutical Education and Research Raebareli,PERCEPTION (100),41.71,PR
+2021,Pharmacy,IR-P-N-10,SVKM`s Narsee Monjee Institute of Management Studies,TLR (100),80.16,TLR
+2021,Pharmacy,IR-P-N-10,SVKM`s Narsee Monjee Institute of Management Studies,RPC (100),43.19,RPC
+2021,Pharmacy,IR-P-N-10,SVKM`s Narsee Monjee Institute of Management Studies,GO (100),76.17,GO
+2021,Pharmacy,IR-P-N-10,SVKM`s Narsee Monjee Institute of Management Studies,OI (100),61.49,OI
+2021,Pharmacy,IR-P-N-10,SVKM`s Narsee Monjee Institute of Management Studies,PERCEPTION (100),16.03,PR
+2021,Pharmacy,IR-P-U-0473,S.R.M. Institute of Science and Technology,TLR (100),67.92,TLR
+2021,Pharmacy,IR-P-U-0473,S.R.M. Institute of Science and Technology,RPC (100),52.18,RPC
+2021,Pharmacy,IR-P-U-0473,S.R.M. Institute of Science and Technology,GO (100),69.42,GO
+2021,Pharmacy,IR-P-U-0473,S.R.M. Institute of Science and Technology,OI (100),50.86,OI
+2021,Pharmacy,IR-P-U-0473,S.R.M. Institute of Science and Technology,PERCEPTION (100),33.82,PR
+2021,Pharmacy,IR-P-U-0443,Annamalai University,TLR (100),72.47,TLR
+2021,Pharmacy,IR-P-U-0443,Annamalai University,RPC (100),48.32,RPC
+2021,Pharmacy,IR-P-U-0443,Annamalai University,GO (100),71.64,GO
+2021,Pharmacy,IR-P-U-0443,Annamalai University,OI (100),36.35,OI
+2021,Pharmacy,IR-P-U-0443,Annamalai University,PERCEPTION (100),36.62,PR
+2021,Pharmacy,IR-P-C-35430,"Poona College of Pharmacy, Pune",TLR (100),70.91,TLR
+2021,Pharmacy,IR-P-C-35430,"Poona College of Pharmacy, Pune",RPC (100),29.91,RPC
+2021,Pharmacy,IR-P-C-35430,"Poona College of Pharmacy, Pune",GO (100),73.26,GO
+2021,Pharmacy,IR-P-C-35430,"Poona College of Pharmacy, Pune",OI (100),54.99,OI
+2021,Pharmacy,IR-P-C-35430,"Poona College of Pharmacy, Pune",PERCEPTION (100),55.81,PR
+2021,Pharmacy,IR-P-U-0383,"Punjabi University, Patiala",TLR (100),61.26,TLR
+2021,Pharmacy,IR-P-U-0383,"Punjabi University, Patiala",RPC (100),46.44,RPC
+2021,Pharmacy,IR-P-U-0383,"Punjabi University, Patiala",GO (100),68.14,GO
+2021,Pharmacy,IR-P-U-0383,"Punjabi University, Patiala",OI (100),42.2,OI
+2021,Pharmacy,IR-P-U-0383,"Punjabi University, Patiala",PERCEPTION (100),55.81,PR
+2021,Pharmacy,IR-P-I-1073,National Institute of Pharmaceutical Education and Research Guwahati,TLR (100),67.16,TLR
+2021,Pharmacy,IR-P-I-1073,National Institute of Pharmaceutical Education and Research Guwahati,RPC (100),31.6,RPC
+2021,Pharmacy,IR-P-I-1073,National Institute of Pharmaceutical Education and Research Guwahati,GO (100),74.58,GO
+2021,Pharmacy,IR-P-I-1073,National Institute of Pharmaceutical Education and Research Guwahati,OI (100),57.7,OI
+2021,Pharmacy,IR-P-I-1073,National Institute of Pharmaceutical Education and Research Guwahati,PERCEPTION (100),54.07,PR
+2021,Pharmacy,IR-P-U-0146,Nirma University,TLR (100),64.13,TLR
+2021,Pharmacy,IR-P-U-0146,Nirma University,RPC (100),42.21,RPC
+2021,Pharmacy,IR-P-U-0146,Nirma University,GO (100),72.53,GO
+2021,Pharmacy,IR-P-U-0146,Nirma University,OI (100),52.68,OI
+2021,Pharmacy,IR-P-U-0146,Nirma University,PERCEPTION (100),33.82,PR
+2021,Pharmacy,IR-P-I-1486,Sri Ramachandra Institute of Higher Education and Research,TLR (100),67.44,TLR
+2021,Pharmacy,IR-P-I-1486,Sri Ramachandra Institute of Higher Education and Research,RPC (100),34.67,RPC
+2021,Pharmacy,IR-P-I-1486,Sri Ramachandra Institute of Higher Education and Research,GO (100),70.81,GO
+2021,Pharmacy,IR-P-I-1486,Sri Ramachandra Institute of Higher Education and Research,OI (100),52.0,OI
+2021,Pharmacy,IR-P-I-1486,Sri Ramachandra Institute of Higher Education and Research,PERCEPTION (100),48.34,PR
+2021,Pharmacy,IR-P-U-0389,Banasthali Vidyapith,TLR (100),72.21,TLR
+2021,Pharmacy,IR-P-U-0389,Banasthali Vidyapith,RPC (100),24.12,RPC
+2021,Pharmacy,IR-P-U-0389,Banasthali Vidyapith,GO (100),85.5,GO
+2021,Pharmacy,IR-P-U-0389,Banasthali Vidyapith,OI (100),76.05,OI
+2021,Pharmacy,IR-P-U-0389,Banasthali Vidyapith,PERCEPTION (100),6.06,PR
+2021,Pharmacy,IR-P-U-0379,Lovely Professional University,TLR (100),66.22,TLR
+2021,Pharmacy,IR-P-U-0379,Lovely Professional University,RPC (100),54.64,RPC
+2021,Pharmacy,IR-P-U-0379,Lovely Professional University,GO (100),51.34,GO
+2021,Pharmacy,IR-P-U-0379,Lovely Professional University,OI (100),56.46,OI
+2021,Pharmacy,IR-P-U-0379,Lovely Professional University,PERCEPTION (100),20.25,PR
+2021,Pharmacy,IR-P-U-0143,Maharaja Sayajirao University of Baroda,TLR (100),52.8,TLR
+2021,Pharmacy,IR-P-U-0143,Maharaja Sayajirao University of Baroda,RPC (100),44.53,RPC
+2021,Pharmacy,IR-P-U-0143,Maharaja Sayajirao University of Baroda,GO (100),74.79,GO
+2021,Pharmacy,IR-P-U-0143,Maharaja Sayajirao University of Baroda,OI (100),57.91,OI
+2021,Pharmacy,IR-P-U-0143,Maharaja Sayajirao University of Baroda,PERCEPTION (100),33.82,PR
+2021,Pharmacy,IR-P-C-33873,Bombay College of Pharmacy,TLR (100),74.55,TLR
+2021,Pharmacy,IR-P-C-33873,Bombay College of Pharmacy,RPC (100),20.72,RPC
+2021,Pharmacy,IR-P-C-33873,Bombay College of Pharmacy,GO (100),63.3,GO
+2021,Pharmacy,IR-P-C-33873,Bombay College of Pharmacy,OI (100),53.68,OI
+2021,Pharmacy,IR-P-C-33873,Bombay College of Pharmacy,PERCEPTION (100),66.33,PR
+2021,Pharmacy,IR-P-U-0202,Birla Institute of Technology,TLR (100),64.33,TLR
+2021,Pharmacy,IR-P-U-0202,Birla Institute of Technology,RPC (100),31.69,RPC
+2021,Pharmacy,IR-P-U-0202,Birla Institute of Technology,GO (100),60.37,GO
+2021,Pharmacy,IR-P-U-0202,Birla Institute of Technology,OI (100),60.46,OI
+2021,Pharmacy,IR-P-U-0202,Birla Institute of Technology,PERCEPTION (100),54.07,PR
+2021,Pharmacy,IR-P-U-0162,Guru Jambheshwar University of Science and Technology,TLR (100),71.14,TLR
+2021,Pharmacy,IR-P-U-0162,Guru Jambheshwar University of Science and Technology,RPC (100),31.4,RPC
+2021,Pharmacy,IR-P-U-0162,Guru Jambheshwar University of Science and Technology,GO (100),56.51,GO
+2021,Pharmacy,IR-P-U-0162,Guru Jambheshwar University of Science and Technology,OI (100),45.96,OI
+2021,Pharmacy,IR-P-U-0162,Guru Jambheshwar University of Science and Technology,PERCEPTION (100),46.25,PR
+2021,Pharmacy,IR-P-C-33877,SVKM's Dr. Bhanuben Nanavati College of Pharmacy,TLR (100),72.88,TLR
+2021,Pharmacy,IR-P-C-33877,SVKM's Dr. Bhanuben Nanavati College of Pharmacy,RPC (100),28.04,RPC
+2021,Pharmacy,IR-P-C-33877,SVKM's Dr. Bhanuben Nanavati College of Pharmacy,GO (100),70.64,GO
+2021,Pharmacy,IR-P-C-33877,SVKM's Dr. Bhanuben Nanavati College of Pharmacy,OI (100),52.04,OI
+2021,Pharmacy,IR-P-C-33877,SVKM's Dr. Bhanuben Nanavati College of Pharmacy,PERCEPTION (100),16.03,PR
+2021,Pharmacy,IR-P-C-10398,I. S. F. College of Pharmacy,TLR (100),60.99,TLR
+2021,Pharmacy,IR-P-C-10398,I. S. F. College of Pharmacy,RPC (100),31.41,RPC
+2021,Pharmacy,IR-P-C-10398,I. S. F. College of Pharmacy,GO (100),65.18,GO
+2021,Pharmacy,IR-P-C-10398,I. S. F. College of Pharmacy,OI (100),60.86,OI
+2021,Pharmacy,IR-P-C-10398,I. S. F. College of Pharmacy,PERCEPTION (100),39.24,PR
+2021,Pharmacy,IR-P-I-1450,AU College of Pharmaceutical Sciences,TLR (100),52.78,TLR
+2021,Pharmacy,IR-P-I-1450,AU College of Pharmaceutical Sciences,RPC (100),27.59,RPC
+2021,Pharmacy,IR-P-I-1450,AU College of Pharmaceutical Sciences,GO (100),83.0,GO
+2021,Pharmacy,IR-P-I-1450,AU College of Pharmaceutical Sciences,OI (100),42.26,OI
+2021,Pharmacy,IR-P-I-1450,AU College of Pharmaceutical Sciences,PERCEPTION (100),55.81,PR
+2021,Pharmacy,IR-P-I-1280,Maharshi Dayanand University,TLR (100),59.64,TLR
+2021,Pharmacy,IR-P-I-1280,Maharshi Dayanand University,RPC (100),38.87,RPC
+2021,Pharmacy,IR-P-I-1280,Maharshi Dayanand University,GO (100),56.72,GO
+2021,Pharmacy,IR-P-I-1280,Maharshi Dayanand University,OI (100),49.0,OI
+2021,Pharmacy,IR-P-I-1280,Maharshi Dayanand University,PERCEPTION (100),44.04,PR
+2021,Pharmacy,IR-P-U-0853,Delhi Pharmaceutical Sciences and Research University,TLR (100),55.89,TLR
+2021,Pharmacy,IR-P-U-0853,Delhi Pharmaceutical Sciences and Research University,RPC (100),18.16,RPC
+2021,Pharmacy,IR-P-U-0853,Delhi Pharmaceutical Sciences and Research University,GO (100),75.54,GO
+2021,Pharmacy,IR-P-U-0853,Delhi Pharmaceutical Sciences and Research University,OI (100),58.62,OI
+2021,Pharmacy,IR-P-U-0853,Delhi Pharmaceutical Sciences and Research University,PERCEPTION (100),68.91,PR
+2021,Pharmacy,IR-P-I-1072,National Institute of Pharmaceutical Education and Research Kolkata,TLR (100),80.14,TLR
+2021,Pharmacy,IR-P-I-1072,National Institute of Pharmaceutical Education and Research Kolkata,RPC (100),13.74,RPC
+2021,Pharmacy,IR-P-I-1072,National Institute of Pharmaceutical Education and Research Kolkata,GO (100),57.25,GO
+2021,Pharmacy,IR-P-I-1072,National Institute of Pharmaceutical Education and Research Kolkata,OI (100),63.71,OI
+2021,Pharmacy,IR-P-I-1072,National Institute of Pharmaceutical Education and Research Kolkata,PERCEPTION (100),39.24,PR
+2021,Pharmacy,IR-P-U-0168,Maharishi Markandeshwar,TLR (100),59.93,TLR
+2021,Pharmacy,IR-P-U-0168,Maharishi Markandeshwar,RPC (100),32.19,RPC
+2021,Pharmacy,IR-P-U-0168,Maharishi Markandeshwar,GO (100),63.51,GO
+2021,Pharmacy,IR-P-U-0168,Maharishi Markandeshwar,OI (100),53.02,OI
+2021,Pharmacy,IR-P-U-0168,Maharishi Markandeshwar,PERCEPTION (100),41.71,PR
+2021,Pharmacy,IR-P-U-0373,Chitkara University,TLR (100),71.61,TLR
+2021,Pharmacy,IR-P-U-0373,Chitkara University,RPC (100),17.33,RPC
+2021,Pharmacy,IR-P-U-0373,Chitkara University,GO (100),62.38,GO
+2021,Pharmacy,IR-P-U-0373,Chitkara University,OI (100),63.48,OI
+2021,Pharmacy,IR-P-U-0373,Chitkara University,PERCEPTION (100),41.71,PR
+2021,Pharmacy,IR-P-U-0190,Shoolini University of Biotechnology and Management Sciences,TLR (100),67.81,TLR
+2021,Pharmacy,IR-P-U-0190,Shoolini University of Biotechnology and Management Sciences,RPC (100),31.94,RPC
+2021,Pharmacy,IR-P-U-0190,Shoolini University of Biotechnology and Management Sciences,GO (100),65.22,GO
+2021,Pharmacy,IR-P-U-0190,Shoolini University of Biotechnology and Management Sciences,OI (100),52.9,OI
+2021,Pharmacy,IR-P-U-0190,Shoolini University of Biotechnology and Management Sciences,PERCEPTION (100),11.34,PR
+2021,Pharmacy,IR-P-U-0491,"Vels Institute of Science, Technology & Advanced Studies (VISTAS)",TLR (100),65.26,TLR
+2021,Pharmacy,IR-P-U-0491,"Vels Institute of Science, Technology & Advanced Studies (VISTAS)",RPC (100),40.73,RPC
+2021,Pharmacy,IR-P-U-0491,"Vels Institute of Science, Technology & Advanced Studies (VISTAS)",GO (100),49.66,GO
+2021,Pharmacy,IR-P-U-0491,"Vels Institute of Science, Technology & Advanced Studies (VISTAS)",OI (100),49.2,OI
+2021,Pharmacy,IR-P-U-0491,"Vels Institute of Science, Technology & Advanced Studies (VISTAS)",PERCEPTION (100),24.08,PR
+2021,Pharmacy,IR-P-U-0051,Dibrugarh University,TLR (100),67.35,TLR
+2021,Pharmacy,IR-P-U-0051,Dibrugarh University,RPC (100),29.8,RPC
+2021,Pharmacy,IR-P-U-0051,Dibrugarh University,GO (100),61.27,GO
+2021,Pharmacy,IR-P-U-0051,Dibrugarh University,OI (100),41.07,OI
+2021,Pharmacy,IR-P-U-0051,Dibrugarh University,PERCEPTION (100),33.82,PR
+2021,Pharmacy,IR-P-I-1335,Dr. D. Y. Patil Institute of Pharmaceutical Sciences and Research,TLR (100),70.16,TLR
+2021,Pharmacy,IR-P-I-1335,Dr. D. Y. Patil Institute of Pharmaceutical Sciences and Research,RPC (100),8.18,RPC
+2021,Pharmacy,IR-P-I-1335,Dr. D. Y. Patil Institute of Pharmaceutical Sciences and Research,GO (100),73.74,GO
+2021,Pharmacy,IR-P-I-1335,Dr. D. Y. Patil Institute of Pharmaceutical Sciences and Research,OI (100),53.97,OI
+2021,Pharmacy,IR-P-I-1335,Dr. D. Y. Patil Institute of Pharmaceutical Sciences and Research,PERCEPTION (100),46.25,PR
+2021,Pharmacy,IR-P-C-24505,"KLE College of Pharmacy, Belgaum",TLR (100),68.3,TLR
+2021,Pharmacy,IR-P-C-24505,"KLE College of Pharmacy, Belgaum",RPC (100),11.36,RPC
+2021,Pharmacy,IR-P-C-24505,"KLE College of Pharmacy, Belgaum",GO (100),69.61,GO
+2021,Pharmacy,IR-P-C-24505,"KLE College of Pharmacy, Belgaum",OI (100),60.31,OI
+2021,Pharmacy,IR-P-C-24505,"KLE College of Pharmacy, Belgaum",PERCEPTION (100),24.08,PR
+2021,Pharmacy,IR-P-U-0519,Integral University,TLR (100),62.12,TLR
+2021,Pharmacy,IR-P-U-0519,Integral University,RPC (100),34.65,RPC
+2021,Pharmacy,IR-P-U-0519,Integral University,GO (100),46.3,GO
+2021,Pharmacy,IR-P-U-0519,Integral University,OI (100),43.33,OI
+2021,Pharmacy,IR-P-U-0519,Integral University,PERCEPTION (100),30.82,PR
+2021,Pharmacy,IR-P-U-0085,Guru Ghasidas Vishwavidyalaya,TLR (100),70.01,TLR
+2021,Pharmacy,IR-P-U-0085,Guru Ghasidas Vishwavidyalaya,RPC (100),32.45,RPC
+2021,Pharmacy,IR-P-U-0085,Guru Ghasidas Vishwavidyalaya,GO (100),53.71,GO
+2021,Pharmacy,IR-P-U-0085,Guru Ghasidas Vishwavidyalaya,OI (100),41.62,OI
+2021,Pharmacy,IR-P-U-0085,Guru Ghasidas Vishwavidyalaya,PERCEPTION (100),0.0,PR
+2021,Pharmacy,IR-P-I-1256,Noida Institute of Engineering and Technology (Pharmacy Institute),TLR (100),63.12,TLR
+2021,Pharmacy,IR-P-I-1256,Noida Institute of Engineering and Technology (Pharmacy Institute),RPC (100),3.19,RPC
+2021,Pharmacy,IR-P-I-1256,Noida Institute of Engineering and Technology (Pharmacy Institute),GO (100),70.28,GO
+2021,Pharmacy,IR-P-I-1256,Noida Institute of Engineering and Technology (Pharmacy Institute),OI (100),56.28,OI
+2021,Pharmacy,IR-P-I-1256,Noida Institute of Engineering and Technology (Pharmacy Institute),PERCEPTION (100),59.1,PR
+2021,Pharmacy,IR-P-U-0034,Sri Padmavathi Mahila Visvavidyalayam,TLR (100),68.76,TLR
+2021,Pharmacy,IR-P-U-0034,Sri Padmavathi Mahila Visvavidyalayam,RPC (100),24.16,RPC
+2021,Pharmacy,IR-P-U-0034,Sri Padmavathi Mahila Visvavidyalayam,GO (100),55.53,GO
+2021,Pharmacy,IR-P-U-0034,Sri Padmavathi Mahila Visvavidyalayam,OI (100),52.82,OI
+2021,Pharmacy,IR-P-U-0034,Sri Padmavathi Mahila Visvavidyalayam,PERCEPTION (100),11.34,PR
+2021,Pharmacy,IR-P-C-19322,Nitte Gulabi Shetty Memorial Institute of Pharmaceutical Sciences,TLR (100),68.3,TLR
+2021,Pharmacy,IR-P-C-19322,Nitte Gulabi Shetty Memorial Institute of Pharmaceutical Sciences,RPC (100),16.74,RPC
+2021,Pharmacy,IR-P-C-19322,Nitte Gulabi Shetty Memorial Institute of Pharmaceutical Sciences,GO (100),67.04,GO
+2021,Pharmacy,IR-P-C-19322,Nitte Gulabi Shetty Memorial Institute of Pharmaceutical Sciences,OI (100),58.59,OI
+2021,Pharmacy,IR-P-C-19322,Nitte Gulabi Shetty Memorial Institute of Pharmaceutical Sciences,PERCEPTION (100),6.06,PR
+2021,Pharmacy,IR-P-C-18900,Smt. Kishoritai Bhoyar College of Pharmacy,TLR (100),66.36,TLR
+2021,Pharmacy,IR-P-C-18900,Smt. Kishoritai Bhoyar College of Pharmacy,RPC (100),6.38,RPC
+2021,Pharmacy,IR-P-C-18900,Smt. Kishoritai Bhoyar College of Pharmacy,GO (100),70.44,GO
+2021,Pharmacy,IR-P-C-18900,Smt. Kishoritai Bhoyar College of Pharmacy,OI (100),53.43,OI
+2021,Pharmacy,IR-P-C-18900,Smt. Kishoritai Bhoyar College of Pharmacy,PERCEPTION (100),36.62,PR
+2021,Pharmacy,IR-P-C-409,L. M. College of Pharmacy,TLR (100),69.91,TLR
+2021,Pharmacy,IR-P-C-409,L. M. College of Pharmacy,RPC (100),9.39,RPC
+2021,Pharmacy,IR-P-C-409,L. M. College of Pharmacy,GO (100),56.96,GO
+2021,Pharmacy,IR-P-C-409,L. M. College of Pharmacy,OI (100),51.91,OI
+2021,Pharmacy,IR-P-C-409,L. M. College of Pharmacy,PERCEPTION (100),44.04,PR
+2021,Pharmacy,IR-P-U-0019,Kakatiya University,TLR (100),43.2,TLR
+2021,Pharmacy,IR-P-U-0019,Kakatiya University,RPC (100),31.1,RPC
+2021,Pharmacy,IR-P-U-0019,Kakatiya University,GO (100),64.19,GO
+2021,Pharmacy,IR-P-U-0019,Kakatiya University,OI (100),50.97,OI
+2021,Pharmacy,IR-P-U-0019,Kakatiya University,PERCEPTION (100),41.71,PR
+2021,Pharmacy,IR-P-C-11091,"Bharati Vidyapeeth College of Pharmacy, Kolhapur",TLR (100),62.61,TLR
+2021,Pharmacy,IR-P-C-11091,"Bharati Vidyapeeth College of Pharmacy, Kolhapur",RPC (100),16.51,RPC
+2021,Pharmacy,IR-P-C-11091,"Bharati Vidyapeeth College of Pharmacy, Kolhapur",GO (100),60.25,GO
+2021,Pharmacy,IR-P-C-11091,"Bharati Vidyapeeth College of Pharmacy, Kolhapur",OI (100),52.0,OI
+2021,Pharmacy,IR-P-C-11091,"Bharati Vidyapeeth College of Pharmacy, Kolhapur",PERCEPTION (100),27.58,PR
+2021,Pharmacy,IR-P-I-1045,R. C. Patel Institute of Pharmaceutical Education & Research,TLR (100),71.18,TLR
+2021,Pharmacy,IR-P-I-1045,R. C. Patel Institute of Pharmaceutical Education & Research,RPC (100),11.08,RPC
+2021,Pharmacy,IR-P-I-1045,R. C. Patel Institute of Pharmaceutical Education & Research,GO (100),65.57,GO
+2021,Pharmacy,IR-P-I-1045,R. C. Patel Institute of Pharmaceutical Education & Research,OI (100),55.6,OI
+2021,Pharmacy,IR-P-I-1045,R. C. Patel Institute of Pharmaceutical Education & Research,PERCEPTION (100),0.0,PR
+2021,Pharmacy,IR-P-U-0747,Chandigarh University,TLR (100),69.64,TLR
+2021,Pharmacy,IR-P-U-0747,Chandigarh University,RPC (100),6.86,RPC
+2021,Pharmacy,IR-P-U-0747,Chandigarh University,GO (100),53.89,GO
+2021,Pharmacy,IR-P-U-0747,Chandigarh University,OI (100),75.79,OI
+2021,Pharmacy,IR-P-U-0747,Chandigarh University,PERCEPTION (100),20.25,PR
+2021,Pharmacy,IR-P-U-0724,M.S. Ramaiah University of Applied Sciences,TLR (100),65.15,TLR
+2021,Pharmacy,IR-P-U-0724,M.S. Ramaiah University of Applied Sciences,RPC (100),16.04,RPC
+2021,Pharmacy,IR-P-U-0724,M.S. Ramaiah University of Applied Sciences,GO (100),50.25,GO
+2021,Pharmacy,IR-P-U-0724,M.S. Ramaiah University of Applied Sciences,OI (100),59.62,OI
+2021,Pharmacy,IR-P-U-0724,M.S. Ramaiah University of Applied Sciences,PERCEPTION (100),27.58,PR
+2021,Pharmacy,IR-P-C-34531,Y. B. Chavan College of Pharmacy,TLR (100),64.52,TLR
+2021,Pharmacy,IR-P-C-34531,Y. B. Chavan College of Pharmacy,RPC (100),13.57,RPC
+2021,Pharmacy,IR-P-C-34531,Y. B. Chavan College of Pharmacy,GO (100),54.11,GO
+2021,Pharmacy,IR-P-C-34531,Y. B. Chavan College of Pharmacy,OI (100),51.2,OI
+2021,Pharmacy,IR-P-C-34531,Y. B. Chavan College of Pharmacy,PERCEPTION (100),36.62,PR
+2021,Pharmacy,IR-P-U-0037,Sri Venkateswara University,TLR (100),48.39,TLR
+2021,Pharmacy,IR-P-U-0037,Sri Venkateswara University,RPC (100),32.37,RPC
+2021,Pharmacy,IR-P-U-0037,Sri Venkateswara University,GO (100),56.81,GO
+2021,Pharmacy,IR-P-U-0037,Sri Venkateswara University,OI (100),51.65,OI
+2021,Pharmacy,IR-P-U-0037,Sri Venkateswara University,PERCEPTION (100),16.03,PR
+2021,Pharmacy,IR-P-C-26907,Raghavendra Institute of Pharmaceuatical Education & Research,TLR (100),62.66,TLR
+2021,Pharmacy,IR-P-C-26907,Raghavendra Institute of Pharmaceuatical Education & Research,RPC (100),5.15,RPC
+2021,Pharmacy,IR-P-C-26907,Raghavendra Institute of Pharmaceuatical Education & Research,GO (100),67.3,GO
+2021,Pharmacy,IR-P-C-26907,Raghavendra Institute of Pharmaceuatical Education & Research,OI (100),56.04,OI
+2021,Pharmacy,IR-P-C-26907,Raghavendra Institute of Pharmaceuatical Education & Research,PERCEPTION (100),27.58,PR
+2021,Pharmacy,IR-P-C-30858,Goa College of Pharmacy,TLR (100),66.76,TLR
+2021,Pharmacy,IR-P-C-30858,Goa College of Pharmacy,RPC (100),4.22,RPC
+2021,Pharmacy,IR-P-C-30858,Goa College of Pharmacy,GO (100),61.09,GO
+2021,Pharmacy,IR-P-C-30858,Goa College of Pharmacy,OI (100),52.28,OI
+2021,Pharmacy,IR-P-C-30858,Goa College of Pharmacy,PERCEPTION (100),33.82,PR
+2021,Pharmacy,IR-P-C-10250,Amar Shaheed Baba Ajit Singh Jujhar Singh Memorial College of Pharmacy,TLR (100),60.03,TLR
+2021,Pharmacy,IR-P-C-10250,Amar Shaheed Baba Ajit Singh Jujhar Singh Memorial College of Pharmacy,RPC (100),8.18,RPC
+2021,Pharmacy,IR-P-C-10250,Amar Shaheed Baba Ajit Singh Jujhar Singh Memorial College of Pharmacy,GO (100),71.48,GO
+2021,Pharmacy,IR-P-C-10250,Amar Shaheed Baba Ajit Singh Jujhar Singh Memorial College of Pharmacy,OI (100),62.25,OI
+2021,Pharmacy,IR-P-C-10250,Amar Shaheed Baba Ajit Singh Jujhar Singh Memorial College of Pharmacy,PERCEPTION (100),11.34,PR
+2021,Pharmacy,IR-P-U-0562,"Kumaun University, Nainital",TLR (100),61.06,TLR
+2021,Pharmacy,IR-P-U-0562,"Kumaun University, Nainital",RPC (100),21.79,RPC
+2021,Pharmacy,IR-P-U-0562,"Kumaun University, Nainital",GO (100),56.9,GO
+2021,Pharmacy,IR-P-U-0562,"Kumaun University, Nainital",OI (100),50.41,OI
+2021,Pharmacy,IR-P-U-0562,"Kumaun University, Nainital",PERCEPTION (100),6.06,PR
+2021,Pharmacy,IR-P-U-0513,G. L. A. University,TLR (100),64.29,TLR
+2021,Pharmacy,IR-P-U-0513,G. L. A. University,RPC (100),20.05,RPC
+2021,Pharmacy,IR-P-U-0513,G. L. A. University,GO (100),51.1,GO
+2021,Pharmacy,IR-P-U-0513,G. L. A. University,OI (100),46.5,OI
+2021,Pharmacy,IR-P-U-0513,G. L. A. University,PERCEPTION (100),16.03,PR
+2021,Pharmacy,IR-P-C-40354,Acharya & B M Reddy College of Pharmacy,TLR (100),63.5,TLR
+2021,Pharmacy,IR-P-C-40354,Acharya & B M Reddy College of Pharmacy,RPC (100),6.89,RPC
+2021,Pharmacy,IR-P-C-40354,Acharya & B M Reddy College of Pharmacy,GO (100),67.13,GO
+2021,Pharmacy,IR-P-C-40354,Acharya & B M Reddy College of Pharmacy,OI (100),55.05,OI
+2021,Pharmacy,IR-P-C-40354,Acharya & B M Reddy College of Pharmacy,PERCEPTION (100),16.03,PR
+2021,Pharmacy,IR-P-C-19747,Anurag University,TLR (100),61.03,TLR
+2021,Pharmacy,IR-P-C-19747,Anurag University,RPC (100),4.95,RPC
+2021,Pharmacy,IR-P-C-19747,Anurag University,GO (100),47.64,GO
+2021,Pharmacy,IR-P-C-19747,Anurag University,OI (100),63.77,OI
+2021,Pharmacy,IR-P-C-19747,Anurag University,PERCEPTION (100),55.81,PR
+2021,Pharmacy,IR-P-C-26904,Sri Venkateswara College of Pharmacy,TLR (100),66.16,TLR
+2021,Pharmacy,IR-P-C-26904,Sri Venkateswara College of Pharmacy,RPC (100),2.56,RPC
+2021,Pharmacy,IR-P-C-26904,Sri Venkateswara College of Pharmacy,GO (100),70.09,GO
+2021,Pharmacy,IR-P-C-26904,Sri Venkateswara College of Pharmacy,OI (100),65.6,OI
+2021,Pharmacy,IR-P-C-26904,Sri Venkateswara College of Pharmacy,PERCEPTION (100),0.0,PR
+2021,Pharmacy,IR-P-C-10283,"Chandigarh College of Pharmacy, Landran",TLR (100),63.61,TLR
+2021,Pharmacy,IR-P-C-10283,"Chandigarh College of Pharmacy, Landran",RPC (100),13.54,RPC
+2021,Pharmacy,IR-P-C-10283,"Chandigarh College of Pharmacy, Landran",GO (100),51.26,GO
+2021,Pharmacy,IR-P-C-10283,"Chandigarh College of Pharmacy, Landran",OI (100),62.01,OI
+2021,Pharmacy,IR-P-C-10283,"Chandigarh College of Pharmacy, Landran",PERCEPTION (100),11.34,PR
+2021,Pharmacy,IR-P-C-45540,PSG College of Pharmacy,TLR (100),57.28,TLR
+2021,Pharmacy,IR-P-C-45540,PSG College of Pharmacy,RPC (100),9.66,RPC
+2021,Pharmacy,IR-P-C-45540,PSG College of Pharmacy,GO (100),51.26,GO
+2021,Pharmacy,IR-P-C-45540,PSG College of Pharmacy,OI (100),52.31,OI
+2021,Pharmacy,IR-P-C-45540,PSG College of Pharmacy,PERCEPTION (100),48.34,PR
+2021,Pharmacy,IR-P-C-33814,Bharati Vidyapeeth's College of Pharmacy,TLR (100),65.95,TLR
+2021,Pharmacy,IR-P-C-33814,Bharati Vidyapeeth's College of Pharmacy,RPC (100),11.13,RPC
+2021,Pharmacy,IR-P-C-33814,Bharati Vidyapeeth's College of Pharmacy,GO (100),44.32,GO
+2021,Pharmacy,IR-P-C-33814,Bharati Vidyapeeth's College of Pharmacy,OI (100),51.86,OI
+2021,Pharmacy,IR-P-C-33814,Bharati Vidyapeeth's College of Pharmacy,PERCEPTION (100),30.82,PR
+2021,Pharmacy,IR-P-C-44200,C.U. Shah College of Pharmacy,TLR (100),64.43,TLR
+2021,Pharmacy,IR-P-C-44200,C.U. Shah College of Pharmacy,RPC (100),5.13,RPC
+2021,Pharmacy,IR-P-C-44200,C.U. Shah College of Pharmacy,GO (100),55.98,GO
+2021,Pharmacy,IR-P-C-44200,C.U. Shah College of Pharmacy,OI (100),52.96,OI
+2021,Pharmacy,IR-P-C-44200,C.U. Shah College of Pharmacy,PERCEPTION (100),27.58,PR
+2021,Pharmacy,IR-P-U-0413,Mohan Lal Sukhadia University,TLR (100),64.44,TLR
+2021,Pharmacy,IR-P-U-0413,Mohan Lal Sukhadia University,RPC (100),14.95,RPC
+2021,Pharmacy,IR-P-U-0413,Mohan Lal Sukhadia University,GO (100),53.91,GO
+2021,Pharmacy,IR-P-U-0413,Mohan Lal Sukhadia University,OI (100),52.13,OI
+2021,Pharmacy,IR-P-U-0413,Mohan Lal Sukhadia University,PERCEPTION (100),0.0,PR
+2021,Pharmacy,IR-P-U-0502,Bundelkhand University,TLR (100),65.24,TLR
+2021,Pharmacy,IR-P-U-0502,Bundelkhand University,RPC (100),11.09,RPC
+2021,Pharmacy,IR-P-U-0502,Bundelkhand University,GO (100),60.24,GO
+2021,Pharmacy,IR-P-U-0502,Bundelkhand University,OI (100),46.61,OI
+2021,Pharmacy,IR-P-U-0502,Bundelkhand University,PERCEPTION (100),0.0,PR
+2021,Pharmacy,IR-P-S-10906,Guru Nanak Institute of Pharmaceutical Science & Technology,TLR (100),63.11,TLR
+2021,Pharmacy,IR-P-S-10906,Guru Nanak Institute of Pharmaceutical Science & Technology,RPC (100),2.72,RPC
+2021,Pharmacy,IR-P-S-10906,Guru Nanak Institute of Pharmaceutical Science & Technology,GO (100),68.6,GO
+2021,Pharmacy,IR-P-S-10906,Guru Nanak Institute of Pharmaceutical Science & Technology,OI (100),48.65,OI
+2021,Pharmacy,IR-P-S-10906,Guru Nanak Institute of Pharmaceutical Science & Technology,PERCEPTION (100),11.34,PR
+2021,Pharmacy,IR-P-C-39486,Chalapathi Institute of Pharmaceutical Sciences,TLR (100),64.14,TLR
+2021,Pharmacy,IR-P-C-39486,Chalapathi Institute of Pharmaceutical Sciences,RPC (100),5.47,RPC
+2021,Pharmacy,IR-P-C-39486,Chalapathi Institute of Pharmaceutical Sciences,GO (100),67.04,GO
+2021,Pharmacy,IR-P-C-39486,Chalapathi Institute of Pharmaceutical Sciences,OI (100),51.81,OI
+2021,Pharmacy,IR-P-C-39486,Chalapathi Institute of Pharmaceutical Sciences,PERCEPTION (100),0.0,PR
+2021,Pharmacy,IR-P-U-0093,Pt. Ravishankar Shukla University,TLR (100),46.84,TLR
+2021,Pharmacy,IR-P-U-0093,Pt. Ravishankar Shukla University,RPC (100),23.24,RPC
+2021,Pharmacy,IR-P-U-0093,Pt. Ravishankar Shukla University,GO (100),65.17,GO
+2021,Pharmacy,IR-P-U-0093,Pt. Ravishankar Shukla University,OI (100),46.66,OI
+2021,Pharmacy,IR-P-U-0093,Pt. Ravishankar Shukla University,PERCEPTION (100),6.06,PR
+2021,Pharmacy,IR-P-U-0401,Jaipur National University,TLR (100),50.72,TLR
+2021,Pharmacy,IR-P-U-0401,Jaipur National University,RPC (100),27.44,RPC
+2021,Pharmacy,IR-P-U-0401,Jaipur National University,GO (100),51.75,GO
+2021,Pharmacy,IR-P-U-0401,Jaipur National University,OI (100),49.04,OI
+2021,Pharmacy,IR-P-U-0401,Jaipur National University,PERCEPTION (100),0.0,PR
+2021,Pharmacy,IR-P-C-19613,Vishnu Institute of Pharmaceutical Education and Research,TLR (100),60.18,TLR
+2021,Pharmacy,IR-P-C-19613,Vishnu Institute of Pharmaceutical Education and Research,RPC (100),1.64,RPC
+2021,Pharmacy,IR-P-C-19613,Vishnu Institute of Pharmaceutical Education and Research,GO (100),46.9,GO
+2021,Pharmacy,IR-P-C-19613,Vishnu Institute of Pharmaceutical Education and Research,OI (100),53.74,OI
+2021,Pharmacy,IR-P-C-19613,Vishnu Institute of Pharmaceutical Education and Research,PERCEPTION (100),54.07,PR
+2021,Pharmacy,IR-P-C-45528,KMCH College of Pharmacy,TLR (100),65.27,TLR
+2021,Pharmacy,IR-P-C-45528,KMCH College of Pharmacy,RPC (100),2.43,RPC
+2021,Pharmacy,IR-P-C-45528,KMCH College of Pharmacy,GO (100),52.81,GO
+2021,Pharmacy,IR-P-C-45528,KMCH College of Pharmacy,OI (100),57.84,OI
+2021,Pharmacy,IR-P-C-45528,KMCH College of Pharmacy,PERCEPTION (100),20.25,PR
+2021,Pharmacy,IR-P-C-40080,Sri Adichunchanagiri College of Pharmacy,TLR (100),64.78,TLR
+2021,Pharmacy,IR-P-C-40080,Sri Adichunchanagiri College of Pharmacy,RPC (100),1.03,RPC
+2021,Pharmacy,IR-P-C-40080,Sri Adichunchanagiri College of Pharmacy,GO (100),59.18,GO
+2021,Pharmacy,IR-P-C-40080,Sri Adichunchanagiri College of Pharmacy,OI (100),58.66,OI
+2021,Pharmacy,IR-P-C-40080,Sri Adichunchanagiri College of Pharmacy,PERCEPTION (100),11.34,PR

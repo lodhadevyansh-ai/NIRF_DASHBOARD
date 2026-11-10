@@ -1,0 +1,65 @@
+{
+  "validation_timestamp": "2026-11-02T19:21:48.997142+00:00",
+  "category": "Engineering",
+  "year": 2025,
+  "target_directory": "C:\\Users\\lodha\\Downloads\\NIRF_DASHBOARD\\data\\Raw\\Engineering\\2025",
+  "overall_validation_status": "PASSED",
+  "summary": {
+    "total_ranking_records": 100,
+    "valid_records": 100,
+    "invalid_records": 0,
+    "duplicate_records": 0,
+    "total_parameter_records": 500
+  },
+  "checks": {
+    "year_and_category_valid": true,
+    "institution_names_populated": true,
+    "institute_ids_preserved": true,
+    "ranks_within_top_100": true,
+    "rank_bands_preserved_properly": true,
+    "scores_numeric_and_bounded": true,
+    "no_duplicate_institutions": true,
+    "ranking_count_matches_html": true,
+    "parameters_associated_correctly": true,
+    "html_spot_checks_matched": true
+  },
+  "missing_values_by_column": {
+    "rankings": {
+      "year": 0,
+      "category": 0,
+      "institute_id": 0,
+      "institute_name": 0,
+      "city": 0,
+      "state": 0,
+      "official_rank": 0,
+      "numeric_rank": 0,
+      "overall_score": 0,
+      "source_url": 0
+    },
+    "parameters": {
+      "year": 0,
+      "category": 0,
+      "institute_id": 0,
+      "institute_name": 0,
+      "parameter_name": 0,
+      "parameter_score": 0,
+      "canonical_parameter": 0
+    }
+  },
+  "parameter_extraction_status": {
+    "total_parameter_records": 500,
+    "institutes_covered": 100,
+    "institutes_missing_params": 0,
+    "orphan_param_records": 0,
+    "incomplete_parameter_institutes": 0,
+    "canonical_parameters_distribution": {
+      "TLR": 100,
+      "RPC": 100,
+      "GO": 100,
+      "OI": 100,
+      "PR": 100
+    }
+  },
+  "suspicious_records_for_manual_review": [],
+  "issues_detected": []
+}

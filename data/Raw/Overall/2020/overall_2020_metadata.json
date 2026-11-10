@@ -1,0 +1,13 @@
+{
+  "Category": "Overall",
+  "Year": 2020,
+  "Source URL": "https://www.nirfindia.org/Rankings/2020/OverallRanking.html",
+  "Scraping timestamp": "2026-10-31T16:35:46.331894+00:00",
+  "Extraction timestamp": "2026-10-31T16:35:46.948628+00:00",
+  "Number of ranking records": 101,
+  "Number of parameter records": 505,
+  "HTTP status": 200,
+  "Scraping status": "success",
+  "Extraction status": "success",
+  "Error messages": "Warning: Extracted 101 rows (exceeds 100)."
+}

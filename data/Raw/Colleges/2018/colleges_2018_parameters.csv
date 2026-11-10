@@ -1,0 +1,496 @@
+year,category,institute_id,institute_name,parameter_name,parameter_score,canonical_parameter
+2018,Colleges,IR-2-C-OC-C-6355,Miranda House,TLR (100),77.7,TLR
+2018,Colleges,IR-2-C-OC-C-6355,Miranda House,RPC (100),29.78,RPC
+2018,Colleges,IR-2-C-OC-C-6355,Miranda House,GO (100),85.32,GO
+2018,Colleges,IR-2-C-OC-C-6355,Miranda House,OI (100),73.21,OI
+2018,Colleges,IR-2-C-OC-C-6355,Miranda House,PERCEPTION (100),68.02,PR
+2018,Colleges,IR-2-C-OC-C-22470,St. Stephen`s College,TLR (100),79.35,TLR
+2018,Colleges,IR-2-C-OC-C-22470,St. Stephen`s College,RPC (100),16.36,RPC
+2018,Colleges,IR-2-C-OC-C-22470,St. Stephen`s College,GO (100),94.66,GO
+2018,Colleges,IR-2-C-OC-C-22470,St. Stephen`s College,OI (100),68.35,OI
+2018,Colleges,IR-2-C-OC-C-22470,St. Stephen`s College,PERCEPTION (100),60.75,PR
+2018,Colleges,IR-1-C-C-C-6377,Hindu College,TLR (100),74.76,TLR
+2018,Colleges,IR-1-C-C-C-6377,Hindu College,RPC (100),25.74,RPC
+2018,Colleges,IR-1-C-C-C-6377,Hindu College,GO (100),86.9,GO
+2018,Colleges,IR-1-C-C-C-6377,Hindu College,OI (100),71.79,OI
+2018,Colleges,IR-1-C-C-C-6377,Hindu College,PERCEPTION (100),47.9,PR
+2018,Colleges,IR-1-C-C-C-43921,Presidency College,TLR (100),81.82,TLR
+2018,Colleges,IR-1-C-C-C-43921,Presidency College,RPC (100),99.27,RPC
+2018,Colleges,IR-1-C-C-C-43921,Presidency College,GO (100),35.54,GO
+2018,Colleges,IR-1-C-C-C-43921,Presidency College,OI (100),31.59,OI
+2018,Colleges,IR-1-C-C-C-43921,Presidency College,PERCEPTION (100),65.52,PR
+2018,Colleges,IR-1-C-C-C-44006,Loyola College,TLR (100),67.45,TLR
+2018,Colleges,IR-1-C-C-C-44006,Loyola College,RPC (100),82.3,RPC
+2018,Colleges,IR-1-C-C-C-44006,Loyola College,GO (100),48.47,GO
+2018,Colleges,IR-1-C-C-C-44006,Loyola College,OI (100),46.23,OI
+2018,Colleges,IR-1-C-C-C-44006,Loyola College,PERCEPTION (100),100.0,PR
+2018,Colleges,IR-1-C-C-C-6419,Shri Ram College of Commerce,TLR (100),72.17,TLR
+2018,Colleges,IR-1-C-C-C-6419,Shri Ram College of Commerce,RPC (100),0.62,RPC
+2018,Colleges,IR-1-C-C-C-6419,Shri Ram College of Commerce,GO (100),83.48,GO
+2018,Colleges,IR-1-C-C-C-6419,Shri Ram College of Commerce,OI (100),61.78,OI
+2018,Colleges,IR-1-C-C-C-6419,Shri Ram College of Commerce,PERCEPTION (100),79.74,PR
+2018,Colleges,IR-2-C-OC-C-6415,Lady Shri Ram College for Women,TLR (100),71.62,TLR
+2018,Colleges,IR-2-C-OC-C-6415,Lady Shri Ram College for Women,RPC (100),3.75,RPC
+2018,Colleges,IR-2-C-OC-C-6415,Lady Shri Ram College for Women,GO (100),81.94,GO
+2018,Colleges,IR-2-C-OC-C-6415,Lady Shri Ram College for Women,OI (100),71.25,OI
+2018,Colleges,IR-2-C-OC-C-6415,Lady Shri Ram College for Women,PERCEPTION (100),66.99,PR
+2018,Colleges,IR-1-C-C-C-11926,Ramakrishna Mission Vidyamandira,TLR (100),84.98,TLR
+2018,Colleges,IR-1-C-C-C-11926,Ramakrishna Mission Vidyamandira,RPC (100),8.89,RPC
+2018,Colleges,IR-1-C-C-C-11926,Ramakrishna Mission Vidyamandira,GO (100),86.08,GO
+2018,Colleges,IR-1-C-C-C-11926,Ramakrishna Mission Vidyamandira,OI (100),13.29,OI
+2018,Colleges,IR-1-C-C-C-11926,Ramakrishna Mission Vidyamandira,PERCEPTION (100),46.23,PR
+2018,Colleges,IR-1-C-C-C-43965,Madras Christian College,TLR (100),74.43,TLR
+2018,Colleges,IR-1-C-C-C-43965,Madras Christian College,RPC (100),27.21,RPC
+2018,Colleges,IR-1-C-C-C-43965,Madras Christian College,GO (100),58.68,GO
+2018,Colleges,IR-1-C-C-C-43965,Madras Christian College,OI (100),46.59,OI
+2018,Colleges,IR-1-C-C-C-43965,Madras Christian College,PERCEPTION (100),75.57,PR
+2018,Colleges,IR-1-C-C-C-41124,PSG College of Arts and Science,TLR (100),61.65,TLR
+2018,Colleges,IR-1-C-C-C-41124,PSG College of Arts and Science,RPC (100),38.37,RPC
+2018,Colleges,IR-1-C-C-C-41124,PSG College of Arts and Science,GO (100),65.94,GO
+2018,Colleges,IR-1-C-C-C-41124,PSG College of Arts and Science,OI (100),51.89,OI
+2018,Colleges,IR-1-C-C-C-41124,PSG College of Arts and Science,PERCEPTION (100),82.4,PR
+2018,Colleges,IR-1-C-C-C-27608,Lady Irwin College,TLR (100),81.2,TLR
+2018,Colleges,IR-1-C-C-C-27608,Lady Irwin College,RPC (100),14.73,RPC
+2018,Colleges,IR-1-C-C-C-27608,Lady Irwin College,GO (100),68.87,GO
+2018,Colleges,IR-1-C-C-C-27608,Lady Irwin College,OI (100),47.32,OI
+2018,Colleges,IR-1-C-C-C-27608,Lady Irwin College,PERCEPTION (100),34.05,PR
+2018,Colleges,IR-1-C-C-C-6361,Deen Dayal Upadhyaya College,TLR (100),76.83,TLR
+2018,Colleges,IR-1-C-C-C-6361,Deen Dayal Upadhyaya College,RPC (100),26.52,RPC
+2018,Colleges,IR-1-C-C-C-6361,Deen Dayal Upadhyaya College,GO (100),57.12,GO
+2018,Colleges,IR-1-C-C-C-6361,Deen Dayal Upadhyaya College,OI (100),72.25,OI
+2018,Colleges,IR-1-C-C-C-6361,Deen Dayal Upadhyaya College,PERCEPTION (100),35.39,PR
+2018,Colleges,IR-1-C-C-C-22462,Atma Ram Sanatan Dharm College,TLR (100),78.43,TLR
+2018,Colleges,IR-1-C-C-C-22462,Atma Ram Sanatan Dharm College,RPC (100),24.3,RPC
+2018,Colleges,IR-1-C-C-C-22462,Atma Ram Sanatan Dharm College,GO (100),64.94,GO
+2018,Colleges,IR-1-C-C-C-22462,Atma Ram Sanatan Dharm College,OI (100),63.62,OI
+2018,Colleges,IR-1-C-C-C-22462,Atma Ram Sanatan Dharm College,PERCEPTION (100),19.45,PR
+2018,Colleges,IR-2-C-OC-C-6429,Gargi College,TLR (100),77.1,TLR
+2018,Colleges,IR-2-C-OC-C-6429,Gargi College,RPC (100),9.0,RPC
+2018,Colleges,IR-2-C-OC-C-6429,Gargi College,GO (100),76.46,GO
+2018,Colleges,IR-2-C-OC-C-6429,Gargi College,OI (100),67.6,OI
+2018,Colleges,IR-2-C-OC-C-6429,Gargi College,PERCEPTION (100),13.91,PR
+2018,Colleges,IR-1-C-C-C-41046,PSGR Krishnammal College for Women,TLR (100),66.63,TLR
+2018,Colleges,IR-1-C-C-C-41046,PSGR Krishnammal College for Women,RPC (100),21.1,RPC
+2018,Colleges,IR-1-C-C-C-41046,PSGR Krishnammal College for Women,GO (100),72.84,GO
+2018,Colleges,IR-1-C-C-C-41046,PSGR Krishnammal College for Women,OI (100),60.93,OI
+2018,Colleges,IR-1-C-C-C-41046,PSGR Krishnammal College for Women,PERCEPTION (100),52.83,PR
+2018,Colleges,IR-2-C-OC-C-11881,St. Xavier`s College,TLR (100),56.16,TLR
+2018,Colleges,IR-2-C-OC-C-11881,St. Xavier`s College,RPC (100),28.97,RPC
+2018,Colleges,IR-2-C-OC-C-11881,St. Xavier`s College,GO (100),75.15,GO
+2018,Colleges,IR-2-C-OC-C-11881,St. Xavier`s College,OI (100),54.15,OI
+2018,Colleges,IR-2-C-OC-C-11881,St. Xavier`s College,PERCEPTION (100),74.38,PR
+2018,Colleges,IR-1-C-C-C-43671,University College,TLR (100),75.58,TLR
+2018,Colleges,IR-1-C-C-C-43671,University College,RPC (100),16.82,RPC
+2018,Colleges,IR-1-C-C-C-43671,University College,GO (100),71.68,GO
+2018,Colleges,IR-1-C-C-C-43671,University College,OI (100),48.35,OI
+2018,Colleges,IR-1-C-C-C-43671,University College,PERCEPTION (100),20.09,PR
+2018,Colleges,IR-2-C-OC-I-1385,Fergusson College,TLR (100),57.87,TLR
+2018,Colleges,IR-2-C-OC-I-1385,Fergusson College,RPC (100),18.52,RPC
+2018,Colleges,IR-2-C-OC-I-1385,Fergusson College,GO (100),89.08,GO
+2018,Colleges,IR-2-C-OC-I-1385,Fergusson College,OI (100),38.64,OI
+2018,Colleges,IR-2-C-OC-I-1385,Fergusson College,PERCEPTION (100),53.12,PR
+2018,Colleges,IR-1-C-C-C-6385,Kirori Mal College,TLR (100),72.98,TLR
+2018,Colleges,IR-1-C-C-C-6385,Kirori Mal College,RPC (100),26.5,RPC
+2018,Colleges,IR-1-C-C-C-6385,Kirori Mal College,GO (100),59.07,GO
+2018,Colleges,IR-1-C-C-C-6385,Kirori Mal College,OI (100),70.69,OI
+2018,Colleges,IR-1-C-C-C-6385,Kirori Mal College,PERCEPTION (100),23.16,PR
+2018,Colleges,IR-1-C-C-C-6425,Hans Raj College,TLR (100),70.78,TLR
+2018,Colleges,IR-1-C-C-C-6425,Hans Raj College,RPC (100),12.58,RPC
+2018,Colleges,IR-1-C-C-C-6425,Hans Raj College,GO (100),64.7,GO
+2018,Colleges,IR-1-C-C-C-6425,Hans Raj College,OI (100),66.57,OI
+2018,Colleges,IR-1-C-C-C-6425,Hans Raj College,PERCEPTION (100),41.54,PR
+2018,Colleges,IR-2-C-OC-C-43946,Women`s Christian College,TLR (100),71.06,TLR
+2018,Colleges,IR-2-C-OC-C-43946,Women`s Christian College,RPC (100),14.54,RPC
+2018,Colleges,IR-2-C-OC-C-43946,Women`s Christian College,GO (100),72.38,GO
+2018,Colleges,IR-2-C-OC-C-43946,Women`s Christian College,OI (100),44.08,OI
+2018,Colleges,IR-2-C-OC-C-43946,Women`s Christian College,PERCEPTION (100),40.77,PR
+2018,Colleges,IR-2-C-OC-C-6353,Sri Guru Tegh Bahadur Khalsa College,TLR (100),79.93,TLR
+2018,Colleges,IR-2-C-OC-C-6353,Sri Guru Tegh Bahadur Khalsa College,RPC (100),28.25,RPC
+2018,Colleges,IR-2-C-OC-C-6353,Sri Guru Tegh Bahadur Khalsa College,GO (100),53.34,GO
+2018,Colleges,IR-2-C-OC-C-6353,Sri Guru Tegh Bahadur Khalsa College,OI (100),61.83,OI
+2018,Colleges,IR-2-C-OC-C-6353,Sri Guru Tegh Bahadur Khalsa College,PERCEPTION (100),12.41,PR
+2018,Colleges,IR-2-C-OC-C-6369,Sri Venkateswara College,TLR (100),71.94,TLR
+2018,Colleges,IR-2-C-OC-C-6369,Sri Venkateswara College,RPC (100),28.47,RPC
+2018,Colleges,IR-2-C-OC-C-6369,Sri Venkateswara College,GO (100),60.39,GO
+2018,Colleges,IR-2-C-OC-C-6369,Sri Venkateswara College,OI (100),64.04,OI
+2018,Colleges,IR-2-C-OC-C-6369,Sri Venkateswara College,PERCEPTION (100),20.72,PR
+2018,Colleges,IR-2-C-OC-C-6432,Dyal Singh College,TLR (100),77.39,TLR
+2018,Colleges,IR-2-C-OC-C-6432,Dyal Singh College,RPC (100),19.85,RPC
+2018,Colleges,IR-2-C-OC-C-6432,Dyal Singh College,GO (100),63.37,GO
+2018,Colleges,IR-2-C-OC-C-6432,Dyal Singh College,OI (100),57.33,OI
+2018,Colleges,IR-2-C-OC-C-6432,Dyal Singh College,PERCEPTION (100),9.22,PR
+2018,Colleges,IR-2-C-OC-C-6431,Ramanujan College,TLR (100),73.21,TLR
+2018,Colleges,IR-2-C-OC-C-6431,Ramanujan College,RPC (100),1.07,RPC
+2018,Colleges,IR-2-C-OC-C-6431,Ramanujan College,GO (100),71.08,GO
+2018,Colleges,IR-2-C-OC-C-6431,Ramanujan College,OI (100),75.29,OI
+2018,Colleges,IR-2-C-OC-C-6431,Ramanujan College,PERCEPTION (100),13.91,PR
+2018,Colleges,IR-1-C-C-C-6380,Acharya Narendra Dev College,TLR (100),82.74,TLR
+2018,Colleges,IR-1-C-C-C-6380,Acharya Narendra Dev College,RPC (100),10.49,RPC
+2018,Colleges,IR-1-C-C-C-6380,Acharya Narendra Dev College,GO (100),53.44,GO
+2018,Colleges,IR-1-C-C-C-6380,Acharya Narendra Dev College,OI (100),69.65,OI
+2018,Colleges,IR-1-C-C-C-6380,Acharya Narendra Dev College,PERCEPTION (100),10.04,PR
+2018,Colleges,IR-1-C-C-C-35860,St. Joseph`s College,TLR (100),62.67,TLR
+2018,Colleges,IR-1-C-C-C-35860,St. Joseph`s College,RPC (100),32.48,RPC
+2018,Colleges,IR-1-C-C-C-35860,St. Joseph`s College,GO (100),55.65,GO
+2018,Colleges,IR-1-C-C-C-35860,St. Joseph`s College,OI (100),38.2,OI
+2018,Colleges,IR-1-C-C-C-35860,St. Joseph`s College,PERCEPTION (100),67.41,PR
+2018,Colleges,IR-1-C-C-I-1317,Rama Krishna Mission Vivekananda Centenary College,TLR (100),67.37,TLR
+2018,Colleges,IR-1-C-C-I-1317,Rama Krishna Mission Vivekananda Centenary College,RPC (100),20.71,RPC
+2018,Colleges,IR-1-C-C-I-1317,Rama Krishna Mission Vivekananda Centenary College,GO (100),80.24,GO
+2018,Colleges,IR-1-C-C-I-1317,Rama Krishna Mission Vivekananda Centenary College,OI (100),21.55,OI
+2018,Colleges,IR-1-C-C-I-1317,Rama Krishna Mission Vivekananda Centenary College,PERCEPTION (100),16.77,PR
+2018,Colleges,IR-1-C-C-C-43931,Stella Maris College for Women,TLR (100),60.82,TLR
+2018,Colleges,IR-1-C-C-C-43931,Stella Maris College for Women,RPC (100),9.7,RPC
+2018,Colleges,IR-1-C-C-C-43931,Stella Maris College for Women,GO (100),67.14,GO
+2018,Colleges,IR-1-C-C-C-43931,Stella Maris College for Women,OI (100),53.15,OI
+2018,Colleges,IR-1-C-C-C-43931,Stella Maris College for Women,PERCEPTION (100),57.76,PR
+2018,Colleges,IR-1-C-C-C-11986,Loreto College,TLR (100),56.56,TLR
+2018,Colleges,IR-1-C-C-C-11986,Loreto College,RPC (100),0.06,RPC
+2018,Colleges,IR-1-C-C-C-11986,Loreto College,GO (100),84.19,GO
+2018,Colleges,IR-1-C-C-C-11986,Loreto College,OI (100),52.48,OI
+2018,Colleges,IR-1-C-C-C-11986,Loreto College,PERCEPTION (100),46.23,PR
+2018,Colleges,IR-2-C-OC-C-6412,Maharaja Agrasen College,TLR (100),79.54,TLR
+2018,Colleges,IR-2-C-OC-C-6412,Maharaja Agrasen College,RPC (100),5.68,RPC
+2018,Colleges,IR-2-C-OC-C-6412,Maharaja Agrasen College,GO (100),56.96,GO
+2018,Colleges,IR-2-C-OC-C-6412,Maharaja Agrasen College,OI (100),60.6,OI
+2018,Colleges,IR-2-C-OC-C-6412,Maharaja Agrasen College,PERCEPTION (100),3.94,PR
+2018,Colleges,IR-1-C-C-C-41035,Government Arts College,TLR (100),75.11,TLR
+2018,Colleges,IR-1-C-C-C-41035,Government Arts College,RPC (100),32.02,RPC
+2018,Colleges,IR-1-C-C-C-41035,Government Arts College,GO (100),48.07,GO
+2018,Colleges,IR-1-C-C-C-41035,Government Arts College,OI (100),38.14,OI
+2018,Colleges,IR-1-C-C-C-41035,Government Arts College,PERCEPTION (100),24.9,PR
+2018,Colleges,IR-2-C-OC-I-1323,St. Joseph`s College,TLR (100),71.75,TLR
+2018,Colleges,IR-2-C-OC-I-1323,St. Joseph`s College,RPC (100),7.39,RPC
+2018,Colleges,IR-2-C-OC-I-1323,St. Joseph`s College,GO (100),67.29,GO
+2018,Colleges,IR-2-C-OC-I-1323,St. Joseph`s College,OI (100),49.65,OI
+2018,Colleges,IR-2-C-OC-I-1323,St. Joseph`s College,PERCEPTION (100),15.37,PR
+2018,Colleges,IR-1-C-C-C-26356,Silver Jubilee Degree College,TLR (100),74.11,TLR
+2018,Colleges,IR-1-C-C-C-26356,Silver Jubilee Degree College,RPC (100),0.0,RPC
+2018,Colleges,IR-1-C-C-C-26356,Silver Jubilee Degree College,GO (100),67.85,GO
+2018,Colleges,IR-1-C-C-C-26356,Silver Jubilee Degree College,OI (100),63.22,OI
+2018,Colleges,IR-1-C-C-C-26356,Silver Jubilee Degree College,PERCEPTION (100),2.02,PR
+2018,Colleges,IR-1-C-C-C-43767,Mar Ivanios College,TLR (100),62.95,TLR
+2018,Colleges,IR-1-C-C-C-43767,Mar Ivanios College,RPC (100),48.48,RPC
+2018,Colleges,IR-1-C-C-C-43767,Mar Ivanios College,GO (100),63.33,GO
+2018,Colleges,IR-1-C-C-C-43767,Mar Ivanios College,OI (100),38.09,OI
+2018,Colleges,IR-1-C-C-C-43767,Mar Ivanios College,PERCEPTION (100),10.04,PR
+2018,Colleges,IR-2-C-OC-C-41189,Scott Christian College,TLR (100),76.22,TLR
+2018,Colleges,IR-2-C-OC-C-41189,Scott Christian College,RPC (100),24.33,RPC
+2018,Colleges,IR-2-C-OC-C-41189,Scott Christian College,GO (100),48.71,GO
+2018,Colleges,IR-2-C-OC-C-41189,Scott Christian College,OI (100),56.77,OI
+2018,Colleges,IR-2-C-OC-C-41189,Scott Christian College,PERCEPTION (100),10.85,PR
+2018,Colleges,IR-1-C-C-C-43902,Ethiraj College for Women,TLR (100),60.16,TLR
+2018,Colleges,IR-1-C-C-C-43902,Ethiraj College for Women,RPC (100),6.77,RPC
+2018,Colleges,IR-1-C-C-C-43902,Ethiraj College for Women,GO (100),70.04,GO
+2018,Colleges,IR-1-C-C-C-43902,Ethiraj College for Women,OI (100),51.74,OI
+2018,Colleges,IR-1-C-C-C-43902,Ethiraj College for Women,PERCEPTION (100),51.65,PR
+2018,Colleges,IR-1-C-C-I-1293,Sri Ramakrishna Mission Vidyalaya College of Arts & Science,TLR (100),66.73,TLR
+2018,Colleges,IR-1-C-C-I-1293,Sri Ramakrishna Mission Vidyalaya College of Arts & Science,RPC (100),64.98,RPC
+2018,Colleges,IR-1-C-C-I-1293,Sri Ramakrishna Mission Vidyalaya College of Arts & Science,GO (100),53.55,GO
+2018,Colleges,IR-1-C-C-I-1293,Sri Ramakrishna Mission Vidyalaya College of Arts & Science,OI (100),9.93,OI
+2018,Colleges,IR-1-C-C-I-1293,Sri Ramakrishna Mission Vidyalaya College of Arts & Science,PERCEPTION (100),20.09,PR
+2018,Colleges,IR-1-C-C-C-42814,Ramakrishna Mission Residential College,TLR (100),74.91,TLR
+2018,Colleges,IR-1-C-C-C-42814,Ramakrishna Mission Residential College,RPC (100),27.05,RPC
+2018,Colleges,IR-1-C-C-C-42814,Ramakrishna Mission Residential College,GO (100),47.3,GO
+2018,Colleges,IR-1-C-C-C-42814,Ramakrishna Mission Residential College,OI (100),15.58,OI
+2018,Colleges,IR-1-C-C-C-42814,Ramakrishna Mission Residential College,PERCEPTION (100),53.12,PR
+2018,Colleges,IR-1-C-C-C-11708,Sacred Heart College,TLR (100),72.93,TLR
+2018,Colleges,IR-1-C-C-C-11708,Sacred Heart College,RPC (100),14.15,RPC
+2018,Colleges,IR-1-C-C-C-11708,Sacred Heart College,GO (100),54.94,GO
+2018,Colleges,IR-1-C-C-C-11708,Sacred Heart College,OI (100),45.68,OI
+2018,Colleges,IR-1-C-C-C-11708,Sacred Heart College,PERCEPTION (100),29.22,PR
+2018,Colleges,IR-1-C-C-C-35787,Holy Cross College,TLR (100),65.07,TLR
+2018,Colleges,IR-1-C-C-C-35787,Holy Cross College,RPC (100),4.37,RPC
+2018,Colleges,IR-1-C-C-C-35787,Holy Cross College,GO (100),67.09,GO
+2018,Colleges,IR-1-C-C-C-35787,Holy Cross College,OI (100),43.36,OI
+2018,Colleges,IR-1-C-C-C-35787,Holy Cross College,PERCEPTION (100),47.24,PR
+2018,Colleges,IR-1-C-C-C-11691,Rajagiri College of Social Sciences,TLR (100),77.06,TLR
+2018,Colleges,IR-1-C-C-C-11691,Rajagiri College of Social Sciences,RPC (100),0.9,RPC
+2018,Colleges,IR-1-C-C-C-11691,Rajagiri College of Social Sciences,GO (100),55.33,GO
+2018,Colleges,IR-1-C-C-C-11691,Rajagiri College of Social Sciences,OI (100),52.13,OI
+2018,Colleges,IR-1-C-C-C-11691,Rajagiri College of Social Sciences,PERCEPTION (100),20.09,PR
+2018,Colleges,IR-1-C-C-C-36513,Thiagarajar College,TLR (100),61.85,TLR
+2018,Colleges,IR-1-C-C-C-36513,Thiagarajar College,RPC (100),33.16,RPC
+2018,Colleges,IR-1-C-C-C-36513,Thiagarajar College,GO (100),56.7,GO
+2018,Colleges,IR-1-C-C-C-36513,Thiagarajar College,OI (100),41.19,OI
+2018,Colleges,IR-1-C-C-C-36513,Thiagarajar College,PERCEPTION (100),39.19,PR
+2018,Colleges,IR-1-C-C-C-43738,T. K. M. College of Arts and Science,TLR (100),57.11,TLR
+2018,Colleges,IR-1-C-C-C-43738,T. K. M. College of Arts and Science,RPC (100),37.65,RPC
+2018,Colleges,IR-1-C-C-C-43738,T. K. M. College of Arts and Science,GO (100),68.36,GO
+2018,Colleges,IR-1-C-C-C-43738,T. K. M. College of Arts and Science,OI (100),53.0,OI
+2018,Colleges,IR-1-C-C-C-43738,T. K. M. College of Arts and Science,PERCEPTION (100),5.77,PR
+2018,Colleges,IR-1-C-C-C-11831,S. B. College,TLR (100),69.89,TLR
+2018,Colleges,IR-1-C-C-C-11831,S. B. College,RPC (100),15.24,RPC
+2018,Colleges,IR-1-C-C-C-11831,S. B. College,GO (100),65.03,GO
+2018,Colleges,IR-1-C-C-C-11831,S. B. College,OI (100),36.01,OI
+2018,Colleges,IR-1-C-C-C-11831,S. B. College,PERCEPTION (100),13.17,PR
+2018,Colleges,IR-1-C-C-C-36579,Ayya Nadar Janaki Ammal College,TLR (100),63.84,TLR
+2018,Colleges,IR-1-C-C-C-36579,Ayya Nadar Janaki Ammal College,RPC (100),16.67,RPC
+2018,Colleges,IR-1-C-C-C-36579,Ayya Nadar Janaki Ammal College,GO (100),59.18,GO
+2018,Colleges,IR-1-C-C-C-36579,Ayya Nadar Janaki Ammal College,OI (100),49.72,OI
+2018,Colleges,IR-1-C-C-C-36579,Ayya Nadar Janaki Ammal College,PERCEPTION (100),35.39,PR
+2018,Colleges,IR-1-C-C-C-16178,P. D. Patel Institute of Applied Sciences,TLR (100),67.55,TLR
+2018,Colleges,IR-1-C-C-C-16178,P. D. Patel Institute of Applied Sciences,RPC (100),39.92,RPC
+2018,Colleges,IR-1-C-C-C-16178,P. D. Patel Institute of Applied Sciences,GO (100),52.27,GO
+2018,Colleges,IR-1-C-C-C-16178,P. D. Patel Institute of Applied Sciences,OI (100),46.02,OI
+2018,Colleges,IR-1-C-C-C-16178,P. D. Patel Institute of Applied Sciences,PERCEPTION (100),4.87,PR
+2018,Colleges,IR-1-C-C-C-43964,Madras School of Social Work,TLR (100),69.13,TLR
+2018,Colleges,IR-1-C-C-C-43964,Madras School of Social Work,RPC (100),0.77,RPC
+2018,Colleges,IR-1-C-C-C-43964,Madras School of Social Work,GO (100),64.74,GO
+2018,Colleges,IR-1-C-C-C-43964,Madras School of Social Work,OI (100),43.03,OI
+2018,Colleges,IR-1-C-C-C-43964,Madras School of Social Work,PERCEPTION (100),23.16,PR
+2018,Colleges,IR-1-C-C-C-6420,Jesus & Mary College,TLR (100),63.93,TLR
+2018,Colleges,IR-1-C-C-C-6420,Jesus & Mary College,RPC (100),0.61,RPC
+2018,Colleges,IR-1-C-C-C-6420,Jesus & Mary College,GO (100),65.3,GO
+2018,Colleges,IR-1-C-C-C-6420,Jesus & Mary College,OI (100),57.16,OI
+2018,Colleges,IR-1-C-C-C-6420,Jesus & Mary College,PERCEPTION (100),27.65,PR
+2018,Colleges,IR-1-C-C-C-36502,Virudhunagar Hindu Nadars Senthikumara Nadar College,TLR (100),63.77,TLR
+2018,Colleges,IR-1-C-C-C-36502,Virudhunagar Hindu Nadars Senthikumara Nadar College,RPC (100),42.36,RPC
+2018,Colleges,IR-1-C-C-C-36502,Virudhunagar Hindu Nadars Senthikumara Nadar College,GO (100),48.01,GO
+2018,Colleges,IR-1-C-C-C-36502,Virudhunagar Hindu Nadars Senthikumara Nadar College,OI (100),42.87,OI
+2018,Colleges,IR-1-C-C-C-36502,Virudhunagar Hindu Nadars Senthikumara Nadar College,PERCEPTION (100),23.16,PR
+2018,Colleges,IR-1-C-C-C-6365,Indraprastha College for Women,TLR (100),64.89,TLR
+2018,Colleges,IR-1-C-C-C-6365,Indraprastha College for Women,RPC (100),0.64,RPC
+2018,Colleges,IR-1-C-C-C-6365,Indraprastha College for Women,GO (100),64.08,GO
+2018,Colleges,IR-1-C-C-C-6365,Indraprastha College for Women,OI (100),69.12,OI
+2018,Colleges,IR-1-C-C-C-6365,Indraprastha College for Women,PERCEPTION (100),9.22,PR
+2018,Colleges,IR-1-C-C-C-6426,Shaheed Rajguru College of Applied Sciences for Women,TLR (100),64.11,TLR
+2018,Colleges,IR-1-C-C-C-6426,Shaheed Rajguru College of Applied Sciences for Women,RPC (100),10.06,RPC
+2018,Colleges,IR-1-C-C-C-6426,Shaheed Rajguru College of Applied Sciences for Women,GO (100),63.01,GO
+2018,Colleges,IR-1-C-C-C-6426,Shaheed Rajguru College of Applied Sciences for Women,OI (100),67.43,OI
+2018,Colleges,IR-1-C-C-C-6426,Shaheed Rajguru College of Applied Sciences for Women,PERCEPTION (100),2.02,PR
+2018,Colleges,IR-1-C-C-C-41173,St. Xavier`s College,TLR (100),66.82,TLR
+2018,Colleges,IR-1-C-C-C-41173,St. Xavier`s College,RPC (100),24.77,RPC
+2018,Colleges,IR-1-C-C-C-41173,St. Xavier`s College,GO (100),51.67,GO
+2018,Colleges,IR-1-C-C-C-41173,St. Xavier`s College,OI (100),41.41,OI
+2018,Colleges,IR-1-C-C-C-41173,St. Xavier`s College,PERCEPTION (100),23.16,PR
+2018,Colleges,IR-1-C-C-C-20830,St. Joseph`s College of Commerce,TLR (100),57.07,TLR
+2018,Colleges,IR-1-C-C-C-20830,St. Joseph`s College of Commerce,RPC (100),0.0,RPC
+2018,Colleges,IR-1-C-C-C-20830,St. Joseph`s College of Commerce,GO (100),70.5,GO
+2018,Colleges,IR-1-C-C-C-20830,St. Joseph`s College of Commerce,OI (100),56.51,OI
+2018,Colleges,IR-1-C-C-C-20830,St. Joseph`s College of Commerce,PERCEPTION (100),35.39,PR
+2018,Colleges,IR-1-C-C-C-25376,Andhra Loyola College,TLR (100),60.02,TLR
+2018,Colleges,IR-1-C-C-C-25376,Andhra Loyola College,RPC (100),26.45,RPC
+2018,Colleges,IR-1-C-C-C-25376,Andhra Loyola College,GO (100),59.76,GO
+2018,Colleges,IR-1-C-C-C-25376,Andhra Loyola College,OI (100),49.17,OI
+2018,Colleges,IR-1-C-C-C-25376,Andhra Loyola College,PERCEPTION (100),16.08,PR
+2018,Colleges,IR-1-C-C-C-41068,Vellalar College for Women,TLR (100),63.67,TLR
+2018,Colleges,IR-1-C-C-C-41068,Vellalar College for Women,RPC (100),2.72,RPC
+2018,Colleges,IR-1-C-C-C-41068,Vellalar College for Women,GO (100),64.77,GO
+2018,Colleges,IR-1-C-C-C-41068,Vellalar College for Women,OI (100),53.19,OI
+2018,Colleges,IR-1-C-C-C-41068,Vellalar College for Women,PERCEPTION (100),18.79,PR
+2018,Colleges,IR-1-C-C-C-36575,Sri Meenakshi Government College for Women,TLR (100),68.88,TLR
+2018,Colleges,IR-1-C-C-C-36575,Sri Meenakshi Government College for Women,RPC (100),1.63,RPC
+2018,Colleges,IR-1-C-C-C-36575,Sri Meenakshi Government College for Women,GO (100),58.14,GO
+2018,Colleges,IR-1-C-C-C-36575,Sri Meenakshi Government College for Women,OI (100),57.1,OI
+2018,Colleges,IR-1-C-C-C-36575,Sri Meenakshi Government College for Women,PERCEPTION (100),11.64,PR
+2018,Colleges,IR-2-C-OC-C-6366,Shivaji College,TLR (100),71.92,TLR
+2018,Colleges,IR-2-C-OC-C-6366,Shivaji College,RPC (100),4.13,RPC
+2018,Colleges,IR-2-C-OC-C-6366,Shivaji College,GO (100),53.7,GO
+2018,Colleges,IR-2-C-OC-C-6366,Shivaji College,OI (100),62.4,OI
+2018,Colleges,IR-2-C-OC-C-6366,Shivaji College,PERCEPTION (100),1.02,PR
+2018,Colleges,IR-1-C-C-C-20872,St. Josephs Arts & Science College,TLR (100),60.82,TLR
+2018,Colleges,IR-1-C-C-C-20872,St. Josephs Arts & Science College,RPC (100),22.06,RPC
+2018,Colleges,IR-1-C-C-C-20872,St. Josephs Arts & Science College,GO (100),44.39,GO
+2018,Colleges,IR-1-C-C-C-20872,St. Josephs Arts & Science College,OI (100),57.64,OI
+2018,Colleges,IR-1-C-C-C-20872,St. Josephs Arts & Science College,PERCEPTION (100),46.23,PR
+2018,Colleges,IR-2-C-OC-C-6357,Shyam Lal College,TLR (100),63.41,TLR
+2018,Colleges,IR-2-C-OC-C-6357,Shyam Lal College,RPC (100),8.82,RPC
+2018,Colleges,IR-2-C-OC-C-6357,Shyam Lal College,GO (100),66.57,GO
+2018,Colleges,IR-2-C-OC-C-6357,Shyam Lal College,OI (100),54.6,OI
+2018,Colleges,IR-2-C-OC-C-6357,Shyam Lal College,PERCEPTION (100),2.02,PR
+2018,Colleges,IR-1-C-C-C-35416,Rajiv Gandhi Institute of Information Technology and Biotechnology,TLR (100),66.83,TLR
+2018,Colleges,IR-1-C-C-C-35416,Rajiv Gandhi Institute of Information Technology and Biotechnology,RPC (100),9.64,RPC
+2018,Colleges,IR-1-C-C-C-35416,Rajiv Gandhi Institute of Information Technology and Biotechnology,GO (100),48.39,GO
+2018,Colleges,IR-1-C-C-C-35416,Rajiv Gandhi Institute of Information Technology and Biotechnology,OI (100),62.96,OI
+2018,Colleges,IR-1-C-C-C-35416,Rajiv Gandhi Institute of Information Technology and Biotechnology,PERCEPTION (100),23.75,PR
+2018,Colleges,IR-1-C-C-C-8213,Christ College,TLR (100),66.08,TLR
+2018,Colleges,IR-1-C-C-C-8213,Christ College,RPC (100),7.76,RPC
+2018,Colleges,IR-1-C-C-C-8213,Christ College,GO (100),64.6,GO
+2018,Colleges,IR-1-C-C-C-8213,Christ College,OI (100),43.14,OI
+2018,Colleges,IR-1-C-C-C-8213,Christ College,PERCEPTION (100),7.53,PR
+2018,Colleges,IR-1-C-C-C-41126,Sri Krishna Arts and Science College,TLR (100),56.69,TLR
+2018,Colleges,IR-1-C-C-C-41126,Sri Krishna Arts and Science College,RPC (100),3.69,RPC
+2018,Colleges,IR-1-C-C-C-41126,Sri Krishna Arts and Science College,GO (100),75.34,GO
+2018,Colleges,IR-1-C-C-C-41126,Sri Krishna Arts and Science College,OI (100),53.55,OI
+2018,Colleges,IR-1-C-C-C-41126,Sri Krishna Arts and Science College,PERCEPTION (100),13.17,PR
+2018,Colleges,IR-1-C-C-C-36529,Fatima College,TLR (100),62.0,TLR
+2018,Colleges,IR-1-C-C-C-36529,Fatima College,RPC (100),4.78,RPC
+2018,Colleges,IR-1-C-C-C-36529,Fatima College,GO (100),59.96,GO
+2018,Colleges,IR-1-C-C-C-36529,Fatima College,OI (100),54.03,OI
+2018,Colleges,IR-1-C-C-C-36529,Fatima College,PERCEPTION (100),28.18,PR
+2018,Colleges,IR-2-C-OC-C-5855,St. Xavier`s College,TLR (100),49.04,TLR
+2018,Colleges,IR-2-C-OC-C-5855,St. Xavier`s College,RPC (100),27.28,RPC
+2018,Colleges,IR-2-C-OC-C-5855,St. Xavier`s College,GO (100),69.46,GO
+2018,Colleges,IR-2-C-OC-C-5855,St. Xavier`s College,OI (100),50.62,OI
+2018,Colleges,IR-2-C-OC-C-5855,St. Xavier`s College,PERCEPTION (100),26.02,PR
+2018,Colleges,IR-1-C-C-C-41106,Kongunadu Arts & Science College,TLR (100),58.85,TLR
+2018,Colleges,IR-1-C-C-C-41106,Kongunadu Arts & Science College,RPC (100),33.3,RPC
+2018,Colleges,IR-1-C-C-C-41106,Kongunadu Arts & Science College,GO (100),53.16,GO
+2018,Colleges,IR-1-C-C-C-41106,Kongunadu Arts & Science College,OI (100),45.28,OI
+2018,Colleges,IR-1-C-C-C-41106,Kongunadu Arts & Science College,PERCEPTION (100),23.16,PR
+2018,Colleges,IR-1-C-C-C-29312,Govt. Post-Graduate College for Girls,TLR (100),59.15,TLR
+2018,Colleges,IR-1-C-C-C-29312,Govt. Post-Graduate College for Girls,RPC (100),0.0,RPC
+2018,Colleges,IR-1-C-C-C-29312,Govt. Post-Graduate College for Girls,GO (100),66.62,GO
+2018,Colleges,IR-1-C-C-C-29312,Govt. Post-Graduate College for Girls,OI (100),64.51,OI
+2018,Colleges,IR-1-C-C-C-29312,Govt. Post-Graduate College for Girls,PERCEPTION (100),18.13,PR
+2018,Colleges,IR-1-C-C-C-11557,Kuriakose Gregorios College,TLR (100),64.08,TLR
+2018,Colleges,IR-1-C-C-C-11557,Kuriakose Gregorios College,RPC (100),0.0,RPC
+2018,Colleges,IR-1-C-C-C-11557,Kuriakose Gregorios College,GO (100),68.47,GO
+2018,Colleges,IR-1-C-C-C-11557,Kuriakose Gregorios College,OI (100),45.26,OI
+2018,Colleges,IR-1-C-C-C-11557,Kuriakose Gregorios College,PERCEPTION (100),12.41,PR
+2018,Colleges,IR-1-C-C-C-41184,Women`s Christian College,TLR (100),69.85,TLR
+2018,Colleges,IR-1-C-C-C-41184,Women`s Christian College,RPC (100),11.02,RPC
+2018,Colleges,IR-1-C-C-C-41184,Women`s Christian College,GO (100),56.12,GO
+2018,Colleges,IR-1-C-C-C-41184,Women`s Christian College,OI (100),42.76,OI
+2018,Colleges,IR-1-C-C-C-41184,Women`s Christian College,PERCEPTION (100),5.77,PR
+2018,Colleges,IR-1-C-C-C-41110,Government Arts College,TLR (100),65.09,TLR
+2018,Colleges,IR-1-C-C-C-41110,Government Arts College,RPC (100),14.23,RPC
+2018,Colleges,IR-1-C-C-C-41110,Government Arts College,GO (100),58.11,GO
+2018,Colleges,IR-1-C-C-C-41110,Government Arts College,OI (100),49.56,OI
+2018,Colleges,IR-1-C-C-C-41110,Government Arts College,PERCEPTION (100),2.99,PR
+2018,Colleges,IR-1-C-C-C-41096,CMS College of Science and Commerce,TLR (100),59.08,TLR
+2018,Colleges,IR-1-C-C-C-41096,CMS College of Science and Commerce,RPC (100),5.9,RPC
+2018,Colleges,IR-1-C-C-C-41096,CMS College of Science and Commerce,GO (100),68.65,GO
+2018,Colleges,IR-1-C-C-C-41096,CMS College of Science and Commerce,OI (100),61.54,OI
+2018,Colleges,IR-1-C-C-C-41096,CMS College of Science and Commerce,PERCEPTION (100),1.02,PR
+2018,Colleges,IR-1-C-C-C-6397,College of Vocational Studies,TLR (100),59.09,TLR
+2018,Colleges,IR-1-C-C-C-6397,College of Vocational Studies,RPC (100),0.58,RPC
+2018,Colleges,IR-1-C-C-C-6397,College of Vocational Studies,GO (100),73.94,GO
+2018,Colleges,IR-1-C-C-C-6397,College of Vocational Studies,OI (100),55.99,OI
+2018,Colleges,IR-1-C-C-C-6397,College of Vocational Studies,PERCEPTION (100),0.0,PR
+2018,Colleges,IR-1-C-C-C-35878,National College,TLR (100),63.83,TLR
+2018,Colleges,IR-1-C-C-C-35878,National College,RPC (100),14.06,RPC
+2018,Colleges,IR-1-C-C-C-35878,National College,GO (100),52.63,GO
+2018,Colleges,IR-1-C-C-C-35878,National College,OI (100),43.52,OI
+2018,Colleges,IR-1-C-C-C-35878,National College,PERCEPTION (100),26.57,PR
+2018,Colleges,IR-2-C-OC-C-33555,St. Xavier`s College,TLR (100),51.56,TLR
+2018,Colleges,IR-2-C-OC-C-33555,St. Xavier`s College,RPC (100),7.47,RPC
+2018,Colleges,IR-2-C-OC-C-33555,St. Xavier`s College,GO (100),59.3,GO
+2018,Colleges,IR-2-C-OC-C-33555,St. Xavier`s College,OI (100),52.16,OI
+2018,Colleges,IR-2-C-OC-C-33555,St. Xavier`s College,PERCEPTION (100),60.27,PR
+2018,Colleges,IR-1-C-C-C-11582,St. Teresa`s College,TLR (100),56.79,TLR
+2018,Colleges,IR-1-C-C-C-11582,St. Teresa`s College,RPC (100),3.15,RPC
+2018,Colleges,IR-1-C-C-C-11582,St. Teresa`s College,GO (100),58.71,GO
+2018,Colleges,IR-1-C-C-C-11582,St. Teresa`s College,OI (100),51.5,OI
+2018,Colleges,IR-1-C-C-C-11582,St. Teresa`s College,PERCEPTION (100),47.57,PR
+2018,Colleges,IR-1-C-C-N-6,Queen Mary`s College,TLR (100),68.04,TLR
+2018,Colleges,IR-1-C-C-N-6,Queen Mary`s College,RPC (100),17.28,RPC
+2018,Colleges,IR-1-C-C-N-6,Queen Mary`s College,GO (100),44.42,GO
+2018,Colleges,IR-1-C-C-N-6,Queen Mary`s College,OI (100),43.13,OI
+2018,Colleges,IR-1-C-C-N-6,Queen Mary`s College,PERCEPTION (100),23.16,PR
+2018,Colleges,IR-1-C-C-C-8008,Vimala College,TLR (100),63.94,TLR
+2018,Colleges,IR-1-C-C-C-8008,Vimala College,RPC (100),0.59,RPC
+2018,Colleges,IR-1-C-C-C-8008,Vimala College,GO (100),66.01,GO
+2018,Colleges,IR-1-C-C-C-8008,Vimala College,OI (100),53.66,OI
+2018,Colleges,IR-1-C-C-C-8008,Vimala College,PERCEPTION (100),0.0,PR
+2018,Colleges,IR-1-C-C-C-8169,St. Thomas College,TLR (100),65.64,TLR
+2018,Colleges,IR-1-C-C-C-8169,St. Thomas College,RPC (100),5.47,RPC
+2018,Colleges,IR-1-C-C-C-8169,St. Thomas College,GO (100),62.63,GO
+2018,Colleges,IR-1-C-C-C-8169,St. Thomas College,OI (100),45.96,OI
+2018,Colleges,IR-1-C-C-C-8169,St. Thomas College,PERCEPTION (100),1.02,PR
+2018,Colleges,IR-1-C-C-C-22466,Lakshmi Bai College,TLR (100),62.66,TLR
+2018,Colleges,IR-1-C-C-C-22466,Lakshmi Bai College,RPC (100),0.48,RPC
+2018,Colleges,IR-1-C-C-C-22466,Lakshmi Bai College,GO (100),61.61,GO
+2018,Colleges,IR-1-C-C-C-22466,Lakshmi Bai College,OI (100),60.38,OI
+2018,Colleges,IR-1-C-C-C-22466,Lakshmi Bai College,PERCEPTION (100),7.53,PR
+2018,Colleges,IR-1-C-C-C-36578,Lady Doak College,TLR (100),57.85,TLR
+2018,Colleges,IR-1-C-C-C-36578,Lady Doak College,RPC (100),15.76,RPC
+2018,Colleges,IR-1-C-C-C-36578,Lady Doak College,GO (100),56.13,GO
+2018,Colleges,IR-1-C-C-C-36578,Lady Doak College,OI (100),41.8,OI
+2018,Colleges,IR-1-C-C-C-36578,Lady Doak College,PERCEPTION (100),34.95,PR
+2018,Colleges,IR-1-C-C-I-1373,Goswami Ganesh Dutta Sanatan Dharma College,TLR (100),48.3,TLR
+2018,Colleges,IR-1-C-C-I-1373,Goswami Ganesh Dutta Sanatan Dharma College,RPC (100),8.66,RPC
+2018,Colleges,IR-1-C-C-I-1373,Goswami Ganesh Dutta Sanatan Dharma College,GO (100),73.27,GO
+2018,Colleges,IR-1-C-C-I-1373,Goswami Ganesh Dutta Sanatan Dharma College,OI (100),65.69,OI
+2018,Colleges,IR-1-C-C-I-1373,Goswami Ganesh Dutta Sanatan Dharma College,PERCEPTION (100),16.08,PR
+2018,Colleges,IR-1-C-C-C-35832,Jamal Mohamed College,TLR (100),58.23,TLR
+2018,Colleges,IR-1-C-C-C-35832,Jamal Mohamed College,RPC (100),32.64,RPC
+2018,Colleges,IR-1-C-C-C-35832,Jamal Mohamed College,GO (100),50.0,GO
+2018,Colleges,IR-1-C-C-C-35832,Jamal Mohamed College,OI (100),36.85,OI
+2018,Colleges,IR-1-C-C-C-35832,Jamal Mohamed College,PERCEPTION (100),26.02,PR
+2018,Colleges,IR-2-C-OC-C-11833,Marian College,TLR (100),64.74,TLR
+2018,Colleges,IR-2-C-OC-C-11833,Marian College,RPC (100),0.26,RPC
+2018,Colleges,IR-2-C-OC-C-11833,Marian College,GO (100),58.6,GO
+2018,Colleges,IR-2-C-OC-C-11833,Marian College,OI (100),59.7,OI
+2018,Colleges,IR-2-C-OC-C-11833,Marian College,PERCEPTION (100),2.99,PR
+2018,Colleges,IR-1-C-C-C-36487,V. V. Vanniaperumal College for Women,TLR (100),62.76,TLR
+2018,Colleges,IR-1-C-C-C-36487,V. V. Vanniaperumal College for Women,RPC (100),3.83,RPC
+2018,Colleges,IR-1-C-C-C-36487,V. V. Vanniaperumal College for Women,GO (100),60.06,GO
+2018,Colleges,IR-1-C-C-C-36487,V. V. Vanniaperumal College for Women,OI (100),43.09,OI
+2018,Colleges,IR-1-C-C-C-36487,V. V. Vanniaperumal College for Women,PERCEPTION (100),17.46,PR
+2018,Colleges,IR-1-C-C-C-6391,Maitreyi College,TLR (100),59.67,TLR
+2018,Colleges,IR-1-C-C-C-6391,Maitreyi College,RPC (100),10.25,RPC
+2018,Colleges,IR-1-C-C-C-6391,Maitreyi College,GO (100),53.23,GO
+2018,Colleges,IR-1-C-C-C-6391,Maitreyi College,OI (100),67.66,OI
+2018,Colleges,IR-1-C-C-C-6391,Maitreyi College,PERCEPTION (100),12.41,PR
+2018,Colleges,IR-1-C-C-C-43783,Nirmalagiri College,TLR (100),60.92,TLR
+2018,Colleges,IR-1-C-C-C-43783,Nirmalagiri College,RPC (100),10.51,RPC
+2018,Colleges,IR-1-C-C-C-43783,Nirmalagiri College,GO (100),65.74,GO
+2018,Colleges,IR-1-C-C-C-43783,Nirmalagiri College,OI (100),42.87,OI
+2018,Colleges,IR-1-C-C-C-43783,Nirmalagiri College,PERCEPTION (100),0.0,PR
+2018,Colleges,IR-1-C-C-C-43760,Mahatma Gandhi College,TLR (100),71.42,TLR
+2018,Colleges,IR-1-C-C-C-43760,Mahatma Gandhi College,RPC (100),18.68,RPC
+2018,Colleges,IR-1-C-C-C-43760,Mahatma Gandhi College,GO (100),39.07,GO
+2018,Colleges,IR-1-C-C-C-43760,Mahatma Gandhi College,OI (100),48.77,OI
+2018,Colleges,IR-1-C-C-C-43760,Mahatma Gandhi College,PERCEPTION (100),5.77,PR
+2018,Colleges,IR-1-C-C-C-41104,Kongu Arts & Science College,TLR (100),48.94,TLR
+2018,Colleges,IR-1-C-C-C-41104,Kongu Arts & Science College,RPC (100),0.96,RPC
+2018,Colleges,IR-1-C-C-C-41104,Kongu Arts & Science College,GO (100),64.68,GO
+2018,Colleges,IR-1-C-C-C-41104,Kongu Arts & Science College,OI (100),40.96,OI
+2018,Colleges,IR-1-C-C-C-41104,Kongu Arts & Science College,PERCEPTION (100),64.65,PR
+2018,Colleges,IR-1-C-C-C-36547,The American College,TLR (100),63.95,TLR
+2018,Colleges,IR-1-C-C-C-36547,The American College,RPC (100),13.31,RPC
+2018,Colleges,IR-1-C-C-C-36547,The American College,GO (100),42.9,GO
+2018,Colleges,IR-1-C-C-C-36547,The American College,OI (100),37.3,OI
+2018,Colleges,IR-1-C-C-C-36547,The American College,PERCEPTION (100),43.04,PR
+2018,Colleges,IR-1-C-C-C-41054,Dr. N. G. P. Arts and Science College,TLR (100),58.81,TLR
+2018,Colleges,IR-1-C-C-C-41054,Dr. N. G. P. Arts and Science College,RPC (100),8.03,RPC
+2018,Colleges,IR-1-C-C-C-41054,Dr. N. G. P. Arts and Science College,GO (100),59.33,GO
+2018,Colleges,IR-1-C-C-C-41054,Dr. N. G. P. Arts and Science College,OI (100),55.75,OI
+2018,Colleges,IR-1-C-C-C-41054,Dr. N. G. P. Arts and Science College,PERCEPTION (100),11.64,PR
+2018,Colleges,IR-1-C-C-C-43711,Bishop Moore College,TLR (100),59.11,TLR
+2018,Colleges,IR-1-C-C-C-43711,Bishop Moore College,RPC (100),16.37,RPC
+2018,Colleges,IR-1-C-C-C-43711,Bishop Moore College,GO (100),57.04,GO
+2018,Colleges,IR-1-C-C-C-43711,Bishop Moore College,OI (100),53.65,OI
+2018,Colleges,IR-1-C-C-C-43711,Bishop Moore College,PERCEPTION (100),4.87,PR
+2018,Colleges,IR-1-C-C-C-41434,Bharati Vidyapeeth`s College of Fine Arts,TLR (100),63.82,TLR
+2018,Colleges,IR-1-C-C-C-41434,Bharati Vidyapeeth`s College of Fine Arts,RPC (100),0.0,RPC
+2018,Colleges,IR-1-C-C-C-41434,Bharati Vidyapeeth`s College of Fine Arts,GO (100),56.16,GO
+2018,Colleges,IR-1-C-C-C-41434,Bharati Vidyapeeth`s College of Fine Arts,OI (100),54.63,OI
+2018,Colleges,IR-1-C-C-C-41434,Bharati Vidyapeeth`s College of Fine Arts,PERCEPTION (100),11.64,PR
+2018,Colleges,IR-1-C-C-C-16897,St. Aloysius College,TLR (100),52.93,TLR
+2018,Colleges,IR-1-C-C-C-16897,St. Aloysius College,RPC (100),9.44,RPC
+2018,Colleges,IR-1-C-C-C-16897,St. Aloysius College,GO (100),54.93,GO
+2018,Colleges,IR-1-C-C-C-16897,St. Aloysius College,OI (100),54.8,OI
+2018,Colleges,IR-1-C-C-C-16897,St. Aloysius College,PERCEPTION (100),43.04,PR
+2018,Colleges,IR-1-C-C-C-43911,Anna Adarsh College for Women,TLR (100),59.24,TLR
+2018,Colleges,IR-1-C-C-C-43911,Anna Adarsh College for Women,RPC (100),3.01,RPC
+2018,Colleges,IR-1-C-C-C-43911,Anna Adarsh College for Women,GO (100),64.5,GO
+2018,Colleges,IR-1-C-C-C-43911,Anna Adarsh College for Women,OI (100),51.29,OI
+2018,Colleges,IR-1-C-C-C-43911,Anna Adarsh College for Women,PERCEPTION (100),6.67,PR
+2018,Colleges,IR-1-C-C-C-9562,Mahendra Arts & Science College,TLR (100),50.3,TLR
+2018,Colleges,IR-1-C-C-C-9562,Mahendra Arts & Science College,RPC (100),10.14,RPC
+2018,Colleges,IR-1-C-C-C-9562,Mahendra Arts & Science College,GO (100),71.06,GO
+2018,Colleges,IR-1-C-C-C-9562,Mahendra Arts & Science College,OI (100),59.52,OI
+2018,Colleges,IR-1-C-C-C-9562,Mahendra Arts & Science College,PERCEPTION (100),5.77,PR
+2018,Colleges,IR-1-C-C-C-8106,St. Joseph's College,TLR (100),61.33,TLR
+2018,Colleges,IR-1-C-C-C-8106,St. Joseph's College,RPC (100),0.3,RPC
+2018,Colleges,IR-1-C-C-C-8106,St. Joseph's College,GO (100),67.0,GO
+2018,Colleges,IR-1-C-C-C-8106,St. Joseph's College,OI (100),43.55,OI
+2018,Colleges,IR-1-C-C-C-8106,St. Joseph's College,PERCEPTION (100),2.02,PR
+2018,Colleges,IR-1-C-C-C-41134,Rathinam College of Arts and Science,TLR (100),52.95,TLR
+2018,Colleges,IR-1-C-C-C-41134,Rathinam College of Arts and Science,RPC (100),0.19,RPC
+2018,Colleges,IR-1-C-C-C-41134,Rathinam College of Arts and Science,GO (100),72.78,GO
+2018,Colleges,IR-1-C-C-C-41134,Rathinam College of Arts and Science,OI (100),64.2,OI
+2018,Colleges,IR-1-C-C-C-41134,Rathinam College of Arts and Science,PERCEPTION (100),0.0,PR
+2018,Colleges,IR-1-C-C-C-6401,Shaheed Bhagat Singh College (Evening),TLR (100),64.4,TLR
+2018,Colleges,IR-1-C-C-C-6401,Shaheed Bhagat Singh College (Evening),RPC (100),4.43,RPC
+2018,Colleges,IR-1-C-C-C-6401,Shaheed Bhagat Singh College (Evening),GO (100),50.21,GO
+2018,Colleges,IR-1-C-C-C-6401,Shaheed Bhagat Singh College (Evening),OI (100),65.33,OI
+2018,Colleges,IR-1-C-C-C-6401,Shaheed Bhagat Singh College (Evening),PERCEPTION (100),2.99,PR
+2018,Colleges,IR-2-C-OC-C-6381,Keshav Mahavidyalya,TLR (100),69.09,TLR
+2018,Colleges,IR-2-C-OC-C-6381,Keshav Mahavidyalya,RPC (100),11.94,RPC
+2018,Colleges,IR-2-C-OC-C-6381,Keshav Mahavidyalya,GO (100),43.09,GO
+2018,Colleges,IR-2-C-OC-C-6381,Keshav Mahavidyalya,OI (100),52.82,OI
+2018,Colleges,IR-2-C-OC-C-6381,Keshav Mahavidyalya,PERCEPTION (100),2.99,PR

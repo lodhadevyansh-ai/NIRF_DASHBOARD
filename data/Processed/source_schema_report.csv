@@ -1,0 +1,18 @@
+File Type,Column Name,Data Type,Sample Values,Mapped Master Field,Field Classification,Notes
+Ranking CSV,year,int64,2023; 2023; 2023,year,Year (Integer),Ranking year
+Ranking CSV,category,str,Agriculture and Allied Sectors; Agriculture and Allied Sectors; Agriculture and Allied Sectors,category,Category (String),Category name
+Ranking CSV,institute_id,str,IR-G-U-0101; IR-G-U-0171; IR-G-U-0381,institute_id,Institution ID (String),Official NIRF institute identifier
+Ranking CSV,institute_name,str,"Indian Agricultural Research Institute; ICAR - National Dairy Research Institute; Punjab Agricultural University, Ludhiana",institution_name,Institution Name (String),Full name of the institution
+Ranking CSV,city,str,New Delhi; Karnal; Ludhiana,city,Location City (String),City of institution
+Ranking CSV,state,str,Delhi; Haryana; Punjab,state,Location State (String),State of institution
+Ranking CSV,official_rank,int64,1; 2; 3,rank,Official Rank (String/Integer),Official published rank
+Ranking CSV,numeric_rank,int64,1; 2; 3,numeric_rank,Numeric Rank (Integer),Numeric rank for sorting
+Ranking CSV,overall_score,float64,83.16; 70.45; 65.98,overall_score,Overall Score (Float),Composite NIRF score
+Ranking CSV,source_url,str,https://www.nirfindia.org/Rankings/2023/AgricultureRanking.html; https://www.nirfindia.org/Rankings/2023/AgricultureRanking.html; https://www.nirfindia.org/Rankings/2023/AgricultureRanking.html,source_url,Traceability URL (String),Official NIRF webpage URL
+Parameter CSV,year,int64,2023; 2023; 2023,year,Year (Integer),Parameter year
+Parameter CSV,category,str,Agriculture and Allied Sectors; Agriculture and Allied Sectors; Agriculture and Allied Sectors,category,Category (String),Parameter category
+Parameter CSV,institute_id,str,IR-G-U-0101; IR-G-U-0101; IR-G-U-0101,institute_id,Institution ID (String),Matching identifier
+Parameter CSV,institute_name,str,Indian Agricultural Research Institute; Indian Agricultural Research Institute; Indian Agricultural Research Institute,institution_name,Institution Name (String),Institution name in parameter file
+Parameter CSV,parameter_name,str,TLR (100); RPC (100); GO (100),original_parameter_names,Parameter Name (String),Original NIRF parameter header
+Parameter CSV,parameter_score,float64,86.71; 84.32; 78.41,tlr/rpc/go/oi/pr/qnr/qlr/sfc_score,Parameter Score (Float),Score on official scale
+Parameter CSV,canonical_parameter,str,TLR; RPC; GO,canonical_parameter,Canonical Code (String),Standardized parameter abbreviation

@@ -1,0 +1,101 @@
+year,category,institute_id,institute_name,city,state,official_rank,numeric_rank,overall_score,source_url
+2022,Engineering,IR-E-U-0456,Indian Institute of Technology Madras,Chennai,Tamil Nadu,1,1,90.04,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-I-1074,"Indian Institute of Technology, Delhi",New Delhi,Delhi,2,2,88.12,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-U-0306,"Indian Institute of Technology, Bombay",Mumbai,Maharashtra,3,3,83.96,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-I-1075,Indian Institute of Technology Kanpur,Kanpur,Uttar Pradesh,4,4,82.56,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-U-0573,"Indian Institute of Technology, Kharagpur",Kharagpur,West Bengal,5,5,78.89,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-U-0560,"Indian Institute of Technology, Roorkee",Roorkee,Uttarakhand,6,6,76.7,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-U-0053,Indian Institute of Technology Guwahati,Guwahati,Assam,7,7,72.98,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-U-0467,"National Institute of Technology, Tiruchirappalli",Tiruchirappalli,Tamil Nadu,8,8,69.17,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-U-0013,Indian Institute of Technology Hyderabad,Hyderabad,Telangana,9,9,68.03,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-U-0237,"National Institute of Technology Karnataka, Surathkal",Surathkal,Karnataka,10,10,66.04,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-U-0575,Jadavpur University,Kolkata,West Bengal,11,11,65.68,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-U-0490,Vellore Institute of Technology,Vellore,Tamil Nadu,12,12,65.53,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-U-0701,Indian Institute of Technology (Banaras Hindu University) Varanasi,Varanasi,Uttar Pradesh,13,13,63.51,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-U-0205,Indian Institute of Technology (Indian School of Mines),Dhanbad,Jharkhand,14,14,63.5,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-U-0357,National Institute of Technology Rourkela,Rourkela,Odisha,15,15,62.36,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-U-0273,Indian Institute of Technology Indore,Indore,Madhya Pradesh,16,16,61.68,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-U-0439,Anna University,Chennai,Tamil Nadu,17,17,61.41,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-U-0308,Institute of Chemical Technology,Mumbai,Maharashtra,18,18,61.4,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-U-0436,Amrita Vishwa Vidyapeetham,Coimbatore,Tamil Nadu,19,19,60.92,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-U-0184,"Indian Institute of Technology, Mandi",Mandi,Himachal Pradesh,20,20,60.43,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-U-0025,National Institute of Technology Warangal,Warangal,Telangana,21,21,60.0,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-U-0378,Indian Institute of Technology Ropar,Rupnagar,Punjab,22,22,59.16,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-U-0139,"Indian Institute of Technology, Gandhinagar",Gandhinagar,Gujarat,23,23,58.27,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-U-0473,S.R.M. Institute of Science and Technology,Chennai,Tamil Nadu,24,24,58.02,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-U-0497,Amity University,Gautam Budh Nagar,Uttar Pradesh,25,25,57.73,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-U-0108,"Jamia Millia Islamia, New Delhi",New Delhi,Delhi,26,26,57.51,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-U-0363,Siksha `O` Anusandhan,Bhubaneswar,Odisha,27,27,57.48,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-I-1480,Thapar Institute of Engineering and Technology,Patiala,Punjab,28,28,57.18,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-U-0391,Birla Institute of Technology & Science - Pilani,Pilani,Rajasthan,29,29,56.9,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-U-0395,Indian Institute of Technology Jodhpur,Jodhpur,Rajasthan,30,30,56.7,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-U-0263,"National Institute of Technology, Calicut",Kozhikode,Kerala,31,31,56.66,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-U-0334,"Visvesvaraya National Institute of Technology, Nagpur",Nagpur,Maharashtra,32,32,56.62,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-U-0064,"Indian Institute of Technology, Patna",Patna,Bihar,33,33,56.19,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-U-0577,National Institute of Technology Durgapur,Durgapur,West Bengal,34,34,55.76,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-U-0098,Delhi Technological University,New Delhi,Delhi,35,35,55.65,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-U-0355,Indian Institute of Technology Bhubaneswar,Bhubaneswar,Odisha,36,36,55.11,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-U-0496,Aligarh Muslim University,Aligarh,Uttar Pradesh,37,37,54.7,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-U-0055,"National Institute of Technology, Silchar",Silchar,Assam,38,38,54.63,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-U-0458,Kalasalingam Academy of Research and Education,Srivilliputtur,Tamil Nadu,39,39,54.62,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-U-0584,"Indian Institute of Engineering Science and Technology, Shibpur",HOWRAH,West Bengal,40,40,54.57,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-U-0476,Shanmugha Arts Science Technology & Research Academy,Thanjavur,Tamil Nadu,41,41,53.36,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-U-0356,Kalinga Institute of Industrial Technology,BHUBANESWAR,Odisha,42,42,53.06,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-U-0255,Indian Institute of Space Science and Technology,Thiruvananthapuram,Kerala,43,43,52.37,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-U-0020,Koneru Lakshmaiah Education Foundation University (K L College of Engineering),Vaddeswaram,Andhra Pradesh,44,44,51.93,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-U-0747,Chandigarh University,Mohali,Punjab,45,45,51.73,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-U-0410,Malaviya National Institute of Technology,Jaipur,Rajasthan,46,46,51.69,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-U-0530,Motilal Nehru National Institute of Technology,Prayagraj,Uttar Pradesh,47,47,51.17,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-C-16604,Sri Sivasubramaniya Nadar College of Engineering,Kancheepuram,Tamil Nadu,48,48,50.5,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-U-0249,Visvesvaraya Technological University,Belgaum,Karnataka,49,49,50.2,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-U-0172,National Institute of Technology Kurukshetra,Kurukshetra,Haryana,50,50,50.11,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-U-0379,Lovely Professional University,Phagwara,Punjab,51,51,49.58,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-U-0374,"Dr. B R Ambedkar National Institute of Technology, Jalandhar",Jalandhar,Punjab,52,52,49.45,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-U-0202,Birla Institute of Technology,Ranchi,Jharkhand,53,53,49.33,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-U-0474,Sathyabama Institute of Science and Technology,Chennai,Tamil Nadu,54,54,48.56,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-C-7252,Manipal Institute of Technology,Manipal,Karnataka,55,55,48.33,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-U-0844,"Indian Institute of Technology, Tirupati",YERPEDU,Andhra Pradesh,56,56,48.16,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-C-37013,PSG College of Technology,Coimbatore,Tamil Nadu,57,57,47.68,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-U-0149,Sardar Vallabhbhai National Institute of Technology,Surat,Gujarat,58,58,47.61,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-U-0389,Banasthali Vidyapith,Banasthali,Rajasthan,59,59,47.0,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-U-0619,National Institute of Technology Meghalaya,Shillong,Meghalaya,60,60,46.67,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-U-0564,University of Petroleum and Energy Studies,Dehradun,Uttarakhand,61,61,46.43,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-U-0014,International Institute of Information Technology Hyderabad,Hyderabad,Telangana,62,62,46.41,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-U-0072,"National Institute of Technology, Patna",Patna,Bihar,63,63,46.24,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-U-0555,Graphic Era University,Dehradun,Uttarakhand,64,64,45.87,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-U-0092,"National Institute of Technology, Raipur",Raipur,Chhattisgarh,65,65,45.71,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-U-0197,National Institute of Technology Srinagar,Srinagar,Jammu and Kashmir,66,66,45.52,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-C-1331,M. S. Ramaiah Institute of Technology,Bengaluru,Karnataka,67,67,45.17,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-U-0878,Indian Institute of Technology Palakkad,Palakkad,Kerala,68,68,44.92,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-U-0105,Indraprastha Institute of Information Technology Delhi,New Delhi,Delhi,69,69,44.79,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-U-0284,Maulana Azad National Institute of Technology,Bhopal,Madhya Pradesh,70,70,44.63,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-U-0297,Defence Institute of Advanced Technology,Pune,Maharashtra,71,71,44.62,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-C-41593,"College of Engineering, Pune",Pune,Maharashtra,72,72,44.38,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-C-36995,Sri Krishna College of Engineering and Technology,Coimbatore,Tamil Nadu,73,73,44.16,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-U-0099,Guru Gobind Singh Indraprastha University,New Delhi,Delhi,74,74,44.02,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-U-0749,"Manipal University, Jaipur",Jaipur,Rajasthan,75,75,43.83,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-U-0017,Jawaharlal Nehru Technological University,Hyderabad,Telangana,76,76,42.77,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-C-24004,AU College of Engineering (A),Visakhapatnam,Andhra Pradesh,77,77,42.76,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-U-0267,Atal Bihari Vajpayee Indian Institute of Information Technology and Management,Gwalior,Madhya Pradesh,78,78,42.56,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-C-6379,Netaji Subhas University of Technology (NSUT),South West,Delhi,79,79,42.14,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-U-0493,National Institute of Technology Agartala,Agratala,Tripura,80,80,41.92,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-U-0221,International Institute of Information Technology Bangalore,Bengaluru,Karnataka,81,81,41.91,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-U-0286,"Pandit Dwarka Prasad Mishra Indian Institute of Information Technology, Design and Manufacturing (IIITDM) Jabalpur",Jabalpur,Madhya Pradesh,82,82,41.79,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-C-1262,B.M.S. College of Engineering,Bengaluru,Karnataka,83,83,41.71,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-U-0489,Vel Tech Rangarajan Dr. Sagunthala R & D Institute of Science and Technology,Chennai,Tamil Nadu,84,84,41.35,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-C-26794,Thiagarajar College of Engineering,Madurai,Tamil Nadu,85,85,41.1,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-C-45375,"National Institute of Food Technology, Entrepreneurship and Management - Thanjavur (NIFTEM - Thanjavur)",Thanjavur,Tamil Nadu,86,86,41.06,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-U-0080,"Punjab Engineering College (Deemed to be University), Chandigarh",Chandigarh,Chandigarh,87,87,41.05,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-U-0620,National Institute of Technology Goa,Ponda,Goa,88,88,40.78,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-C-1269,R.V. College of Engineering,Bengaluru,Karnataka,89,89,40.73,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-U-0207,"National Institute of Technology, Jamshedpur",Jamshedpur,Jharkhand,90,90,40.71,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-C-19754,SR University,Warangal,Telangana,91,91,40.69,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-U-0078,Panjab University,Chandigarh,Chandigarh,92,92,40.58,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-U-0516,Indian Institute of Information Technology Allahabad,Prayagraj (Allahabad),Uttar Pradesh,93,93,40.53,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-U-0522,Jaypee Institute of Information Technology,Noida,Uttar Pradesh,94,94,40.5,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-C-16626,Rajalakshmi Engineering College,Chennai,Tamil Nadu,95,95,40.47,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-U-0163,The Northcap University,Gurugram,Haryana,96,96,40.33,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-C-1297,Siddaganga Institute of Technology,Tumkur,Karnataka,97,97,40.24,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-C-30045,"C.V. Raman Global University, Odisha",Bhubaneswar,Odisha,98,98,40.19,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-U-0043,"Vignan's Foundation for Science, Technology and Research",Guntur,Andhra Pradesh,99,99,40.16,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html
+2022,Engineering,IR-E-U-0733,PES University,Bengaluru,Karnataka,100,100,40.14,https://www.nirfindia.org/Rankings/2022/EngineeringRanking.html

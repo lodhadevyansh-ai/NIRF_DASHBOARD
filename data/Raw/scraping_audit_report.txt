@@ -1,0 +1,64 @@
+===========================================================================
+NIRF RAW DATASET DIRECTORY COMPLETE AUDIT REPORT
+Generated At: 2026-10-31T16:42:20.141236+00:00
+Audited Directory: C:\Users\lodha\Downloads\NIRF_DASHBOARD\data\Raw
+===========================================================================
+Total Category-Year Combinations Evaluated: 153
+  - Available Datasets:                     102
+  - Unavailable (Correctly Skipped):        51
+  - Datasets Passing All Audit Checks:      102 / 102 (100%)
+  - Datasets Failing Checks:                0
+---------------------------------------------------------------------------
+Total Institutions Scraped:                 6572
+Total Parameter Records Scraped:            32595
+Total Duplicate Records Detected:           0
+Total Missing Institution Names:            0
+===========================================================================
+
+CATEGORY-WISE AUDIT SUMMARY:
+Category                         | Years | Institutions | Parameters |   Status
+---------------------------------------------------------------------------
+Agriculture and Allied Sectors   |     3 |          120 |        600 |     PASS
+Architecture and Planning        |     8 |          210 |       1050 |     PASS
+Colleges                         |     9 |          899 |       4495 |     PASS
+Dental                           |     6 |          230 |       1145 |     PASS
+Engineering                      |     9 |          898 |       4490 |     PASS
+Innovation                       |     3 |           30 |          0 |     PASS
+Law                              |     8 |          215 |       1075 |     PASS
+Management                       |     9 |          726 |       3630 |     PASS
+Medical                          |     8 |          345 |       1725 |     PASS
+Open University                  |     2 |            6 |          0 |     PASS
+Overall                          |     9 |          901 |       4505 |     PASS
+Pharmacy                         |     9 |          726 |       3630 |     PASS
+Research Institutions            |     5 |          250 |       1250 |     PASS
+Skill University                 |     2 |            6 |          0 |     PASS
+State Public University          |     2 |          100 |        500 |     PASS
+Sustainable Development Goals    |     1 |           10 |          0 |     PASS
+Universities                     |     9 |          900 |       4500 |     PASS
+---------------------------------------------------------------------------
+
+YEAR-WISE AUDIT SUMMARY:
+Year     | Active Categories | Institutions | Parameters |   Status
+---------------------------------------------------------------------------
+2017     |                 6 |          500 |       2500 |     PASS
+2018     |                 9 |          541 |       2705 |     PASS
+2019     |                 9 |          610 |       3050 |     PASS
+2020     |                10 |          661 |       3305 |     PASS
+2021     |                11 |          745 |       3725 |     PASS
+2022     |                11 |          802 |       4010 |     PASS
+2023     |                13 |          850 |       4200 |     PASS
+2024     |                16 |          926 |       4550 |     PASS
+2025     |                17 |          937 |       4550 |     PASS
+===========================================================================
+VERIFICATION OF 10 AUDIT CHECKS:
+  1. Ranking CSV exists:                   102/102 PASSED
+  2. Parameter CSV exists:                 102/102 PASSED (empty when no params published)
+  3. Original HTML exists:                 102/102 PASSED (unmodified raw HTML preserved)
+  4. Metadata JSON exists:                 102/102 PASSED
+  5. CSV files can be opened successfully: 102/102 PASSED
+  6. Category and year alignment:          102/102 PASSED (zero cross-contamination)
+  7. Exact ranks restricted to 1-100:      102/102 PASSED (no ranks > 100 included)
+  8. Rank bands preserved separately:      102/102 PASSED (preserved as string, numeric_rank=null)
+  9. Duplicate records check:              102/102 PASSED (0 duplicate IDs across all 102 datasets)
+ 10. No records fabricated:                102/102 PASSED (100% matched official raw HTML tables)
+===========================================================================

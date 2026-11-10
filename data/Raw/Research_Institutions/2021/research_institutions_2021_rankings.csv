@@ -1,0 +1,51 @@
+year,category,institute_id,institute_name,city,state,official_rank,numeric_rank,overall_score,source_url
+2021,Research Institutions,IR-R-U-0220,Indian Institute of Science,Bengaluru,Karnataka,1,1,86.48,https://www.nirfindia.org/Rankings/2021/ResearchRanking.html
+2021,Research Institutions,IR-R-U-0456,Indian Institute of Technology Madras,Chennai,Tamil Nadu,2,2,86.01,https://www.nirfindia.org/Rankings/2021/ResearchRanking.html
+2021,Research Institutions,IR-R-U-0306,Indian Institute of Technology Bombay,Mumbai,Maharashtra,3,3,80.93,https://www.nirfindia.org/Rankings/2021/ResearchRanking.html
+2021,Research Institutions,IR-R-I-1074,Indian Institute of Technology Delhi,New Delhi,Delhi,4,4,78.02,https://www.nirfindia.org/Rankings/2021/ResearchRanking.html
+2021,Research Institutions,IR-R-U-0573,Indian Institute of Technology Kharagpur,Kharagpur,West Bengal,5,5,73.21,https://www.nirfindia.org/Rankings/2021/ResearchRanking.html
+2021,Research Institutions,IR-R-I-1075,Indian Institute of Technology Kanpur,Kanpur,Uttar Pradesh,6,6,68.56,https://www.nirfindia.org/Rankings/2021/ResearchRanking.html
+2021,Research Institutions,IR-R-U-0560,Indian Institute of Technology Roorkee,Roorkee,Uttarakhand,7,7,66.5,https://www.nirfindia.org/Rankings/2021/ResearchRanking.html
+2021,Research Institutions,IR-R-N-15,All India Institute of Medical Sciences,New Delhi,Delhi,8,8,66.26,https://www.nirfindia.org/Rankings/2021/ResearchRanking.html
+2021,Research Institutions,IR-R-U-0053,Indian Institute of Technology Guwahati,Guwahati,Assam,9,9,64.99,https://www.nirfindia.org/Rankings/2021/ResearchRanking.html
+2021,Research Institutions,IR-R-U-0330,Tata Institute of Fundamental Research,Mumbai,Maharashtra,10,10,64.35,https://www.nirfindia.org/Rankings/2021/ResearchRanking.html
+2021,Research Institutions,IR-R-U-0120,University of Delhi,Delhi,Delhi,11,11,56.96,https://www.nirfindia.org/Rankings/2021/ResearchRanking.html
+2021,Research Institutions,IR-R-U-0490,Vellore Institute of Technology,Vellore,Tamil Nadu,12,12,55.58,https://www.nirfindia.org/Rankings/2021/ResearchRanking.html
+2021,Research Institutions,IR-R-U-0304,Homi Bhabha National Institute,Mumbai,Maharashtra,13,13,55.24,https://www.nirfindia.org/Rankings/2021/ResearchRanking.html
+2021,Research Institutions,IR-R-U-0500,Banaras Hindu University,Varanasi,Uttar Pradesh,14,14,54.96,https://www.nirfindia.org/Rankings/2021/ResearchRanking.html
+2021,Research Institutions,IR-R-U-0013,Indian Institute of Technology Hyderabad,Hyderabad,Telangana,15,15,54.7,https://www.nirfindia.org/Rankings/2021/ResearchRanking.html
+2021,Research Institutions,IR-R-U-0305,Indian Institute of Science Education & Research Pune,Pune,Maharashtra,16,16,54.5,https://www.nirfindia.org/Rankings/2021/ResearchRanking.html
+2021,Research Institutions,IR-R-U-0575,Jadavpur University,Kolkata,West Bengal,17,17,54.02,https://www.nirfindia.org/Rankings/2021/ResearchRanking.html
+2021,Research Institutions,IR-R-U-0109,Jawaharlal Nehru University,New Delhi,Delhi,18,18,53.52,https://www.nirfindia.org/Rankings/2021/ResearchRanking.html
+2021,Research Institutions,IR-R-U-0224,Jawaharlal Nehru Centre for Advanced Scientific Research,Bengaluru,Karnataka,19,19,52.57,https://www.nirfindia.org/Rankings/2021/ResearchRanking.html
+2021,Research Institutions,IR-R-U-0205,Indian Institute of Technology (Indian School of Mines),Dhanbad,Jharkhand,20,20,52.4,https://www.nirfindia.org/Rankings/2021/ResearchRanking.html
+2021,Research Institutions,IR-R-U-0308,Institute of Chemical Technology,Mumbai,Maharashtra,21,21,51.22,https://www.nirfindia.org/Rankings/2021/ResearchRanking.html
+2021,Research Institutions,IR-R-U-0713,Academy of Scientific & Innovative Research,Ghaziabad,Uttar Pradesh,22,22,51.18,https://www.nirfindia.org/Rankings/2021/ResearchRanking.html
+2021,Research Institutions,IR-R-U-0447,Bharathiar University,Coimbatore,Tamil Nadu,23,23,50.88,https://www.nirfindia.org/Rankings/2021/ResearchRanking.html
+2021,Research Institutions,IR-R-U-0496,Aligarh Muslim University,Aligarh,Uttar Pradesh,24,24,49.81,https://www.nirfindia.org/Rankings/2021/ResearchRanking.html
+2021,Research Institutions,IR-R-U-0042,University of Hyderabad,Hyderabad,Telangana,25,25,49.25,https://www.nirfindia.org/Rankings/2021/ResearchRanking.html
+2021,Research Institutions,IR-R-U-0273,Indian Institute of Technology Indore,Indore,Madhya Pradesh,26,26,48.86,https://www.nirfindia.org/Rankings/2021/ResearchRanking.html
+2021,Research Institutions,IR-R-U-0234,Manipal Academy of Higher Education,Manipal,Karnataka,27,27,48.73,https://www.nirfindia.org/Rankings/2021/ResearchRanking.html
+2021,Research Institutions,IR-R-U-0078,Panjab University,Chandigarh,Chandigarh,28,28,48.71,https://www.nirfindia.org/Rankings/2021/ResearchRanking.html
+2021,Research Institutions,IR-R-U-0436,Amrita Vishwa Vidyapeetham,Coimbatore,Tamil Nadu,29,29,48.29,https://www.nirfindia.org/Rankings/2021/ResearchRanking.html
+2021,Research Institutions,IR-R-U-0108,Jamia Millia Islamia,New Delhi,Delhi,30,30,48.28,https://www.nirfindia.org/Rankings/2021/ResearchRanking.html
+2021,Research Institutions,IR-R-U-0357,National Institute of Technology Rourkela,Rourkela,Odisha,31,31,48.0,https://www.nirfindia.org/Rankings/2021/ResearchRanking.html
+2021,Research Institutions,IR-R-U-0439,Anna University,Chennai,Tamil Nadu,32,32,47.87,https://www.nirfindia.org/Rankings/2021/ResearchRanking.html
+2021,Research Institutions,IR-R-U-0570,Calcutta University,Kolkata,West Bengal,33,33,47.74,https://www.nirfindia.org/Rankings/2021/ResearchRanking.html
+2021,Research Institutions,IR-R-U-0572,Indian Institute of Science Education & Research Kolkata,Mohanpur,West Bengal,34,34,46.72,https://www.nirfindia.org/Rankings/2021/ResearchRanking.html
+2021,Research Institutions,IR-R-U-0467,National Institute of Technology Tiruchirappalli,Tiruchirappalli,Tamil Nadu,35,35,45.91,https://www.nirfindia.org/Rankings/2021/ResearchRanking.html
+2021,Research Institutions,IR-R-U-0391,Birla Institute of Technology & Science -Pilani,Pilani,Rajasthan,36,36,44.76,https://www.nirfindia.org/Rankings/2021/ResearchRanking.html
+2021,Research Institutions,IR-R-U-0323,Savitribai Phule Pune University,Pune,Maharashtra,37,37,44.51,https://www.nirfindia.org/Rankings/2021/ResearchRanking.html
+2021,Research Institutions,IR-R-I-1480,Thapar Institute of Engineering and Technology,Patiala,Punjab,38,38,44.17,https://www.nirfindia.org/Rankings/2021/ResearchRanking.html
+2021,Research Institutions,IR-R-U-0139,Indian Institute of Technology Gandhinagar,Gandhinagar,Gujarat,39,39,44.14,https://www.nirfindia.org/Rankings/2021/ResearchRanking.html
+2021,Research Institutions,IR-R-U-0237,National Institute of Technology Karnataka,Surathkal,Karnataka,40,40,43.91,https://www.nirfindia.org/Rankings/2021/ResearchRanking.html
+2021,Research Institutions,IR-R-U-0574,"Indian Statistical Institute, Kolkata",Kolkata,West Bengal,41,41,43.32,https://www.nirfindia.org/Rankings/2021/ResearchRanking.html
+2021,Research Institutions,IR-R-U-0236,"National Institute of Mental Health & Neuro Sciences, Bangalore",Bangalore,Karnataka,42,42,43.03,https://www.nirfindia.org/Rankings/2021/ResearchRanking.html
+2021,Research Institutions,IR-R-U-0355,Indian Institute of Technology Bhubaneswar,Bhubaneswar,Odisha,43,43,42.98,https://www.nirfindia.org/Rankings/2021/ResearchRanking.html
+2021,Research Institutions,IR-R-U-0377,"Indian Institute of Science Education & Research, Mohali",Mohali,Punjab,44,44,41.54,https://www.nirfindia.org/Rankings/2021/ResearchRanking.html
+2021,Research Institutions,IR-R-U-0272,Indian Institute of Science Education & Research Bhopal,Bhopal,Madhya Pradesh,45,45,41.16,https://www.nirfindia.org/Rankings/2021/ResearchRanking.html
+2021,Research Institutions,IR-R-U-0473,S.R.M. Institute of Science and Technology,Chennai,Tamil Nadu,46,46,40.16,https://www.nirfindia.org/Rankings/2021/ResearchRanking.html
+2021,Research Institutions,IR-R-U-0064,Indian Institute of Technology Patna,Patna,Bihar,47,47,39.99,https://www.nirfindia.org/Rankings/2021/ResearchRanking.html
+2021,Research Institutions,IR-R-U-0584,Indian Institute of Engineering Science and Technology,Shibpur,West Bengal,48,48,39.44,https://www.nirfindia.org/Rankings/2021/ResearchRanking.html
+2021,Research Institutions,IR-R-U-0378,Indian Institute of Technology Ropar,Rupnagar,Punjab,49,49,38.96,https://www.nirfindia.org/Rankings/2021/ResearchRanking.html
+2021,Research Institutions,IR-R-U-0476,Shanmugha Arts Science Technology & Research Academy,Thanjavur,Tamil Nadu,50,50,38.53,https://www.nirfindia.org/Rankings/2021/ResearchRanking.html

@@ -1,0 +1,201 @@
+year,category,institute_id,institute_name,parameter_name,parameter_score,canonical_parameter
+2021,Dental,IR-N-C-7254,Manipal College of Dental Sciences,TLR (100),78.02,TLR
+2021,Dental,IR-N-C-7254,Manipal College of Dental Sciences,RPC (100),86.31,RPC
+2021,Dental,IR-N-C-7254,Manipal College of Dental Sciences,GO (100),77.02,GO
+2021,Dental,IR-N-C-7254,Manipal College of Dental Sciences,OI (100),77.15,OI
+2021,Dental,IR-N-C-7254,Manipal College of Dental Sciences,PERCEPTION (100),88.85,PR
+2021,Dental,IR-N-I-1110,Dr. D. Y. Patil Vidyapeeth,TLR (100),78.35,TLR
+2021,Dental,IR-N-I-1110,Dr. D. Y. Patil Vidyapeeth,RPC (100),82.06,RPC
+2021,Dental,IR-N-I-1110,Dr. D. Y. Patil Vidyapeeth,GO (100),90.62,GO
+2021,Dental,IR-N-I-1110,Dr. D. Y. Patil Vidyapeeth,OI (100),57.55,OI
+2021,Dental,IR-N-I-1110,Dr. D. Y. Patil Vidyapeeth,PERCEPTION (100),87.22,PR
+2021,Dental,IR-N-I-1441,Saveetha Institute of Medical and Technical Sciences,TLR (100),84.46,TLR
+2021,Dental,IR-N-I-1441,Saveetha Institute of Medical and Technical Sciences,RPC (100),82.21,RPC
+2021,Dental,IR-N-I-1441,Saveetha Institute of Medical and Technical Sciences,GO (100),74.94,GO
+2021,Dental,IR-N-I-1441,Saveetha Institute of Medical and Technical Sciences,OI (100),67.36,OI
+2021,Dental,IR-N-I-1441,Saveetha Institute of Medical and Technical Sciences,PERCEPTION (100),66.03,PR
+2021,Dental,IR-N-C-28507,Maulana Azad Institute of Dental Sciences,TLR (100),91.09,TLR
+2021,Dental,IR-N-C-28507,Maulana Azad Institute of Dental Sciences,RPC (100),58.62,RPC
+2021,Dental,IR-N-C-28507,Maulana Azad Institute of Dental Sciences,GO (100),84.14,GO
+2021,Dental,IR-N-C-28507,Maulana Azad Institute of Dental Sciences,OI (100),58.18,OI
+2021,Dental,IR-N-C-28507,Maulana Azad Institute of Dental Sciences,PERCEPTION (100),100.0,PR
+2021,Dental,IR-N-U-0523,King George`s Medical University,TLR (100),86.29,TLR
+2021,Dental,IR-N-U-0523,King George`s Medical University,RPC (100),57.15,RPC
+2021,Dental,IR-N-U-0523,King George`s Medical University,GO (100),80.31,GO
+2021,Dental,IR-N-U-0523,King George`s Medical University,OI (100),66.67,OI
+2021,Dental,IR-N-U-0523,King George`s Medical University,PERCEPTION (100),60.1,PR
+2021,Dental,IR-N-C-19320,A.B.Shetty Memorial Institute of Dental Sciences,TLR (100),77.95,TLR
+2021,Dental,IR-N-C-19320,A.B.Shetty Memorial Institute of Dental Sciences,RPC (100),44.7,RPC
+2021,Dental,IR-N-C-19320,A.B.Shetty Memorial Institute of Dental Sciences,GO (100),85.7,GO
+2021,Dental,IR-N-C-19320,A.B.Shetty Memorial Institute of Dental Sciences,OI (100),72.75,OI
+2021,Dental,IR-N-C-19320,A.B.Shetty Memorial Institute of Dental Sciences,PERCEPTION (100),97.48,PR
+2021,Dental,IR-N-C-7240,"Manipal College of Dental Sciences, Mangalore",TLR (100),74.61,TLR
+2021,Dental,IR-N-C-7240,"Manipal College of Dental Sciences, Mangalore",RPC (100),60.73,RPC
+2021,Dental,IR-N-C-7240,"Manipal College of Dental Sciences, Mangalore",GO (100),81.39,GO
+2021,Dental,IR-N-C-7240,"Manipal College of Dental Sciences, Mangalore",OI (100),74.38,OI
+2021,Dental,IR-N-C-7240,"Manipal College of Dental Sciences, Mangalore",PERCEPTION (100),60.1,PR
+2021,Dental,IR-N-I-1486,Sri Ramachandra Institute of Higher Education and Research,TLR (100),74.43,TLR
+2021,Dental,IR-N-I-1486,Sri Ramachandra Institute of Higher Education and Research,RPC (100),40.7,RPC
+2021,Dental,IR-N-I-1486,Sri Ramachandra Institute of Higher Education and Research,GO (100),84.97,GO
+2021,Dental,IR-N-I-1486,Sri Ramachandra Institute of Higher Education and Research,OI (100),59.28,OI
+2021,Dental,IR-N-I-1486,Sri Ramachandra Institute of Higher Education and Research,PERCEPTION (100),68.7,PR
+2021,Dental,IR-N-N-238,SDM College of Dental Sciences & Hospital,TLR (100),71.36,TLR
+2021,Dental,IR-N-N-238,SDM College of Dental Sciences & Hospital,RPC (100),33.94,RPC
+2021,Dental,IR-N-N-238,SDM College of Dental Sciences & Hospital,GO (100),93.3,GO
+2021,Dental,IR-N-N-238,SDM College of Dental Sciences & Hospital,OI (100),63.16,OI
+2021,Dental,IR-N-N-238,SDM College of Dental Sciences & Hospital,PERCEPTION (100),71.22,PR
+2021,Dental,IR-N-N-352,SRM Dental College,TLR (100),68.87,TLR
+2021,Dental,IR-N-N-352,SRM Dental College,RPC (100),48.49,RPC
+2021,Dental,IR-N-N-352,SRM Dental College,GO (100),96.32,GO
+2021,Dental,IR-N-N-352,SRM Dental College,OI (100),56.38,OI
+2021,Dental,IR-N-N-352,SRM Dental College,PERCEPTION (100),34.56,PR
+2021,Dental,IR-N-N-153,Nair Hospital Dental College,TLR (100),68.82,TLR
+2021,Dental,IR-N-N-153,Nair Hospital Dental College,RPC (100),46.75,RPC
+2021,Dental,IR-N-N-153,Nair Hospital Dental College,GO (100),86.64,GO
+2021,Dental,IR-N-N-153,Nair Hospital Dental College,OI (100),50.36,OI
+2021,Dental,IR-N-N-153,Nair Hospital Dental College,PERCEPTION (100),56.79,PR
+2021,Dental,IR-N-C-35008,JSS Dental College and Hospital,TLR (100),73.12,TLR
+2021,Dental,IR-N-C-35008,JSS Dental College and Hospital,RPC (100),31.73,RPC
+2021,Dental,IR-N-C-35008,JSS Dental College and Hospital,GO (100),81.11,GO
+2021,Dental,IR-N-C-35008,JSS Dental College and Hospital,OI (100),71.54,OI
+2021,Dental,IR-N-C-35008,JSS Dental College and Hospital,PERCEPTION (100),73.59,PR
+2021,Dental,IR-N-U-0436,Amrita Vishwa Vidyapeetham,TLR (100),67.46,TLR
+2021,Dental,IR-N-U-0436,Amrita Vishwa Vidyapeetham,RPC (100),30.54,RPC
+2021,Dental,IR-N-U-0436,Amrita Vishwa Vidyapeetham,GO (100),87.77,GO
+2021,Dental,IR-N-U-0436,Amrita Vishwa Vidyapeetham,OI (100),76.17,OI
+2021,Dental,IR-N-U-0436,Amrita Vishwa Vidyapeetham,PERCEPTION (100),68.7,PR
+2021,Dental,IR-N-U-0363,Siksha `O` Anusandhan,TLR (100),79.7,TLR
+2021,Dental,IR-N-U-0363,Siksha `O` Anusandhan,RPC (100),30.37,RPC
+2021,Dental,IR-N-U-0363,Siksha `O` Anusandhan,GO (100),91.5,GO
+2021,Dental,IR-N-U-0363,Siksha `O` Anusandhan,OI (100),63.55,OI
+2021,Dental,IR-N-U-0363,Siksha `O` Anusandhan,PERCEPTION (100),34.56,PR
+2021,Dental,IR-N-U-0724,M.S. Ramaiah University of Applied Sciences,TLR (100),74.22,TLR
+2021,Dental,IR-N-U-0724,M.S. Ramaiah University of Applied Sciences,RPC (100),34.2,RPC
+2021,Dental,IR-N-U-0724,M.S. Ramaiah University of Applied Sciences,GO (100),89.6,GO
+2021,Dental,IR-N-U-0724,M.S. Ramaiah University of Applied Sciences,OI (100),61.33,OI
+2021,Dental,IR-N-U-0724,M.S. Ramaiah University of Applied Sciences,PERCEPTION (100),44.91,PR
+2021,Dental,IR-N-C-30756,Postgraduate Institute of Dental Sciences,TLR (100),83.71,TLR
+2021,Dental,IR-N-C-30756,Postgraduate Institute of Dental Sciences,RPC (100),40.56,RPC
+2021,Dental,IR-N-C-30756,Postgraduate Institute of Dental Sciences,GO (100),69.48,GO
+2021,Dental,IR-N-C-30756,Postgraduate Institute of Dental Sciences,OI (100),49.38,OI
+2021,Dental,IR-N-C-30756,Postgraduate Institute of Dental Sciences,PERCEPTION (100),44.91,PR
+2021,Dental,IR-N-U-0356,Kalinga Institute of Industrial Technology,TLR (100),74.46,TLR
+2021,Dental,IR-N-U-0356,Kalinga Institute of Industrial Technology,RPC (100),44.16,RPC
+2021,Dental,IR-N-U-0356,Kalinga Institute of Industrial Technology,GO (100),71.65,GO
+2021,Dental,IR-N-U-0356,Kalinga Institute of Industrial Technology,OI (100),66.25,OI
+2021,Dental,IR-N-U-0356,Kalinga Institute of Industrial Technology,PERCEPTION (100),40.05,PR
+2021,Dental,IR-N-C-40193,Bapuji Dental College & Hospital,TLR (100),70.7,TLR
+2021,Dental,IR-N-C-40193,Bapuji Dental College & Hospital,RPC (100),31.21,RPC
+2021,Dental,IR-N-C-40193,Bapuji Dental College & Hospital,GO (100),78.52,GO
+2021,Dental,IR-N-C-40193,Bapuji Dental College & Hospital,OI (100),61.89,OI
+2021,Dental,IR-N-C-40193,Bapuji Dental College & Hospital,PERCEPTION (100),66.03,PR
+2021,Dental,IR-N-U-0295,Datta Meghe Institute of Medical Sciences,TLR (100),70.91,TLR
+2021,Dental,IR-N-U-0295,Datta Meghe Institute of Medical Sciences,RPC (100),41.02,RPC
+2021,Dental,IR-N-U-0295,Datta Meghe Institute of Medical Sciences,GO (100),73.8,GO
+2021,Dental,IR-N-U-0295,Datta Meghe Institute of Medical Sciences,OI (100),55.52,OI
+2021,Dental,IR-N-U-0295,Datta Meghe Institute of Medical Sciences,PERCEPTION (100),44.91,PR
+2021,Dental,IR-N-U-0108,Jamia Millia Islamia,TLR (100),74.65,TLR
+2021,Dental,IR-N-U-0108,Jamia Millia Islamia,RPC (100),33.84,RPC
+2021,Dental,IR-N-U-0108,Jamia Millia Islamia,GO (100),58.47,GO
+2021,Dental,IR-N-U-0108,Jamia Millia Islamia,OI (100),72.22,OI
+2021,Dental,IR-N-U-0108,Jamia Millia Islamia,PERCEPTION (100),68.7,PR
+2021,Dental,IR-N-C-8528,Yenepoya Dental College,TLR (100),77.85,TLR
+2021,Dental,IR-N-C-8528,Yenepoya Dental College,RPC (100),24.41,RPC
+2021,Dental,IR-N-C-8528,Yenepoya Dental College,GO (100),76.83,GO
+2021,Dental,IR-N-C-8528,Yenepoya Dental College,OI (100),67.22,OI
+2021,Dental,IR-N-C-8528,Yenepoya Dental College,PERCEPTION (100),49.26,PR
+2021,Dental,IR-N-N-91,Sree Balaji Dental College & Hospital,TLR (100),76.94,TLR
+2021,Dental,IR-N-N-91,Sree Balaji Dental College & Hospital,RPC (100),16.93,RPC
+2021,Dental,IR-N-N-91,Sree Balaji Dental College & Hospital,GO (100),85.06,GO
+2021,Dental,IR-N-N-91,Sree Balaji Dental College & Hospital,OI (100),57.21,OI
+2021,Dental,IR-N-N-91,Sree Balaji Dental College & Hospital,PERCEPTION (100),56.79,PR
+2021,Dental,IR-N-N-342,Vishnu Dental College,TLR (100),70.71,TLR
+2021,Dental,IR-N-N-342,Vishnu Dental College,RPC (100),21.31,RPC
+2021,Dental,IR-N-N-342,Vishnu Dental College,GO (100),71.2,GO
+2021,Dental,IR-N-N-342,Vishnu Dental College,OI (100),55.87,OI
+2021,Dental,IR-N-N-342,Vishnu Dental College,PERCEPTION (100),71.22,PR
+2021,Dental,IR-N-U-0465,Meenakshi Academy of Higher Education and Research,TLR (100),70.19,TLR
+2021,Dental,IR-N-U-0465,Meenakshi Academy of Higher Education and Research,RPC (100),36.06,RPC
+2021,Dental,IR-N-U-0465,Meenakshi Academy of Higher Education and Research,GO (100),64.8,GO
+2021,Dental,IR-N-U-0465,Meenakshi Academy of Higher Education and Research,OI (100),55.23,OI
+2021,Dental,IR-N-U-0465,Meenakshi Academy of Higher Education and Research,PERCEPTION (100),40.05,PR
+2021,Dental,IR-N-N-71,"Faculty of Dental Sciences, Institute of Medical Sciences",TLR (100),64.21,TLR
+2021,Dental,IR-N-N-71,"Faculty of Dental Sciences, Institute of Medical Sciences",RPC (100),18.25,RPC
+2021,Dental,IR-N-N-71,"Faculty of Dental Sciences, Institute of Medical Sciences",GO (100),74.1,GO
+2021,Dental,IR-N-N-71,"Faculty of Dental Sciences, Institute of Medical Sciences",OI (100),63.17,OI
+2021,Dental,IR-N-N-71,"Faculty of Dental Sciences, Institute of Medical Sciences",PERCEPTION (100),73.59,PR
+2021,Dental,IR-N-U-0496,Aligarh Muslim University,TLR (100),73.26,TLR
+2021,Dental,IR-N-U-0496,Aligarh Muslim University,RPC (100),22.93,RPC
+2021,Dental,IR-N-U-0496,Aligarh Muslim University,GO (100),77.67,GO
+2021,Dental,IR-N-U-0496,Aligarh Muslim University,OI (100),50.05,OI
+2021,Dental,IR-N-U-0496,Aligarh Muslim University,PERCEPTION (100),34.56,PR
+2021,Dental,IR-N-C-49744,Saraswati Dental College & Hospital,TLR (100),70.77,TLR
+2021,Dental,IR-N-C-49744,Saraswati Dental College & Hospital,RPC (100),19.42,RPC
+2021,Dental,IR-N-C-49744,Saraswati Dental College & Hospital,GO (100),91.21,GO
+2021,Dental,IR-N-C-49744,Saraswati Dental College & Hospital,OI (100),58.96,OI
+2021,Dental,IR-N-C-49744,Saraswati Dental College & Hospital,PERCEPTION (100),11.66,PR
+2021,Dental,IR-N-C-40192,College of Dental Sciences,TLR (100),70.41,TLR
+2021,Dental,IR-N-C-40192,College of Dental Sciences,RPC (100),20.12,RPC
+2021,Dental,IR-N-C-40192,College of Dental Sciences,GO (100),81.72,GO
+2021,Dental,IR-N-C-40192,College of Dental Sciences,OI (100),59.57,OI
+2021,Dental,IR-N-C-40192,College of Dental Sciences,PERCEPTION (100),28.23,PR
+2021,Dental,IR-N-C-14028,"MGV's Karmaveer Bhausaheb Hiray Dental College, Panchavati, Nashik",TLR (100),68.9,TLR
+2021,Dental,IR-N-C-14028,"MGV's Karmaveer Bhausaheb Hiray Dental College, Panchavati, Nashik",RPC (100),21.83,RPC
+2021,Dental,IR-N-C-14028,"MGV's Karmaveer Bhausaheb Hiray Dental College, Panchavati, Nashik",GO (100),94.63,GO
+2021,Dental,IR-N-C-14028,"MGV's Karmaveer Bhausaheb Hiray Dental College, Panchavati, Nashik",OI (100),40.16,OI
+2021,Dental,IR-N-C-14028,"MGV's Karmaveer Bhausaheb Hiray Dental College, Panchavati, Nashik",PERCEPTION (100),20.76,PR
+2021,Dental,IR-N-N-73,Army College of Dental Sciences,TLR (100),68.21,TLR
+2021,Dental,IR-N-N-73,Army College of Dental Sciences,RPC (100),10.25,RPC
+2021,Dental,IR-N-N-73,Army College of Dental Sciences,GO (100),82.11,GO
+2021,Dental,IR-N-N-73,Army College of Dental Sciences,OI (100),67.19,OI
+2021,Dental,IR-N-N-73,Army College of Dental Sciences,PERCEPTION (100),53.19,PR
+2021,Dental,IR-N-C-40175,Coorg Institute of Dental Sciences,TLR (100),68.7,TLR
+2021,Dental,IR-N-C-40175,Coorg Institute of Dental Sciences,RPC (100),17.23,RPC
+2021,Dental,IR-N-C-40175,Coorg Institute of Dental Sciences,GO (100),75.92,GO
+2021,Dental,IR-N-C-40175,Coorg Institute of Dental Sciences,OI (100),57.96,OI
+2021,Dental,IR-N-C-40175,Coorg Institute of Dental Sciences,PERCEPTION (100),49.26,PR
+2021,Dental,IR-N-C-29701,"Govt. Dental College, Indore",TLR (100),74.08,TLR
+2021,Dental,IR-N-C-29701,"Govt. Dental College, Indore",RPC (100),14.39,RPC
+2021,Dental,IR-N-C-29701,"Govt. Dental College, Indore",GO (100),92.42,GO
+2021,Dental,IR-N-C-29701,"Govt. Dental College, Indore",OI (100),54.71,OI
+2021,Dental,IR-N-C-29701,"Govt. Dental College, Indore",PERCEPTION (100),11.66,PR
+2021,Dental,IR-N-C-24504,KLE Vishwanath Katti Institute of Dental Sciences,TLR (100),71.47,TLR
+2021,Dental,IR-N-C-24504,KLE Vishwanath Katti Institute of Dental Sciences,RPC (100),12.86,RPC
+2021,Dental,IR-N-C-24504,KLE Vishwanath Katti Institute of Dental Sciences,GO (100),75.91,GO
+2021,Dental,IR-N-C-24504,KLE Vishwanath Katti Institute of Dental Sciences,OI (100),71.24,OI
+2021,Dental,IR-N-C-24504,KLE Vishwanath Katti Institute of Dental Sciences,PERCEPTION (100),40.05,PR
+2021,Dental,IR-N-U-0168,Maharishi Markandeshwar,TLR (100),64.65,TLR
+2021,Dental,IR-N-U-0168,Maharishi Markandeshwar,RPC (100),23.9,RPC
+2021,Dental,IR-N-U-0168,Maharishi Markandeshwar,GO (100),79.21,GO
+2021,Dental,IR-N-U-0168,Maharishi Markandeshwar,OI (100),62.32,OI
+2021,Dental,IR-N-U-0168,Maharishi Markandeshwar,PERCEPTION (100),28.23,PR
+2021,Dental,IR-N-U-0461,M. G. R. Educational and Research Institute,TLR (100),61.5,TLR
+2021,Dental,IR-N-U-0461,M. G. R. Educational and Research Institute,RPC (100),21.64,RPC
+2021,Dental,IR-N-U-0461,M. G. R. Educational and Research Institute,GO (100),92.98,GO
+2021,Dental,IR-N-U-0461,M. G. R. Educational and Research Institute,OI (100),50.84,OI
+2021,Dental,IR-N-U-0461,M. G. R. Educational and Research Institute,PERCEPTION (100),28.23,PR
+2021,Dental,IR-N-C-29150,Christian Dental College,TLR (100),70.22,TLR
+2021,Dental,IR-N-C-29150,Christian Dental College,RPC (100),10.14,RPC
+2021,Dental,IR-N-C-29150,Christian Dental College,GO (100),84.22,GO
+2021,Dental,IR-N-C-29150,Christian Dental College,OI (100),64.65,OI
+2021,Dental,IR-N-C-29150,Christian Dental College,PERCEPTION (100),40.05,PR
+2021,Dental,IR-N-C-40140,Raja Rajeswari Dental College & Hospital,TLR (100),67.03,TLR
+2021,Dental,IR-N-C-40140,Raja Rajeswari Dental College & Hospital,RPC (100),20.62,RPC
+2021,Dental,IR-N-C-40140,Raja Rajeswari Dental College & Hospital,GO (100),92.33,GO
+2021,Dental,IR-N-C-40140,Raja Rajeswari Dental College & Hospital,OI (100),65.42,OI
+2021,Dental,IR-N-C-40140,Raja Rajeswari Dental College & Hospital,PERCEPTION (100),0.0,PR
+2021,Dental,IR-N-U-0311,Krishna Institute of Medical Sciences Deemed University,TLR (100),65.67,TLR
+2021,Dental,IR-N-U-0311,Krishna Institute of Medical Sciences Deemed University,RPC (100),16.89,RPC
+2021,Dental,IR-N-U-0311,Krishna Institute of Medical Sciences Deemed University,GO (100),82.57,GO
+2021,Dental,IR-N-U-0311,Krishna Institute of Medical Sciences Deemed University,OI (100),53.19,OI
+2021,Dental,IR-N-U-0311,Krishna Institute of Medical Sciences Deemed University,PERCEPTION (100),44.91,PR
+2021,Dental,IR-N-U-0169,Manav Rachna International Institute of Research & Studies,TLR (100),67.32,TLR
+2021,Dental,IR-N-U-0169,Manav Rachna International Institute of Research & Studies,RPC (100),11.13,RPC
+2021,Dental,IR-N-U-0169,Manav Rachna International Institute of Research & Studies,GO (100),85.99,GO
+2021,Dental,IR-N-U-0169,Manav Rachna International Institute of Research & Studies,OI (100),68.16,OI
+2021,Dental,IR-N-U-0169,Manav Rachna International Institute of Research & Studies,PERCEPTION (100),34.56,PR
+2021,Dental,IR-N-C-28550,I.T.S. Dental College Hospital & Research Center,TLR (100),68.97,TLR
+2021,Dental,IR-N-C-28550,I.T.S. Dental College Hospital & Research Center,RPC (100),13.85,RPC
+2021,Dental,IR-N-C-28550,I.T.S. Dental College Hospital & Research Center,GO (100),82.75,GO
+2021,Dental,IR-N-C-28550,I.T.S. Dental College Hospital & Research Center,OI (100),66.45,OI
+2021,Dental,IR-N-C-28550,I.T.S. Dental College Hospital & Research Center,PERCEPTION (100),28.23,PR

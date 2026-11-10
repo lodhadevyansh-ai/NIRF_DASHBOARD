@@ -1,0 +1,506 @@
+year,category,institute_id,institute_name,parameter_name,parameter_score,canonical_parameter
+2022,Management,IR-M-S-8890,Indian Institute of Management Ahmedabad,TLR (100),92.76,TLR
+2022,Management,IR-M-S-8890,Indian Institute of Management Ahmedabad,RPC (100),63.22,RPC
+2022,Management,IR-M-S-8890,Indian Institute of Management Ahmedabad,GO (100),99.39,GO
+2022,Management,IR-M-S-8890,Indian Institute of Management Ahmedabad,OI (100),68.13,OI
+2022,Management,IR-M-S-8890,Indian Institute of Management Ahmedabad,PERCEPTION (100),98.62,PR
+2022,Management,IR-M-S-8903,Indian Institute of Management Bangalore,TLR (100),91.69,TLR
+2022,Management,IR-M-S-8903,Indian Institute of Management Bangalore,RPC (100),60.89,RPC
+2022,Management,IR-M-S-8903,Indian Institute of Management Bangalore,GO (100),98.53,GO
+2022,Management,IR-M-S-8903,Indian Institute of Management Bangalore,OI (100),71.34,OI
+2022,Management,IR-M-S-8903,Indian Institute of Management Bangalore,PERCEPTION (100),100.0,PR
+2022,Management,IR-M-S-8972,Indian Institute of Management Calcutta,TLR (100),86.01,TLR
+2022,Management,IR-M-S-8972,Indian Institute of Management Calcutta,RPC (100),54.88,RPC
+2022,Management,IR-M-S-8972,Indian Institute of Management Calcutta,GO (100),98.51,GO
+2022,Management,IR-M-S-8972,Indian Institute of Management Calcutta,OI (100),72.08,OI
+2022,Management,IR-M-S-8972,Indian Institute of Management Calcutta,PERCEPTION (100),94.74,PR
+2022,Management,IR-M-I-1074,"Indian Institute of Technology, Delhi",TLR (100),69.96,TLR
+2022,Management,IR-M-I-1074,"Indian Institute of Technology, Delhi",RPC (100),77.04,RPC
+2022,Management,IR-M-I-1074,"Indian Institute of Technology, Delhi",GO (100),89.39,GO
+2022,Management,IR-M-I-1074,"Indian Institute of Technology, Delhi",OI (100),73.73,OI
+2022,Management,IR-M-I-1074,"Indian Institute of Technology, Delhi",PERCEPTION (100),57.48,PR
+2022,Management,IR-M-S-8909,Indian Institute of Management Kozhikode,TLR (100),85.61,TLR
+2022,Management,IR-M-S-8909,Indian Institute of Management Kozhikode,RPC (100),49.63,RPC
+2022,Management,IR-M-S-8909,Indian Institute of Management Kozhikode,GO (100),95.05,GO
+2022,Management,IR-M-S-8909,Indian Institute of Management Kozhikode,OI (100),78.15,OI
+2022,Management,IR-M-S-8909,Indian Institute of Management Kozhikode,PERCEPTION (100),73.46,PR
+2022,Management,IR-M-S-8959,Indian Institute of Management Lucknow,TLR (100),86.53,TLR
+2022,Management,IR-M-S-8959,Indian Institute of Management Lucknow,RPC (100),46.89,RPC
+2022,Management,IR-M-S-8959,Indian Institute of Management Lucknow,GO (100),96.27,GO
+2022,Management,IR-M-S-8959,Indian Institute of Management Lucknow,OI (100),74.03,OI
+2022,Management,IR-M-S-8959,Indian Institute of Management Lucknow,PERCEPTION (100),78.67,PR
+2022,Management,IR-M-S-8918,Indian Institute of Management Indore,TLR (100),83.17,TLR
+2022,Management,IR-M-S-8918,Indian Institute of Management Indore,RPC (100),47.99,RPC
+2022,Management,IR-M-S-8918,Indian Institute of Management Indore,GO (100),93.92,GO
+2022,Management,IR-M-S-8918,Indian Institute of Management Indore,OI (100),68.36,OI
+2022,Management,IR-M-S-8918,Indian Institute of Management Indore,PERCEPTION (100),56.88,PR
+2022,Management,IR-M-S-132,XLRI - Xavier School of Management,TLR (100),87.79,TLR
+2022,Management,IR-M-S-132,XLRI - Xavier School of Management,RPC (100),39.12,RPC
+2022,Management,IR-M-S-132,XLRI - Xavier School of Management,GO (100),97.93,GO
+2022,Management,IR-M-S-132,XLRI - Xavier School of Management,OI (100),69.67,OI
+2022,Management,IR-M-S-132,XLRI - Xavier School of Management,PERCEPTION (100),50.34,PR
+2022,Management,IR-M-S-8931,"National Institute of Industrial Engineering, Mumbai",TLR (100),79.62,TLR
+2022,Management,IR-M-S-8931,"National Institute of Industrial Engineering, Mumbai",RPC (100),55.13,RPC
+2022,Management,IR-M-S-8931,"National Institute of Industrial Engineering, Mumbai",GO (100),95.83,GO
+2022,Management,IR-M-S-8931,"National Institute of Industrial Engineering, Mumbai",OI (100),71.72,OI
+2022,Management,IR-M-S-8931,"National Institute of Industrial Engineering, Mumbai",PERCEPTION (100),20.7,PR
+2022,Management,IR-M-U-0456,Indian Institute of Technology Madras,TLR (100),69.55,TLR
+2022,Management,IR-M-U-0456,Indian Institute of Technology Madras,RPC (100),58.27,RPC
+2022,Management,IR-M-U-0456,Indian Institute of Technology Madras,GO (100),82.9,GO
+2022,Management,IR-M-U-0456,Indian Institute of Technology Madras,OI (100),64.38,OI
+2022,Management,IR-M-U-0456,Indian Institute of Technology Madras,PERCEPTION (100),52.41,PR
+2022,Management,IR-M-U-0306,"Indian Institute of Technology, Bombay",TLR (100),80.97,TLR
+2022,Management,IR-M-U-0306,"Indian Institute of Technology, Bombay",RPC (100),50.37,RPC
+2022,Management,IR-M-U-0306,"Indian Institute of Technology, Bombay",GO (100),85.72,GO
+2022,Management,IR-M-U-0306,"Indian Institute of Technology, Bombay",OI (100),58.02,OI
+2022,Management,IR-M-U-0306,"Indian Institute of Technology, Bombay",PERCEPTION (100),39.04,PR
+2022,Management,IR-M-U-0573,"Indian Institute of Technology, Kharagpur",TLR (100),50.57,TLR
+2022,Management,IR-M-U-0573,"Indian Institute of Technology, Kharagpur",RPC (100),73.52,RPC
+2022,Management,IR-M-U-0573,"Indian Institute of Technology, Kharagpur",GO (100),91.68,GO
+2022,Management,IR-M-U-0573,"Indian Institute of Technology, Kharagpur",OI (100),53.22,OI
+2022,Management,IR-M-U-0573,"Indian Institute of Technology, Kharagpur",PERCEPTION (100),42.59,PR
+2022,Management,IR-M-I-1170,Management Development Institute,TLR (100),77.88,TLR
+2022,Management,IR-M-I-1170,Management Development Institute,RPC (100),42.29,RPC
+2022,Management,IR-M-I-1170,Management Development Institute,GO (100),96.71,GO
+2022,Management,IR-M-I-1170,Management Development Institute,OI (100),68.32,OI
+2022,Management,IR-M-I-1170,Management Development Institute,PERCEPTION (100),24.81,PR
+2022,Management,IR-M-S-8868,Indian Institute of Management Raipur,TLR (100),80.88,TLR
+2022,Management,IR-M-S-8868,Indian Institute of Management Raipur,RPC (100),38.95,RPC
+2022,Management,IR-M-S-8868,Indian Institute of Management Raipur,GO (100),91.11,GO
+2022,Management,IR-M-S-8868,Indian Institute of Management Raipur,OI (100),73.82,OI
+2022,Management,IR-M-S-8868,Indian Institute of Management Raipur,PERCEPTION (100),20.22,PR
+2022,Management,IR-M-S-8904,Indian Institute of Management Ranchi,TLR (100),76.64,TLR
+2022,Management,IR-M-S-8904,Indian Institute of Management Ranchi,RPC (100),34.1,RPC
+2022,Management,IR-M-S-8904,Indian Institute of Management Ranchi,GO (100),91.04,GO
+2022,Management,IR-M-S-8904,Indian Institute of Management Ranchi,OI (100),75.2,OI
+2022,Management,IR-M-S-8904,Indian Institute of Management Ranchi,PERCEPTION (100),33.77,PR
+2022,Management,IR-M-S-8895,Indian Institute of Management Rohtak,TLR (100),76.74,TLR
+2022,Management,IR-M-S-8895,Indian Institute of Management Rohtak,RPC (100),35.54,RPC
+2022,Management,IR-M-S-8895,Indian Institute of Management Rohtak,GO (100),88.43,GO
+2022,Management,IR-M-S-8895,Indian Institute of Management Rohtak,OI (100),77.8,OI
+2022,Management,IR-M-S-8895,Indian Institute of Management Rohtak,PERCEPTION (100),30.49,PR
+2022,Management,IR-M-C-19343,Symbiosis Institute of Business Management,TLR (100),78.05,TLR
+2022,Management,IR-M-C-19343,Symbiosis Institute of Business Management,RPC (100),28.52,RPC
+2022,Management,IR-M-C-19343,Symbiosis Institute of Business Management,GO (100),94.58,GO
+2022,Management,IR-M-C-19343,Symbiosis Institute of Business Management,OI (100),67.64,OI
+2022,Management,IR-M-C-19343,Symbiosis Institute of Business Management,PERCEPTION (100),43.16,PR
+2022,Management,IR-M-S-8948,Indian Institute of Management Tiruchirappalli,TLR (100),76.3,TLR
+2022,Management,IR-M-S-8948,Indian Institute of Management Tiruchirappalli,RPC (100),28.54,RPC
+2022,Management,IR-M-S-8948,Indian Institute of Management Tiruchirappalli,GO (100),85.6,GO
+2022,Management,IR-M-S-8948,Indian Institute of Management Tiruchirappalli,OI (100),67.55,OI
+2022,Management,IR-M-S-8948,Indian Institute of Management Tiruchirappalli,PERCEPTION (100),65.58,PR
+2022,Management,IR-M-U-0560,"Indian Institute of Technology, Roorkee",TLR (100),65.22,TLR
+2022,Management,IR-M-U-0560,"Indian Institute of Technology, Roorkee",RPC (100),70.61,RPC
+2022,Management,IR-M-U-0560,"Indian Institute of Technology, Roorkee",GO (100),66.59,GO
+2022,Management,IR-M-U-0560,"Indian Institute of Technology, Roorkee",OI (100),54.34,OI
+2022,Management,IR-M-U-0560,"Indian Institute of Technology, Roorkee",PERCEPTION (100),22.58,PR
+2022,Management,IR-M-I-1075,Indian Institute of Technology Kanpur,TLR (100),69.81,TLR
+2022,Management,IR-M-I-1075,Indian Institute of Technology Kanpur,RPC (100),50.93,RPC
+2022,Management,IR-M-I-1075,Indian Institute of Technology Kanpur,GO (100),81.41,GO
+2022,Management,IR-M-I-1075,Indian Institute of Technology Kanpur,OI (100),56.86,OI
+2022,Management,IR-M-I-1075,Indian Institute of Technology Kanpur,PERCEPTION (100),30.11,PR
+2022,Management,IR-M-I-1044,S. P. Jain Institute of Management & Research,TLR (100),77.49,TLR
+2022,Management,IR-M-I-1044,S. P. Jain Institute of Management & Research,RPC (100),23.24,RPC
+2022,Management,IR-M-I-1044,S. P. Jain Institute of Management & Research,GO (100),98.87,GO
+2022,Management,IR-M-I-1044,S. P. Jain Institute of Management & Research,OI (100),71.25,OI
+2022,Management,IR-M-I-1044,S. P. Jain Institute of Management & Research,PERCEPTION (100),23.93,PR
+2022,Management,IR-M-S-8942,Indian Institute of Management Udaipur,TLR (100),78.24,TLR
+2022,Management,IR-M-S-8942,Indian Institute of Management Udaipur,RPC (100),30.05,RPC
+2022,Management,IR-M-S-8942,Indian Institute of Management Udaipur,GO (100),85.55,GO
+2022,Management,IR-M-S-8942,Indian Institute of Management Udaipur,OI (100),69.88,OI
+2022,Management,IR-M-S-8942,Indian Institute of Management Udaipur,PERCEPTION (100),26.93,PR
+2022,Management,IR-M-S-8967,Indian Institute of Management Kashipur,TLR (100),75.28,TLR
+2022,Management,IR-M-S-8967,Indian Institute of Management Kashipur,RPC (100),28.25,RPC
+2022,Management,IR-M-S-8967,Indian Institute of Management Kashipur,GO (100),87.84,GO
+2022,Management,IR-M-S-8967,Indian Institute of Management Kashipur,OI (100),71.69,OI
+2022,Management,IR-M-S-8967,Indian Institute of Management Kashipur,PERCEPTION (100),32.71,PR
+2022,Management,IR-M-U-0102,Indian Institute of Foreign Trade,TLR (100),78.28,TLR
+2022,Management,IR-M-U-0102,Indian Institute of Foreign Trade,RPC (100),24.25,RPC
+2022,Management,IR-M-U-0102,Indian Institute of Foreign Trade,GO (100),86.9,GO
+2022,Management,IR-M-U-0102,Indian Institute of Foreign Trade,OI (100),52.96,OI
+2022,Management,IR-M-U-0102,Indian Institute of Foreign Trade,PERCEPTION (100),48.66,PR
+2022,Management,IR-M-N-10,SVKM`s Narsee Monjee Institute of Management Studies,TLR (100),78.84,TLR
+2022,Management,IR-M-N-10,SVKM`s Narsee Monjee Institute of Management Studies,RPC (100),23.98,RPC
+2022,Management,IR-M-N-10,SVKM`s Narsee Monjee Institute of Management Studies,GO (100),91.83,GO
+2022,Management,IR-M-N-10,SVKM`s Narsee Monjee Institute of Management Studies,OI (100),69.57,OI
+2022,Management,IR-M-N-10,SVKM`s Narsee Monjee Institute of Management Studies,PERCEPTION (100),19.73,PR
+2022,Management,IR-M-S-8937,Indian Institute of Management Shillong,TLR (100),73.16,TLR
+2022,Management,IR-M-S-8937,Indian Institute of Management Shillong,RPC (100),20.48,RPC
+2022,Management,IR-M-S-8937,Indian Institute of Management Shillong,GO (100),93.59,GO
+2022,Management,IR-M-S-8937,Indian Institute of Management Shillong,OI (100),74.75,OI
+2022,Management,IR-M-S-8937,Indian Institute of Management Shillong,PERCEPTION (100),35.49,PR
+2022,Management,IR-M-U-0436,Amrita Vishwa Vidyapeetham,TLR (100),65.41,TLR
+2022,Management,IR-M-U-0436,Amrita Vishwa Vidyapeetham,RPC (100),43.23,RPC
+2022,Management,IR-M-U-0436,Amrita Vishwa Vidyapeetham,GO (100),74.78,GO
+2022,Management,IR-M-U-0436,Amrita Vishwa Vidyapeetham,OI (100),68.05,OI
+2022,Management,IR-M-U-0436,Amrita Vishwa Vidyapeetham,PERCEPTION (100),34.81,PR
+2022,Management,IR-M-U-0497,Amity University,TLR (100),72.44,TLR
+2022,Management,IR-M-U-0497,Amity University,RPC (100),49.91,RPC
+2022,Management,IR-M-U-0497,Amity University,GO (100),63.31,GO
+2022,Management,IR-M-U-0497,Amity University,OI (100),65.06,OI
+2022,Management,IR-M-U-0497,Amity University,PERCEPTION (100),15.6,PR
+2022,Management,IR-M-U-0108,"Jamia Millia Islamia, New Delhi",TLR (100),65.89,TLR
+2022,Management,IR-M-U-0108,"Jamia Millia Islamia, New Delhi",RPC (100),39.53,RPC
+2022,Management,IR-M-U-0108,"Jamia Millia Islamia, New Delhi",GO (100),77.78,GO
+2022,Management,IR-M-U-0108,"Jamia Millia Islamia, New Delhi",OI (100),81.46,OI
+2022,Management,IR-M-U-0108,"Jamia Millia Islamia, New Delhi",PERCEPTION (100),11.02,PR
+2022,Management,IR-M-I-1064,International Management Institute,TLR (100),67.3,TLR
+2022,Management,IR-M-I-1064,International Management Institute,RPC (100),29.82,RPC
+2022,Management,IR-M-I-1064,International Management Institute,GO (100),88.09,GO
+2022,Management,IR-M-I-1064,International Management Institute,OI (100),67.89,OI
+2022,Management,IR-M-I-1064,International Management Institute,PERCEPTION (100),14.5,PR
+2022,Management,IR-M-N-16,Great Lakes Institute of Management,TLR (100),78.08,TLR
+2022,Management,IR-M-N-16,Great Lakes Institute of Management,RPC (100),18.82,RPC
+2022,Management,IR-M-N-16,Great Lakes Institute of Management,GO (100),84.12,GO
+2022,Management,IR-M-N-16,Great Lakes Institute of Management,OI (100),64.42,OI
+2022,Management,IR-M-N-16,Great Lakes Institute of Management,PERCEPTION (100),25.67,PR
+2022,Management,IR-M-U-0012,"ICFAI Foundation for Higher Education, Hyderabad",TLR (100),73.84,TLR
+2022,Management,IR-M-U-0012,"ICFAI Foundation for Higher Education, Hyderabad",RPC (100),28.87,RPC
+2022,Management,IR-M-U-0012,"ICFAI Foundation for Higher Education, Hyderabad",GO (100),75.89,GO
+2022,Management,IR-M-U-0012,"ICFAI Foundation for Higher Education, Hyderabad",OI (100),75.02,OI
+2022,Management,IR-M-U-0012,"ICFAI Foundation for Higher Education, Hyderabad",PERCEPTION (100),13.94,PR
+2022,Management,IR-M-U-1007,Indian Institute of Management Visakhapatnam,TLR (100),77.75,TLR
+2022,Management,IR-M-U-1007,Indian Institute of Management Visakhapatnam,RPC (100),10.24,RPC
+2022,Management,IR-M-U-1007,Indian Institute of Management Visakhapatnam,GO (100),86.1,GO
+2022,Management,IR-M-U-1007,Indian Institute of Management Visakhapatnam,OI (100),71.3,OI
+2022,Management,IR-M-U-1007,Indian Institute of Management Visakhapatnam,PERCEPTION (100),36.16,PR
+2022,Management,IR-M-U-0379,Lovely Professional University,TLR (100),74.15,TLR
+2022,Management,IR-M-U-0379,Lovely Professional University,RPC (100),36.77,RPC
+2022,Management,IR-M-U-0379,Lovely Professional University,GO (100),62.24,GO
+2022,Management,IR-M-U-0379,Lovely Professional University,OI (100),73.02,OI
+2022,Management,IR-M-U-0379,Lovely Professional University,PERCEPTION (100),12.8,PR
+2022,Management,IR-M-U-0715,XIM University,TLR (100),71.9,TLR
+2022,Management,IR-M-U-0715,XIM University,RPC (100),21.12,RPC
+2022,Management,IR-M-U-0715,XIM University,GO (100),91.82,GO
+2022,Management,IR-M-U-0715,XIM University,OI (100),56.81,OI
+2022,Management,IR-M-U-0715,XIM University,PERCEPTION (100),21.65,PR
+2022,Management,IR-M-S-87,GOA Institute of Management,TLR (100),75.03,TLR
+2022,Management,IR-M-S-87,GOA Institute of Management,RPC (100),16.95,RPC
+2022,Management,IR-M-S-87,GOA Institute of Management,GO (100),84.93,GO
+2022,Management,IR-M-S-87,GOA Institute of Management,OI (100),72.76,OI
+2022,Management,IR-M-S-87,GOA Institute of Management,PERCEPTION (100),17.2,PR
+2022,Management,IR-M-U-1004,Indian Institute of Management Jammu (IIMJ),TLR (100),76.15,TLR
+2022,Management,IR-M-U-1004,Indian Institute of Management Jammu (IIMJ),RPC (100),10.31,RPC
+2022,Management,IR-M-U-1004,Indian Institute of Management Jammu (IIMJ),GO (100),84.46,GO
+2022,Management,IR-M-U-1004,Indian Institute of Management Jammu (IIMJ),OI (100),72.67,OI
+2022,Management,IR-M-U-1004,Indian Institute of Management Jammu (IIMJ),PERCEPTION (100),34.81,PR
+2022,Management,IR-M-S-156,T. A. Pai Management Institute Manipal,TLR (100),68.36,TLR
+2022,Management,IR-M-S-156,T. A. Pai Management Institute Manipal,RPC (100),25.56,RPC
+2022,Management,IR-M-S-156,T. A. Pai Management Institute Manipal,GO (100),83.78,GO
+2022,Management,IR-M-S-156,T. A. Pai Management Institute Manipal,OI (100),67.63,OI
+2022,Management,IR-M-S-156,T. A. Pai Management Institute Manipal,PERCEPTION (100),18.74,PR
+2022,Management,IR-M-U-0467,"National Institute of Technology, Tiruchirappalli",TLR (100),61.03,TLR
+2022,Management,IR-M-U-0467,"National Institute of Technology, Tiruchirappalli",RPC (100),37.91,RPC
+2022,Management,IR-M-U-0467,"National Institute of Technology, Tiruchirappalli",GO (100),74.0,GO
+2022,Management,IR-M-U-0467,"National Institute of Technology, Tiruchirappalli",OI (100),64.11,OI
+2022,Management,IR-M-U-0467,"National Institute of Technology, Tiruchirappalli",PERCEPTION (100),26.52,PR
+2022,Management,IR-M-U-0747,Chandigarh University,TLR (100),75.92,TLR
+2022,Management,IR-M-U-0747,Chandigarh University,RPC (100),17.17,RPC
+2022,Management,IR-M-U-0747,Chandigarh University,GO (100),67.01,GO
+2022,Management,IR-M-U-0747,Chandigarh University,OI (100),83.16,OI
+2022,Management,IR-M-U-0747,Chandigarh University,PERCEPTION (100),35.83,PR
+2022,Management,IR-M-U-0564,University of Petroleum and Energy Studies,TLR (100),72.0,TLR
+2022,Management,IR-M-U-0564,University of Petroleum and Energy Studies,RPC (100),30.83,RPC
+2022,Management,IR-M-U-0564,University of Petroleum and Energy Studies,GO (100),62.06,GO
+2022,Management,IR-M-U-0564,University of Petroleum and Energy Studies,OI (100),66.52,OI
+2022,Management,IR-M-U-0564,University of Petroleum and Energy Studies,PERCEPTION (100),33.07,PR
+2022,Management,IR-M-S-14875,MICA,TLR (100),71.45,TLR
+2022,Management,IR-M-S-14875,MICA,RPC (100),21.22,RPC
+2022,Management,IR-M-S-14875,MICA,GO (100),87.57,GO
+2022,Management,IR-M-S-14875,MICA,OI (100),68.88,OI
+2022,Management,IR-M-S-14875,MICA,PERCEPTION (100),6.55,PR
+2022,Management,IR-M-S-15962,Indian Institute of Management,TLR (100),74.08,TLR
+2022,Management,IR-M-S-15962,Indian Institute of Management,RPC (100),9.77,RPC
+2022,Management,IR-M-S-15962,Indian Institute of Management,GO (100),87.44,GO
+2022,Management,IR-M-S-15962,Indian Institute of Management,OI (100),64.85,OI
+2022,Management,IR-M-S-15962,Indian Institute of Management,PERCEPTION (100),37.14,PR
+2022,Management,IR-M-S-394,"Institute of Management Technology, Ghaziabad",TLR (100),69.14,TLR
+2022,Management,IR-M-S-394,"Institute of Management Technology, Ghaziabad",RPC (100),26.98,RPC
+2022,Management,IR-M-S-394,"Institute of Management Technology, Ghaziabad",GO (100),80.16,GO
+2022,Management,IR-M-S-394,"Institute of Management Technology, Ghaziabad",OI (100),59.25,OI
+2022,Management,IR-M-S-394,"Institute of Management Technology, Ghaziabad",PERCEPTION (100),13.37,PR
+2022,Management,IR-M-U-0146,Nirma University,TLR (100),74.13,TLR
+2022,Management,IR-M-U-0146,Nirma University,RPC (100),21.99,RPC
+2022,Management,IR-M-U-0146,Nirma University,GO (100),80.3,GO
+2022,Management,IR-M-U-0146,Nirma University,OI (100),65.06,OI
+2022,Management,IR-M-U-0146,Nirma University,PERCEPTION (100),5.87,PR
+2022,Management,IR-M-U-0205,Indian Institute of Technology (Indian School of Mines),TLR (100),73.58,TLR
+2022,Management,IR-M-U-0205,Indian Institute of Technology (Indian School of Mines),RPC (100),41.22,RPC
+2022,Management,IR-M-U-0205,Indian Institute of Technology (Indian School of Mines),GO (100),51.41,GO
+2022,Management,IR-M-U-0205,Indian Institute of Technology (Indian School of Mines),OI (100),50.97,OI
+2022,Management,IR-M-U-0205,Indian Institute of Technology (Indian School of Mines),PERCEPTION (100),16.67,PR
+2022,Management,IR-M-U-0020,Koneru Lakshmaiah Education Foundation University (K L College of Engineering),TLR (100),67.37,TLR
+2022,Management,IR-M-U-0020,Koneru Lakshmaiah Education Foundation University (K L College of Engineering),RPC (100),44.86,RPC
+2022,Management,IR-M-U-0020,Koneru Lakshmaiah Education Foundation University (K L College of Engineering),GO (100),48.77,GO
+2022,Management,IR-M-U-0020,Koneru Lakshmaiah Education Foundation University (K L College of Engineering),OI (100),65.67,OI
+2022,Management,IR-M-U-0020,Koneru Lakshmaiah Education Foundation University (K L College of Engineering),PERCEPTION (100),12.8,PR
+2022,Management,IR-M-U-0356,Kalinga Institute of Industrial Technology,TLR (100),78.76,TLR
+2022,Management,IR-M-U-0356,Kalinga Institute of Industrial Technology,RPC (100),24.75,RPC
+2022,Management,IR-M-U-0356,Kalinga Institute of Industrial Technology,GO (100),53.91,GO
+2022,Management,IR-M-U-0356,Kalinga Institute of Industrial Technology,OI (100),76.98,OI
+2022,Management,IR-M-U-0356,Kalinga Institute of Industrial Technology,PERCEPTION (100),13.37,PR
+2022,Management,IR-M-U-0439,Anna University,TLR (100),49.68,TLR
+2022,Management,IR-M-U-0439,Anna University,RPC (100),49.29,RPC
+2022,Management,IR-M-U-0439,Anna University,GO (100),56.27,GO
+2022,Management,IR-M-U-0439,Anna University,OI (100),49.37,OI
+2022,Management,IR-M-U-0439,Anna University,PERCEPTION (100),48.41,PR
+2022,Management,IR-M-U-0500,Banaras Hindu University,TLR (100),65.6,TLR
+2022,Management,IR-M-U-0500,Banaras Hindu University,RPC (100),25.26,RPC
+2022,Management,IR-M-U-0500,Banaras Hindu University,GO (100),79.15,GO
+2022,Management,IR-M-U-0500,Banaras Hindu University,OI (100),54.75,OI
+2022,Management,IR-M-U-0500,Banaras Hindu University,PERCEPTION (100),20.7,PR
+2022,Management,IR-M-S-3283,Jaipuria Institute of Management,TLR (100),67.48,TLR
+2022,Management,IR-M-S-3283,Jaipuria Institute of Management,RPC (100),18.4,RPC
+2022,Management,IR-M-S-3283,Jaipuria Institute of Management,GO (100),79.33,GO
+2022,Management,IR-M-S-3283,Jaipuria Institute of Management,OI (100),66.56,OI
+2022,Management,IR-M-S-3283,Jaipuria Institute of Management,PERCEPTION (100),21.18,PR
+2022,Management,IR-M-S-17295,"Great Lakes Institute of Management,Gurgaon",TLR (100),74.94,TLR
+2022,Management,IR-M-S-17295,"Great Lakes Institute of Management,Gurgaon",RPC (100),15.05,RPC
+2022,Management,IR-M-S-17295,"Great Lakes Institute of Management,Gurgaon",GO (100),76.56,GO
+2022,Management,IR-M-S-17295,"Great Lakes Institute of Management,Gurgaon",OI (100),77.5,OI
+2022,Management,IR-M-S-17295,"Great Lakes Institute of Management,Gurgaon",PERCEPTION (100),3.04,PR
+2022,Management,IR-M-I-1480,Thapar Institute of Engineering and Technology,TLR (100),66.8,TLR
+2022,Management,IR-M-I-1480,Thapar Institute of Engineering and Technology,RPC (100),39.55,RPC
+2022,Management,IR-M-I-1480,Thapar Institute of Engineering and Technology,GO (100),51.24,GO
+2022,Management,IR-M-I-1480,Thapar Institute of Engineering and Technology,OI (100),69.78,OI
+2022,Management,IR-M-I-1480,Thapar Institute of Engineering and Technology,PERCEPTION (100),9.79,PR
+2022,Management,IR-M-U-0735,BML Munjal University,TLR (100),69.19,TLR
+2022,Management,IR-M-U-0735,BML Munjal University,RPC (100),21.98,RPC
+2022,Management,IR-M-U-0735,BML Munjal University,GO (100),75.97,GO
+2022,Management,IR-M-U-0735,BML Munjal University,OI (100),68.96,OI
+2022,Management,IR-M-U-0735,BML Munjal University,PERCEPTION (100),4.48,PR
+2022,Management,IR-M-S-16881,"Indian Institute of Management, Amritsar",TLR (100),58.92,TLR
+2022,Management,IR-M-S-16881,"Indian Institute of Management, Amritsar",RPC (100),14.47,RPC
+2022,Management,IR-M-S-16881,"Indian Institute of Management, Amritsar",GO (100),87.5,GO
+2022,Management,IR-M-S-16881,"Indian Institute of Management, Amritsar",OI (100),71.63,OI
+2022,Management,IR-M-S-16881,"Indian Institute of Management, Amritsar",PERCEPTION (100),31.98,PR
+2022,Management,IR-M-S-354,Birla Institute of Management Technology,TLR (100),68.42,TLR
+2022,Management,IR-M-S-354,Birla Institute of Management Technology,RPC (100),16.35,RPC
+2022,Management,IR-M-S-354,Birla Institute of Management Technology,GO (100),82.66,GO
+2022,Management,IR-M-S-354,Birla Institute of Management Technology,OI (100),65.32,OI
+2022,Management,IR-M-S-354,Birla Institute of Management Technology,PERCEPTION (100),12.21,PR
+2022,Management,IR-M-U-0496,Aligarh Muslim University,TLR (100),60.37,TLR
+2022,Management,IR-M-U-0496,Aligarh Muslim University,RPC (100),40.2,RPC
+2022,Management,IR-M-U-0496,Aligarh Muslim University,GO (100),64.53,GO
+2022,Management,IR-M-U-0496,Aligarh Muslim University,OI (100),50.11,OI
+2022,Management,IR-M-U-0496,Aligarh Muslim University,PERCEPTION (100),16.14,PR
+2022,Management,IR-M-S-92,Institute of Rural Management Anand,TLR (100),65.67,TLR
+2022,Management,IR-M-S-92,Institute of Rural Management Anand,RPC (100),16.65,RPC
+2022,Management,IR-M-S-92,Institute of Rural Management Anand,GO (100),82.5,GO
+2022,Management,IR-M-S-92,Institute of Rural Management Anand,OI (100),65.11,OI
+2022,Management,IR-M-S-92,Institute of Rural Management Anand,PERCEPTION (100),19.73,PR
+2022,Management,IR-M-I-1408,"Intenational Management Institute, Kolkata",TLR (100),66.25,TLR
+2022,Management,IR-M-I-1408,"Intenational Management Institute, Kolkata",RPC (100),23.1,RPC
+2022,Management,IR-M-I-1408,"Intenational Management Institute, Kolkata",GO (100),79.94,GO
+2022,Management,IR-M-I-1408,"Intenational Management Institute, Kolkata",OI (100),58.37,OI
+2022,Management,IR-M-I-1408,"Intenational Management Institute, Kolkata",PERCEPTION (100),3.77,PR
+2022,Management,IR-M-I-1066,Fore School of Management,TLR (100),65.83,TLR
+2022,Management,IR-M-I-1066,Fore School of Management,RPC (100),8.4,RPC
+2022,Management,IR-M-I-1066,Fore School of Management,GO (100),88.95,GO
+2022,Management,IR-M-I-1066,Fore School of Management,OI (100),68.53,OI
+2022,Management,IR-M-I-1066,Fore School of Management,PERCEPTION (100),20.22,PR
+2022,Management,IR-M-I-1238,Krea University,TLR (100),75.37,TLR
+2022,Management,IR-M-I-1238,Krea University,RPC (100),4.84,RPC
+2022,Management,IR-M-I-1238,Krea University,GO (100),85.33,GO
+2022,Management,IR-M-I-1238,Krea University,OI (100),74.97,OI
+2022,Management,IR-M-I-1238,Krea University,PERCEPTION (100),3.04,PR
+2022,Management,IR-M-U-0099,Guru Gobind Singh Indraprastha University,TLR (100),58.88,TLR
+2022,Management,IR-M-U-0099,Guru Gobind Singh Indraprastha University,RPC (100),28.8,RPC
+2022,Management,IR-M-U-0099,Guru Gobind Singh Indraprastha University,GO (100),71.99,GO
+2022,Management,IR-M-U-0099,Guru Gobind Singh Indraprastha University,OI (100),50.0,OI
+2022,Management,IR-M-U-0099,Guru Gobind Singh Indraprastha University,PERCEPTION (100),28.55,PR
+2022,Management,IR-M-C-37013,PSG College of Technology,TLR (100),59.08,TLR
+2022,Management,IR-M-C-37013,PSG College of Technology,RPC (100),16.72,RPC
+2022,Management,IR-M-C-37013,PSG College of Technology,GO (100),78.18,GO
+2022,Management,IR-M-C-37013,PSG College of Technology,OI (100),50.4,OI
+2022,Management,IR-M-C-37013,PSG College of Technology,PERCEPTION (100),46.65,PR
+2022,Management,IR-M-U-0267,Atal Bihari Vajpayee Indian Institute of Information Technology and Management,TLR (100),72.44,TLR
+2022,Management,IR-M-U-0267,Atal Bihari Vajpayee Indian Institute of Information Technology and Management,RPC (100),24.91,RPC
+2022,Management,IR-M-U-0267,Atal Bihari Vajpayee Indian Institute of Information Technology and Management,GO (100),59.4,GO
+2022,Management,IR-M-U-0267,Atal Bihari Vajpayee Indian Institute of Information Technology and Management,OI (100),53.69,OI
+2022,Management,IR-M-U-0267,Atal Bihari Vajpayee Indian Institute of Information Technology and Management,PERCEPTION (100),12.8,PR
+2022,Management,IR-M-U-0555,Graphic Era University,TLR (100),62.88,TLR
+2022,Management,IR-M-U-0555,Graphic Era University,RPC (100),23.2,RPC
+2022,Management,IR-M-U-0555,Graphic Era University,GO (100),58.28,GO
+2022,Management,IR-M-U-0555,Graphic Era University,OI (100),74.83,OI
+2022,Management,IR-M-U-0555,Graphic Era University,PERCEPTION (100),23.48,PR
+2022,Management,IR-M-S-6,Indian Institute of Management Sambalpur,TLR (100),56.84,TLR
+2022,Management,IR-M-S-6,Indian Institute of Management Sambalpur,RPC (100),13.0,RPC
+2022,Management,IR-M-S-6,Indian Institute of Management Sambalpur,GO (100),84.26,GO
+2022,Management,IR-M-S-6,Indian Institute of Management Sambalpur,OI (100),70.52,OI
+2022,Management,IR-M-S-6,Indian Institute of Management Sambalpur,PERCEPTION (100),22.58,PR
+2022,Management,IR-M-U-0078,Panjab University,TLR (100),56.32,TLR
+2022,Management,IR-M-U-0078,Panjab University,RPC (100),29.47,RPC
+2022,Management,IR-M-U-0078,Panjab University,GO (100),66.45,GO
+2022,Management,IR-M-U-0078,Panjab University,OI (100),60.45,OI
+2022,Management,IR-M-U-0078,Panjab University,PERCEPTION (100),18.23,PR
+2022,Management,IR-M-C-34129,Principal L N Welingkar Institute of Management Development and Research,TLR (100),70.79,TLR
+2022,Management,IR-M-C-34129,Principal L N Welingkar Institute of Management Development and Research,RPC (100),7.55,RPC
+2022,Management,IR-M-C-34129,Principal L N Welingkar Institute of Management Development and Research,GO (100),80.38,GO
+2022,Management,IR-M-C-34129,Principal L N Welingkar Institute of Management Development and Research,OI (100),60.66,OI
+2022,Management,IR-M-C-34129,Principal L N Welingkar Institute of Management Development and Research,PERCEPTION (100),11.02,PR
+2022,Management,IR-M-S-15911,Indian Institute of Management Sirmaur,TLR (100),57.69,TLR
+2022,Management,IR-M-S-15911,Indian Institute of Management Sirmaur,RPC (100),10.93,RPC
+2022,Management,IR-M-S-15911,Indian Institute of Management Sirmaur,GO (100),83.05,GO
+2022,Management,IR-M-S-15911,Indian Institute of Management Sirmaur,OI (100),68.67,OI
+2022,Management,IR-M-S-15911,Indian Institute of Management Sirmaur,PERCEPTION (100),23.93,PR
+2022,Management,IR-M-I-1124,"International Management Institute, Bhubaneswar",TLR (100),67.94,TLR
+2022,Management,IR-M-I-1124,"International Management Institute, Bhubaneswar",RPC (100),10.92,RPC
+2022,Management,IR-M-I-1124,"International Management Institute, Bhubaneswar",GO (100),73.83,GO
+2022,Management,IR-M-I-1124,"International Management Institute, Bhubaneswar",OI (100),71.29,OI
+2022,Management,IR-M-I-1124,"International Management Institute, Bhubaneswar",PERCEPTION (100),8.52,PR
+2022,Management,IR-M-S-220,K.J.Somaiya Institute of Management,TLR (100),65.95,TLR
+2022,Management,IR-M-S-220,K.J.Somaiya Institute of Management,RPC (100),11.91,RPC
+2022,Management,IR-M-S-220,K.J.Somaiya Institute of Management,GO (100),79.54,GO
+2022,Management,IR-M-S-220,K.J.Somaiya Institute of Management,OI (100),60.64,OI
+2022,Management,IR-M-S-220,K.J.Somaiya Institute of Management,PERCEPTION (100),9.79,PR
+2022,Management,IR-M-U-0217,Christ University,TLR (100),59.66,TLR
+2022,Management,IR-M-U-0217,Christ University,RPC (100),15.23,RPC
+2022,Management,IR-M-U-0217,Christ University,GO (100),67.61,GO
+2022,Management,IR-M-U-0217,Christ University,OI (100),67.19,OI
+2022,Management,IR-M-U-0217,Christ University,PERCEPTION (100),35.83,PR
+2022,Management,IR-M-U-1006,Indian Institute of Management Bodh Gaya,TLR (100),58.92,TLR
+2022,Management,IR-M-U-1006,Indian Institute of Management Bodh Gaya,RPC (100),4.48,RPC
+2022,Management,IR-M-U-1006,Indian Institute of Management Bodh Gaya,GO (100),86.15,GO
+2022,Management,IR-M-U-1006,Indian Institute of Management Bodh Gaya,OI (100),71.33,OI
+2022,Management,IR-M-U-1006,Indian Institute of Management Bodh Gaya,PERCEPTION (100),24.37,PR
+2022,Management,IR-M-S-164,Rajagiri Business School,TLR (100),65.04,TLR
+2022,Management,IR-M-S-164,Rajagiri Business School,RPC (100),17.54,RPC
+2022,Management,IR-M-S-164,Rajagiri Business School,GO (100),69.32,GO
+2022,Management,IR-M-S-164,Rajagiri Business School,OI (100),56.52,OI
+2022,Management,IR-M-S-164,Rajagiri Business School,PERCEPTION (100),15.06,PR
+2022,Management,IR-M-I-1132,Institute of Management Technology,TLR (100),59.69,TLR
+2022,Management,IR-M-I-1132,Institute of Management Technology,RPC (100),12.17,RPC
+2022,Management,IR-M-I-1132,Institute of Management Technology,GO (100),78.0,GO
+2022,Management,IR-M-I-1132,Institute of Management Technology,OI (100),64.57,OI
+2022,Management,IR-M-I-1132,Institute of Management Technology,PERCEPTION (100),15.6,PR
+2022,Management,IR-M-U-0249,Visvesvaraya Technological University,TLR (100),72.91,TLR
+2022,Management,IR-M-U-0249,Visvesvaraya Technological University,RPC (100),17.37,RPC
+2022,Management,IR-M-U-0249,Visvesvaraya Technological University,GO (100),57.53,GO
+2022,Management,IR-M-U-0249,Visvesvaraya Technological University,OI (100),60.39,OI
+2022,Management,IR-M-U-0249,Visvesvaraya Technological University,PERCEPTION (100),5.18,PR
+2022,Management,IR-M-I-1441,Saveetha Institute of Medical and Technical Sciences,TLR (100),63.47,TLR
+2022,Management,IR-M-I-1441,Saveetha Institute of Medical and Technical Sciences,RPC (100),19.31,RPC
+2022,Management,IR-M-I-1441,Saveetha Institute of Medical and Technical Sciences,GO (100),66.51,GO
+2022,Management,IR-M-I-1441,Saveetha Institute of Medical and Technical Sciences,OI (100),69.98,OI
+2022,Management,IR-M-I-1441,Saveetha Institute of Medical and Technical Sciences,PERCEPTION (100),0.0,PR
+2022,Management,IR-M-U-0202,Birla Institute of Technology,TLR (100),61.22,TLR
+2022,Management,IR-M-U-0202,Birla Institute of Technology,RPC (100),22.8,RPC
+2022,Management,IR-M-U-0202,Birla Institute of Technology,GO (100),60.02,GO
+2022,Management,IR-M-U-0202,Birla Institute of Technology,OI (100),58.98,OI
+2022,Management,IR-M-U-0202,Birla Institute of Technology,PERCEPTION (100),17.72,PR
+2022,Management,IR-M-S-419,"Jaipuria Institute of Management, Lucknow",TLR (100),63.88,TLR
+2022,Management,IR-M-S-419,"Jaipuria Institute of Management, Lucknow",RPC (100),5.21,RPC
+2022,Management,IR-M-S-419,"Jaipuria Institute of Management, Lucknow",GO (100),80.34,GO
+2022,Management,IR-M-S-419,"Jaipuria Institute of Management, Lucknow",OI (100),58.27,OI
+2022,Management,IR-M-S-419,"Jaipuria Institute of Management, Lucknow",PERCEPTION (100),22.58,PR
+2022,Management,IR-M-U-0373,Chitkara University,TLR (100),67.04,TLR
+2022,Management,IR-M-U-0373,Chitkara University,RPC (100),20.07,RPC
+2022,Management,IR-M-U-0373,Chitkara University,GO (100),55.07,GO
+2022,Management,IR-M-U-0373,Chitkara University,OI (100),70.85,OI
+2022,Management,IR-M-U-0373,Chitkara University,PERCEPTION (100),5.18,PR
+2022,Management,IR-M-S-309,Jaipuria Institute of Management,TLR (100),67.55,TLR
+2022,Management,IR-M-S-309,Jaipuria Institute of Management,RPC (100),8.26,RPC
+2022,Management,IR-M-S-309,Jaipuria Institute of Management,GO (100),74.33,GO
+2022,Management,IR-M-S-309,Jaipuria Institute of Management,OI (100),56.2,OI
+2022,Management,IR-M-S-309,Jaipuria Institute of Management,PERCEPTION (100),14.5,PR
+2022,Management,IR-M-C-32855,Jagan Institute of Management Studies,TLR (100),61.33,TLR
+2022,Management,IR-M-C-32855,Jagan Institute of Management Studies,RPC (100),7.25,RPC
+2022,Management,IR-M-C-32855,Jagan Institute of Management Studies,GO (100),81.13,GO
+2022,Management,IR-M-C-32855,Jagan Institute of Management Studies,OI (100),71.56,OI
+2022,Management,IR-M-C-32855,Jagan Institute of Management Studies,PERCEPTION (100),5.18,PR
+2022,Management,IR-M-N-4,Bharathidasan Institute of Management,TLR (100),63.47,TLR
+2022,Management,IR-M-N-4,Bharathidasan Institute of Management,RPC (100),2.55,RPC
+2022,Management,IR-M-N-4,Bharathidasan Institute of Management,GO (100),81.02,GO
+2022,Management,IR-M-N-4,Bharathidasan Institute of Management,OI (100),38.19,OI
+2022,Management,IR-M-N-4,Bharathidasan Institute of Management,PERCEPTION (100),46.39,PR
+2022,Management,IR-M-U-0263,"National Institute of Technology, Calicut",TLR (100),61.94,TLR
+2022,Management,IR-M-U-0263,"National Institute of Technology, Calicut",RPC (100),20.83,RPC
+2022,Management,IR-M-U-0263,"National Institute of Technology, Calicut",GO (100),63.6,GO
+2022,Management,IR-M-U-0263,"National Institute of Technology, Calicut",OI (100),52.42,OI
+2022,Management,IR-M-U-0263,"National Institute of Technology, Calicut",PERCEPTION (100),15.06,PR
+2022,Management,IR-M-U-0749,"Manipal University, Jaipur",TLR (100),63.78,TLR
+2022,Management,IR-M-U-0749,"Manipal University, Jaipur",RPC (100),23.06,RPC
+2022,Management,IR-M-U-0749,"Manipal University, Jaipur",GO (100),57.75,GO
+2022,Management,IR-M-U-0749,"Manipal University, Jaipur",OI (100),63.2,OI
+2022,Management,IR-M-U-0749,"Manipal University, Jaipur",PERCEPTION (100),1.55,PR
+2022,Management,IR-M-S-331,Loyola Institute of Business Administration,TLR (100),59.95,TLR
+2022,Management,IR-M-S-331,Loyola Institute of Business Administration,RPC (100),5.16,RPC
+2022,Management,IR-M-S-331,Loyola Institute of Business Administration,GO (100),75.43,GO
+2022,Management,IR-M-S-331,Loyola Institute of Business Administration,OI (100),61.7,OI
+2022,Management,IR-M-S-331,Loyola Institute of Business Administration,PERCEPTION (100),32.35,PR
+2022,Management,IR-M-U-0498,Babasheb Bhimrao Ambedkar University,TLR (100),63.57,TLR
+2022,Management,IR-M-U-0498,Babasheb Bhimrao Ambedkar University,RPC (100),5.22,RPC
+2022,Management,IR-M-U-0498,Babasheb Bhimrao Ambedkar University,GO (100),75.88,GO
+2022,Management,IR-M-U-0498,Babasheb Bhimrao Ambedkar University,OI (100),81.46,OI
+2022,Management,IR-M-U-0498,Babasheb Bhimrao Ambedkar University,PERCEPTION (100),0.0,PR
+2022,Management,IR-M-U-0507,Dayalbagh Educational Institute,TLR (100),67.78,TLR
+2022,Management,IR-M-U-0507,Dayalbagh Educational Institute,RPC (100),11.75,RPC
+2022,Management,IR-M-U-0507,Dayalbagh Educational Institute,GO (100),66.89,GO
+2022,Management,IR-M-U-0507,Dayalbagh Educational Institute,OI (100),57.32,OI
+2022,Management,IR-M-U-0507,Dayalbagh Educational Institute,PERCEPTION (100),9.79,PR
+2022,Management,IR-M-U-0147,Pandit Deendayal Energy University,TLR (100),60.07,TLR
+2022,Management,IR-M-U-0147,Pandit Deendayal Energy University,RPC (100),24.39,RPC
+2022,Management,IR-M-U-0147,Pandit Deendayal Energy University,GO (100),70.39,GO
+2022,Management,IR-M-U-0147,Pandit Deendayal Energy University,OI (100),42.04,OI
+2022,Management,IR-M-U-0147,Pandit Deendayal Energy University,PERCEPTION (100),1.55,PR
+2022,Management,IR-M-U-0851,IIHMR University,TLR (100),65.31,TLR
+2022,Management,IR-M-U-0851,IIHMR University,RPC (100),6.05,RPC
+2022,Management,IR-M-U-0851,IIHMR University,GO (100),73.5,GO
+2022,Management,IR-M-U-0851,IIHMR University,OI (100),74.31,OI
+2022,Management,IR-M-U-0851,IIHMR University,PERCEPTION (100),1.55,PR
+2022,Management,IR-M-I-1144,Pune Institute of Business Management,TLR (100),65.45,TLR
+2022,Management,IR-M-I-1144,Pune Institute of Business Management,RPC (100),10.59,RPC
+2022,Management,IR-M-I-1144,Pune Institute of Business Management,GO (100),69.38,GO
+2022,Management,IR-M-I-1144,Pune Institute of Business Management,OI (100),68.49,OI
+2022,Management,IR-M-I-1144,Pune Institute of Business Management,PERCEPTION (100),0.78,PR
+2022,Management,IR-M-U-0155,"Amity University Haryana, Gurgaon",TLR (100),64.45,TLR
+2022,Management,IR-M-U-0155,"Amity University Haryana, Gurgaon",RPC (100),16.71,RPC
+2022,Management,IR-M-U-0155,"Amity University Haryana, Gurgaon",GO (100),57.71,GO
+2022,Management,IR-M-U-0155,"Amity University Haryana, Gurgaon",OI (100),62.05,OI
+2022,Management,IR-M-U-0155,"Amity University Haryana, Gurgaon",PERCEPTION (100),5.87,PR
+2022,Management,IR-M-U-0643,Galgotias University,TLR (100),63.44,TLR
+2022,Management,IR-M-U-0643,Galgotias University,RPC (100),8.9,RPC
+2022,Management,IR-M-U-0643,Galgotias University,GO (100),66.28,GO
+2022,Management,IR-M-U-0643,Galgotias University,OI (100),75.85,OI
+2022,Management,IR-M-U-0643,Galgotias University,PERCEPTION (100),0.78,PR
+2022,Management,IR-M-U-0042,University of Hyderabad,TLR (100),48.6,TLR
+2022,Management,IR-M-U-0042,University of Hyderabad,RPC (100),24.12,RPC
+2022,Management,IR-M-U-0042,University of Hyderabad,GO (100),68.15,GO
+2022,Management,IR-M-U-0042,University of Hyderabad,OI (100),59.53,OI
+2022,Management,IR-M-U-0042,University of Hyderabad,PERCEPTION (100),12.21,PR
+2022,Management,IR-M-I-1048,"Institute of Management Technology, Nagpur",TLR (100),63.02,TLR
+2022,Management,IR-M-I-1048,"Institute of Management Technology, Nagpur",RPC (100),9.45,RPC
+2022,Management,IR-M-I-1048,"Institute of Management Technology, Nagpur",GO (100),77.11,GO
+2022,Management,IR-M-I-1048,"Institute of Management Technology, Nagpur",OI (100),52.1,OI
+2022,Management,IR-M-I-1048,"Institute of Management Technology, Nagpur",PERCEPTION (100),2.3,PR
+2022,Management,IR-M-U-0223,"Jain University, Bangalore",TLR (100),66.91,TLR
+2022,Management,IR-M-U-0223,"Jain University, Bangalore",RPC (100),6.7,RPC
+2022,Management,IR-M-U-0223,"Jain University, Bangalore",GO (100),66.75,GO
+2022,Management,IR-M-U-0223,"Jain University, Bangalore",OI (100),61.26,OI
+2022,Management,IR-M-U-0223,"Jain University, Bangalore",PERCEPTION (100),9.16,PR
+2022,Management,IR-M-C-36557,Thiagarajar School of Management,TLR (100),52.96,TLR
+2022,Management,IR-M-C-36557,Thiagarajar School of Management,RPC (100),14.83,RPC
+2022,Management,IR-M-C-36557,Thiagarajar School of Management,GO (100),76.03,GO
+2022,Management,IR-M-C-36557,Thiagarajar School of Management,OI (100),47.15,OI
+2022,Management,IR-M-C-36557,Thiagarajar School of Management,PERCEPTION (100),22.12,PR
+2022,Management,IR-M-U-0213,Alliance University,TLR (100),71.79,TLR
+2022,Management,IR-M-U-0213,Alliance University,RPC (100),7.92,RPC
+2022,Management,IR-M-U-0213,Alliance University,GO (100),49.9,GO
+2022,Management,IR-M-U-0213,Alliance University,OI (100),72.37,OI
+2022,Management,IR-M-U-0213,Alliance University,PERCEPTION (100),10.41,PR
+2022,Management,IR-M-U-0136,Gujarat University,TLR (100),64.64,TLR
+2022,Management,IR-M-U-0136,Gujarat University,RPC (100),12.76,RPC
+2022,Management,IR-M-U-0136,Gujarat University,GO (100),71.37,GO
+2022,Management,IR-M-U-0136,Gujarat University,OI (100),41.48,OI
+2022,Management,IR-M-U-0136,Gujarat University,PERCEPTION (100),3.04,PR
+2022,Management,IR-M-U-0107,Jamia Hamdard,TLR (100),62.03,TLR
+2022,Management,IR-M-U-0107,Jamia Hamdard,RPC (100),12.6,RPC
+2022,Management,IR-M-U-0107,Jamia Hamdard,GO (100),63.48,GO
+2022,Management,IR-M-U-0107,Jamia Hamdard,OI (100),58.35,OI
+2022,Management,IR-M-U-0107,Jamia Hamdard,PERCEPTION (100),5.18,PR
+2022,Management,IR-M-U-0195,University of Jammu,TLR (100),61.48,TLR
+2022,Management,IR-M-U-0195,University of Jammu,RPC (100),25.9,RPC
+2022,Management,IR-M-U-0195,University of Jammu,GO (100),55.54,GO
+2022,Management,IR-M-U-0195,University of Jammu,OI (100),40.33,OI
+2022,Management,IR-M-U-0195,University of Jammu,PERCEPTION (100),0.78,PR

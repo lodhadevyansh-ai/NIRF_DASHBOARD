@@ -1,0 +1,51 @@
+year,category,institute_id,institute_name,city,state,official_rank,numeric_rank,overall_score,source_url
+2022,Research Institutions,IR-R-U-0220,Indian Institute of Science,Bengaluru,Karnataka,1,1,88.62,https://www.nirfindia.org/Rankings/2022/ResearchRanking.html
+2022,Research Institutions,IR-R-U-0456,Indian Institute of Technology Madras,Chennai,Tamil Nadu,2,2,86.38,https://www.nirfindia.org/Rankings/2022/ResearchRanking.html
+2022,Research Institutions,IR-R-I-1074,"Indian Institute of Technology, Delhi",New Delhi,Delhi,3,3,82.16,https://www.nirfindia.org/Rankings/2022/ResearchRanking.html
+2022,Research Institutions,IR-R-U-0306,"Indian Institute of Technology, Bombay",Mumbai,Maharashtra,4,4,80.21,https://www.nirfindia.org/Rankings/2022/ResearchRanking.html
+2022,Research Institutions,IR-R-U-0573,"Indian Institute of Technology, Kharagpur",Kharagpur,West Bengal,5,5,74.05,https://www.nirfindia.org/Rankings/2022/ResearchRanking.html
+2022,Research Institutions,IR-R-I-1075,Indian Institute of Technology Kanpur,Kanpur,Uttar Pradesh,6,6,72.47,https://www.nirfindia.org/Rankings/2022/ResearchRanking.html
+2022,Research Institutions,IR-R-U-0330,Tata Institute of Fundamental Research,Mumbai,Maharashtra,7,7,66.63,https://www.nirfindia.org/Rankings/2022/ResearchRanking.html
+2022,Research Institutions,IR-R-U-0560,"Indian Institute of Technology, Roorkee",Roorkee,Uttarakhand,8,8,66.29,https://www.nirfindia.org/Rankings/2022/ResearchRanking.html
+2022,Research Institutions,IR-R-N-15,"All India Institute of Medical Sciences, Delhi",New Delhi,Delhi,9,9,62.48,https://www.nirfindia.org/Rankings/2022/ResearchRanking.html
+2022,Research Institutions,IR-R-U-0490,Vellore Institute of Technology,Vellore,Tamil Nadu,10,10,59.71,https://www.nirfindia.org/Rankings/2022/ResearchRanking.html
+2022,Research Institutions,IR-R-U-0304,Homi Bhabha National Institute,Mumbai,Maharashtra,11,11,58.65,https://www.nirfindia.org/Rankings/2022/ResearchRanking.html
+2022,Research Institutions,IR-R-U-0013,Indian Institute of Technology Hyderabad,Hyderabad,Telangana,12,12,57.96,https://www.nirfindia.org/Rankings/2022/ResearchRanking.html
+2022,Research Institutions,IR-R-U-0575,Jadavpur University,Kolkata,West Bengal,13,13,56.81,https://www.nirfindia.org/Rankings/2022/ResearchRanking.html
+2022,Research Institutions,IR-R-U-0109,Jawaharlal Nehru University,New Delhi,Delhi,14,14,56.75,https://www.nirfindia.org/Rankings/2022/ResearchRanking.html
+2022,Research Institutions,IR-R-U-0500,Banaras Hindu University,Varanasi,Uttar Pradesh,15,15,55.61,https://www.nirfindia.org/Rankings/2022/ResearchRanking.html
+2022,Research Institutions,IR-R-U-0120,University of Delhi,Delhi,Delhi,16,16,55.51,https://www.nirfindia.org/Rankings/2022/ResearchRanking.html
+2022,Research Institutions,IR-R-U-0305,"Indian Institute of Science Education & Research, Pune",Pune,Maharashtra,17,17,55.39,https://www.nirfindia.org/Rankings/2022/ResearchRanking.html
+2022,Research Institutions,IR-R-U-0713,Academy of Scientific & Innovative Research,Ghaziabad,Uttar Pradesh,18,18,53.21,https://www.nirfindia.org/Rankings/2022/ResearchRanking.html
+2022,Research Institutions,IR-R-U-0108,"Jamia Millia Islamia, New Delhi",New Delhi,Delhi,19,19,53.14,https://www.nirfindia.org/Rankings/2022/ResearchRanking.html
+2022,Research Institutions,IR-R-U-0205,Indian Institute of Technology (Indian School of Mines),Dhanbad,Jharkhand,20,20,53.07,https://www.nirfindia.org/Rankings/2022/ResearchRanking.html
+2022,Research Institutions,IR-R-U-0439,Anna University,Chennai,Tamil Nadu,21,21,52.85,https://www.nirfindia.org/Rankings/2022/ResearchRanking.html
+2022,Research Institutions,IR-R-U-0447,Bharathiar University,Coimbatore,Tamil Nadu,22,22,51.18,https://www.nirfindia.org/Rankings/2022/ResearchRanking.html
+2022,Research Institutions,IR-R-U-0467,"National Institute of Technology, Tiruchirappalli",Tiruchirappalli,Tamil Nadu,23,23,51.14,https://www.nirfindia.org/Rankings/2022/ResearchRanking.html
+2022,Research Institutions,IR-R-U-0357,National Institute of Technology Rourkela,Rourkela,Odisha,24,24,50.94,https://www.nirfindia.org/Rankings/2022/ResearchRanking.html
+2022,Research Institutions,IR-R-U-0308,Institute of Chemical Technology,Mumbai,Maharashtra,25,25,50.81,https://www.nirfindia.org/Rankings/2022/ResearchRanking.html
+2022,Research Institutions,IR-R-U-0273,Indian Institute of Technology Indore,Indore,Madhya Pradesh,26,26,50.73,https://www.nirfindia.org/Rankings/2022/ResearchRanking.html
+2022,Research Institutions,IR-R-U-0042,University of Hyderabad,Hyderabad,Telangana,27,27,50.52,https://www.nirfindia.org/Rankings/2022/ResearchRanking.html
+2022,Research Institutions,IR-R-U-0496,Aligarh Muslim University,Aligarh,Uttar Pradesh,28,28,50.16,https://www.nirfindia.org/Rankings/2022/ResearchRanking.html
+2022,Research Institutions,IR-R-U-0078,Panjab University,Chandigarh,Chandigarh,29,29,50.15,https://www.nirfindia.org/Rankings/2022/ResearchRanking.html
+2022,Research Institutions,IR-R-U-0234,"Manipal Academy of Higher Education, Manipal",Manipal,Karnataka,30,30,49.96,https://www.nirfindia.org/Rankings/2022/ResearchRanking.html
+2022,Research Institutions,IR-R-U-0436,Amrita Vishwa Vidyapeetham,Coimbatore,Tamil Nadu,31,31,49.42,https://www.nirfindia.org/Rankings/2022/ResearchRanking.html
+2022,Research Institutions,IR-R-U-0572,"Indian Institute of Science Education & Research, Kolkata",Mohanpur,West Bengal,32,32,48.08,https://www.nirfindia.org/Rankings/2022/ResearchRanking.html
+2022,Research Institutions,IR-R-U-0391,Birla Institute of Technology & Science - Pilani,Pilani,Rajasthan,33,33,47.65,https://www.nirfindia.org/Rankings/2022/ResearchRanking.html
+2022,Research Institutions,IR-R-U-0139,"Indian Institute of Technology, Gandhinagar",Gandhinagar,Gujarat,34,34,47.3,https://www.nirfindia.org/Rankings/2022/ResearchRanking.html
+2022,Research Institutions,IR-R-I-1480,Thapar Institute of Engineering and Technology,Patiala,Punjab,35,35,46.38,https://www.nirfindia.org/Rankings/2022/ResearchRanking.html
+2022,Research Institutions,IR-R-U-0473,S.R.M. Institute of Science and Technology,Chennai,Tamil Nadu,36,36,46.0,https://www.nirfindia.org/Rankings/2022/ResearchRanking.html
+2022,Research Institutions,IR-R-U-0355,Indian Institute of Technology Bhubaneswar,Bhubaneswar,Odisha,37,37,44.09,https://www.nirfindia.org/Rankings/2022/ResearchRanking.html
+2022,Research Institutions,IR-R-U-0497,Amity University,Gautam Budh Nagar,Uttar Pradesh,38,38,42.13,https://www.nirfindia.org/Rankings/2022/ResearchRanking.html
+2022,Research Institutions,IR-R-U-0184,"Indian Institute of Technology, Mandi",Mandi,Himachal Pradesh,39,39,41.92,https://www.nirfindia.org/Rankings/2022/ResearchRanking.html
+2022,Research Institutions,IR-R-U-0584,"Indian Institute of Engineering Science and Technology, Shibpur",Howrah,West Bengal,40,40,41.36,https://www.nirfindia.org/Rankings/2022/ResearchRanking.html
+2022,Research Institutions,IR-R-U-0064,"Indian Institute of Technology, Patna",Patna,Bihar,41,41,41.19,https://www.nirfindia.org/Rankings/2022/ResearchRanking.html
+2022,Research Institutions,IR-R-U-0236,"National Institute of Mental Health & Neuro Sciences, Bangalore",Bangalore,Karnataka,42,42,41.14,https://www.nirfindia.org/Rankings/2022/ResearchRanking.html
+2022,Research Institutions,IR-R-U-0435,Alagappa University,Karaikudi,Tamil Nadu,43,43,41.0,https://www.nirfindia.org/Rankings/2022/ResearchRanking.html
+2022,Research Institutions,IR-R-U-0476,Shanmugha Arts Science Technology & Research Academy,Thanjavur,Tamil Nadu,44,44,40.4,https://www.nirfindia.org/Rankings/2022/ResearchRanking.html
+2022,Research Institutions,IR-R-U-0363,Siksha `O` Anusandhan,Bhubaneswar,Odisha,45,45,40.06,https://www.nirfindia.org/Rankings/2022/ResearchRanking.html
+2022,Research Institutions,IR-R-U-0410,Malaviya National Institute of Technology,Jaipur,Rajasthan,46,46,39.82,https://www.nirfindia.org/Rankings/2022/ResearchRanking.html
+2022,Research Institutions,IR-R-U-0356,Kalinga Institute of Industrial Technology,Bhubaneswar,Odisha,47,47,39.64,https://www.nirfindia.org/Rankings/2022/ResearchRanking.html
+2022,Research Institutions,IR-R-I-1441,Saveetha Institute of Medical and Technical Sciences,Chennai,Tamil Nadu,48,48,39.58,https://www.nirfindia.org/Rankings/2022/ResearchRanking.html
+2022,Research Institutions,IR-R-U-0272,Indian Institute of Science Education & Research Bhopal,Bhopal,Madhya Pradesh,49,49,39.51,https://www.nirfindia.org/Rankings/2022/ResearchRanking.html
+2022,Research Institutions,IR-R-U-0055,"National Institute of Technology, Silchar",Silchar,Assam,50,50,38.67,https://www.nirfindia.org/Rankings/2022/ResearchRanking.html

@@ -1,0 +1,13 @@
+{
+  "Category": "Colleges",
+  "Year": 2018,
+  "Source URL": "https://www.nirfindia.org/Rankings/2018/CollegeRanking.html",
+  "Scraping timestamp": "2026-10-31T16:36:23.978765+00:00",
+  "Extraction timestamp": "2026-10-31T16:36:24.779661+00:00",
+  "Number of ranking records": 99,
+  "Number of parameter records": 495,
+  "HTTP status": 200,
+  "Scraping status": "success",
+  "Extraction status": "success",
+  "Error messages": null
+}

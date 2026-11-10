@@ -1,0 +1,251 @@
+year,category,institute_id,institute_name,parameter_name,parameter_score,canonical_parameter
+2017,Pharmacy,IR17-PHRM-2-17784,Jamia Hamdard,TLR (100),62.25,TLR
+2017,Pharmacy,IR17-PHRM-2-17784,Jamia Hamdard,RPC (100),90.03,RPC
+2017,Pharmacy,IR17-PHRM-2-17784,Jamia Hamdard,GO (100),85.45,GO
+2017,Pharmacy,IR17-PHRM-2-17784,Jamia Hamdard,OI (100),59.05,OI
+2017,Pharmacy,IR17-PHRM-2-17784,Jamia Hamdard,PERCEPTION (100),49.7,PR
+2017,Pharmacy,IR17-PHRM-1-1-NIP-1,"National Institute of Pharmaceutical Education and Research, Mohali",TLR (100),71.97,TLR
+2017,Pharmacy,IR17-PHRM-1-1-NIP-1,"National Institute of Pharmaceutical Education and Research, Mohali",RPC (100),80.91,RPC
+2017,Pharmacy,IR17-PHRM-1-1-NIP-1,"National Institute of Pharmaceutical Education and Research, Mohali",GO (100),69.53,GO
+2017,Pharmacy,IR17-PHRM-1-1-NIP-1,"National Institute of Pharmaceutical Education and Research, Mohali",OI (100),70.26,OI
+2017,Pharmacy,IR17-PHRM-1-1-NIP-1,"National Institute of Pharmaceutical Education and Research, Mohali",PERCEPTION (100),63.84,PR
+2017,Pharmacy,IR17-PHRM-2-18023,University Institute of Pharmaceutical Sciences,TLR (100),68.01,TLR
+2017,Pharmacy,IR17-PHRM-2-18023,University Institute of Pharmaceutical Sciences,RPC (100),57.93,RPC
+2017,Pharmacy,IR17-PHRM-2-18023,University Institute of Pharmaceutical Sciences,GO (100),87.0,GO
+2017,Pharmacy,IR17-PHRM-2-18023,University Institute of Pharmaceutical Sciences,OI (100),90.44,OI
+2017,Pharmacy,IR17-PHRM-2-18023,University Institute of Pharmaceutical Sciences,PERCEPTION (100),53.75,PR
+2017,Pharmacy,IR17-PHRM-2-18261,Institute of Chemical Technology,TLR (100),75.12,TLR
+2017,Pharmacy,IR17-PHRM-2-18261,Institute of Chemical Technology,RPC (100),64.44,RPC
+2017,Pharmacy,IR17-PHRM-2-18261,Institute of Chemical Technology,GO (100),65.19,GO
+2017,Pharmacy,IR17-PHRM-2-18261,Institute of Chemical Technology,OI (100),60.6,OI
+2017,Pharmacy,IR17-PHRM-2-18261,Institute of Chemical Technology,PERCEPTION (100),46.98,PR
+2017,Pharmacy,IR17-PHRM-2-18693,"National Institute of Pharmaceutical Education and Research, Hyderabad",TLR (100),88.8,TLR
+2017,Pharmacy,IR17-PHRM-2-18693,"National Institute of Pharmaceutical Education and Research, Hyderabad",RPC (100),44.84,RPC
+2017,Pharmacy,IR17-PHRM-2-18693,"National Institute of Pharmaceutical Education and Research, Hyderabad",GO (100),65.74,GO
+2017,Pharmacy,IR17-PHRM-2-18693,"National Institute of Pharmaceutical Education and Research, Hyderabad",OI (100),77.3,OI
+2017,Pharmacy,IR17-PHRM-2-18693,"National Institute of Pharmaceutical Education and Research, Hyderabad",PERCEPTION (100),41.71,PR
+2017,Pharmacy,IR17-PHRM-2-18599,Birla Institute of Technology & Science -Pilani,TLR (100),69.09,TLR
+2017,Pharmacy,IR17-PHRM-2-18599,Birla Institute of Technology & Science -Pilani,RPC (100),57.7,RPC
+2017,Pharmacy,IR17-PHRM-2-18599,Birla Institute of Technology & Science -Pilani,GO (100),75.2,GO
+2017,Pharmacy,IR17-PHRM-2-18599,Birla Institute of Technology & Science -Pilani,OI (100),55.81,OI
+2017,Pharmacy,IR17-PHRM-2-18599,Birla Institute of Technology & Science -Pilani,PERCEPTION (100),61.34,PR
+2017,Pharmacy,IR17-PHRM-1-1-2812279307,Manipal College of Pharmaceutical Sciences,TLR (100),74.94,TLR
+2017,Pharmacy,IR17-PHRM-1-1-2812279307,Manipal College of Pharmaceutical Sciences,RPC (100),41.95,RPC
+2017,Pharmacy,IR17-PHRM-1-1-2812279307,Manipal College of Pharmaceutical Sciences,GO (100),56.0,GO
+2017,Pharmacy,IR17-PHRM-1-1-2812279307,Manipal College of Pharmaceutical Sciences,OI (100),65.21,OI
+2017,Pharmacy,IR17-PHRM-1-1-2812279307,Manipal College of Pharmaceutical Sciences,PERCEPTION (100),68.5,PR
+2017,Pharmacy,IR17-PHRM-1-1-2816342749,"Poona College of Pharmacy, Erandwane, Pune",TLR (100),62.33,TLR
+2017,Pharmacy,IR17-PHRM-1-1-2816342749,"Poona College of Pharmacy, Erandwane, Pune",RPC (100),39.08,RPC
+2017,Pharmacy,IR17-PHRM-1-1-2816342749,"Poona College of Pharmacy, Erandwane, Pune",GO (100),57.71,GO
+2017,Pharmacy,IR17-PHRM-1-1-2816342749,"Poona College of Pharmacy, Erandwane, Pune",OI (100),70.28,OI
+2017,Pharmacy,IR17-PHRM-1-1-2816342749,"Poona College of Pharmacy, Erandwane, Pune",PERCEPTION (100),57.02,PR
+2017,Pharmacy,IR17-PHRM-2-1-596,S.R.M Institute of Science and Technology,TLR (100),58.35,TLR
+2017,Pharmacy,IR17-PHRM-2-1-596,S.R.M Institute of Science and Technology,RPC (100),51.02,RPC
+2017,Pharmacy,IR17-PHRM-2-1-596,S.R.M Institute of Science and Technology,GO (100),58.17,GO
+2017,Pharmacy,IR17-PHRM-2-1-596,S.R.M Institute of Science and Technology,OI (100),74.65,OI
+2017,Pharmacy,IR17-PHRM-2-1-596,S.R.M Institute of Science and Technology,PERCEPTION (100),23.81,PR
+2017,Pharmacy,IR17-PHRM-1-17445,JSS College of Pharmacy,TLR (100),58.78,TLR
+2017,Pharmacy,IR17-PHRM-1-17445,JSS College of Pharmacy,RPC (100),31.95,RPC
+2017,Pharmacy,IR17-PHRM-1-17445,JSS College of Pharmacy,GO (100),54.39,GO
+2017,Pharmacy,IR17-PHRM-1-17445,JSS College of Pharmacy,OI (100),86.27,OI
+2017,Pharmacy,IR17-PHRM-1-17445,JSS College of Pharmacy,PERCEPTION (100),61.08,PR
+2017,Pharmacy,IR17-PHRM-1-22,Dr. Harisingh Gour Vishwavidyalaya-Sagar,TLR (100),42.06,TLR
+2017,Pharmacy,IR17-PHRM-1-22,Dr. Harisingh Gour Vishwavidyalaya-Sagar,RPC (100),63.2,RPC
+2017,Pharmacy,IR17-PHRM-1-22,Dr. Harisingh Gour Vishwavidyalaya-Sagar,GO (100),40.57,GO
+2017,Pharmacy,IR17-PHRM-1-22,Dr. Harisingh Gour Vishwavidyalaya-Sagar,OI (100),64.03,OI
+2017,Pharmacy,IR17-PHRM-1-22,Dr. Harisingh Gour Vishwavidyalaya-Sagar,PERCEPTION (100),50.37,PR
+2017,Pharmacy,IR17-PHRM-2-1-2811781771,Birla Institute of Technology,TLR (100),67.49,TLR
+2017,Pharmacy,IR17-PHRM-2-1-2811781771,Birla Institute of Technology,RPC (100),43.97,RPC
+2017,Pharmacy,IR17-PHRM-2-1-2811781771,Birla Institute of Technology,GO (100),38.74,GO
+2017,Pharmacy,IR17-PHRM-2-1-2811781771,Birla Institute of Technology,OI (100),61.74,OI
+2017,Pharmacy,IR17-PHRM-2-1-2811781771,Birla Institute of Technology,PERCEPTION (100),37.3,PR
+2017,Pharmacy,IR17-PHRM-2-1-33,Annamalai University,TLR (100),53.2,TLR
+2017,Pharmacy,IR17-PHRM-2-1-33,Annamalai University,RPC (100),62.41,RPC
+2017,Pharmacy,IR17-PHRM-2-1-33,Annamalai University,GO (100),49.88,GO
+2017,Pharmacy,IR17-PHRM-2-1-33,Annamalai University,OI (100),47.95,OI
+2017,Pharmacy,IR17-PHRM-2-1-33,Annamalai University,PERCEPTION (100),14.53,PR
+2017,Pharmacy,IR17-PHRM-1-17860,Delhi Institute of Pharmaceutical Sciences and Research,TLR (100),55.67,TLR
+2017,Pharmacy,IR17-PHRM-1-17860,Delhi Institute of Pharmaceutical Sciences and Research,RPC (100),22.31,RPC
+2017,Pharmacy,IR17-PHRM-1-17860,Delhi Institute of Pharmaceutical Sciences and Research,GO (100),68.27,GO
+2017,Pharmacy,IR17-PHRM-1-17860,Delhi Institute of Pharmaceutical Sciences and Research,OI (100),61.39,OI
+2017,Pharmacy,IR17-PHRM-1-17860,Delhi Institute of Pharmaceutical Sciences and Research,PERCEPTION (100),52.64,PR
+2017,Pharmacy,IR17-PHRM-1-1-2809301801,Bombay College of Pharmacy,TLR (100),62.57,TLR
+2017,Pharmacy,IR17-PHRM-1-1-2809301801,Bombay College of Pharmacy,RPC (100),28.35,RPC
+2017,Pharmacy,IR17-PHRM-1-1-2809301801,Bombay College of Pharmacy,GO (100),48.81,GO
+2017,Pharmacy,IR17-PHRM-1-1-2809301801,Bombay College of Pharmacy,OI (100),50.39,OI
+2017,Pharmacy,IR17-PHRM-1-1-2809301801,Bombay College of Pharmacy,PERCEPTION (100),58.0,PR
+2017,Pharmacy,IR17-PHRM-2-18406,Nirma University,TLR (100),59.32,TLR
+2017,Pharmacy,IR17-PHRM-2-18406,Nirma University,RPC (100),33.29,RPC
+2017,Pharmacy,IR17-PHRM-2-18406,Nirma University,GO (100),52.74,GO
+2017,Pharmacy,IR17-PHRM-2-18406,Nirma University,OI (100),65.97,OI
+2017,Pharmacy,IR17-PHRM-2-18406,Nirma University,PERCEPTION (100),26.27,PR
+2017,Pharmacy,IR17-PHRM-1-17497,JSS College of Pharmacy,TLR (100),48.44,TLR
+2017,Pharmacy,IR17-PHRM-1-17497,JSS College of Pharmacy,RPC (100),25.86,RPC
+2017,Pharmacy,IR17-PHRM-1-17497,JSS College of Pharmacy,GO (100),60.67,GO
+2017,Pharmacy,IR17-PHRM-1-17497,JSS College of Pharmacy,OI (100),74.65,OI
+2017,Pharmacy,IR17-PHRM-1-17497,JSS College of Pharmacy,PERCEPTION (100),52.5,PR
+2017,Pharmacy,IR17-PHRM-2-1-31,Andhra University,TLR (100),48.49,TLR
+2017,Pharmacy,IR17-PHRM-2-1-31,Andhra University,RPC (100),42.54,RPC
+2017,Pharmacy,IR17-PHRM-2-1-31,Andhra University,GO (100),51.34,GO
+2017,Pharmacy,IR17-PHRM-2-1-31,Andhra University,OI (100),60.2,OI
+2017,Pharmacy,IR17-PHRM-2-1-31,Andhra University,PERCEPTION (100),26.52,PR
+2017,Pharmacy,IR17-PHRM-2-1-661,Sri Ramachandra University,TLR (100),64.04,TLR
+2017,Pharmacy,IR17-PHRM-2-1-661,Sri Ramachandra University,RPC (100),31.42,RPC
+2017,Pharmacy,IR17-PHRM-2-1-661,Sri Ramachandra University,GO (100),31.83,GO
+2017,Pharmacy,IR17-PHRM-2-1-661,Sri Ramachandra University,OI (100),71.07,OI
+2017,Pharmacy,IR17-PHRM-2-1-661,Sri Ramachandra University,PERCEPTION (100),38.54,PR
+2017,Pharmacy,IR17-PHRM-2-18508,Banasthali Vidyapith,TLR (100),53.1,TLR
+2017,Pharmacy,IR17-PHRM-2-18508,Banasthali Vidyapith,RPC (100),25.57,RPC
+2017,Pharmacy,IR17-PHRM-2-18508,Banasthali Vidyapith,GO (100),73.17,GO
+2017,Pharmacy,IR17-PHRM-2-18508,Banasthali Vidyapith,OI (100),65.64,OI
+2017,Pharmacy,IR17-PHRM-2-18508,Banasthali Vidyapith,PERCEPTION (100),9.68,PR
+2017,Pharmacy,IR17-PHRM-1-17804,I.S. F. College of Pharmacy,TLR (100),47.59,TLR
+2017,Pharmacy,IR17-PHRM-1-17804,I.S. F. College of Pharmacy,RPC (100),50.59,RPC
+2017,Pharmacy,IR17-PHRM-1-17804,I.S. F. College of Pharmacy,GO (100),40.21,GO
+2017,Pharmacy,IR17-PHRM-1-17804,I.S. F. College of Pharmacy,OI (100),57.42,OI
+2017,Pharmacy,IR17-PHRM-1-17804,I.S. F. College of Pharmacy,PERCEPTION (100),18.86,PR
+2017,Pharmacy,IR17-PHRM-1-17138,"Department of Pharmaceutical Sciences, Dibrugarh University",TLR (100),52.26,TLR
+2017,Pharmacy,IR17-PHRM-1-17138,"Department of Pharmaceutical Sciences, Dibrugarh University",RPC (100),40.24,RPC
+2017,Pharmacy,IR17-PHRM-1-17138,"Department of Pharmaceutical Sciences, Dibrugarh University",GO (100),56.46,GO
+2017,Pharmacy,IR17-PHRM-1-17138,"Department of Pharmaceutical Sciences, Dibrugarh University",OI (100),48.3,OI
+2017,Pharmacy,IR17-PHRM-1-17138,"Department of Pharmaceutical Sciences, Dibrugarh University",PERCEPTION (100),12.48,PR
+2017,Pharmacy,IR17-PHRM-1-17207,L. M. College of Pharmacy,TLR (100),65.76,TLR
+2017,Pharmacy,IR17-PHRM-1-17207,L. M. College of Pharmacy,RPC (100),9.59,RPC
+2017,Pharmacy,IR17-PHRM-1-17207,L. M. College of Pharmacy,GO (100),61.08,GO
+2017,Pharmacy,IR17-PHRM-1-17207,L. M. College of Pharmacy,OI (100),56.96,OI
+2017,Pharmacy,IR17-PHRM-1-17207,L. M. College of Pharmacy,PERCEPTION (100),38.72,PR
+2017,Pharmacy,IR17-PHRM-1-17689,Y. B. Chavan College of Pharmacy,TLR (100),55.29,TLR
+2017,Pharmacy,IR17-PHRM-1-17689,Y. B. Chavan College of Pharmacy,RPC (100),15.24,RPC
+2017,Pharmacy,IR17-PHRM-1-17689,Y. B. Chavan College of Pharmacy,GO (100),56.83,GO
+2017,Pharmacy,IR17-PHRM-1-17689,Y. B. Chavan College of Pharmacy,OI (100),57.32,OI
+2017,Pharmacy,IR17-PHRM-1-17689,Y. B. Chavan College of Pharmacy,PERCEPTION (100),35.86,PR
+2017,Pharmacy,IR17-PHRM-2-18265,Integral University,TLR (100),54.92,TLR
+2017,Pharmacy,IR17-PHRM-2-18265,Integral University,RPC (100),32.74,RPC
+2017,Pharmacy,IR17-PHRM-2-18265,Integral University,GO (100),40.78,GO
+2017,Pharmacy,IR17-PHRM-2-18265,Integral University,OI (100),62.05,OI
+2017,Pharmacy,IR17-PHRM-2-18265,Integral University,PERCEPTION (100),9.07,PR
+2017,Pharmacy,IR17-PHRM-1-18020,Acharya Nagarjuna University College of Pharmaceutical Sciences,TLR (100),47.76,TLR
+2017,Pharmacy,IR17-PHRM-1-18020,Acharya Nagarjuna University College of Pharmaceutical Sciences,RPC (100),29.61,RPC
+2017,Pharmacy,IR17-PHRM-1-18020,Acharya Nagarjuna University College of Pharmaceutical Sciences,GO (100),59.8,GO
+2017,Pharmacy,IR17-PHRM-1-18020,Acharya Nagarjuna University College of Pharmaceutical Sciences,OI (100),57.61,OI
+2017,Pharmacy,IR17-PHRM-1-18020,Acharya Nagarjuna University College of Pharmaceutical Sciences,PERCEPTION (100),5.69,PR
+2017,Pharmacy,IR17-PHRM-1-1-2811891107,N.G.S.M.Institute of Pharmaceutical Sciences,TLR (100),54.3,TLR
+2017,Pharmacy,IR17-PHRM-1-1-2811891107,N.G.S.M.Institute of Pharmaceutical Sciences,RPC (100),9.22,RPC
+2017,Pharmacy,IR17-PHRM-1-1-2811891107,N.G.S.M.Institute of Pharmaceutical Sciences,GO (100),52.18,GO
+2017,Pharmacy,IR17-PHRM-1-1-2811891107,N.G.S.M.Institute of Pharmaceutical Sciences,OI (100),80.96,OI
+2017,Pharmacy,IR17-PHRM-1-1-2811891107,N.G.S.M.Institute of Pharmaceutical Sciences,PERCEPTION (100),30.3,PR
+2017,Pharmacy,IR17-PHRM-1-17868,"Department of Pharmaceutical Sciences, Maharshi Dayanand University, Rohtak.",TLR (100),50.85,TLR
+2017,Pharmacy,IR17-PHRM-1-17868,"Department of Pharmaceutical Sciences, Maharshi Dayanand University, Rohtak.",RPC (100),24.79,RPC
+2017,Pharmacy,IR17-PHRM-1-17868,"Department of Pharmaceutical Sciences, Maharshi Dayanand University, Rohtak.",GO (100),44.38,GO
+2017,Pharmacy,IR17-PHRM-1-17868,"Department of Pharmaceutical Sciences, Maharshi Dayanand University, Rohtak.",OI (100),67.11,OI
+2017,Pharmacy,IR17-PHRM-1-17868,"Department of Pharmaceutical Sciences, Maharshi Dayanand University, Rohtak.",PERCEPTION (100),22.45,PR
+2017,Pharmacy,IR17-PHRM-1-17747,Prin.K.M.Kundnani College of Pharmacy,TLR (100),54.83,TLR
+2017,Pharmacy,IR17-PHRM-1-17747,Prin.K.M.Kundnani College of Pharmacy,RPC (100),17.65,RPC
+2017,Pharmacy,IR17-PHRM-1-17747,Prin.K.M.Kundnani College of Pharmacy,GO (100),51.98,GO
+2017,Pharmacy,IR17-PHRM-1-17747,Prin.K.M.Kundnani College of Pharmacy,OI (100),56.77,OI
+2017,Pharmacy,IR17-PHRM-1-17747,Prin.K.M.Kundnani College of Pharmacy,PERCEPTION (100),25.39,PR
+2017,Pharmacy,IR17-PHRM-1-1-2809439609,Goa College of Pharmacy,TLR (100),66.17,TLR
+2017,Pharmacy,IR17-PHRM-1-1-2809439609,Goa College of Pharmacy,RPC (100),1.9,RPC
+2017,Pharmacy,IR17-PHRM-1-1-2809439609,Goa College of Pharmacy,GO (100),57.14,GO
+2017,Pharmacy,IR17-PHRM-1-1-2809439609,Goa College of Pharmacy,OI (100),55.21,OI
+2017,Pharmacy,IR17-PHRM-1-1-2809439609,Goa College of Pharmacy,PERCEPTION (100),26.37,PR
+2017,Pharmacy,IR17-PHRM-2-1-155,Devi Ahilya Vishwavidyalaya,TLR (100),52.97,TLR
+2017,Pharmacy,IR17-PHRM-2-1-155,Devi Ahilya Vishwavidyalaya,RPC (100),16.8,RPC
+2017,Pharmacy,IR17-PHRM-2-1-155,Devi Ahilya Vishwavidyalaya,GO (100),48.27,GO
+2017,Pharmacy,IR17-PHRM-2-1-155,Devi Ahilya Vishwavidyalaya,OI (100),62.99,OI
+2017,Pharmacy,IR17-PHRM-2-1-155,Devi Ahilya Vishwavidyalaya,PERCEPTION (100),23.16,PR
+2017,Pharmacy,IR17-PHRM-1-17659,"Sanjivani College of Pharmaceutical Education and Research, Kopargaon",TLR (100),59.98,TLR
+2017,Pharmacy,IR17-PHRM-1-17659,"Sanjivani College of Pharmaceutical Education and Research, Kopargaon",RPC (100),9.09,RPC
+2017,Pharmacy,IR17-PHRM-1-17659,"Sanjivani College of Pharmaceutical Education and Research, Kopargaon",GO (100),53.6,GO
+2017,Pharmacy,IR17-PHRM-1-17659,"Sanjivani College of Pharmaceutical Education and Research, Kopargaon",OI (100),70.0,OI
+2017,Pharmacy,IR17-PHRM-1-17659,"Sanjivani College of Pharmaceutical Education and Research, Kopargaon",PERCEPTION (100),0.03,PR
+2017,Pharmacy,IR17-PHRM-1-17136,"College of Pharmacy, Madras Medical College",TLR (100),53.18,TLR
+2017,Pharmacy,IR17-PHRM-1-17136,"College of Pharmacy, Madras Medical College",RPC (100),15.54,RPC
+2017,Pharmacy,IR17-PHRM-1-17136,"College of Pharmacy, Madras Medical College",GO (100),39.6,GO
+2017,Pharmacy,IR17-PHRM-1-17136,"College of Pharmacy, Madras Medical College",OI (100),70.0,OI
+2017,Pharmacy,IR17-PHRM-1-17136,"College of Pharmacy, Madras Medical College",PERCEPTION (100),28.13,PR
+2017,Pharmacy,IR17-PHRM-1-17848,Smt. Kishoritai Bhoyar College of Pharmacy,TLR (100),63.7,TLR
+2017,Pharmacy,IR17-PHRM-1-17848,Smt. Kishoritai Bhoyar College of Pharmacy,RPC (100),8.93,RPC
+2017,Pharmacy,IR17-PHRM-1-17848,Smt. Kishoritai Bhoyar College of Pharmacy,GO (100),48.84,GO
+2017,Pharmacy,IR17-PHRM-1-17848,Smt. Kishoritai Bhoyar College of Pharmacy,OI (100),62.94,OI
+2017,Pharmacy,IR17-PHRM-1-17848,Smt. Kishoritai Bhoyar College of Pharmacy,PERCEPTION (100),3.49,PR
+2017,Pharmacy,IR17-PHRM-2-18215,Guru Ghasidas Vishwavidyalaya,TLR (100),67.94,TLR
+2017,Pharmacy,IR17-PHRM-2-18215,Guru Ghasidas Vishwavidyalaya,RPC (100),17.87,RPC
+2017,Pharmacy,IR17-PHRM-2-18215,Guru Ghasidas Vishwavidyalaya,GO (100),34.35,GO
+2017,Pharmacy,IR17-PHRM-2-18215,Guru Ghasidas Vishwavidyalaya,OI (100),45.94,OI
+2017,Pharmacy,IR17-PHRM-2-18215,Guru Ghasidas Vishwavidyalaya,PERCEPTION (100),9.02,PR
+2017,Pharmacy,IR17-PHRM-1-1-2809406046,"Bharati Vidyapeeth College of Pharmacy, Kolhapur",TLR (100),54.35,TLR
+2017,Pharmacy,IR17-PHRM-1-1-2809406046,"Bharati Vidyapeeth College of Pharmacy, Kolhapur",RPC (100),7.77,RPC
+2017,Pharmacy,IR17-PHRM-1-1-2809406046,"Bharati Vidyapeeth College of Pharmacy, Kolhapur",GO (100),44.58,GO
+2017,Pharmacy,IR17-PHRM-1-1-2809406046,"Bharati Vidyapeeth College of Pharmacy, Kolhapur",OI (100),61.5,OI
+2017,Pharmacy,IR17-PHRM-1-1-2809406046,"Bharati Vidyapeeth College of Pharmacy, Kolhapur",PERCEPTION (100),39.57,PR
+2017,Pharmacy,IR17-PHRM-2-1-N002,KLE Academy of Higher Education and Research,TLR (100),61.47,TLR
+2017,Pharmacy,IR17-PHRM-2-1-N002,KLE Academy of Higher Education and Research,RPC (100),13.43,RPC
+2017,Pharmacy,IR17-PHRM-2-1-N002,KLE Academy of Higher Education and Research,GO (100),42.63,GO
+2017,Pharmacy,IR17-PHRM-2-1-N002,KLE Academy of Higher Education and Research,OI (100),56.8,OI
+2017,Pharmacy,IR17-PHRM-2-1-N002,KLE Academy of Higher Education and Research,PERCEPTION (100),9.25,PR
+2017,Pharmacy,IR17-PHRM-1-1-2809276349,R. C. Patel Institute of Pharmaceutical Education & Research,TLR (100),56.58,TLR
+2017,Pharmacy,IR17-PHRM-1-1-2809276349,R. C. Patel Institute of Pharmaceutical Education & Research,RPC (100),18.06,RPC
+2017,Pharmacy,IR17-PHRM-1-1-2809276349,R. C. Patel Institute of Pharmaceutical Education & Research,GO (100),39.27,GO
+2017,Pharmacy,IR17-PHRM-1-1-2809276349,R. C. Patel Institute of Pharmaceutical Education & Research,OI (100),61.89,OI
+2017,Pharmacy,IR17-PHRM-1-1-2809276349,R. C. Patel Institute of Pharmaceutical Education & Research,PERCEPTION (100),10.91,PR
+2017,Pharmacy,IR17-PHRM-2-1-629,Shoolini University of Biotechnology and Management Sciences-Solan,TLR (100),46.47,TLR
+2017,Pharmacy,IR17-PHRM-2-1-629,Shoolini University of Biotechnology and Management Sciences-Solan,RPC (100),16.88,RPC
+2017,Pharmacy,IR17-PHRM-2-1-629,Shoolini University of Biotechnology and Management Sciences-Solan,GO (100),57.11,GO
+2017,Pharmacy,IR17-PHRM-2-1-629,Shoolini University of Biotechnology and Management Sciences-Solan,OI (100),48.71,OI
+2017,Pharmacy,IR17-PHRM-2-1-629,Shoolini University of Biotechnology and Management Sciences-Solan,PERCEPTION (100),21.56,PR
+2017,Pharmacy,IR17-PHRM-1-22444,Padmashree Dr D Y Patil Institute of Pharmaceutical Sciences and Research,TLR (100),60.63,TLR
+2017,Pharmacy,IR17-PHRM-1-22444,Padmashree Dr D Y Patil Institute of Pharmaceutical Sciences and Research,RPC (100),4.09,RPC
+2017,Pharmacy,IR17-PHRM-1-22444,Padmashree Dr D Y Patil Institute of Pharmaceutical Sciences and Research,GO (100),43.42,GO
+2017,Pharmacy,IR17-PHRM-1-22444,Padmashree Dr D Y Patil Institute of Pharmaceutical Sciences and Research,OI (100),69.48,OI
+2017,Pharmacy,IR17-PHRM-1-22444,Padmashree Dr D Y Patil Institute of Pharmaceutical Sciences and Research,PERCEPTION (100),23.67,PR
+2017,Pharmacy,IR17-PHRM-1-17165,P. E. Society's Modern College of Pharmacy,TLR (100),53.03,TLR
+2017,Pharmacy,IR17-PHRM-1-17165,P. E. Society's Modern College of Pharmacy,RPC (100),18.15,RPC
+2017,Pharmacy,IR17-PHRM-1-17165,P. E. Society's Modern College of Pharmacy,GO (100),41.74,GO
+2017,Pharmacy,IR17-PHRM-1-17165,P. E. Society's Modern College of Pharmacy,OI (100),64.01,OI
+2017,Pharmacy,IR17-PHRM-1-17165,P. E. Society's Modern College of Pharmacy,PERCEPTION (100),9.48,PR
+2017,Pharmacy,IR17-PHRM-1-17092,SVKM's Dr. Bhanuben Nanavati College of Pharmacy,TLR (100),54.66,TLR
+2017,Pharmacy,IR17-PHRM-1-17092,SVKM's Dr. Bhanuben Nanavati College of Pharmacy,RPC (100),12.47,RPC
+2017,Pharmacy,IR17-PHRM-1-17092,SVKM's Dr. Bhanuben Nanavati College of Pharmacy,GO (100),60.46,GO
+2017,Pharmacy,IR17-PHRM-1-17092,SVKM's Dr. Bhanuben Nanavati College of Pharmacy,OI (100),46.68,OI
+2017,Pharmacy,IR17-PHRM-1-17092,SVKM's Dr. Bhanuben Nanavati College of Pharmacy,PERCEPTION (100),0.28,PR
+2017,Pharmacy,IR17-PHRM-2-18385,Narsee Monjee Institute of Management Studies -Mumbai,TLR (100),50.22,TLR
+2017,Pharmacy,IR17-PHRM-2-18385,Narsee Monjee Institute of Management Studies -Mumbai,RPC (100),15.85,RPC
+2017,Pharmacy,IR17-PHRM-2-18385,Narsee Monjee Institute of Management Studies -Mumbai,GO (100),48.31,GO
+2017,Pharmacy,IR17-PHRM-2-18385,Narsee Monjee Institute of Management Studies -Mumbai,OI (100),49.61,OI
+2017,Pharmacy,IR17-PHRM-2-18385,Narsee Monjee Institute of Management Studies -Mumbai,PERCEPTION (100),21.98,PR
+2017,Pharmacy,IR17-PHRM-2-1-216,Guru Jambeshwar University of Science and Technology,TLR (100),59.35,TLR
+2017,Pharmacy,IR17-PHRM-2-1-216,Guru Jambeshwar University of Science and Technology,RPC (100),25.41,RPC
+2017,Pharmacy,IR17-PHRM-2-1-216,Guru Jambeshwar University of Science and Technology,GO (100),14.44,GO
+2017,Pharmacy,IR17-PHRM-2-1-216,Guru Jambeshwar University of Science and Technology,OI (100),58.42,OI
+2017,Pharmacy,IR17-PHRM-2-1-216,Guru Jambeshwar University of Science and Technology,PERCEPTION (100),24.34,PR
+2017,Pharmacy,IR17-PHRM-1-17169,Institute of Pharmaceutical Education and Research,TLR (100),52.27,TLR
+2017,Pharmacy,IR17-PHRM-1-17169,Institute of Pharmaceutical Education and Research,RPC (100),26.25,RPC
+2017,Pharmacy,IR17-PHRM-1-17169,Institute of Pharmaceutical Education and Research,GO (100),28.56,GO
+2017,Pharmacy,IR17-PHRM-1-17169,Institute of Pharmaceutical Education and Research,OI (100),65.08,OI
+2017,Pharmacy,IR17-PHRM-1-17169,Institute of Pharmaceutical Education and Research,PERCEPTION (100),5.11,PR
+2017,Pharmacy,IR17-PHRM-1-17491,PSG College of Pharmacy,TLR (100),53.15,TLR
+2017,Pharmacy,IR17-PHRM-1-17491,PSG College of Pharmacy,RPC (100),14.0,RPC
+2017,Pharmacy,IR17-PHRM-1-17491,PSG College of Pharmacy,GO (100),41.46,GO
+2017,Pharmacy,IR17-PHRM-1-17491,PSG College of Pharmacy,OI (100),69.95,OI
+2017,Pharmacy,IR17-PHRM-1-17491,PSG College of Pharmacy,PERCEPTION (100),7.7,PR
+2017,Pharmacy,IR17-PHRM-1-23151,MVP Samaj's College of Pharmacy,TLR (100),55.37,TLR
+2017,Pharmacy,IR17-PHRM-1-23151,MVP Samaj's College of Pharmacy,RPC (100),1.47,RPC
+2017,Pharmacy,IR17-PHRM-1-23151,MVP Samaj's College of Pharmacy,GO (100),54.42,GO
+2017,Pharmacy,IR17-PHRM-1-23151,MVP Samaj's College of Pharmacy,OI (100),69.38,OI
+2017,Pharmacy,IR17-PHRM-1-23151,MVP Samaj's College of Pharmacy,PERCEPTION (100),12.4,PR
+2017,Pharmacy,IR17-PHRM-1-1-2813272662,Chalapathi Institute of Pharmaceutical Sciences,TLR (100),55.93,TLR
+2017,Pharmacy,IR17-PHRM-1-1-2813272662,Chalapathi Institute of Pharmaceutical Sciences,RPC (100),6.16,RPC
+2017,Pharmacy,IR17-PHRM-1-1-2813272662,Chalapathi Institute of Pharmaceutical Sciences,GO (100),45.87,GO
+2017,Pharmacy,IR17-PHRM-1-1-2813272662,Chalapathi Institute of Pharmaceutical Sciences,OI (100),67.21,OI
+2017,Pharmacy,IR17-PHRM-1-1-2813272662,Chalapathi Institute of Pharmaceutical Sciences,PERCEPTION (100),15.81,PR
+2017,Pharmacy,IR17-PHRM-1-1-2815712186,Gurunanak College of Pharmacy,TLR (100),61.31,TLR
+2017,Pharmacy,IR17-PHRM-1-1-2815712186,Gurunanak College of Pharmacy,RPC (100),6.77,RPC
+2017,Pharmacy,IR17-PHRM-1-1-2815712186,Gurunanak College of Pharmacy,GO (100),44.87,GO
+2017,Pharmacy,IR17-PHRM-1-1-2815712186,Gurunanak College of Pharmacy,OI (100),65.0,OI
+2017,Pharmacy,IR17-PHRM-1-1-2815712186,Gurunanak College of Pharmacy,PERCEPTION (100),0.98,PR
+2017,Pharmacy,IR17-PHRM-1-17746,AISSMS College of Pharmacy,TLR (100),53.59,TLR
+2017,Pharmacy,IR17-PHRM-1-17746,AISSMS College of Pharmacy,RPC (100),15.65,RPC
+2017,Pharmacy,IR17-PHRM-1-17746,AISSMS College of Pharmacy,GO (100),39.19,GO
+2017,Pharmacy,IR17-PHRM-1-17746,AISSMS College of Pharmacy,OI (100),63.11,OI
+2017,Pharmacy,IR17-PHRM-1-17746,AISSMS College of Pharmacy,PERCEPTION (100),7.66,PR

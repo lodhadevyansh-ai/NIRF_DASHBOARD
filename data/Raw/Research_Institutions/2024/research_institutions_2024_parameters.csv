@@ -1,0 +1,251 @@
+year,category,institute_id,institute_name,parameter_name,parameter_score,canonical_parameter
+2024,Research Institutions,IR-R-U-0220,"Indian Institute of Science, Bengaluru",QNR (100),98.56,
+2024,Research Institutions,IR-R-U-0220,"Indian Institute of Science, Bengaluru",QLR (100),82.86,
+2024,Research Institutions,IR-R-U-0220,"Indian Institute of Science, Bengaluru",SFC (100),73.53,
+2024,Research Institutions,IR-R-U-0220,"Indian Institute of Science, Bengaluru",OI (100),58.36,OI
+2024,Research Institutions,IR-R-U-0220,"Indian Institute of Science, Bengaluru",PERCEPTION (100),100.0,PR
+2024,Research Institutions,IR-R-U-0456,Indian Institute of Technology Madras,QNR (100),91.96,
+2024,Research Institutions,IR-R-U-0456,Indian Institute of Technology Madras,QLR (100),82.57,
+2024,Research Institutions,IR-R-U-0456,Indian Institute of Technology Madras,SFC (100),77.27,
+2024,Research Institutions,IR-R-U-0456,Indian Institute of Technology Madras,OI (100),65.56,OI
+2024,Research Institutions,IR-R-U-0456,Indian Institute of Technology Madras,PERCEPTION (100),89.22,PR
+2024,Research Institutions,IR-R-I-1074,Indian Institute of Technology Delhi,QNR (100),85.25,
+2024,Research Institutions,IR-R-I-1074,Indian Institute of Technology Delhi,QLR (100),84.78,
+2024,Research Institutions,IR-R-I-1074,Indian Institute of Technology Delhi,SFC (100),75.98,
+2024,Research Institutions,IR-R-I-1074,Indian Institute of Technology Delhi,OI (100),66.11,OI
+2024,Research Institutions,IR-R-I-1074,Indian Institute of Technology Delhi,PERCEPTION (100),82.56,PR
+2024,Research Institutions,IR-R-U-0306,Indian Institute of Technology Bombay,QNR (100),83.75,
+2024,Research Institutions,IR-R-U-0306,Indian Institute of Technology Bombay,QLR (100),78.59,
+2024,Research Institutions,IR-R-U-0306,Indian Institute of Technology Bombay,SFC (100),80.1,
+2024,Research Institutions,IR-R-U-0306,Indian Institute of Technology Bombay,OI (100),59.0,OI
+2024,Research Institutions,IR-R-U-0306,Indian Institute of Technology Bombay,PERCEPTION (100),71.28,PR
+2024,Research Institutions,IR-R-U-0573,Indian Institute of Technology Kharagpur,QNR (100),71.77,
+2024,Research Institutions,IR-R-U-0573,Indian Institute of Technology Kharagpur,QLR (100),78.69,
+2024,Research Institutions,IR-R-U-0573,Indian Institute of Technology Kharagpur,SFC (100),77.43,
+2024,Research Institutions,IR-R-U-0573,Indian Institute of Technology Kharagpur,OI (100),57.12,OI
+2024,Research Institutions,IR-R-U-0573,Indian Institute of Technology Kharagpur,PERCEPTION (100),63.05,PR
+2024,Research Institutions,IR-R-U-0304,Homi Bhabha National Institute,QNR (100),85.81,
+2024,Research Institutions,IR-R-U-0304,Homi Bhabha National Institute,QLR (100),75.6,
+2024,Research Institutions,IR-R-U-0304,Homi Bhabha National Institute,SFC (100),68.75,
+2024,Research Institutions,IR-R-U-0304,Homi Bhabha National Institute,OI (100),53.67,OI
+2024,Research Institutions,IR-R-U-0304,Homi Bhabha National Institute,PERCEPTION (100),25.75,PR
+2024,Research Institutions,IR-R-I-1075,Indian Institute of Technology Kanpur,QNR (100),76.21,
+2024,Research Institutions,IR-R-I-1075,Indian Institute of Technology Kanpur,QLR (100),62.81,
+2024,Research Institutions,IR-R-I-1075,Indian Institute of Technology Kanpur,SFC (100),80.16,
+2024,Research Institutions,IR-R-I-1075,Indian Institute of Technology Kanpur,OI (100),60.64,OI
+2024,Research Institutions,IR-R-I-1075,Indian Institute of Technology Kanpur,PERCEPTION (100),62.54,PR
+2024,Research Institutions,IR-R-N-15,All India Institute of Medical Sciences Delhi,QNR (100),81.63,
+2024,Research Institutions,IR-R-N-15,All India Institute of Medical Sciences Delhi,QLR (100),67.68,
+2024,Research Institutions,IR-R-N-15,All India Institute of Medical Sciences Delhi,SFC (100),39.27,
+2024,Research Institutions,IR-R-N-15,All India Institute of Medical Sciences Delhi,OI (100),71.48,OI
+2024,Research Institutions,IR-R-N-15,All India Institute of Medical Sciences Delhi,PERCEPTION (100),76.43,PR
+2024,Research Institutions,IR-R-U-0560,Indian Institute of Technology Roorkee,QNR (100),72.76,
+2024,Research Institutions,IR-R-U-0560,Indian Institute of Technology Roorkee,QLR (100),67.91,
+2024,Research Institutions,IR-R-U-0560,Indian Institute of Technology Roorkee,SFC (100),69.0,
+2024,Research Institutions,IR-R-U-0560,Indian Institute of Technology Roorkee,OI (100),62.94,OI
+2024,Research Institutions,IR-R-U-0560,Indian Institute of Technology Roorkee,PERCEPTION (100),44.85,PR
+2024,Research Institutions,IR-R-U-0053,Indian Institute of Technology Guwahati,QNR (100),74.67,
+2024,Research Institutions,IR-R-U-0053,Indian Institute of Technology Guwahati,QLR (100),61.56,
+2024,Research Institutions,IR-R-U-0053,Indian Institute of Technology Guwahati,SFC (100),68.52,
+2024,Research Institutions,IR-R-U-0053,Indian Institute of Technology Guwahati,OI (100),61.75,OI
+2024,Research Institutions,IR-R-U-0053,Indian Institute of Technology Guwahati,PERCEPTION (100),42.03,PR
+2024,Research Institutions,IR-R-U-0713,Academy of Scientific and Innovative Research,QNR (100),75.64,
+2024,Research Institutions,IR-R-U-0713,Academy of Scientific and Innovative Research,QLR (100),69.51,
+2024,Research Institutions,IR-R-U-0713,Academy of Scientific and Innovative Research,SFC (100),76.78,
+2024,Research Institutions,IR-R-U-0713,Academy of Scientific and Innovative Research,OI (100),46.77,OI
+2024,Research Institutions,IR-R-U-0713,Academy of Scientific and Innovative Research,PERCEPTION (100),6.18,PR
+2024,Research Institutions,IR-R-U-0330,Tata Institute of Fundamental Research,QNR (100),72.0,
+2024,Research Institutions,IR-R-U-0330,Tata Institute of Fundamental Research,QLR (100),56.5,
+2024,Research Institutions,IR-R-U-0330,Tata Institute of Fundamental Research,SFC (100),56.29,
+2024,Research Institutions,IR-R-U-0330,Tata Institute of Fundamental Research,OI (100),58.44,OI
+2024,Research Institutions,IR-R-U-0330,Tata Institute of Fundamental Research,PERCEPTION (100),48.85,PR
+2024,Research Institutions,IR-R-U-0490,Vellore Institute of Technology,QNR (100),54.28,
+2024,Research Institutions,IR-R-U-0490,Vellore Institute of Technology,QLR (100),67.42,
+2024,Research Institutions,IR-R-U-0490,Vellore Institute of Technology,SFC (100),71.26,
+2024,Research Institutions,IR-R-U-0490,Vellore Institute of Technology,OI (100),61.35,OI
+2024,Research Institutions,IR-R-U-0490,Vellore Institute of Technology,PERCEPTION (100),33.87,PR
+2024,Research Institutions,IR-R-U-0120,University of Delhi,QNR (100),57.35,
+2024,Research Institutions,IR-R-U-0120,University of Delhi,QLR (100),56.25,
+2024,Research Institutions,IR-R-U-0120,University of Delhi,SFC (100),80.31,
+2024,Research Institutions,IR-R-U-0120,University of Delhi,OI (100),67.53,OI
+2024,Research Institutions,IR-R-U-0120,University of Delhi,PERCEPTION (100),31.75,PR
+2024,Research Institutions,IR-R-U-0013,Indian Institute of Technology Hyderabad,QNR (100),67.0,
+2024,Research Institutions,IR-R-U-0013,Indian Institute of Technology Hyderabad,QLR (100),51.39,
+2024,Research Institutions,IR-R-U-0013,Indian Institute of Technology Hyderabad,SFC (100),65.67,
+2024,Research Institutions,IR-R-U-0013,Indian Institute of Technology Hyderabad,OI (100),59.11,OI
+2024,Research Institutions,IR-R-U-0013,Indian Institute of Technology Hyderabad,PERCEPTION (100),53.99,PR
+2024,Research Institutions,IR-R-U-0500,Banaras Hindu University,QNR (100),52.58,
+2024,Research Institutions,IR-R-U-0500,Banaras Hindu University,QLR (100),51.51,
+2024,Research Institutions,IR-R-U-0500,Banaras Hindu University,SFC (100),85.1,
+2024,Research Institutions,IR-R-U-0500,Banaras Hindu University,OI (100),61.67,OI
+2024,Research Institutions,IR-R-U-0500,Banaras Hindu University,PERCEPTION (100),41.05,PR
+2024,Research Institutions,IR-R-U-0439,Anna University,QNR (100),60.1,
+2024,Research Institutions,IR-R-U-0439,Anna University,QLR (100),57.47,
+2024,Research Institutions,IR-R-U-0439,Anna University,SFC (100),58.95,
+2024,Research Institutions,IR-R-U-0439,Anna University,OI (100),49.03,OI
+2024,Research Institutions,IR-R-U-0439,Anna University,PERCEPTION (100),64.28,PR
+2024,Research Institutions,IR-R-U-0109,Jawaharlal Nehru University,QNR (100),51.9,
+2024,Research Institutions,IR-R-U-0109,Jawaharlal Nehru University,QLR (100),39.35,
+2024,Research Institutions,IR-R-U-0109,Jawaharlal Nehru University,SFC (100),88.52,
+2024,Research Institutions,IR-R-U-0109,Jawaharlal Nehru University,OI (100),72.12,OI
+2024,Research Institutions,IR-R-U-0109,Jawaharlal Nehru University,PERCEPTION (100),41.42,PR
+2024,Research Institutions,IR-R-U-0108,Jamia Millia Islamia,QNR (100),55.09,
+2024,Research Institutions,IR-R-U-0108,Jamia Millia Islamia,QLR (100),45.13,
+2024,Research Institutions,IR-R-U-0108,Jamia Millia Islamia,SFC (100),77.22,
+2024,Research Institutions,IR-R-U-0108,Jamia Millia Islamia,OI (100),83.72,OI
+2024,Research Institutions,IR-R-U-0108,Jamia Millia Islamia,PERCEPTION (100),22.38,PR
+2024,Research Institutions,IR-R-I-1441,Saveetha Institute of Medical and Technical Sciences,QNR (100),62.08,
+2024,Research Institutions,IR-R-I-1441,Saveetha Institute of Medical and Technical Sciences,QLR (100),57.03,
+2024,Research Institutions,IR-R-I-1441,Saveetha Institute of Medical and Technical Sciences,SFC (100),64.04,
+2024,Research Institutions,IR-R-I-1441,Saveetha Institute of Medical and Technical Sciences,OI (100),66.05,OI
+2024,Research Institutions,IR-R-I-1441,Saveetha Institute of Medical and Technical Sciences,PERCEPTION (100),7.03,PR
+2024,Research Institutions,IR-R-U-0575,Jadavpur University,QNR (100),55.22,
+2024,Research Institutions,IR-R-U-0575,Jadavpur University,QLR (100),44.66,
+2024,Research Institutions,IR-R-U-0575,Jadavpur University,SFC (100),80.98,
+2024,Research Institutions,IR-R-U-0575,Jadavpur University,OI (100),49.94,OI
+2024,Research Institutions,IR-R-U-0575,Jadavpur University,PERCEPTION (100),36.87,PR
+2024,Research Institutions,IR-R-U-0205,Indian Institute of Technology (Indian School of Mines) Dhanbad,QNR (100),59.28,
+2024,Research Institutions,IR-R-U-0205,Indian Institute of Technology (Indian School of Mines) Dhanbad,QLR (100),51.38,
+2024,Research Institutions,IR-R-U-0205,Indian Institute of Technology (Indian School of Mines) Dhanbad,SFC (100),63.0,
+2024,Research Institutions,IR-R-U-0205,Indian Institute of Technology (Indian School of Mines) Dhanbad,OI (100),58.99,OI
+2024,Research Institutions,IR-R-U-0205,Indian Institute of Technology (Indian School of Mines) Dhanbad,PERCEPTION (100),30.81,PR
+2024,Research Institutions,IR-R-U-0234,"Manipal Academy of Higher Education, Manipal",QNR (100),53.84,
+2024,Research Institutions,IR-R-U-0234,"Manipal Academy of Higher Education, Manipal",QLR (100),52.11,
+2024,Research Institutions,IR-R-U-0234,"Manipal Academy of Higher Education, Manipal",SFC (100),66.07,
+2024,Research Institutions,IR-R-U-0234,"Manipal Academy of Higher Education, Manipal",OI (100),67.35,OI
+2024,Research Institutions,IR-R-U-0234,"Manipal Academy of Higher Education, Manipal",PERCEPTION (100),25.92,PR
+2024,Research Institutions,IR-R-U-0473,S.R.M. Institute of Science and Technology,QNR (100),46.04,
+2024,Research Institutions,IR-R-U-0473,S.R.M. Institute of Science and Technology,QLR (100),55.71,
+2024,Research Institutions,IR-R-U-0473,S.R.M. Institute of Science and Technology,SFC (100),69.13,
+2024,Research Institutions,IR-R-U-0473,S.R.M. Institute of Science and Technology,OI (100),68.54,OI
+2024,Research Institutions,IR-R-U-0473,S.R.M. Institute of Science and Technology,PERCEPTION (100),21.4,PR
+2024,Research Institutions,IR-R-U-0496,Aligarh Muslim University,QNR (100),47.76,
+2024,Research Institutions,IR-R-U-0496,Aligarh Muslim University,QLR (100),45.36,
+2024,Research Institutions,IR-R-U-0496,Aligarh Muslim University,SFC (100),81.94,
+2024,Research Institutions,IR-R-U-0496,Aligarh Muslim University,OI (100),61.23,OI
+2024,Research Institutions,IR-R-U-0496,Aligarh Muslim University,PERCEPTION (100),28.35,PR
+2024,Research Institutions,IR-R-U-0391,"Birla Institute of Technology and Science, Pilani",QNR (100),53.49,
+2024,Research Institutions,IR-R-U-0391,"Birla Institute of Technology and Science, Pilani",QLR (100),51.63,
+2024,Research Institutions,IR-R-U-0391,"Birla Institute of Technology and Science, Pilani",SFC (100),65.9,
+2024,Research Institutions,IR-R-U-0391,"Birla Institute of Technology and Science, Pilani",OI (100),58.73,OI
+2024,Research Institutions,IR-R-U-0391,"Birla Institute of Technology and Science, Pilani",PERCEPTION (100),24.65,PR
+2024,Research Institutions,IR-R-U-0273,Indian Institute of Technology Indore,QNR (100),63.63,
+2024,Research Institutions,IR-R-U-0273,Indian Institute of Technology Indore,QLR (100),46.65,
+2024,Research Institutions,IR-R-U-0273,Indian Institute of Technology Indore,SFC (100),58.04,
+2024,Research Institutions,IR-R-U-0273,Indian Institute of Technology Indore,OI (100),60.57,OI
+2024,Research Institutions,IR-R-U-0273,Indian Institute of Technology Indore,PERCEPTION (100),19.36,PR
+2024,Research Institutions,IR-R-U-0042,University of Hyderabad,QNR (100),54.39,
+2024,Research Institutions,IR-R-U-0042,University of Hyderabad,QLR (100),41.95,
+2024,Research Institutions,IR-R-U-0042,University of Hyderabad,SFC (100),73.73,
+2024,Research Institutions,IR-R-U-0042,University of Hyderabad,OI (100),62.31,OI
+2024,Research Institutions,IR-R-U-0042,University of Hyderabad,PERCEPTION (100),20.18,PR
+2024,Research Institutions,IR-R-U-0305,Indian Institute of Science Education and Research Pune,QNR (100),59.08,
+2024,Research Institutions,IR-R-U-0305,Indian Institute of Science Education and Research Pune,QLR (100),41.46,
+2024,Research Institutions,IR-R-U-0305,Indian Institute of Science Education and Research Pune,SFC (100),54.83,
+2024,Research Institutions,IR-R-U-0305,Indian Institute of Science Education and Research Pune,OI (100),62.09,OI
+2024,Research Institutions,IR-R-U-0305,Indian Institute of Science Education and Research Pune,PERCEPTION (100),41.91,PR
+2024,Research Institutions,IR-R-U-0357,National Institute of Technology Rourkela,QNR (100),56.31,
+2024,Research Institutions,IR-R-U-0357,National Institute of Technology Rourkela,QLR (100),45.33,
+2024,Research Institutions,IR-R-U-0357,National Institute of Technology Rourkela,SFC (100),63.27,
+2024,Research Institutions,IR-R-U-0357,National Institute of Technology Rourkela,OI (100),60.01,OI
+2024,Research Institutions,IR-R-U-0357,National Institute of Technology Rourkela,PERCEPTION (100),20.18,PR
+2024,Research Institutions,IR-R-U-0467,National Institute of Technology Tiruchirappalli,QNR (100),51.85,
+2024,Research Institutions,IR-R-U-0467,National Institute of Technology Tiruchirappalli,QLR (100),41.66,
+2024,Research Institutions,IR-R-U-0467,National Institute of Technology Tiruchirappalli,SFC (100),57.4,
+2024,Research Institutions,IR-R-U-0467,National Institute of Technology Tiruchirappalli,OI (100),64.72,OI
+2024,Research Institutions,IR-R-U-0467,National Institute of Technology Tiruchirappalli,PERCEPTION (100),49.26,PR
+2024,Research Institutions,IR-R-U-0139,Indian Institute of Technology Gandhinagar,QNR (100),60.6,
+2024,Research Institutions,IR-R-U-0139,Indian Institute of Technology Gandhinagar,QLR (100),36.02,
+2024,Research Institutions,IR-R-U-0139,Indian Institute of Technology Gandhinagar,SFC (100),61.13,
+2024,Research Institutions,IR-R-U-0139,Indian Institute of Technology Gandhinagar,OI (100),69.2,OI
+2024,Research Institutions,IR-R-U-0139,Indian Institute of Technology Gandhinagar,PERCEPTION (100),26.46,PR
+2024,Research Institutions,IR-R-U-0436,Amrita Vishwa Vidyapeetham,QNR (100),49.42,
+2024,Research Institutions,IR-R-U-0436,Amrita Vishwa Vidyapeetham,QLR (100),33.57,
+2024,Research Institutions,IR-R-U-0436,Amrita Vishwa Vidyapeetham,SFC (100),68.73,
+2024,Research Institutions,IR-R-U-0436,Amrita Vishwa Vidyapeetham,OI (100),73.7,OI
+2024,Research Institutions,IR-R-U-0436,Amrita Vishwa Vidyapeetham,PERCEPTION (100),43.58,PR
+2024,Research Institutions,IR-R-U-0224,Jawaharlal Nehru Centre for Advanced Scientific Research,QNR (100),67.83,
+2024,Research Institutions,IR-R-U-0224,Jawaharlal Nehru Centre for Advanced Scientific Research,QLR (100),37.27,
+2024,Research Institutions,IR-R-U-0224,Jawaharlal Nehru Centre for Advanced Scientific Research,SFC (100),46.23,
+2024,Research Institutions,IR-R-U-0224,Jawaharlal Nehru Centre for Advanced Scientific Research,OI (100),55.91,OI
+2024,Research Institutions,IR-R-U-0224,Jawaharlal Nehru Centre for Advanced Scientific Research,PERCEPTION (100),36.87,PR
+2024,Research Institutions,IR-R-U-0078,Panjab University,QNR (100),42.68,
+2024,Research Institutions,IR-R-U-0078,Panjab University,QLR (100),45.53,
+2024,Research Institutions,IR-R-U-0078,Panjab University,SFC (100),69.7,
+2024,Research Institutions,IR-R-U-0078,Panjab University,OI (100),63.33,OI
+2024,Research Institutions,IR-R-U-0078,Panjab University,PERCEPTION (100),30.01,PR
+2024,Research Institutions,IR-R-U-0570,Calcutta University,QNR (100),45.65,
+2024,Research Institutions,IR-R-U-0570,Calcutta University,QLR (100),34.36,
+2024,Research Institutions,IR-R-U-0570,Calcutta University,SFC (100),82.15,
+2024,Research Institutions,IR-R-U-0570,Calcutta University,OI (100),50.17,OI
+2024,Research Institutions,IR-R-U-0570,Calcutta University,PERCEPTION (100),31.13,PR
+2024,Research Institutions,IR-R-U-0101,Indian Agricultural Research Institute,QNR (100),52.56,
+2024,Research Institutions,IR-R-U-0101,Indian Agricultural Research Institute,QLR (100),33.73,
+2024,Research Institutions,IR-R-U-0101,Indian Agricultural Research Institute,SFC (100),63.85,
+2024,Research Institutions,IR-R-U-0101,Indian Agricultural Research Institute,OI (100),73.91,OI
+2024,Research Institutions,IR-R-U-0101,Indian Agricultural Research Institute,PERCEPTION (100),25.02,PR
+2024,Research Institutions,IR-R-U-0572,Indian Institute of Science Education and Research Kolkata,QNR (100),54.53,
+2024,Research Institutions,IR-R-U-0572,Indian Institute of Science Education and Research Kolkata,QLR (100),36.55,
+2024,Research Institutions,IR-R-U-0572,Indian Institute of Science Education and Research Kolkata,SFC (100),57.48,
+2024,Research Institutions,IR-R-U-0572,Indian Institute of Science Education and Research Kolkata,OI (100),54.38,OI
+2024,Research Institutions,IR-R-U-0572,Indian Institute of Science Education and Research Kolkata,PERCEPTION (100),30.49,PR
+2024,Research Institutions,IR-R-I-1480,Thapar Institute of Engineering and Technology (Deemed-to-be-university),QNR (100),45.77,
+2024,Research Institutions,IR-R-I-1480,Thapar Institute of Engineering and Technology (Deemed-to-be-university),QLR (100),45.66,
+2024,Research Institutions,IR-R-I-1480,Thapar Institute of Engineering and Technology (Deemed-to-be-university),SFC (100),60.54,
+2024,Research Institutions,IR-R-I-1480,Thapar Institute of Engineering and Technology (Deemed-to-be-university),OI (100),63.85,OI
+2024,Research Institutions,IR-R-I-1480,Thapar Institute of Engineering and Technology (Deemed-to-be-university),PERCEPTION (100),13.77,PR
+2024,Research Institutions,IR-R-U-0308,Institute of Chemical Technology,QNR (100),52.96,
+2024,Research Institutions,IR-R-U-0308,Institute of Chemical Technology,QLR (100),38.29,
+2024,Research Institutions,IR-R-U-0308,Institute of Chemical Technology,SFC (100),54.33,
+2024,Research Institutions,IR-R-U-0308,Institute of Chemical Technology,OI (100),55.34,OI
+2024,Research Institutions,IR-R-U-0308,Institute of Chemical Technology,PERCEPTION (100),30.49,PR
+2024,Research Institutions,IR-R-U-0447,Bharathiar University,QNR (100),51.06,
+2024,Research Institutions,IR-R-U-0447,Bharathiar University,QLR (100),35.68,
+2024,Research Institutions,IR-R-U-0447,Bharathiar University,SFC (100),64.19,
+2024,Research Institutions,IR-R-U-0447,Bharathiar University,OI (100),54.06,OI
+2024,Research Institutions,IR-R-U-0447,Bharathiar University,PERCEPTION (100),25.2,PR
+2024,Research Institutions,IR-R-U-0237,"National Institute of Technology Karnataka, Surathkal",QNR (100),49.58,
+2024,Research Institutions,IR-R-U-0237,"National Institute of Technology Karnataka, Surathkal",QLR (100),31.04,
+2024,Research Institutions,IR-R-U-0237,"National Institute of Technology Karnataka, Surathkal",SFC (100),57.79,
+2024,Research Institutions,IR-R-U-0237,"National Institute of Technology Karnataka, Surathkal",OI (100),62.67,OI
+2024,Research Institutions,IR-R-U-0237,"National Institute of Technology Karnataka, Surathkal",PERCEPTION (100),34.02,PR
+2024,Research Institutions,IR-R-U-0236,"National Institute of Mental Health and Neuro Sciences, Bangalore",QNR (100),62.57,
+2024,Research Institutions,IR-R-U-0236,"National Institute of Mental Health and Neuro Sciences, Bangalore",QLR (100),30.7,
+2024,Research Institutions,IR-R-U-0236,"National Institute of Mental Health and Neuro Sciences, Bangalore",SFC (100),37.82,
+2024,Research Institutions,IR-R-U-0236,"National Institute of Mental Health and Neuro Sciences, Bangalore",OI (100),64.03,OI
+2024,Research Institutions,IR-R-U-0236,"National Institute of Mental Health and Neuro Sciences, Bangalore",PERCEPTION (100),32.37,PR
+2024,Research Institutions,IR-R-U-0379,Lovely Professional University,QNR (100),36.53,
+2024,Research Institutions,IR-R-U-0379,Lovely Professional University,QLR (100),50.8,
+2024,Research Institutions,IR-R-U-0379,Lovely Professional University,SFC (100),54.21,
+2024,Research Institutions,IR-R-U-0379,Lovely Professional University,OI (100),70.22,OI
+2024,Research Institutions,IR-R-U-0379,Lovely Professional University,PERCEPTION (100),9.49,PR
+2024,Research Institutions,IR-R-U-0378,Indian Institute of Technology Ropar,QNR (100),53.9,
+2024,Research Institutions,IR-R-U-0378,Indian Institute of Technology Ropar,QLR (100),31.67,
+2024,Research Institutions,IR-R-U-0378,Indian Institute of Technology Ropar,SFC (100),54.16,
+2024,Research Institutions,IR-R-U-0378,Indian Institute of Technology Ropar,OI (100),65.1,OI
+2024,Research Institutions,IR-R-U-0378,Indian Institute of Technology Ropar,PERCEPTION (100),19.77,PR
+2024,Research Institutions,IR-R-U-0356,Kalinga Institute of Industrial Technology,QNR (100),34.69,
+2024,Research Institutions,IR-R-U-0356,Kalinga Institute of Industrial Technology,QLR (100),35.68,
+2024,Research Institutions,IR-R-U-0356,Kalinga Institute of Industrial Technology,SFC (100),73.05,
+2024,Research Institutions,IR-R-U-0356,Kalinga Institute of Industrial Technology,OI (100),76.56,OI
+2024,Research Institutions,IR-R-U-0356,Kalinga Institute of Industrial Technology,PERCEPTION (100),12.55,PR
+2024,Research Institutions,IR-R-U-0497,Amity University,QNR (100),39.13,
+2024,Research Institutions,IR-R-U-0497,Amity University,QLR (100),46.82,
+2024,Research Institutions,IR-R-U-0497,Amity University,SFC (100),58.63,
+2024,Research Institutions,IR-R-U-0497,Amity University,OI (100),65.47,OI
+2024,Research Institutions,IR-R-U-0497,Amity University,PERCEPTION (100),5.01,PR
+2024,Research Institutions,IR-R-U-0448,Bharathidasan University,QNR (100),50.14,
+2024,Research Institutions,IR-R-U-0448,Bharathidasan University,QLR (100),29.01,
+2024,Research Institutions,IR-R-U-0448,Bharathidasan University,SFC (100),69.61,
+2024,Research Institutions,IR-R-U-0448,Bharathidasan University,OI (100),53.32,OI
+2024,Research Institutions,IR-R-U-0448,Bharathidasan University,PERCEPTION (100),14.24,PR
+2024,Research Institutions,IR-R-U-0377,Indian Institute of Science Education and Research Mohali,QNR (100),47.92,
+2024,Research Institutions,IR-R-U-0377,Indian Institute of Science Education and Research Mohali,QLR (100),28.15,
+2024,Research Institutions,IR-R-U-0377,Indian Institute of Science Education and Research Mohali,SFC (100),57.63,
+2024,Research Institutions,IR-R-U-0377,Indian Institute of Science Education and Research Mohali,OI (100),65.89,OI
+2024,Research Institutions,IR-R-U-0377,Indian Institute of Science Education and Research Mohali,PERCEPTION (100),31.44,PR
+2024,Research Institutions,IR-R-U-0363,Siksha `O` Anusandhan,QNR (100),38.79,
+2024,Research Institutions,IR-R-U-0363,Siksha `O` Anusandhan,QLR (100),34.0,
+2024,Research Institutions,IR-R-U-0363,Siksha `O` Anusandhan,SFC (100),62.31,
+2024,Research Institutions,IR-R-U-0363,Siksha `O` Anusandhan,OI (100),72.72,OI
+2024,Research Institutions,IR-R-U-0363,Siksha `O` Anusandhan,PERCEPTION (100),22.96,PR

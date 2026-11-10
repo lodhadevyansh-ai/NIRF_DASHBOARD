@@ -1,0 +1,196 @@
+year,category,institute_id,institute_name,parameter_name,parameter_score,canonical_parameter
+2025,Dental,IR-N-N-15,"All India Institute of Medical Sciences, Delhi",TLR (100),88.86,TLR
+2025,Dental,IR-N-N-15,"All India Institute of Medical Sciences, Delhi",RPC (100),81.72,RPC
+2025,Dental,IR-N-N-15,"All India Institute of Medical Sciences, Delhi",GO (100),100.0,GO
+2025,Dental,IR-N-N-15,"All India Institute of Medical Sciences, Delhi",OI (100),79.42,OI
+2025,Dental,IR-N-N-15,"All India Institute of Medical Sciences, Delhi",PERCEPTION (100),100.0,PR
+2025,Dental,IR-N-I-1441,Saveetha Institute of Medical and Technical Sciences,TLR (100),89.37,TLR
+2025,Dental,IR-N-I-1441,Saveetha Institute of Medical and Technical Sciences,RPC (100),87.95,RPC
+2025,Dental,IR-N-I-1441,Saveetha Institute of Medical and Technical Sciences,GO (100),84.83,GO
+2025,Dental,IR-N-I-1441,Saveetha Institute of Medical and Technical Sciences,OI (100),72.35,OI
+2025,Dental,IR-N-I-1441,Saveetha Institute of Medical and Technical Sciences,PERCEPTION (100),79.09,PR
+2025,Dental,IR-N-C-28507,Maulana Azad Institute of Dental Sciences,TLR (100),82.45,TLR
+2025,Dental,IR-N-C-28507,Maulana Azad Institute of Dental Sciences,RPC (100),43.39,RPC
+2025,Dental,IR-N-C-28507,Maulana Azad Institute of Dental Sciences,GO (100),98.65,GO
+2025,Dental,IR-N-C-28507,Maulana Azad Institute of Dental Sciences,OI (100),56.03,OI
+2025,Dental,IR-N-C-28507,Maulana Azad Institute of Dental Sciences,PERCEPTION (100),94.65,PR
+2025,Dental,IR-N-I-1110,Dr. D. Y. Patil Vidyapeeth,TLR (100),80.0,TLR
+2025,Dental,IR-N-I-1110,Dr. D. Y. Patil Vidyapeeth,RPC (100),44.76,RPC
+2025,Dental,IR-N-I-1110,Dr. D. Y. Patil Vidyapeeth,GO (100),92.63,GO
+2025,Dental,IR-N-I-1110,Dr. D. Y. Patil Vidyapeeth,OI (100),64.46,OI
+2025,Dental,IR-N-I-1110,Dr. D. Y. Patil Vidyapeeth,PERCEPTION (100),99.54,PR
+2025,Dental,IR-N-C-7254,"Manipal College of Dental Sciences, Manipal",TLR (100),82.16,TLR
+2025,Dental,IR-N-C-7254,"Manipal College of Dental Sciences, Manipal",RPC (100),40.34,RPC
+2025,Dental,IR-N-C-7254,"Manipal College of Dental Sciences, Manipal",GO (100),91.22,GO
+2025,Dental,IR-N-C-7254,"Manipal College of Dental Sciences, Manipal",OI (100),73.86,OI
+2025,Dental,IR-N-C-7254,"Manipal College of Dental Sciences, Manipal",PERCEPTION (100),82.0,PR
+2025,Dental,IR-N-C-19320,A.B.Shetty Memorial Institute of Dental Sciences,TLR (100),81.07,TLR
+2025,Dental,IR-N-C-19320,A.B.Shetty Memorial Institute of Dental Sciences,RPC (100),32.18,RPC
+2025,Dental,IR-N-C-19320,A.B.Shetty Memorial Institute of Dental Sciences,GO (100),96.84,GO
+2025,Dental,IR-N-C-19320,A.B.Shetty Memorial Institute of Dental Sciences,OI (100),72.5,OI
+2025,Dental,IR-N-C-19320,A.B.Shetty Memorial Institute of Dental Sciences,PERCEPTION (100),84.06,PR
+2025,Dental,IR-N-U-0523,King George`s Medical University,TLR (100),91.83,TLR
+2025,Dental,IR-N-U-0523,King George`s Medical University,RPC (100),39.71,RPC
+2025,Dental,IR-N-U-0523,King George`s Medical University,GO (100),88.78,GO
+2025,Dental,IR-N-U-0523,King George`s Medical University,OI (100),62.66,OI
+2025,Dental,IR-N-U-0523,King George`s Medical University,PERCEPTION (100),54.0,PR
+2025,Dental,IR-N-N-352,SRM Dental College,TLR (100),84.73,TLR
+2025,Dental,IR-N-N-352,SRM Dental College,RPC (100),34.65,RPC
+2025,Dental,IR-N-N-352,SRM Dental College,GO (100),99.65,GO
+2025,Dental,IR-N-N-352,SRM Dental College,OI (100),67.84,OI
+2025,Dental,IR-N-N-352,SRM Dental College,PERCEPTION (100),56.67,PR
+2025,Dental,IR-N-U-0363,Siksha `O` Anusandhan,TLR (100),86.41,TLR
+2025,Dental,IR-N-U-0363,Siksha `O` Anusandhan,RPC (100),23.95,RPC
+2025,Dental,IR-N-U-0363,Siksha `O` Anusandhan,GO (100),88.71,GO
+2025,Dental,IR-N-U-0363,Siksha `O` Anusandhan,OI (100),67.45,OI
+2025,Dental,IR-N-U-0363,Siksha `O` Anusandhan,PERCEPTION (100),55.36,PR
+2025,Dental,IR-N-C-35008,JSS Dental College and Hospital,TLR (100),70.98,TLR
+2025,Dental,IR-N-C-35008,JSS Dental College and Hospital,RPC (100),35.64,RPC
+2025,Dental,IR-N-C-35008,JSS Dental College and Hospital,GO (100),87.21,GO
+2025,Dental,IR-N-C-35008,JSS Dental College and Hospital,OI (100),64.75,OI
+2025,Dental,IR-N-C-35008,JSS Dental College and Hospital,PERCEPTION (100),66.92,PR
+2025,Dental,IR-N-C-7240,"Manipal College of Dental Sciences, Mangalore",TLR (100),78.44,TLR
+2025,Dental,IR-N-C-7240,"Manipal College of Dental Sciences, Mangalore",RPC (100),26.03,RPC
+2025,Dental,IR-N-C-7240,"Manipal College of Dental Sciences, Mangalore",GO (100),88.05,GO
+2025,Dental,IR-N-C-7240,"Manipal College of Dental Sciences, Mangalore",OI (100),67.85,OI
+2025,Dental,IR-N-C-7240,"Manipal College of Dental Sciences, Mangalore",PERCEPTION (100),66.92,PR
+2025,Dental,IR-N-C-30756,Postgraduate Institute of Dental Sciences,TLR (100),79.56,TLR
+2025,Dental,IR-N-C-30756,Postgraduate Institute of Dental Sciences,RPC (100),28.65,RPC
+2025,Dental,IR-N-C-30756,Postgraduate Institute of Dental Sciences,GO (100),86.66,GO
+2025,Dental,IR-N-C-30756,Postgraduate Institute of Dental Sciences,OI (100),55.41,OI
+2025,Dental,IR-N-C-30756,Postgraduate Institute of Dental Sciences,PERCEPTION (100),66.92,PR
+2025,Dental,IR-N-I-1486,Sri Ramachandra Institute of Higher Education and Research,TLR (100),75.88,TLR
+2025,Dental,IR-N-I-1486,Sri Ramachandra Institute of Higher Education and Research,RPC (100),32.34,RPC
+2025,Dental,IR-N-I-1486,Sri Ramachandra Institute of Higher Education and Research,GO (100),83.81,GO
+2025,Dental,IR-N-I-1486,Sri Ramachandra Institute of Higher Education and Research,OI (100),61.37,OI
+2025,Dental,IR-N-I-1486,Sri Ramachandra Institute of Higher Education and Research,PERCEPTION (100),59.17,PR
+2025,Dental,IR-N-U-0436,Amrita Vishwa Vidyapeetham,TLR (100),72.56,TLR
+2025,Dental,IR-N-U-0436,Amrita Vishwa Vidyapeetham,RPC (100),22.11,RPC
+2025,Dental,IR-N-U-0436,Amrita Vishwa Vidyapeetham,GO (100),91.5,GO
+2025,Dental,IR-N-U-0436,Amrita Vishwa Vidyapeetham,OI (100),73.4,OI
+2025,Dental,IR-N-U-0436,Amrita Vishwa Vidyapeetham,PERCEPTION (100),67.92,PR
+2025,Dental,IR-N-U-0500,Banaras Hindu University,TLR (100),76.75,TLR
+2025,Dental,IR-N-U-0500,Banaras Hindu University,RPC (100),27.47,RPC
+2025,Dental,IR-N-U-0500,Banaras Hindu University,GO (100),80.46,GO
+2025,Dental,IR-N-U-0500,Banaras Hindu University,OI (100),63.96,OI
+2025,Dental,IR-N-U-0500,Banaras Hindu University,PERCEPTION (100),63.77,PR
+2025,Dental,IR-N-U-0465,Meenakshi Academy of Higher Education and Research,TLR (100),76.44,TLR
+2025,Dental,IR-N-U-0465,Meenakshi Academy of Higher Education and Research,RPC (100),31.77,RPC
+2025,Dental,IR-N-U-0465,Meenakshi Academy of Higher Education and Research,GO (100),83.97,GO
+2025,Dental,IR-N-U-0465,Meenakshi Academy of Higher Education and Research,OI (100),65.45,OI
+2025,Dental,IR-N-U-0465,Meenakshi Academy of Higher Education and Research,PERCEPTION (100),41.22,PR
+2025,Dental,IR-N-U-0108,Jamia Millia Islamia,TLR (100),83.56,TLR
+2025,Dental,IR-N-U-0108,Jamia Millia Islamia,RPC (100),24.38,RPC
+2025,Dental,IR-N-U-0108,Jamia Millia Islamia,GO (100),63.37,GO
+2025,Dental,IR-N-U-0108,Jamia Millia Islamia,OI (100),85.3,OI
+2025,Dental,IR-N-U-0108,Jamia Millia Islamia,PERCEPTION (100),59.17,PR
+2025,Dental,IR-N-N-153,Nair Hospital Dental College,TLR (100),87.44,TLR
+2025,Dental,IR-N-N-153,Nair Hospital Dental College,RPC (100),11.53,RPC
+2025,Dental,IR-N-N-153,Nair Hospital Dental College,GO (100),86.17,GO
+2025,Dental,IR-N-N-153,Nair Hospital Dental College,OI (100),57.81,OI
+2025,Dental,IR-N-N-153,Nair Hospital Dental College,PERCEPTION (100),54.0,PR
+2025,Dental,IR-N-C-14033,"Govt. Dental College, Nagpur",TLR (100),82.31,TLR
+2025,Dental,IR-N-C-14033,"Govt. Dental College, Nagpur",RPC (100),20.06,RPC
+2025,Dental,IR-N-C-14033,"Govt. Dental College, Nagpur",GO (100),85.92,GO
+2025,Dental,IR-N-C-14033,"Govt. Dental College, Nagpur",OI (100),58.8,OI
+2025,Dental,IR-N-C-14033,"Govt. Dental College, Nagpur",PERCEPTION (100),39.3,PR
+2025,Dental,IR-N-C-13829,"Govt. Dental College, Mumbai",TLR (100),75.68,TLR
+2025,Dental,IR-N-C-13829,"Govt. Dental College, Mumbai",RPC (100),18.15,RPC
+2025,Dental,IR-N-C-13829,"Govt. Dental College, Mumbai",GO (100),84.44,GO
+2025,Dental,IR-N-C-13829,"Govt. Dental College, Mumbai",OI (100),57.77,OI
+2025,Dental,IR-N-C-13829,"Govt. Dental College, Mumbai",PERCEPTION (100),65.9,PR
+2025,Dental,IR-N-U-0724,M.S. Ramaiah University of Applied Sciences,TLR (100),77.0,TLR
+2025,Dental,IR-N-U-0724,M.S. Ramaiah University of Applied Sciences,RPC (100),16.72,RPC
+2025,Dental,IR-N-U-0724,M.S. Ramaiah University of Applied Sciences,GO (100),89.5,GO
+2025,Dental,IR-N-U-0724,M.S. Ramaiah University of Applied Sciences,OI (100),59.84,OI
+2025,Dental,IR-N-U-0724,M.S. Ramaiah University of Applied Sciences,PERCEPTION (100),54.0,PR
+2025,Dental,IR-N-C-6548,Mahatma Gandhi P.G. Institute of Dental Sciences,TLR (100),89.19,TLR
+2025,Dental,IR-N-C-6548,Mahatma Gandhi P.G. Institute of Dental Sciences,RPC (100),5.63,RPC
+2025,Dental,IR-N-C-6548,Mahatma Gandhi P.G. Institute of Dental Sciences,GO (100),87.38,GO
+2025,Dental,IR-N-C-6548,Mahatma Gandhi P.G. Institute of Dental Sciences,OI (100),59.99,OI
+2025,Dental,IR-N-C-6548,Mahatma Gandhi P.G. Institute of Dental Sciences,PERCEPTION (100),51.15,PR
+2025,Dental,IR-N-C-29150,Christian Dental College,TLR (100),77.91,TLR
+2025,Dental,IR-N-C-29150,Christian Dental College,RPC (100),13.25,RPC
+2025,Dental,IR-N-C-29150,Christian Dental College,GO (100),94.75,GO
+2025,Dental,IR-N-C-29150,Christian Dental College,OI (100),61.84,OI
+2025,Dental,IR-N-C-29150,Christian Dental College,PERCEPTION (100),44.8,PR
+2025,Dental,IR-N-N-238,SDM College of Dental Sciences & Hospital,TLR (100),80.36,TLR
+2025,Dental,IR-N-N-238,SDM College of Dental Sciences & Hospital,RPC (100),9.52,RPC
+2025,Dental,IR-N-N-238,SDM College of Dental Sciences & Hospital,GO (100),85.06,GO
+2025,Dental,IR-N-N-238,SDM College of Dental Sciences & Hospital,OI (100),61.27,OI
+2025,Dental,IR-N-N-238,SDM College of Dental Sciences & Hospital,PERCEPTION (100),63.77,PR
+2025,Dental,IR-N-U-0356,Kalinga Institute of Industrial Technology,TLR (100),82.75,TLR
+2025,Dental,IR-N-U-0356,Kalinga Institute of Industrial Technology,RPC (100),16.41,RPC
+2025,Dental,IR-N-U-0356,Kalinga Institute of Industrial Technology,GO (100),82.03,GO
+2025,Dental,IR-N-U-0356,Kalinga Institute of Industrial Technology,OI (100),66.67,OI
+2025,Dental,IR-N-U-0356,Kalinga Institute of Industrial Technology,PERCEPTION (100),35.19,PR
+2025,Dental,IR-N-N-91,Sree Balaji Dental College & Hospital,TLR (100),84.77,TLR
+2025,Dental,IR-N-N-91,Sree Balaji Dental College & Hospital,RPC (100),11.06,RPC
+2025,Dental,IR-N-N-91,Sree Balaji Dental College & Hospital,GO (100),86.06,GO
+2025,Dental,IR-N-N-91,Sree Balaji Dental College & Hospital,OI (100),73.03,OI
+2025,Dental,IR-N-N-91,Sree Balaji Dental College & Hospital,PERCEPTION (100),30.63,PR
+2025,Dental,IR-N-U-0496,Aligarh Muslim University,TLR (100),78.33,TLR
+2025,Dental,IR-N-U-0496,Aligarh Muslim University,RPC (100),14.68,RPC
+2025,Dental,IR-N-U-0496,Aligarh Muslim University,GO (100),82.85,GO
+2025,Dental,IR-N-U-0496,Aligarh Muslim University,OI (100),54.23,OI
+2025,Dental,IR-N-U-0496,Aligarh Muslim University,PERCEPTION (100),57.94,PR
+2025,Dental,IR-N-C-24504,KLE Vishwanath Katti Institute of Dental Sciences,TLR (100),73.22,TLR
+2025,Dental,IR-N-C-24504,KLE Vishwanath Katti Institute of Dental Sciences,RPC (100),13.52,RPC
+2025,Dental,IR-N-C-24504,KLE Vishwanath Katti Institute of Dental Sciences,GO (100),87.52,GO
+2025,Dental,IR-N-C-24504,KLE Vishwanath Katti Institute of Dental Sciences,OI (100),69.25,OI
+2025,Dental,IR-N-C-24504,KLE Vishwanath Katti Institute of Dental Sciences,PERCEPTION (100),49.65,PR
+2025,Dental,IR-N-U-0461,Dr. M. G. R. Educational and Research Institute,TLR (100),75.19,TLR
+2025,Dental,IR-N-U-0461,Dr. M. G. R. Educational and Research Institute,RPC (100),12.39,RPC
+2025,Dental,IR-N-U-0461,Dr. M. G. R. Educational and Research Institute,GO (100),89.03,GO
+2025,Dental,IR-N-U-0461,Dr. M. G. R. Educational and Research Institute,OI (100),70.6,OI
+2025,Dental,IR-N-U-0461,Dr. M. G. R. Educational and Research Institute,PERCEPTION (100),39.3,PR
+2025,Dental,IR-N-C-8528,Yenepoya Dental College,TLR (100),80.69,TLR
+2025,Dental,IR-N-C-8528,Yenepoya Dental College,RPC (100),10.63,RPC
+2025,Dental,IR-N-C-8528,Yenepoya Dental College,GO (100),80.88,GO
+2025,Dental,IR-N-C-8528,Yenepoya Dental College,OI (100),71.18,OI
+2025,Dental,IR-N-C-8528,Yenepoya Dental College,PERCEPTION (100),43.05,PR
+2025,Dental,IR-N-C-45605,Chettinad Dental College and Research Institute,TLR (100),81.48,TLR
+2025,Dental,IR-N-C-45605,Chettinad Dental College and Research Institute,RPC (100),11.2,RPC
+2025,Dental,IR-N-C-45605,Chettinad Dental College and Research Institute,GO (100),78.65,GO
+2025,Dental,IR-N-C-45605,Chettinad Dental College and Research Institute,OI (100),70.68,OI
+2025,Dental,IR-N-C-45605,Chettinad Dental College and Research Institute,PERCEPTION (100),43.05,PR
+2025,Dental,IR-N-U-0169,Manav Rachna International Institute of Research & Studies,TLR (100),69.65,TLR
+2025,Dental,IR-N-U-0169,Manav Rachna International Institute of Research & Studies,RPC (100),13.39,RPC
+2025,Dental,IR-N-U-0169,Manav Rachna International Institute of Research & Studies,GO (100),76.55,GO
+2025,Dental,IR-N-U-0169,Manav Rachna International Institute of Research & Studies,OI (100),72.87,OI
+2025,Dental,IR-N-U-0169,Manav Rachna International Institute of Research & Studies,PERCEPTION (100),73.45,PR
+2025,Dental,IR-N-C-40178,"Government Dental College, Bangalore",TLR (100),74.56,TLR
+2025,Dental,IR-N-C-40178,"Government Dental College, Bangalore",RPC (100),9.05,RPC
+2025,Dental,IR-N-C-40178,"Government Dental College, Bangalore",GO (100),83.12,GO
+2025,Dental,IR-N-C-40178,"Government Dental College, Bangalore",OI (100),57.53,OI
+2025,Dental,IR-N-C-40178,"Government Dental College, Bangalore",PERCEPTION (100),73.45,PR
+2025,Dental,IR-N-C-48122,Government Dental College,TLR (100),80.57,TLR
+2025,Dental,IR-N-C-48122,Government Dental College,RPC (100),6.9,RPC
+2025,Dental,IR-N-C-48122,Government Dental College,GO (100),90.97,GO
+2025,Dental,IR-N-C-48122,Government Dental College,OI (100),53.3,OI
+2025,Dental,IR-N-C-48122,Government Dental College,PERCEPTION (100),49.65,PR
+2025,Dental,IR-N-U-0295,Datta Meghe Institute of Higher Education and Research,TLR (100),76.94,TLR
+2025,Dental,IR-N-U-0295,Datta Meghe Institute of Higher Education and Research,RPC (100),18.62,RPC
+2025,Dental,IR-N-U-0295,Datta Meghe Institute of Higher Education and Research,GO (100),83.61,GO
+2025,Dental,IR-N-U-0295,Datta Meghe Institute of Higher Education and Research,OI (100),66.42,OI
+2025,Dental,IR-N-U-0295,Datta Meghe Institute of Higher Education and Research,PERCEPTION (100),22.69,PR
+2025,Dental,IR-N-C-5910,Government Dental College,TLR (100),71.75,TLR
+2025,Dental,IR-N-C-5910,Government Dental College,RPC (100),11.72,RPC
+2025,Dental,IR-N-C-5910,Government Dental College,GO (100),90.37,GO
+2025,Dental,IR-N-C-5910,Government Dental College,OI (100),56.18,OI
+2025,Dental,IR-N-C-5910,Government Dental College,PERCEPTION (100),54.0,PR
+2025,Dental,IR-N-C-8121,Government Dental College,TLR (100),70.41,TLR
+2025,Dental,IR-N-C-8121,Government Dental College,RPC (100),8.65,RPC
+2025,Dental,IR-N-C-8121,Government Dental College,GO (100),98.19,GO
+2025,Dental,IR-N-C-8121,Government Dental College,OI (100),54.86,OI
+2025,Dental,IR-N-C-8121,Government Dental College,PERCEPTION (100),41.22,PR
+2025,Dental,IR-N-N-353,SRM Kattankulathur Dental College,TLR (100),75.27,TLR
+2025,Dental,IR-N-N-353,SRM Kattankulathur Dental College,RPC (100),14.0,RPC
+2025,Dental,IR-N-N-353,SRM Kattankulathur Dental College,GO (100),87.72,GO
+2025,Dental,IR-N-N-353,SRM Kattankulathur Dental College,OI (100),57.51,OI
+2025,Dental,IR-N-N-353,SRM Kattankulathur Dental College,PERCEPTION (100),28.15,PR
+2025,Dental,IR-N-C-40342,K L E Society's Institute of Dental Sciences,TLR (100),71.64,TLR
+2025,Dental,IR-N-C-40342,K L E Society's Institute of Dental Sciences,RPC (100),9.59,RPC
+2025,Dental,IR-N-C-40342,K L E Society's Institute of Dental Sciences,GO (100),79.62,GO
+2025,Dental,IR-N-C-40342,K L E Society's Institute of Dental Sciences,OI (100),61.1,OI
+2025,Dental,IR-N-C-40342,K L E Society's Institute of Dental Sciences,PERCEPTION (100),57.94,PR

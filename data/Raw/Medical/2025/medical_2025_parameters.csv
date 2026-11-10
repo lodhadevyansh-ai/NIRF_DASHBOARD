@@ -1,0 +1,251 @@
+year,category,institute_id,institute_name,parameter_name,parameter_score,canonical_parameter
+2025,Medical,IR-D-N-15,"All India Institute of Medical Sciences, Delhi",TLR (100),93.51,TLR
+2025,Medical,IR-D-N-15,"All India Institute of Medical Sciences, Delhi",RPC (100),91.87,RPC
+2025,Medical,IR-D-N-15,"All India Institute of Medical Sciences, Delhi",GO (100),98.28,GO
+2025,Medical,IR-D-N-15,"All India Institute of Medical Sciences, Delhi",OI (100),65.34,OI
+2025,Medical,IR-D-N-15,"All India Institute of Medical Sciences, Delhi",PERCEPTION (100),100.0,PR
+2025,Medical,IR-D-U-0079,Post Graduate Institute of Medical Education and Research,TLR (100),91.33,TLR
+2025,Medical,IR-D-U-0079,Post Graduate Institute of Medical Education and Research,RPC (100),82.92,RPC
+2025,Medical,IR-D-U-0079,Post Graduate Institute of Medical Education and Research,GO (100),82.93,GO
+2025,Medical,IR-D-U-0079,Post Graduate Institute of Medical Education and Research,OI (100),67.42,OI
+2025,Medical,IR-D-U-0079,Post Graduate Institute of Medical Education and Research,PERCEPTION (100),69.72,PR
+2025,Medical,IR-D-C-45654,Christian Medical College,TLR (100),94.51,TLR
+2025,Medical,IR-D-C-45654,Christian Medical College,RPC (100),50.81,RPC
+2025,Medical,IR-D-C-45654,Christian Medical College,GO (100),92.34,GO
+2025,Medical,IR-D-C-45654,Christian Medical College,OI (100),60.51,OI
+2025,Medical,IR-D-C-45654,Christian Medical College,PERCEPTION (100),83.74,PR
+2025,Medical,IR-D-U-0368,Jawaharlal Institute of Post Graduate Medical Education & Research,TLR (100),84.95,TLR
+2025,Medical,IR-D-U-0368,Jawaharlal Institute of Post Graduate Medical Education & Research,RPC (100),53.79,RPC
+2025,Medical,IR-D-U-0368,Jawaharlal Institute of Post Graduate Medical Education & Research,GO (100),89.26,GO
+2025,Medical,IR-D-U-0368,Jawaharlal Institute of Post Graduate Medical Education & Research,OI (100),68.28,OI
+2025,Medical,IR-D-U-0368,Jawaharlal Institute of Post Graduate Medical Education & Research,PERCEPTION (100),69.92,PR
+2025,Medical,IR-D-N-33,Sanjay Gandhi Postgraduate Institute of Medical Sciences,TLR (100),89.97,TLR
+2025,Medical,IR-D-N-33,Sanjay Gandhi Postgraduate Institute of Medical Sciences,RPC (100),53.41,RPC
+2025,Medical,IR-D-N-33,Sanjay Gandhi Postgraduate Institute of Medical Sciences,GO (100),84.29,GO
+2025,Medical,IR-D-N-33,Sanjay Gandhi Postgraduate Institute of Medical Sciences,OI (100),57.18,OI
+2025,Medical,IR-D-N-33,Sanjay Gandhi Postgraduate Institute of Medical Sciences,PERCEPTION (100),45.05,PR
+2025,Medical,IR-D-U-0500,Banaras Hindu University,TLR (100),81.54,TLR
+2025,Medical,IR-D-U-0500,Banaras Hindu University,RPC (100),58.16,RPC
+2025,Medical,IR-D-U-0500,Banaras Hindu University,GO (100),86.84,GO
+2025,Medical,IR-D-U-0500,Banaras Hindu University,OI (100),62.5,OI
+2025,Medical,IR-D-U-0500,Banaras Hindu University,PERCEPTION (100),45.23,PR
+2025,Medical,IR-D-U-0236,"National Institute of Mental Health & Neuro Sciences, Bangalore",TLR (100),78.96,TLR
+2025,Medical,IR-D-U-0236,"National Institute of Mental Health & Neuro Sciences, Bangalore",RPC (100),55.86,RPC
+2025,Medical,IR-D-U-0236,"National Institute of Mental Health & Neuro Sciences, Bangalore",GO (100),88.87,GO
+2025,Medical,IR-D-U-0236,"National Institute of Mental Health & Neuro Sciences, Bangalore",OI (100),59.21,OI
+2025,Medical,IR-D-U-0236,"National Institute of Mental Health & Neuro Sciences, Bangalore",PERCEPTION (100),56.32,PR
+2025,Medical,IR-D-U-0523,King George`s Medical University,TLR (100),84.93,TLR
+2025,Medical,IR-D-U-0523,King George`s Medical University,RPC (100),51.27,RPC
+2025,Medical,IR-D-U-0523,King George`s Medical University,GO (100),90.3,GO
+2025,Medical,IR-D-U-0523,King George`s Medical University,OI (100),60.53,OI
+2025,Medical,IR-D-U-0523,King George`s Medical University,PERCEPTION (100),38.02,PR
+2025,Medical,IR-D-U-0436,Amrita Vishwa Vidyapeetham,TLR (100),80.06,TLR
+2025,Medical,IR-D-U-0436,Amrita Vishwa Vidyapeetham,RPC (100),49.86,RPC
+2025,Medical,IR-D-U-0436,Amrita Vishwa Vidyapeetham,GO (100),88.06,GO
+2025,Medical,IR-D-U-0436,Amrita Vishwa Vidyapeetham,OI (100),75.39,OI
+2025,Medical,IR-D-U-0436,Amrita Vishwa Vidyapeetham,PERCEPTION (100),43.92,PR
+2025,Medical,IR-D-C-7242,"Kasturba Medical College, Manipal",TLR (100),79.78,TLR
+2025,Medical,IR-D-C-7242,"Kasturba Medical College, Manipal",RPC (100),52.84,RPC
+2025,Medical,IR-D-C-7242,"Kasturba Medical College, Manipal",GO (100),83.99,GO
+2025,Medical,IR-D-C-7242,"Kasturba Medical College, Manipal",OI (100),73.4,OI
+2025,Medical,IR-D-C-7242,"Kasturba Medical College, Manipal",PERCEPTION (100),41.18,PR
+2025,Medical,IR-D-I-1441,Saveetha Institute of Medical and Technical Sciences,TLR (100),75.45,TLR
+2025,Medical,IR-D-I-1441,Saveetha Institute of Medical and Technical Sciences,RPC (100),74.27,RPC
+2025,Medical,IR-D-I-1441,Saveetha Institute of Medical and Technical Sciences,GO (100),67.55,GO
+2025,Medical,IR-D-I-1441,Saveetha Institute of Medical and Technical Sciences,OI (100),68.07,OI
+2025,Medical,IR-D-I-1441,Saveetha Institute of Medical and Technical Sciences,PERCEPTION (100),12.59,PR
+2025,Medical,IR-D-I-1110,Dr. D. Y. Patil Vidyapeeth,TLR (100),77.0,TLR
+2025,Medical,IR-D-I-1110,Dr. D. Y. Patil Vidyapeeth,RPC (100),51.75,RPC
+2025,Medical,IR-D-I-1110,Dr. D. Y. Patil Vidyapeeth,GO (100),80.14,GO
+2025,Medical,IR-D-I-1110,Dr. D. Y. Patil Vidyapeeth,OI (100),69.41,OI
+2025,Medical,IR-D-I-1110,Dr. D. Y. Patil Vidyapeeth,PERCEPTION (100),35.77,PR
+2025,Medical,IR-D-U-0691,All India Institute of Medical Sciences Rishikesh,TLR (100),76.44,TLR
+2025,Medical,IR-D-U-0691,All India Institute of Medical Sciences Rishikesh,RPC (100),51.67,RPC
+2025,Medical,IR-D-U-0691,All India Institute of Medical Sciences Rishikesh,GO (100),81.44,GO
+2025,Medical,IR-D-U-0691,All India Institute of Medical Sciences Rishikesh,OI (100),67.89,OI
+2025,Medical,IR-D-U-0691,All India Institute of Medical Sciences Rishikesh,PERCEPTION (100),35.07,PR
+2025,Medical,IR-D-U-0688,All India Institute of Medical Sciences Bhubaneswar,TLR (100),81.27,TLR
+2025,Medical,IR-D-U-0688,All India Institute of Medical Sciences Bhubaneswar,RPC (100),39.6,RPC
+2025,Medical,IR-D-U-0688,All India Institute of Medical Sciences Bhubaneswar,GO (100),81.61,GO
+2025,Medical,IR-D-U-0688,All India Institute of Medical Sciences Bhubaneswar,OI (100),66.72,OI
+2025,Medical,IR-D-U-0688,All India Institute of Medical Sciences Bhubaneswar,PERCEPTION (100),50.58,PR
+2025,Medical,IR-D-U-0363,Siksha `O` Anusandhan,TLR (100),79.45,TLR
+2025,Medical,IR-D-U-0363,Siksha `O` Anusandhan,RPC (100),44.04,RPC
+2025,Medical,IR-D-U-0363,Siksha `O` Anusandhan,GO (100),83.37,GO
+2025,Medical,IR-D-U-0363,Siksha `O` Anusandhan,OI (100),72.24,OI
+2025,Medical,IR-D-U-0363,Siksha `O` Anusandhan,PERCEPTION (100),27.92,PR
+2025,Medical,IR-D-C-49008,"Madras Medical College & Government General Hospital, Chennai",TLR (100),88.71,TLR
+2025,Medical,IR-D-C-49008,"Madras Medical College & Government General Hospital, Chennai",RPC (100),13.11,RPC
+2025,Medical,IR-D-C-49008,"Madras Medical College & Government General Hospital, Chennai",GO (100),96.87,GO
+2025,Medical,IR-D-C-49008,"Madras Medical College & Government General Hospital, Chennai",OI (100),76.4,OI
+2025,Medical,IR-D-C-49008,"Madras Medical College & Government General Hospital, Chennai",PERCEPTION (100),61.61,PR
+2025,Medical,IR-D-U-0266,"Sree Chitra Tirunal Institute for Medical Sciences and Technology, Thiruvananthapuram",TLR (100),80.92,TLR
+2025,Medical,IR-D-U-0266,"Sree Chitra Tirunal Institute for Medical Sciences and Technology, Thiruvananthapuram",RPC (100),50.23,RPC
+2025,Medical,IR-D-U-0266,"Sree Chitra Tirunal Institute for Medical Sciences and Technology, Thiruvananthapuram",GO (100),76.08,GO
+2025,Medical,IR-D-U-0266,"Sree Chitra Tirunal Institute for Medical Sciences and Technology, Thiruvananthapuram",OI (100),59.39,OI
+2025,Medical,IR-D-U-0266,"Sree Chitra Tirunal Institute for Medical Sciences and Technology, Thiruvananthapuram",PERCEPTION (100),28.47,PR
+2025,Medical,IR-D-U-0473,S.R.M. Institute of Science and Technology,TLR (100),76.84,TLR
+2025,Medical,IR-D-U-0473,S.R.M. Institute of Science and Technology,RPC (100),52.34,RPC
+2025,Medical,IR-D-U-0473,S.R.M. Institute of Science and Technology,GO (100),77.41,GO
+2025,Medical,IR-D-U-0473,S.R.M. Institute of Science and Technology,OI (100),72.72,OI
+2025,Medical,IR-D-U-0473,S.R.M. Institute of Science and Technology,PERCEPTION (100),17.16,PR
+2025,Medical,IR-D-U-0689,All India Institute of Medical Sciences Jodhpur,TLR (100),79.04,TLR
+2025,Medical,IR-D-U-0689,All India Institute of Medical Sciences Jodhpur,RPC (100),52.93,RPC
+2025,Medical,IR-D-U-0689,All India Institute of Medical Sciences Jodhpur,GO (100),75.04,GO
+2025,Medical,IR-D-U-0689,All India Institute of Medical Sciences Jodhpur,OI (100),60.17,OI
+2025,Medical,IR-D-U-0689,All India Institute of Medical Sciences Jodhpur,PERCEPTION (100),25.62,PR
+2025,Medical,IR-D-U-0295,Datta Meghe Institute of Higher Education and Research,TLR (100),73.37,TLR
+2025,Medical,IR-D-U-0295,Datta Meghe Institute of Higher Education and Research,RPC (100),60.81,RPC
+2025,Medical,IR-D-U-0295,Datta Meghe Institute of Higher Education and Research,GO (100),72.42,GO
+2025,Medical,IR-D-U-0295,Datta Meghe Institute of Higher Education and Research,OI (100),71.29,OI
+2025,Medical,IR-D-U-0295,Datta Meghe Institute of Higher Education and Research,PERCEPTION (100),5.12,PR
+2025,Medical,IR-D-I-1486,Sri Ramachandra Institute of Higher Education and Research,TLR (100),77.17,TLR
+2025,Medical,IR-D-I-1486,Sri Ramachandra Institute of Higher Education and Research,RPC (100),39.19,RPC
+2025,Medical,IR-D-I-1486,Sri Ramachandra Institute of Higher Education and Research,GO (100),88.84,GO
+2025,Medical,IR-D-I-1486,Sri Ramachandra Institute of Higher Education and Research,OI (100),64.79,OI
+2025,Medical,IR-D-I-1486,Sri Ramachandra Institute of Higher Education and Research,PERCEPTION (100),23.82,PR
+2025,Medical,IR-D-C-32922,Vardhman Mahavir Medical College & Safdarjung Hospital,TLR (100),85.85,TLR
+2025,Medical,IR-D-C-32922,Vardhman Mahavir Medical College & Safdarjung Hospital,RPC (100),35.96,RPC
+2025,Medical,IR-D-C-32922,Vardhman Mahavir Medical College & Safdarjung Hospital,GO (100),86.39,GO
+2025,Medical,IR-D-C-32922,Vardhman Mahavir Medical College & Safdarjung Hospital,OI (100),53.34,OI
+2025,Medical,IR-D-C-32922,Vardhman Mahavir Medical College & Safdarjung Hospital,PERCEPTION (100),23.51,PR
+2025,Medical,IR-D-C-16428,Institute of Post Graduate Medical Education & Research,TLR (100),80.41,TLR
+2025,Medical,IR-D-C-16428,Institute of Post Graduate Medical Education & Research,RPC (100),29.92,RPC
+2025,Medical,IR-D-C-16428,Institute of Post Graduate Medical Education & Research,GO (100),92.61,GO
+2025,Medical,IR-D-C-16428,Institute of Post Graduate Medical Education & Research,OI (100),49.82,OI
+2025,Medical,IR-D-C-16428,Institute of Post Graduate Medical Education & Research,PERCEPTION (100),44.68,PR
+2025,Medical,IR-D-U-0356,Kalinga Institute of Industrial Technology,TLR (100),78.25,TLR
+2025,Medical,IR-D-U-0356,Kalinga Institute of Industrial Technology,RPC (100),46.79,RPC
+2025,Medical,IR-D-U-0356,Kalinga Institute of Industrial Technology,GO (100),71.82,GO
+2025,Medical,IR-D-U-0356,Kalinga Institute of Industrial Technology,OI (100),72.04,OI
+2025,Medical,IR-D-U-0356,Kalinga Institute of Industrial Technology,PERCEPTION (100),19.27,PR
+2025,Medical,IR-D-U-0687,All India Institute of Medical Sciences Bhopal,TLR (100),81.0,TLR
+2025,Medical,IR-D-U-0687,All India Institute of Medical Sciences Bhopal,RPC (100),34.14,RPC
+2025,Medical,IR-D-U-0687,All India Institute of Medical Sciences Bhopal,GO (100),77.58,GO
+2025,Medical,IR-D-U-0687,All India Institute of Medical Sciences Bhopal,OI (100),70.03,OI
+2025,Medical,IR-D-U-0687,All India Institute of Medical Sciences Bhopal,PERCEPTION (100),30.87,PR
+2025,Medical,IR-D-C-6414,Maulana Azad Medical College,TLR (100),81.85,TLR
+2025,Medical,IR-D-C-6414,Maulana Azad Medical College,RPC (100),33.15,RPC
+2025,Medical,IR-D-C-6414,Maulana Azad Medical College,GO (100),80.51,GO
+2025,Medical,IR-D-C-6414,Maulana Azad Medical College,OI (100),54.2,OI
+2025,Medical,IR-D-C-6414,Maulana Azad Medical College,PERCEPTION (100),34.36,PR
+2025,Medical,IR-D-U-0686,All India Institute of Medical Sciences Patna,TLR (100),79.83,TLR
+2025,Medical,IR-D-U-0686,All India Institute of Medical Sciences Patna,RPC (100),30.95,RPC
+2025,Medical,IR-D-U-0686,All India Institute of Medical Sciences Patna,GO (100),77.03,GO
+2025,Medical,IR-D-U-0686,All India Institute of Medical Sciences Patna,OI (100),60.29,OI
+2025,Medical,IR-D-U-0686,All India Institute of Medical Sciences Patna,PERCEPTION (100),45.6,PR
+2025,Medical,IR-D-U-0106,Institute of Liver and Biliary Sciences,TLR (100),85.08,TLR
+2025,Medical,IR-D-U-0106,Institute of Liver and Biliary Sciences,RPC (100),44.9,RPC
+2025,Medical,IR-D-U-0106,Institute of Liver and Biliary Sciences,GO (100),54.95,GO
+2025,Medical,IR-D-U-0106,Institute of Liver and Biliary Sciences,OI (100),59.7,OI
+2025,Medical,IR-D-U-0106,Institute of Liver and Biliary Sciences,PERCEPTION (100),32.65,PR
+2025,Medical,IR-D-U-0496,Aligarh Muslim University,TLR (100),74.03,TLR
+2025,Medical,IR-D-U-0496,Aligarh Muslim University,RPC (100),39.46,RPC
+2025,Medical,IR-D-U-0496,Aligarh Muslim University,GO (100),81.8,GO
+2025,Medical,IR-D-U-0496,Aligarh Muslim University,OI (100),57.61,OI
+2025,Medical,IR-D-U-0496,Aligarh Muslim University,PERCEPTION (100),26.5,PR
+2025,Medical,IR-D-C-40453,St. John's Medical College,TLR (100),79.85,TLR
+2025,Medical,IR-D-C-40453,St. John's Medical College,RPC (100),33.92,RPC
+2025,Medical,IR-D-C-40453,St. John's Medical College,GO (100),76.01,GO
+2025,Medical,IR-D-C-40453,St. John's Medical College,OI (100),67.86,OI
+2025,Medical,IR-D-C-40453,St. John's Medical College,PERCEPTION (100),26.21,PR
+2025,Medical,IR-D-U-0690,All India Institute of Medical Sciences Raipur,TLR (100),81.58,TLR
+2025,Medical,IR-D-U-0690,All India Institute of Medical Sciences Raipur,RPC (100),32.38,RPC
+2025,Medical,IR-D-U-0690,All India Institute of Medical Sciences Raipur,GO (100),74.8,GO
+2025,Medical,IR-D-U-0690,All India Institute of Medical Sciences Raipur,OI (100),72.37,OI
+2025,Medical,IR-D-U-0690,All India Institute of Medical Sciences Raipur,PERCEPTION (100),20.62,PR
+2025,Medical,IR-D-C-22461,Lady Hardinge Medical College,TLR (100),79.98,TLR
+2025,Medical,IR-D-C-22461,Lady Hardinge Medical College,RPC (100),28.49,RPC
+2025,Medical,IR-D-C-22461,Lady Hardinge Medical College,GO (100),77.76,GO
+2025,Medical,IR-D-C-22461,Lady Hardinge Medical College,OI (100),64.79,OI
+2025,Medical,IR-D-C-22461,Lady Hardinge Medical College,PERCEPTION (100),34.12,PR
+2025,Medical,IR-D-U-0168,Maharishi Markandeshwar,TLR (100),73.15,TLR
+2025,Medical,IR-D-U-0168,Maharishi Markandeshwar,RPC (100),40.73,RPC
+2025,Medical,IR-D-U-0168,Maharishi Markandeshwar,GO (100),76.08,GO
+2025,Medical,IR-D-U-0168,Maharishi Markandeshwar,OI (100),68.37,OI
+2025,Medical,IR-D-U-0168,Maharishi Markandeshwar,PERCEPTION (100),4.63,PR
+2025,Medical,IR-D-C-29442,Govt. Medical College & Hospital,TLR (100),77.8,TLR
+2025,Medical,IR-D-C-29442,Govt. Medical College & Hospital,RPC (100),31.17,RPC
+2025,Medical,IR-D-C-29442,Govt. Medical College & Hospital,GO (100),80.31,GO
+2025,Medical,IR-D-C-29442,Govt. Medical College & Hospital,OI (100),58.58,OI
+2025,Medical,IR-D-C-29442,Govt. Medical College & Hospital,PERCEPTION (100),20.62,PR
+2025,Medical,IR-D-C-7251,"Kasturba Medical College, Mangalore",TLR (100),75.97,TLR
+2025,Medical,IR-D-C-7251,"Kasturba Medical College, Mangalore",RPC (100),29.13,RPC
+2025,Medical,IR-D-C-7251,"Kasturba Medical College, Mangalore",GO (100),75.87,GO
+2025,Medical,IR-D-C-7251,"Kasturba Medical College, Mangalore",OI (100),71.89,OI
+2025,Medical,IR-D-C-7251,"Kasturba Medical College, Mangalore",PERCEPTION (100),25.62,PR
+2025,Medical,IR-D-C-29255,Dayanand Medical College,TLR (100),84.65,TLR
+2025,Medical,IR-D-C-29255,Dayanand Medical College,RPC (100),25.11,RPC
+2025,Medical,IR-D-C-29255,Dayanand Medical College,GO (100),79.35,GO
+2025,Medical,IR-D-C-29255,Dayanand Medical College,OI (100),53.87,OI
+2025,Medical,IR-D-C-29255,Dayanand Medical College,PERCEPTION (100),14.56,PR
+2025,Medical,IR-D-C-35009,"JSS Medical College, Mysore",TLR (100),75.69,TLR
+2025,Medical,IR-D-C-35009,"JSS Medical College, Mysore",RPC (100),23.25,RPC
+2025,Medical,IR-D-C-35009,"JSS Medical College, Mysore",GO (100),78.43,GO
+2025,Medical,IR-D-C-35009,"JSS Medical College, Mysore",OI (100),70.75,OI
+2025,Medical,IR-D-C-35009,"JSS Medical College, Mysore",PERCEPTION (100),30.61,PR
+2025,Medical,IR-D-I-1409,University College of Medical Sciences,TLR (100),74.91,TLR
+2025,Medical,IR-D-I-1409,University College of Medical Sciences,RPC (100),29.74,RPC
+2025,Medical,IR-D-I-1409,University College of Medical Sciences,GO (100),77.67,GO
+2025,Medical,IR-D-I-1409,University College of Medical Sciences,OI (100),54.65,OI
+2025,Medical,IR-D-I-1409,University College of Medical Sciences,PERCEPTION (100),18.23,PR
+2025,Medical,IR-D-N-17,Sawai Man Singh Medical College,TLR (100),75.12,TLR
+2025,Medical,IR-D-N-17,Sawai Man Singh Medical College,RPC (100),17.57,RPC
+2025,Medical,IR-D-N-17,Sawai Man Singh Medical College,GO (100),92.32,GO
+2025,Medical,IR-D-N-17,Sawai Man Singh Medical College,OI (100),55.36,OI
+2025,Medical,IR-D-N-17,Sawai Man Singh Medical College,PERCEPTION (100),8.8,PR
+2025,Medical,IR-D-U-0107,Jamia Hamdard,TLR (100),72.31,TLR
+2025,Medical,IR-D-U-0107,Jamia Hamdard,RPC (100),39.93,RPC
+2025,Medical,IR-D-U-0107,Jamia Hamdard,GO (100),52.91,GO
+2025,Medical,IR-D-U-0107,Jamia Hamdard,OI (100),63.59,OI
+2025,Medical,IR-D-U-0107,Jamia Hamdard,PERCEPTION (100),19.61,PR
+2025,Medical,IR-D-C-16424,Medical College,TLR (100),69.46,TLR
+2025,Medical,IR-D-C-16424,Medical College,RPC (100),19.53,RPC
+2025,Medical,IR-D-C-16424,Medical College,GO (100),85.07,GO
+2025,Medical,IR-D-C-16424,Medical College,OI (100),53.53,OI
+2025,Medical,IR-D-C-16424,Medical College,PERCEPTION (100),34.84,PR
+2025,Medical,IR-D-C-47762,Mahatma Gandhi Medical College and Research Institute,TLR (100),71.92,TLR
+2025,Medical,IR-D-C-47762,Mahatma Gandhi Medical College and Research Institute,RPC (100),22.23,RPC
+2025,Medical,IR-D-C-47762,Mahatma Gandhi Medical College and Research Institute,GO (100),75.91,GO
+2025,Medical,IR-D-C-47762,Mahatma Gandhi Medical College and Research Institute,OI (100),80.33,OI
+2025,Medical,IR-D-C-47762,Mahatma Gandhi Medical College and Research Institute,PERCEPTION (100),9.68,PR
+2025,Medical,IR-D-C-45515,PSG Institute of Medical Sciences and Research,TLR (100),77.54,TLR
+2025,Medical,IR-D-C-45515,PSG Institute of Medical Sciences and Research,RPC (100),12.89,RPC
+2025,Medical,IR-D-C-45515,PSG Institute of Medical Sciences and Research,GO (100),74.47,GO
+2025,Medical,IR-D-C-45515,PSG Institute of Medical Sciences and Research,OI (100),61.08,OI
+2025,Medical,IR-D-C-45515,PSG Institute of Medical Sciences and Research,PERCEPTION (100),42.77,PR
+2025,Medical,IR-D-C-5838,Gujarat Cancer & Research Institute,TLR (100),88.71,TLR
+2025,Medical,IR-D-C-5838,Gujarat Cancer & Research Institute,RPC (100),14.3,RPC
+2025,Medical,IR-D-C-5838,Gujarat Cancer & Research Institute,GO (100),75.36,GO
+2025,Medical,IR-D-C-5838,Gujarat Cancer & Research Institute,OI (100),54.81,OI
+2025,Medical,IR-D-C-5838,Gujarat Cancer & Research Institute,PERCEPTION (100),7.0,PR
+2025,Medical,IR-D-C-6051,B. J. Medical College,TLR (100),74.21,TLR
+2025,Medical,IR-D-C-6051,B. J. Medical College,RPC (100),12.42,RPC
+2025,Medical,IR-D-C-6051,B. J. Medical College,GO (100),91.29,GO
+2025,Medical,IR-D-C-6051,B. J. Medical College,OI (100),59.85,OI
+2025,Medical,IR-D-C-6051,B. J. Medical College,PERCEPTION (100),16.07,PR
+2025,Medical,IR-D-C-24503,Jawaharlal Nehru Medical College,TLR (100),77.68,TLR
+2025,Medical,IR-D-C-24503,Jawaharlal Nehru Medical College,RPC (100),16.63,RPC
+2025,Medical,IR-D-C-24503,Jawaharlal Nehru Medical College,GO (100),72.78,GO
+2025,Medical,IR-D-C-24503,Jawaharlal Nehru Medical College,OI (100),70.51,OI
+2025,Medical,IR-D-C-24503,Jawaharlal Nehru Medical College,PERCEPTION (100),17.88,PR
+2025,Medical,IR-D-C-29209,"Christian Medical College, Brown Road, Ludhiana",TLR (100),75.09,TLR
+2025,Medical,IR-D-C-29209,"Christian Medical College, Brown Road, Ludhiana",RPC (100),16.22,RPC
+2025,Medical,IR-D-C-29209,"Christian Medical College, Brown Road, Ludhiana",GO (100),74.21,GO
+2025,Medical,IR-D-C-29209,"Christian Medical College, Brown Road, Ludhiana",OI (100),66.82,OI
+2025,Medical,IR-D-C-29209,"Christian Medical College, Brown Road, Ludhiana",PERCEPTION (100),25.62,PR
+2025,Medical,IR-D-C-30588,Osmania Medical College,TLR (100),76.28,TLR
+2025,Medical,IR-D-C-30588,Osmania Medical College,RPC (100),8.17,RPC
+2025,Medical,IR-D-C-30588,Osmania Medical College,GO (100),89.14,GO
+2025,Medical,IR-D-C-30588,Osmania Medical College,OI (100),59.76,OI
+2025,Medical,IR-D-C-30588,Osmania Medical College,PERCEPTION (100),23.2,PR
+2025,Medical,IR-D-U-0451,Chettinad Academy of Research and Education,TLR (100),74.76,TLR
+2025,Medical,IR-D-U-0451,Chettinad Academy of Research and Education,RPC (100),28.44,RPC
+2025,Medical,IR-D-U-0451,Chettinad Academy of Research and Education,GO (100),64.45,GO
+2025,Medical,IR-D-U-0451,Chettinad Academy of Research and Education,OI (100),64.63,OI
+2025,Medical,IR-D-U-0451,Chettinad Academy of Research and Education,PERCEPTION (100),10.95,PR
+2025,Medical,IR-D-C-40345,M. S. Ramaiah Medical College,TLR (100),78.53,TLR
+2025,Medical,IR-D-C-40345,M. S. Ramaiah Medical College,RPC (100),13.32,RPC
+2025,Medical,IR-D-C-40345,M. S. Ramaiah Medical College,GO (100),76.32,GO
+2025,Medical,IR-D-C-40345,M. S. Ramaiah Medical College,OI (100),56.91,OI
+2025,Medical,IR-D-C-40345,M. S. Ramaiah Medical College,PERCEPTION (100),24.12,PR

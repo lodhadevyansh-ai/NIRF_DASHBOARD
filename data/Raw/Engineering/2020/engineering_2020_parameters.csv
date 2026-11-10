@@ -1,0 +1,501 @@
+year,category,institute_id,institute_name,parameter_name,parameter_score,canonical_parameter
+2020,Engineering,IR-E-U-0456,Indian Institute of Technology Madras,TLR (100),95.42,TLR
+2020,Engineering,IR-E-U-0456,Indian Institute of Technology Madras,RPC (100),94.64,RPC
+2020,Engineering,IR-E-U-0456,Indian Institute of Technology Madras,GO (100),83.9,GO
+2020,Engineering,IR-E-U-0456,Indian Institute of Technology Madras,OI (100),61.31,OI
+2020,Engineering,IR-E-U-0456,Indian Institute of Technology Madras,PERCEPTION (100),100.0,PR
+2020,Engineering,IR-E-I-1074,Indian Institute of Technology Delhi,TLR (100),90.79,TLR
+2020,Engineering,IR-E-I-1074,Indian Institute of Technology Delhi,RPC (100),96.15,RPC
+2020,Engineering,IR-E-I-1074,Indian Institute of Technology Delhi,GO (100),80.36,GO
+2020,Engineering,IR-E-I-1074,Indian Institute of Technology Delhi,OI (100),64.81,OI
+2020,Engineering,IR-E-I-1074,Indian Institute of Technology Delhi,PERCEPTION (100),94.46,PR
+2020,Engineering,IR-E-U-0306,Indian Institute of Technology Bombay,TLR (100),91.0,TLR
+2020,Engineering,IR-E-U-0306,Indian Institute of Technology Bombay,RPC (100),93.37,RPC
+2020,Engineering,IR-E-U-0306,Indian Institute of Technology Bombay,GO (100),77.6,GO
+2020,Engineering,IR-E-U-0306,Indian Institute of Technology Bombay,OI (100),49.99,OI
+2020,Engineering,IR-E-U-0306,Indian Institute of Technology Bombay,PERCEPTION (100),92.51,PR
+2020,Engineering,IR-E-I-1075,Indian Institute of Technology Kanpur,TLR (100),86.22,TLR
+2020,Engineering,IR-E-I-1075,Indian Institute of Technology Kanpur,RPC (100),82.08,RPC
+2020,Engineering,IR-E-I-1075,Indian Institute of Technology Kanpur,GO (100),88.44,GO
+2020,Engineering,IR-E-I-1075,Indian Institute of Technology Kanpur,OI (100),54.21,OI
+2020,Engineering,IR-E-I-1075,Indian Institute of Technology Kanpur,PERCEPTION (100),85.78,PR
+2020,Engineering,IR-E-U-0573,Indian Institute of Technology Kharagpur,TLR (100),77.32,TLR
+2020,Engineering,IR-E-U-0573,Indian Institute of Technology Kharagpur,RPC (100),87.11,RPC
+2020,Engineering,IR-E-U-0573,Indian Institute of Technology Kharagpur,GO (100),83.21,GO
+2020,Engineering,IR-E-U-0573,Indian Institute of Technology Kharagpur,OI (100),56.62,OI
+2020,Engineering,IR-E-U-0573,Indian Institute of Technology Kharagpur,PERCEPTION (100),89.31,PR
+2020,Engineering,IR-E-U-0560,Indian Institute of Technology Roorkee,TLR (100),77.21,TLR
+2020,Engineering,IR-E-U-0560,Indian Institute of Technology Roorkee,RPC (100),76.57,RPC
+2020,Engineering,IR-E-U-0560,Indian Institute of Technology Roorkee,GO (100),89.65,GO
+2020,Engineering,IR-E-U-0560,Indian Institute of Technology Roorkee,OI (100),61.71,OI
+2020,Engineering,IR-E-U-0560,Indian Institute of Technology Roorkee,PERCEPTION (100),60.55,PR
+2020,Engineering,IR-E-U-0053,Indian Institute of Technology Guwahati,TLR (100),83.04,TLR
+2020,Engineering,IR-E-U-0053,Indian Institute of Technology Guwahati,RPC (100),70.73,RPC
+2020,Engineering,IR-E-U-0053,Indian Institute of Technology Guwahati,GO (100),83.03,GO
+2020,Engineering,IR-E-U-0053,Indian Institute of Technology Guwahati,OI (100),59.13,OI
+2020,Engineering,IR-E-U-0053,Indian Institute of Technology Guwahati,PERCEPTION (100),62.45,PR
+2020,Engineering,IR-E-U-0013,Indian Institute of Technology Hyderabad,TLR (100),82.51,TLR
+2020,Engineering,IR-E-U-0013,Indian Institute of Technology Hyderabad,RPC (100),52.47,RPC
+2020,Engineering,IR-E-U-0013,Indian Institute of Technology Hyderabad,GO (100),71.54,GO
+2020,Engineering,IR-E-U-0013,Indian Institute of Technology Hyderabad,OI (100),55.98,OI
+2020,Engineering,IR-E-U-0013,Indian Institute of Technology Hyderabad,PERCEPTION (100),60.42,PR
+2020,Engineering,IR-E-U-0467,National Institute of Technology Tiruchirappalli,TLR (100),72.11,TLR
+2020,Engineering,IR-E-U-0467,National Institute of Technology Tiruchirappalli,RPC (100),50.04,RPC
+2020,Engineering,IR-E-U-0467,National Institute of Technology Tiruchirappalli,GO (100),74.71,GO
+2020,Engineering,IR-E-U-0467,National Institute of Technology Tiruchirappalli,OI (100),61.49,OI
+2020,Engineering,IR-E-U-0467,National Institute of Technology Tiruchirappalli,PERCEPTION (100),63.68,PR
+2020,Engineering,IR-E-U-0273,Indian Institute of Technology Indore,TLR (100),79.89,TLR
+2020,Engineering,IR-E-U-0273,Indian Institute of Technology Indore,RPC (100),53.31,RPC
+2020,Engineering,IR-E-U-0273,Indian Institute of Technology Indore,GO (100),72.09,GO
+2020,Engineering,IR-E-U-0273,Indian Institute of Technology Indore,OI (100),57.76,OI
+2020,Engineering,IR-E-U-0273,Indian Institute of Technology Indore,PERCEPTION (100),27.15,PR
+2020,Engineering,IR-E-U-0701,Indian Institute of Technology (BHU) Varanasi,TLR (100),72.34,TLR
+2020,Engineering,IR-E-U-0701,Indian Institute of Technology (BHU) Varanasi,RPC (100),47.77,RPC
+2020,Engineering,IR-E-U-0701,Indian Institute of Technology (BHU) Varanasi,GO (100),77.77,GO
+2020,Engineering,IR-E-U-0701,Indian Institute of Technology (BHU) Varanasi,OI (100),56.07,OI
+2020,Engineering,IR-E-U-0701,Indian Institute of Technology (BHU) Varanasi,PERCEPTION (100),53.49,PR
+2020,Engineering,IR-E-U-0205,Indian Institute of Technology (Indian School of Mines),TLR (100),64.02,TLR
+2020,Engineering,IR-E-U-0205,Indian Institute of Technology (Indian School of Mines),RPC (100),63.12,RPC
+2020,Engineering,IR-E-U-0205,Indian Institute of Technology (Indian School of Mines),GO (100),72.11,GO
+2020,Engineering,IR-E-U-0205,Indian Institute of Technology (Indian School of Mines),OI (100),55.07,OI
+2020,Engineering,IR-E-U-0205,Indian Institute of Technology (Indian School of Mines),PERCEPTION (100),39.78,PR
+2020,Engineering,IR-E-U-0237,National Institute of Technology Karnataka,TLR (100),68.93,TLR
+2020,Engineering,IR-E-U-0237,National Institute of Technology Karnataka,RPC (100),46.03,RPC
+2020,Engineering,IR-E-U-0237,National Institute of Technology Karnataka,GO (100),78.67,GO
+2020,Engineering,IR-E-U-0237,National Institute of Technology Karnataka,OI (100),55.24,OI
+2020,Engineering,IR-E-U-0237,National Institute of Technology Karnataka,PERCEPTION (100),55.59,PR
+2020,Engineering,IR-E-U-0439,Anna University,TLR (100),64.62,TLR
+2020,Engineering,IR-E-U-0439,Anna University,RPC (100),54.07,RPC
+2020,Engineering,IR-E-U-0439,Anna University,GO (100),61.5,GO
+2020,Engineering,IR-E-U-0439,Anna University,OI (100),51.62,OI
+2020,Engineering,IR-E-U-0439,Anna University,PERCEPTION (100),68.24,PR
+2020,Engineering,IR-E-U-0490,Vellore Institute of Technology,TLR (100),56.79,TLR
+2020,Engineering,IR-E-U-0490,Vellore Institute of Technology,RPC (100),64.06,RPC
+2020,Engineering,IR-E-U-0490,Vellore Institute of Technology,GO (100),63.07,GO
+2020,Engineering,IR-E-U-0490,Vellore Institute of Technology,OI (100),58.21,OI
+2020,Engineering,IR-E-U-0490,Vellore Institute of Technology,PERCEPTION (100),46.29,PR
+2020,Engineering,IR-E-U-0357,National Institute of Technology Rourkela,TLR (100),64.38,TLR
+2020,Engineering,IR-E-U-0357,National Institute of Technology Rourkela,RPC (100),57.82,RPC
+2020,Engineering,IR-E-U-0357,National Institute of Technology Rourkela,GO (100),74.3,GO
+2020,Engineering,IR-E-U-0357,National Institute of Technology Rourkela,OI (100),47.23,OI
+2020,Engineering,IR-E-U-0357,National Institute of Technology Rourkela,PERCEPTION (100),30.48,PR
+2020,Engineering,IR-E-U-0575,Jadavpur University,TLR (100),53.73,TLR
+2020,Engineering,IR-E-U-0575,Jadavpur University,RPC (100),62.04,RPC
+2020,Engineering,IR-E-U-0575,Jadavpur University,GO (100),76.45,GO
+2020,Engineering,IR-E-U-0575,Jadavpur University,OI (100),40.45,OI
+2020,Engineering,IR-E-U-0575,Jadavpur University,PERCEPTION (100),51.61,PR
+2020,Engineering,IR-E-U-0308,Institute of Chemical Technology,TLR (100),68.13,TLR
+2020,Engineering,IR-E-U-0308,Institute of Chemical Technology,RPC (100),54.04,RPC
+2020,Engineering,IR-E-U-0308,Institute of Chemical Technology,GO (100),74.66,GO
+2020,Engineering,IR-E-U-0308,Institute of Chemical Technology,OI (100),45.17,OI
+2020,Engineering,IR-E-U-0308,Institute of Chemical Technology,PERCEPTION (100),25.98,PR
+2020,Engineering,IR-E-U-0025,National Institute of Technology Warangal,TLR (100),73.38,TLR
+2020,Engineering,IR-E-U-0025,National Institute of Technology Warangal,RPC (100),38.12,RPC
+2020,Engineering,IR-E-U-0025,National Institute of Technology Warangal,GO (100),74.21,GO
+2020,Engineering,IR-E-U-0025,National Institute of Technology Warangal,OI (100),57.81,OI
+2020,Engineering,IR-E-U-0025,National Institute of Technology Warangal,PERCEPTION (100),36.91,PR
+2020,Engineering,IR-E-U-0436,Amrita School of Engineering,TLR (100),65.77,TLR
+2020,Engineering,IR-E-U-0436,Amrita School of Engineering,RPC (100),56.76,RPC
+2020,Engineering,IR-E-U-0436,Amrita School of Engineering,GO (100),59.0,GO
+2020,Engineering,IR-E-U-0436,Amrita School of Engineering,OI (100),60.07,OI
+2020,Engineering,IR-E-U-0436,Amrita School of Engineering,PERCEPTION (100),28.01,PR
+2020,Engineering,IR-E-U-0584,Indian Institute of Engineering Science and Technology,TLR (100),69.57,TLR
+2020,Engineering,IR-E-U-0584,Indian Institute of Engineering Science and Technology,RPC (100),47.62,RPC
+2020,Engineering,IR-E-U-0584,Indian Institute of Engineering Science and Technology,GO (100),63.17,GO
+2020,Engineering,IR-E-U-0584,Indian Institute of Engineering Science and Technology,OI (100),47.92,OI
+2020,Engineering,IR-E-U-0584,Indian Institute of Engineering Science and Technology,PERCEPTION (100),45.56,PR
+2020,Engineering,IR-E-U-0355,Indian Institute of Technology Bhubaneswar,TLR (100),77.05,TLR
+2020,Engineering,IR-E-U-0355,Indian Institute of Technology Bhubaneswar,RPC (100),37.17,RPC
+2020,Engineering,IR-E-U-0355,Indian Institute of Technology Bhubaneswar,GO (100),64.77,GO
+2020,Engineering,IR-E-U-0355,Indian Institute of Technology Bhubaneswar,OI (100),56.27,OI
+2020,Engineering,IR-E-U-0355,Indian Institute of Technology Bhubaneswar,PERCEPTION (100),39.56,PR
+2020,Engineering,IR-E-U-0263,National Institute of Technology Calicut,TLR (100),71.05,TLR
+2020,Engineering,IR-E-U-0263,National Institute of Technology Calicut,RPC (100),31.3,RPC
+2020,Engineering,IR-E-U-0263,National Institute of Technology Calicut,GO (100),78.29,GO
+2020,Engineering,IR-E-U-0263,National Institute of Technology Calicut,OI (100),63.87,OI
+2020,Engineering,IR-E-U-0263,National Institute of Technology Calicut,PERCEPTION (100),38.04,PR
+2020,Engineering,IR-E-U-0139,Indian Institute of Technology Gandhinagar,TLR (100),83.76,TLR
+2020,Engineering,IR-E-U-0139,Indian Institute of Technology Gandhinagar,RPC (100),34.55,RPC
+2020,Engineering,IR-E-U-0139,Indian Institute of Technology Gandhinagar,GO (100),55.15,GO
+2020,Engineering,IR-E-U-0139,Indian Institute of Technology Gandhinagar,OI (100),57.9,OI
+2020,Engineering,IR-E-U-0139,Indian Institute of Technology Gandhinagar,PERCEPTION (100),38.26,PR
+2020,Engineering,IR-E-U-0378,Indian Institute of Technology Ropar,TLR (100),79.11,TLR
+2020,Engineering,IR-E-U-0378,Indian Institute of Technology Ropar,RPC (100),30.54,RPC
+2020,Engineering,IR-E-U-0378,Indian Institute of Technology Ropar,GO (100),70.31,GO
+2020,Engineering,IR-E-U-0378,Indian Institute of Technology Ropar,OI (100),59.24,OI
+2020,Engineering,IR-E-U-0378,Indian Institute of Technology Ropar,PERCEPTION (100),30.75,PR
+2020,Engineering,IR-E-U-0064,Indian Institute of Technology Patna,TLR (100),78.2,TLR
+2020,Engineering,IR-E-U-0064,Indian Institute of Technology Patna,RPC (100),39.24,RPC
+2020,Engineering,IR-E-U-0064,Indian Institute of Technology Patna,GO (100),62.28,GO
+2020,Engineering,IR-E-U-0064,Indian Institute of Technology Patna,OI (100),51.86,OI
+2020,Engineering,IR-E-U-0064,Indian Institute of Technology Patna,PERCEPTION (100),28.57,PR
+2020,Engineering,IR-E-U-0334,Visvesvaraya National Institute of Technology,TLR (100),67.7,TLR
+2020,Engineering,IR-E-U-0334,Visvesvaraya National Institute of Technology,RPC (100),45.19,RPC
+2020,Engineering,IR-E-U-0334,Visvesvaraya National Institute of Technology,GO (100),69.73,GO
+2020,Engineering,IR-E-U-0334,Visvesvaraya National Institute of Technology,OI (100),53.77,OI
+2020,Engineering,IR-E-U-0334,Visvesvaraya National Institute of Technology,PERCEPTION (100),15.56,PR
+2020,Engineering,IR-E-U-0108,Jamia Millia Islamia,TLR (100),63.16,TLR
+2020,Engineering,IR-E-U-0108,Jamia Millia Islamia,RPC (100),48.11,RPC
+2020,Engineering,IR-E-U-0108,Jamia Millia Islamia,GO (100),71.43,GO
+2020,Engineering,IR-E-U-0108,Jamia Millia Islamia,OI (100),58.0,OI
+2020,Engineering,IR-E-U-0108,Jamia Millia Islamia,PERCEPTION (100),11.13,PR
+2020,Engineering,IR-E-I-1480,Thapar Institute of Engineering & Technology,TLR (100),65.95,TLR
+2020,Engineering,IR-E-I-1480,Thapar Institute of Engineering & Technology,RPC (100),47.65,RPC
+2020,Engineering,IR-E-I-1480,Thapar Institute of Engineering & Technology,GO (100),65.69,GO
+2020,Engineering,IR-E-I-1480,Thapar Institute of Engineering & Technology,OI (100),54.82,OI
+2020,Engineering,IR-E-I-1480,Thapar Institute of Engineering & Technology,PERCEPTION (100),17.42,PR
+2020,Engineering,IR-E-U-0391,Birla Institute of Technology & Science,TLR (100),61.95,TLR
+2020,Engineering,IR-E-U-0391,Birla Institute of Technology & Science,RPC (100),34.87,RPC
+2020,Engineering,IR-E-U-0391,Birla Institute of Technology & Science,GO (100),77.36,GO
+2020,Engineering,IR-E-U-0391,Birla Institute of Technology & Science,OI (100),56.26,OI
+2020,Engineering,IR-E-U-0391,Birla Institute of Technology & Science,PERCEPTION (100),42.47,PR
+2020,Engineering,IR-E-U-0184,Indian Institute of Technology Mandi,TLR (100),70.38,TLR
+2020,Engineering,IR-E-U-0184,Indian Institute of Technology Mandi,RPC (100),36.8,RPC
+2020,Engineering,IR-E-U-0184,Indian Institute of Technology Mandi,GO (100),67.11,GO
+2020,Engineering,IR-E-U-0184,Indian Institute of Technology Mandi,OI (100),64.7,OI
+2020,Engineering,IR-E-U-0184,Indian Institute of Technology Mandi,PERCEPTION (100),21.26,PR
+2020,Engineering,IR-E-U-0497,Amity University Noida,TLR (100),71.22,TLR
+2020,Engineering,IR-E-U-0497,Amity University Noida,RPC (100),50.11,RPC
+2020,Engineering,IR-E-U-0497,Amity University Noida,GO (100),51.01,GO
+2020,Engineering,IR-E-U-0497,Amity University Noida,OI (100),56.94,OI
+2020,Engineering,IR-E-U-0497,Amity University Noida,PERCEPTION (100),8.05,PR
+2020,Engineering,IR-E-U-0255,Indian Institute of Space Science and Technology,TLR (100),78.65,TLR
+2020,Engineering,IR-E-U-0255,Indian Institute of Space Science and Technology,RPC (100),24.02,RPC
+2020,Engineering,IR-E-U-0255,Indian Institute of Space Science and Technology,GO (100),62.88,GO
+2020,Engineering,IR-E-U-0255,Indian Institute of Space Science and Technology,OI (100),62.97,OI
+2020,Engineering,IR-E-U-0255,Indian Institute of Space Science and Technology,PERCEPTION (100),33.32,PR
+2020,Engineering,IR-E-U-0363,Siksha `O` Anusandhan,TLR (100),74.73,TLR
+2020,Engineering,IR-E-U-0363,Siksha `O` Anusandhan,RPC (100),29.41,RPC
+2020,Engineering,IR-E-U-0363,Siksha `O` Anusandhan,GO (100),68.18,GO
+2020,Engineering,IR-E-U-0363,Siksha `O` Anusandhan,OI (100),64.26,OI
+2020,Engineering,IR-E-U-0363,Siksha `O` Anusandhan,PERCEPTION (100),10.7,PR
+2020,Engineering,IR-E-U-0410,Malaviya National Institute of Technology,TLR (100),71.41,TLR
+2020,Engineering,IR-E-U-0410,Malaviya National Institute of Technology,RPC (100),41.69,RPC
+2020,Engineering,IR-E-U-0410,Malaviya National Institute of Technology,GO (100),59.89,GO
+2020,Engineering,IR-E-U-0410,Malaviya National Institute of Technology,OI (100),54.4,OI
+2020,Engineering,IR-E-U-0410,Malaviya National Institute of Technology,PERCEPTION (100),8.95,PR
+2020,Engineering,IR-E-U-0098,Delhi Technological University,TLR (100),63.36,TLR
+2020,Engineering,IR-E-U-0098,Delhi Technological University,RPC (100),31.12,RPC
+2020,Engineering,IR-E-U-0098,Delhi Technological University,GO (100),73.21,GO
+2020,Engineering,IR-E-U-0098,Delhi Technological University,OI (100),53.07,OI
+2020,Engineering,IR-E-U-0098,Delhi Technological University,PERCEPTION (100),36.91,PR
+2020,Engineering,IR-E-U-0476,Shanmugha Arts Science Technology & Research Academy,TLR (100),73.13,TLR
+2020,Engineering,IR-E-U-0476,Shanmugha Arts Science Technology & Research Academy,RPC (100),33.81,RPC
+2020,Engineering,IR-E-U-0476,Shanmugha Arts Science Technology & Research Academy,GO (100),64.89,GO
+2020,Engineering,IR-E-U-0476,Shanmugha Arts Science Technology & Research Academy,OI (100),56.6,OI
+2020,Engineering,IR-E-U-0476,Shanmugha Arts Science Technology & Research Academy,PERCEPTION (100),10.7,PR
+2020,Engineering,IR-E-U-0202,Birla Institute of Technology,TLR (100),70.07,TLR
+2020,Engineering,IR-E-U-0202,Birla Institute of Technology,RPC (100),34.81,RPC
+2020,Engineering,IR-E-U-0202,Birla Institute of Technology,GO (100),58.75,GO
+2020,Engineering,IR-E-U-0202,Birla Institute of Technology,OI (100),51.57,OI
+2020,Engineering,IR-E-U-0202,Birla Institute of Technology,PERCEPTION (100),30.48,PR
+2020,Engineering,IR-E-U-0496,Aligarh Muslim University,TLR (100),70.58,TLR
+2020,Engineering,IR-E-U-0496,Aligarh Muslim University,RPC (100),45.83,RPC
+2020,Engineering,IR-E-U-0496,Aligarh Muslim University,GO (100),56.57,GO
+2020,Engineering,IR-E-U-0496,Aligarh Muslim University,OI (100),40.89,OI
+2020,Engineering,IR-E-U-0496,Aligarh Muslim University,PERCEPTION (100),10.7,PR
+2020,Engineering,IR-E-U-0172,National Institute of Technology Kurukshetra,TLR (100),63.85,TLR
+2020,Engineering,IR-E-U-0172,National Institute of Technology Kurukshetra,RPC (100),41.64,RPC
+2020,Engineering,IR-E-U-0172,National Institute of Technology Kurukshetra,GO (100),61.65,GO
+2020,Engineering,IR-E-U-0172,National Institute of Technology Kurukshetra,OI (100),54.75,OI
+2020,Engineering,IR-E-U-0172,National Institute of Technology Kurukshetra,PERCEPTION (100),17.42,PR
+2020,Engineering,IR-E-U-0473,S. R. M. Institute of Science and Technology,TLR (100),61.27,TLR
+2020,Engineering,IR-E-U-0473,S. R. M. Institute of Science and Technology,RPC (100),41.96,RPC
+2020,Engineering,IR-E-U-0473,S. R. M. Institute of Science and Technology,GO (100),63.57,GO
+2020,Engineering,IR-E-U-0473,S. R. M. Institute of Science and Technology,OI (100),61.06,OI
+2020,Engineering,IR-E-U-0473,S. R. M. Institute of Science and Technology,PERCEPTION (100),11.55,PR
+2020,Engineering,IR-E-U-0356,Kalinga Institute of Industrial Technology,TLR (100),66.08,TLR
+2020,Engineering,IR-E-U-0356,Kalinga Institute of Industrial Technology,RPC (100),25.8,RPC
+2020,Engineering,IR-E-U-0356,Kalinga Institute of Industrial Technology,GO (100),65.8,GO
+2020,Engineering,IR-E-U-0356,Kalinga Institute of Industrial Technology,OI (100),75.7,OI
+2020,Engineering,IR-E-U-0356,Kalinga Institute of Industrial Technology,PERCEPTION (100),17.79,PR
+2020,Engineering,IR-E-U-0014,International Institute of Information Technology Hyderabad,TLR (100),53.01,TLR
+2020,Engineering,IR-E-U-0014,International Institute of Information Technology Hyderabad,RPC (100),36.66,RPC
+2020,Engineering,IR-E-U-0014,International Institute of Information Technology Hyderabad,GO (100),73.92,GO
+2020,Engineering,IR-E-U-0014,International Institute of Information Technology Hyderabad,OI (100),52.91,OI
+2020,Engineering,IR-E-U-0014,International Institute of Information Technology Hyderabad,PERCEPTION (100),24.77,PR
+2020,Engineering,IR-E-C-16604,Sri Sivasubramaniya Nadar College of Engineering,TLR (100),66.01,TLR
+2020,Engineering,IR-E-C-16604,Sri Sivasubramaniya Nadar College of Engineering,RPC (100),31.1,RPC
+2020,Engineering,IR-E-C-16604,Sri Sivasubramaniya Nadar College of Engineering,GO (100),63.81,GO
+2020,Engineering,IR-E-C-16604,Sri Sivasubramaniya Nadar College of Engineering,OI (100),53.47,OI
+2020,Engineering,IR-E-C-16604,Sri Sivasubramaniya Nadar College of Engineering,PERCEPTION (100),20.25,PR
+2020,Engineering,IR-E-C-7252,Manipal Institute of Technology,TLR (100),70.32,TLR
+2020,Engineering,IR-E-C-7252,Manipal Institute of Technology,RPC (100),24.86,RPC
+2020,Engineering,IR-E-C-7252,Manipal Institute of Technology,GO (100),54.6,GO
+2020,Engineering,IR-E-C-7252,Manipal Institute of Technology,OI (100),62.23,OI
+2020,Engineering,IR-E-C-7252,Manipal Institute of Technology,PERCEPTION (100),33.57,PR
+2020,Engineering,IR-E-U-0055,National Institute of Technology Silchar,TLR (100),61.63,TLR
+2020,Engineering,IR-E-U-0055,National Institute of Technology Silchar,RPC (100),35.41,RPC
+2020,Engineering,IR-E-U-0055,National Institute of Technology Silchar,GO (100),62.3,GO
+2020,Engineering,IR-E-U-0055,National Institute of Technology Silchar,OI (100),51.68,OI
+2020,Engineering,IR-E-U-0055,National Institute of Technology Silchar,PERCEPTION (100),19.21,PR
+2020,Engineering,IR-E-U-0577,National Institute of Technology Durgapur,TLR (100),54.76,TLR
+2020,Engineering,IR-E-U-0577,National Institute of Technology Durgapur,RPC (100),36.98,RPC
+2020,Engineering,IR-E-U-0577,National Institute of Technology Durgapur,GO (100),64.42,GO
+2020,Engineering,IR-E-U-0577,National Institute of Technology Durgapur,OI (100),50.22,OI
+2020,Engineering,IR-E-U-0577,National Institute of Technology Durgapur,PERCEPTION (100),29.68,PR
+2020,Engineering,IR-E-U-0530,Motilal Nehru National Institute of Technology,TLR (100),59.71,TLR
+2020,Engineering,IR-E-U-0530,Motilal Nehru National Institute of Technology,RPC (100),30.56,RPC
+2020,Engineering,IR-E-U-0530,Motilal Nehru National Institute of Technology,GO (100),69.0,GO
+2020,Engineering,IR-E-U-0530,Motilal Nehru National Institute of Technology,OI (100),50.72,OI
+2020,Engineering,IR-E-U-0530,Motilal Nehru National Institute of Technology,PERCEPTION (100),22.89,PR
+2020,Engineering,IR-E-C-37013,PSG College of Technology,TLR (100),69.35,TLR
+2020,Engineering,IR-E-C-37013,PSG College of Technology,RPC (100),19.73,RPC
+2020,Engineering,IR-E-C-37013,PSG College of Technology,GO (100),52.14,GO
+2020,Engineering,IR-E-C-37013,PSG College of Technology,OI (100),48.69,OI
+2020,Engineering,IR-E-C-37013,PSG College of Technology,PERCEPTION (100),51.77,PR
+2020,Engineering,IR-E-C-41593,College of Engineering Pune,TLR (100),61.94,TLR
+2020,Engineering,IR-E-C-41593,College of Engineering Pune,RPC (100),21.89,RPC
+2020,Engineering,IR-E-C-41593,College of Engineering Pune,GO (100),67.56,GO
+2020,Engineering,IR-E-C-41593,College of Engineering Pune,OI (100),51.85,OI
+2020,Engineering,IR-E-C-41593,College of Engineering Pune,PERCEPTION (100),29.4,PR
+2020,Engineering,IR-E-U-0474,Sathyabama Institute of Science and Technology,TLR (100),59.06,TLR
+2020,Engineering,IR-E-U-0474,Sathyabama Institute of Science and Technology,RPC (100),31.77,RPC
+2020,Engineering,IR-E-U-0474,Sathyabama Institute of Science and Technology,GO (100),64.14,GO
+2020,Engineering,IR-E-U-0474,Sathyabama Institute of Science and Technology,OI (100),64.2,OI
+2020,Engineering,IR-E-U-0474,Sathyabama Institute of Science and Technology,PERCEPTION (100),2.69,PR
+2020,Engineering,IR-E-U-0374,Dr. B. R. Ambedkar National Institute of Technology,TLR (100),66.18,TLR
+2020,Engineering,IR-E-U-0374,Dr. B. R. Ambedkar National Institute of Technology,RPC (100),25.99,RPC
+2020,Engineering,IR-E-U-0374,Dr. B. R. Ambedkar National Institute of Technology,GO (100),59.76,GO
+2020,Engineering,IR-E-U-0374,Dr. B. R. Ambedkar National Institute of Technology,OI (100),58.66,OI
+2020,Engineering,IR-E-U-0374,Dr. B. R. Ambedkar National Institute of Technology,PERCEPTION (100),9.84,PR
+2020,Engineering,IR-E-U-0395,Indian Institute of Technology Jodhpur,TLR (100),67.71,TLR
+2020,Engineering,IR-E-U-0395,Indian Institute of Technology Jodhpur,RPC (100),26.19,RPC
+2020,Engineering,IR-E-U-0395,Indian Institute of Technology Jodhpur,GO (100),56.17,GO
+2020,Engineering,IR-E-U-0395,Indian Institute of Technology Jodhpur,OI (100),59.29,OI
+2020,Engineering,IR-E-U-0395,Indian Institute of Technology Jodhpur,PERCEPTION (100),8.05,PR
+2020,Engineering,IR-E-U-0149,Sardar Vallabhbhai National Institute of Technology,TLR (100),57.49,TLR
+2020,Engineering,IR-E-U-0149,Sardar Vallabhbhai National Institute of Technology,RPC (100),31.2,RPC
+2020,Engineering,IR-E-U-0149,Sardar Vallabhbhai National Institute of Technology,GO (100),62.46,GO
+2020,Engineering,IR-E-U-0149,Sardar Vallabhbhai National Institute of Technology,OI (100),55.13,OI
+2020,Engineering,IR-E-U-0149,Sardar Vallabhbhai National Institute of Technology,PERCEPTION (100),9.84,PR
+2020,Engineering,IR-E-U-0249,Visvesvaraya Technological University,TLR (100),66.34,TLR
+2020,Engineering,IR-E-U-0249,Visvesvaraya Technological University,RPC (100),30.98,RPC
+2020,Engineering,IR-E-U-0249,Visvesvaraya Technological University,GO (100),53.14,GO
+2020,Engineering,IR-E-U-0249,Visvesvaraya Technological University,OI (100),49.19,OI
+2020,Engineering,IR-E-U-0249,Visvesvaraya Technological University,PERCEPTION (100),6.18,PR
+2020,Engineering,IR-E-U-0105,Indraprastha Institute of Information Technology Delhi,TLR (100),55.18,TLR
+2020,Engineering,IR-E-U-0105,Indraprastha Institute of Information Technology Delhi,RPC (100),29.8,RPC
+2020,Engineering,IR-E-U-0105,Indraprastha Institute of Information Technology Delhi,GO (100),67.58,GO
+2020,Engineering,IR-E-U-0105,Indraprastha Institute of Information Technology Delhi,OI (100),41.15,OI
+2020,Engineering,IR-E-U-0105,Indraprastha Institute of Information Technology Delhi,PERCEPTION (100),18.86,PR
+2020,Engineering,IR-E-U-0017,Jawaharlal Nehru Technological University,TLR (100),71.72,TLR
+2020,Engineering,IR-E-U-0017,Jawaharlal Nehru Technological University,RPC (100),29.24,RPC
+2020,Engineering,IR-E-U-0017,Jawaharlal Nehru Technological University,GO (100),40.88,GO
+2020,Engineering,IR-E-U-0017,Jawaharlal Nehru Technological University,OI (100),53.9,OI
+2020,Engineering,IR-E-U-0017,Jawaharlal Nehru Technological University,PERCEPTION (100),11.13,PR
+2020,Engineering,IR-E-U-0020,Koneru Lakshmaiah Education Foundation University,TLR (100),70.69,TLR
+2020,Engineering,IR-E-U-0020,Koneru Lakshmaiah Education Foundation University,RPC (100),28.57,RPC
+2020,Engineering,IR-E-U-0020,Koneru Lakshmaiah Education Foundation University,GO (100),44.25,GO
+2020,Engineering,IR-E-U-0020,Koneru Lakshmaiah Education Foundation University,OI (100),54.5,OI
+2020,Engineering,IR-E-U-0020,Koneru Lakshmaiah Education Foundation University,PERCEPTION (100),6.18,PR
+2020,Engineering,IR-E-C-1331,M. S. Ramaiah Institute of Technology,TLR (100),65.53,TLR
+2020,Engineering,IR-E-C-1331,M. S. Ramaiah Institute of Technology,RPC (100),13.98,RPC
+2020,Engineering,IR-E-C-1331,M. S. Ramaiah Institute of Technology,GO (100),62.74,GO
+2020,Engineering,IR-E-C-1331,M. S. Ramaiah Institute of Technology,OI (100),55.31,OI
+2020,Engineering,IR-E-C-1331,M. S. Ramaiah Institute of Technology,PERCEPTION (100),18.15,PR
+2020,Engineering,IR-E-U-0458,Kalasalingam Academy of Research and Higher Education,TLR (100),68.66,TLR
+2020,Engineering,IR-E-U-0458,Kalasalingam Academy of Research and Higher Education,RPC (100),18.42,RPC
+2020,Engineering,IR-E-U-0458,Kalasalingam Academy of Research and Higher Education,GO (100),54.26,GO
+2020,Engineering,IR-E-U-0458,Kalasalingam Academy of Research and Higher Education,OI (100),62.06,OI
+2020,Engineering,IR-E-U-0458,Kalasalingam Academy of Research and Higher Education,PERCEPTION (100),5.21,PR
+2020,Engineering,IR-E-U-0619,National Institute of Technology Meghalaya,TLR (100),66.27,TLR
+2020,Engineering,IR-E-U-0619,National Institute of Technology Meghalaya,RPC (100),20.64,RPC
+2020,Engineering,IR-E-U-0619,National Institute of Technology Meghalaya,GO (100),54.64,GO
+2020,Engineering,IR-E-U-0619,National Institute of Technology Meghalaya,OI (100),59.35,OI
+2020,Engineering,IR-E-U-0619,National Institute of Technology Meghalaya,PERCEPTION (100),7.59,PR
+2020,Engineering,IR-E-U-0221,International Institute of Information Technology Bangalore,TLR (100),59.63,TLR
+2020,Engineering,IR-E-U-0221,International Institute of Information Technology Bangalore,RPC (100),17.63,RPC
+2020,Engineering,IR-E-U-0221,International Institute of Information Technology Bangalore,GO (100),63.93,GO
+2020,Engineering,IR-E-U-0221,International Institute of Information Technology Bangalore,OI (100),57.99,OI
+2020,Engineering,IR-E-U-0221,International Institute of Information Technology Bangalore,PERCEPTION (100),17.79,PR
+2020,Engineering,IR-E-U-0297,Defence Institute of Advanced Technology,TLR (100),64.43,TLR
+2020,Engineering,IR-E-U-0297,Defence Institute of Advanced Technology,RPC (100),32.96,RPC
+2020,Engineering,IR-E-U-0297,Defence Institute of Advanced Technology,GO (100),44.38,GO
+2020,Engineering,IR-E-U-0297,Defence Institute of Advanced Technology,OI (100),47.56,OI
+2020,Engineering,IR-E-U-0297,Defence Institute of Advanced Technology,PERCEPTION (100),2.69,PR
+2020,Engineering,IR-E-C-26794,Thiagarajar College of Engineering,TLR (100),59.67,TLR
+2020,Engineering,IR-E-C-26794,Thiagarajar College of Engineering,RPC (100),18.32,RPC
+2020,Engineering,IR-E-C-26794,Thiagarajar College of Engineering,GO (100),59.11,GO
+2020,Engineering,IR-E-C-26794,Thiagarajar College of Engineering,OI (100),51.54,OI
+2020,Engineering,IR-E-C-26794,Thiagarajar College of Engineering,PERCEPTION (100),27.44,PR
+2020,Engineering,IR-E-U-0284,Maulana Azad National Institute of Technology,TLR (100),52.55,TLR
+2020,Engineering,IR-E-U-0284,Maulana Azad National Institute of Technology,RPC (100),28.36,RPC
+2020,Engineering,IR-E-U-0284,Maulana Azad National Institute of Technology,GO (100),64.27,GO
+2020,Engineering,IR-E-U-0284,Maulana Azad National Institute of Technology,OI (100),47.33,OI
+2020,Engineering,IR-E-U-0284,Maulana Azad National Institute of Technology,PERCEPTION (100),3.2,PR
+2020,Engineering,IR-E-U-0795,Indian Institute of Information Technology Guwahati,TLR (100),64.22,TLR
+2020,Engineering,IR-E-U-0795,Indian Institute of Information Technology Guwahati,RPC (100),6.8,RPC
+2020,Engineering,IR-E-U-0795,Indian Institute of Information Technology Guwahati,GO (100),58.52,GO
+2020,Engineering,IR-E-U-0795,Indian Institute of Information Technology Guwahati,OI (100),52.43,OI
+2020,Engineering,IR-E-U-0795,Indian Institute of Information Technology Guwahati,PERCEPTION (100),36.68,PR
+2020,Engineering,IR-E-U-0092,National Institute of Technology Raipur,TLR (100),58.88,TLR
+2020,Engineering,IR-E-U-0092,National Institute of Technology Raipur,RPC (100),24.26,RPC
+2020,Engineering,IR-E-U-0092,National Institute of Technology Raipur,GO (100),56.99,GO
+2020,Engineering,IR-E-U-0092,National Institute of Technology Raipur,OI (100),50.7,OI
+2020,Engineering,IR-E-U-0092,National Institute of Technology Raipur,PERCEPTION (100),1.63,PR
+2020,Engineering,IR-E-U-0080,Punjab Engineering College (Deemed To Be University),TLR (100),55.66,TLR
+2020,Engineering,IR-E-U-0080,Punjab Engineering College (Deemed To Be University),RPC (100),14.2,RPC
+2020,Engineering,IR-E-U-0080,Punjab Engineering College (Deemed To Be University),GO (100),64.1,GO
+2020,Engineering,IR-E-U-0080,Punjab Engineering College (Deemed To Be University),OI (100),56.64,OI
+2020,Engineering,IR-E-U-0080,Punjab Engineering College (Deemed To Be University),PERCEPTION (100),19.9,PR
+2020,Engineering,IR-E-C-24004,College of Engineering(A),TLR (100),65.32,TLR
+2020,Engineering,IR-E-C-24004,College of Engineering(A),RPC (100),10.04,RPC
+2020,Engineering,IR-E-C-24004,College of Engineering(A),GO (100),63.72,GO
+2020,Engineering,IR-E-C-24004,College of Engineering(A),OI (100),54.35,OI
+2020,Engineering,IR-E-C-24004,College of Engineering(A),PERCEPTION (100),5.69,PR
+2020,Engineering,IR-E-C-1269,R. V. College of Engineering,TLR (100),63.06,TLR
+2020,Engineering,IR-E-C-1269,R. V. College of Engineering,RPC (100),13.29,RPC
+2020,Engineering,IR-E-C-1269,R. V. College of Engineering,GO (100),59.79,GO
+2020,Engineering,IR-E-C-1269,R. V. College of Engineering,OI (100),48.3,OI
+2020,Engineering,IR-E-C-1269,R. V. College of Engineering,PERCEPTION (100),13.2,PR
+2020,Engineering,IR-E-C-33641,Veermata Jijabai Technological Institute,TLR (100),57.29,TLR
+2020,Engineering,IR-E-C-33641,Veermata Jijabai Technological Institute,RPC (100),11.04,RPC
+2020,Engineering,IR-E-C-33641,Veermata Jijabai Technological Institute,GO (100),68.16,GO
+2020,Engineering,IR-E-C-33641,Veermata Jijabai Technological Institute,OI (100),52.93,OI
+2020,Engineering,IR-E-C-33641,Veermata Jijabai Technological Institute,PERCEPTION (100),11.55,PR
+2020,Engineering,IR-E-U-0078,Panjab University,TLR (100),40.82,TLR
+2020,Engineering,IR-E-U-0078,Panjab University,RPC (100),43.55,RPC
+2020,Engineering,IR-E-U-0078,Panjab University,GO (100),51.63,GO
+2020,Engineering,IR-E-U-0078,Panjab University,OI (100),40.27,OI
+2020,Engineering,IR-E-U-0078,Panjab University,PERCEPTION (100),7.59,PR
+2020,Engineering,IR-E-C-1262,B.M.S. College of Engineering,TLR (100),62.07,TLR
+2020,Engineering,IR-E-C-1262,B.M.S. College of Engineering,RPC (100),11.92,RPC
+2020,Engineering,IR-E-C-1262,B.M.S. College of Engineering,GO (100),55.53,GO
+2020,Engineering,IR-E-C-1262,B.M.S. College of Engineering,OI (100),52.58,OI
+2020,Engineering,IR-E-C-1262,B.M.S. College of Engineering,PERCEPTION (100),17.79,PR
+2020,Engineering,IR-E-C-45375,Indian Institute of Food Processing Technology (IIFPT),TLR (100),70.18,TLR
+2020,Engineering,IR-E-C-45375,Indian Institute of Food Processing Technology (IIFPT),RPC (100),5.41,RPC
+2020,Engineering,IR-E-C-45375,Indian Institute of Food Processing Technology (IIFPT),GO (100),53.5,GO
+2020,Engineering,IR-E-C-45375,Indian Institute of Food Processing Technology (IIFPT),OI (100),58.94,OI
+2020,Engineering,IR-E-C-45375,Indian Institute of Food Processing Technology (IIFPT),PERCEPTION (100),9.84,PR
+2020,Engineering,IR-E-U-0493,National Institute of Technology Agartala,TLR (100),57.69,TLR
+2020,Engineering,IR-E-U-0493,National Institute of Technology Agartala,RPC (100),21.55,RPC
+2020,Engineering,IR-E-U-0493,National Institute of Technology Agartala,GO (100),48.22,GO
+2020,Engineering,IR-E-U-0493,National Institute of Technology Agartala,OI (100),55.37,OI
+2020,Engineering,IR-E-U-0493,National Institute of Technology Agartala,PERCEPTION (100),10.27,PR
+2020,Engineering,IR-E-C-6379,Netaji Subhas University of Technology (NSUT),TLR (100),49.6,TLR
+2020,Engineering,IR-E-C-6379,Netaji Subhas University of Technology (NSUT),RPC (100),22.68,RPC
+2020,Engineering,IR-E-C-6379,Netaji Subhas University of Technology (NSUT),GO (100),62.41,GO
+2020,Engineering,IR-E-C-6379,Netaji Subhas University of Technology (NSUT),OI (100),44.55,OI
+2020,Engineering,IR-E-C-6379,Netaji Subhas University of Technology (NSUT),PERCEPTION (100),13.6,PR
+2020,Engineering,IR-E-U-0620,National Institute of Technology Goa,TLR (100),57.39,TLR
+2020,Engineering,IR-E-U-0620,National Institute of Technology Goa,RPC (100),18.33,RPC
+2020,Engineering,IR-E-U-0620,National Institute of Technology Goa,GO (100),52.11,GO
+2020,Engineering,IR-E-U-0620,National Institute of Technology Goa,OI (100),56.77,OI
+2020,Engineering,IR-E-U-0620,National Institute of Technology Goa,PERCEPTION (100),11.13,PR
+2020,Engineering,IR-E-U-0201,Shri Mata Vaishno Devi University,TLR (100),69.41,TLR
+2020,Engineering,IR-E-U-0201,Shri Mata Vaishno Devi University,RPC (100),18.63,RPC
+2020,Engineering,IR-E-U-0201,Shri Mata Vaishno Devi University,GO (100),41.79,GO
+2020,Engineering,IR-E-U-0201,Shri Mata Vaishno Devi University,OI (100),48.0,OI
+2020,Engineering,IR-E-U-0201,Shri Mata Vaishno Devi University,PERCEPTION (100),1.1,PR
+2020,Engineering,IR-E-U-0207,National Institute of Technology Jamshedpur,TLR (100),56.64,TLR
+2020,Engineering,IR-E-U-0207,National Institute of Technology Jamshedpur,RPC (100),12.85,RPC
+2020,Engineering,IR-E-U-0207,National Institute of Technology Jamshedpur,GO (100),64.87,GO
+2020,Engineering,IR-E-U-0207,National Institute of Technology Jamshedpur,OI (100),45.15,OI
+2020,Engineering,IR-E-U-0207,National Institute of Technology Jamshedpur,PERCEPTION (100),11.13,PR
+2020,Engineering,IR-E-U-0460,Karunya Institute of Technology and Sciences,TLR (100),56.5,TLR
+2020,Engineering,IR-E-U-0460,Karunya Institute of Technology and Sciences,RPC (100),20.5,RPC
+2020,Engineering,IR-E-U-0460,Karunya Institute of Technology and Sciences,GO (100),50.75,GO
+2020,Engineering,IR-E-U-0460,Karunya Institute of Technology and Sciences,OI (100),54.83,OI
+2020,Engineering,IR-E-U-0460,Karunya Institute of Technology and Sciences,PERCEPTION (100),6.65,PR
+2020,Engineering,IR-E-U-0286,Indian Institute of Information Technology Design & Manufacturing Jabalpur,TLR (100),45.42,TLR
+2020,Engineering,IR-E-U-0286,Indian Institute of Information Technology Design & Manufacturing Jabalpur,RPC (100),30.89,RPC
+2020,Engineering,IR-E-U-0286,Indian Institute of Information Technology Design & Manufacturing Jabalpur,GO (100),59.4,GO
+2020,Engineering,IR-E-U-0286,Indian Institute of Information Technology Design & Manufacturing Jabalpur,OI (100),43.47,OI
+2020,Engineering,IR-E-U-0286,Indian Institute of Information Technology Design & Manufacturing Jabalpur,PERCEPTION (100),1.63,PR
+2020,Engineering,IR-E-C-36926,Kumaraguru College of Technology,TLR (100),63.11,TLR
+2020,Engineering,IR-E-C-36926,Kumaraguru College of Technology,RPC (100),11.35,RPC
+2020,Engineering,IR-E-C-36926,Kumaraguru College of Technology,GO (100),54.41,GO
+2020,Engineering,IR-E-C-36926,Kumaraguru College of Technology,OI (100),45.37,OI
+2020,Engineering,IR-E-C-36926,Kumaraguru College of Technology,PERCEPTION (100),14.79,PR
+2020,Engineering,IR-E-C-36995,Sri Krishna College of Engineering and Technology,TLR (100),62.69,TLR
+2020,Engineering,IR-E-C-36995,Sri Krishna College of Engineering and Technology,RPC (100),4.26,RPC
+2020,Engineering,IR-E-C-36995,Sri Krishna College of Engineering and Technology,GO (100),63.05,GO
+2020,Engineering,IR-E-C-36995,Sri Krishna College of Engineering and Technology,OI (100),48.54,OI
+2020,Engineering,IR-E-C-36995,Sri Krishna College of Engineering and Technology,PERCEPTION (100),12.79,PR
+2020,Engineering,IR-E-U-0747,Chandigarh University,TLR (100),64.38,TLR
+2020,Engineering,IR-E-U-0747,Chandigarh University,RPC (100),4.74,RPC
+2020,Engineering,IR-E-U-0747,Chandigarh University,GO (100),51.98,GO
+2020,Engineering,IR-E-U-0747,Chandigarh University,OI (100),74.73,OI
+2020,Engineering,IR-E-U-0747,Chandigarh University,PERCEPTION (100),2.16,PR
+2020,Engineering,IR-E-C-43708,College of Engineering Trivandrum,TLR (100),59.37,TLR
+2020,Engineering,IR-E-C-43708,College of Engineering Trivandrum,RPC (100),10.39,RPC
+2020,Engineering,IR-E-C-43708,College of Engineering Trivandrum,GO (100),55.58,GO
+2020,Engineering,IR-E-C-43708,College of Engineering Trivandrum,OI (100),49.98,OI
+2020,Engineering,IR-E-C-43708,College of Engineering Trivandrum,PERCEPTION (100),16.31,PR
+2020,Engineering,IR-E-U-0099,Guru Gobind Singh Indraprastha University,TLR (100),46.4,TLR
+2020,Engineering,IR-E-U-0099,Guru Gobind Singh Indraprastha University,RPC (100),32.31,RPC
+2020,Engineering,IR-E-U-0099,Guru Gobind Singh Indraprastha University,GO (100),49.33,GO
+2020,Engineering,IR-E-U-0099,Guru Gobind Singh Indraprastha University,OI (100),47.61,OI
+2020,Engineering,IR-E-U-0099,Guru Gobind Singh Indraprastha University,PERCEPTION (100),3.71,PR
+2020,Engineering,IR-E-U-0379,Lovely Professional University,TLR (100),58.12,TLR
+2020,Engineering,IR-E-U-0379,Lovely Professional University,RPC (100),15.2,RPC
+2020,Engineering,IR-E-U-0379,Lovely Professional University,GO (100),48.55,GO
+2020,Engineering,IR-E-U-0379,Lovely Professional University,OI (100),65.11,OI
+2020,Engineering,IR-E-U-0379,Lovely Professional University,PERCEPTION (100),2.16,PR
+2020,Engineering,IR-E-C-27616,University College of Engineering,TLR (100),60.88,TLR
+2020,Engineering,IR-E-C-27616,University College of Engineering,RPC (100),4.28,RPC
+2020,Engineering,IR-E-C-27616,University College of Engineering,GO (100),65.2,GO
+2020,Engineering,IR-E-C-27616,University College of Engineering,OI (100),53.66,OI
+2020,Engineering,IR-E-C-27616,University College of Engineering,PERCEPTION (100),4.72,PR
+2020,Engineering,IR-E-U-0555,Graphic Era University,TLR (100),58.7,TLR
+2020,Engineering,IR-E-U-0555,Graphic Era University,RPC (100),12.89,RPC
+2020,Engineering,IR-E-U-0555,Graphic Era University,GO (100),48.0,GO
+2020,Engineering,IR-E-U-0555,Graphic Era University,OI (100),58.38,OI
+2020,Engineering,IR-E-U-0555,Graphic Era University,PERCEPTION (100),14.0,PR
+2020,Engineering,IR-E-C-36969,Coimbatore Institute of Technology,TLR (100),64.87,TLR
+2020,Engineering,IR-E-C-36969,Coimbatore Institute of Technology,RPC (100),6.88,RPC
+2020,Engineering,IR-E-C-36969,Coimbatore Institute of Technology,GO (100),45.81,GO
+2020,Engineering,IR-E-C-36969,Coimbatore Institute of Technology,OI (100),48.63,OI
+2020,Engineering,IR-E-C-36969,Coimbatore Institute of Technology,PERCEPTION (100),26.86,PR
+2020,Engineering,IR-E-C-1297,Siddaganga Institute of Technology,TLR (100),60.33,TLR
+2020,Engineering,IR-E-C-1297,Siddaganga Institute of Technology,RPC (100),13.44,RPC
+2020,Engineering,IR-E-C-1297,Siddaganga Institute of Technology,GO (100),54.58,GO
+2020,Engineering,IR-E-C-1297,Siddaganga Institute of Technology,OI (100),50.17,OI
+2020,Engineering,IR-E-C-1297,Siddaganga Institute of Technology,PERCEPTION (100),1.63,PR
+2020,Engineering,IR-E-U-0072,National Institute of Technology Patna,TLR (100),52.49,TLR
+2020,Engineering,IR-E-U-0072,National Institute of Technology Patna,RPC (100),16.6,RPC
+2020,Engineering,IR-E-U-0072,National Institute of Technology Patna,GO (100),59.09,GO
+2020,Engineering,IR-E-U-0072,National Institute of Technology Patna,OI (100),43.42,OI
+2020,Engineering,IR-E-U-0072,National Institute of Technology Patna,PERCEPTION (100),13.2,PR
+2020,Engineering,IR-E-C-30045,C.V. Raman Global University,TLR (100),59.49,TLR
+2020,Engineering,IR-E-C-30045,C.V. Raman Global University,RPC (100),5.07,RPC
+2020,Engineering,IR-E-C-30045,C.V. Raman Global University,GO (100),58.7,GO
+2020,Engineering,IR-E-C-30045,C.V. Raman Global University,OI (100),57.65,OI
+2020,Engineering,IR-E-C-30045,C.V. Raman Global University,PERCEPTION (100),10.7,PR
+2020,Engineering,IR-E-U-0733,PES University,TLR (100),57.56,TLR
+2020,Engineering,IR-E-U-0733,PES University,RPC (100),12.2,RPC
+2020,Engineering,IR-E-U-0733,PES University,GO (100),55.31,GO
+2020,Engineering,IR-E-U-0733,PES University,OI (100),49.22,OI
+2020,Engineering,IR-E-U-0733,PES University,PERCEPTION (100),10.27,PR
+2020,Engineering,IR-E-U-0489,Vel Tech Rangarajan Dr. Sagunthala R & D Institute of Science and Technology,TLR (100),57.7,TLR
+2020,Engineering,IR-E-U-0489,Vel Tech Rangarajan Dr. Sagunthala R & D Institute of Science and Technology,RPC (100),24.09,RPC
+2020,Engineering,IR-E-U-0489,Vel Tech Rangarajan Dr. Sagunthala R & D Institute of Science and Technology,GO (100),36.36,GO
+2020,Engineering,IR-E-U-0489,Vel Tech Rangarajan Dr. Sagunthala R & D Institute of Science and Technology,OI (100),59.88,OI
+2020,Engineering,IR-E-U-0489,Vel Tech Rangarajan Dr. Sagunthala R & D Institute of Science and Technology,PERCEPTION (100),0.55,PR
+2020,Engineering,IR-E-U-0522,Jaypee Institute of Information Technology,TLR (100),50.85,TLR
+2020,Engineering,IR-E-U-0522,Jaypee Institute of Information Technology,RPC (100),19.39,RPC
+2020,Engineering,IR-E-U-0522,Jaypee Institute of Information Technology,GO (100),53.38,GO
+2020,Engineering,IR-E-U-0522,Jaypee Institute of Information Technology,OI (100),50.64,OI
+2020,Engineering,IR-E-U-0522,Jaypee Institute of Information Technology,PERCEPTION (100),9.84,PR
+2020,Engineering,IR-E-C-18154,University College of Engineering,TLR (100),58.25,TLR
+2020,Engineering,IR-E-C-18154,University College of Engineering,RPC (100),10.41,RPC
+2020,Engineering,IR-E-C-18154,University College of Engineering,GO (100),59.54,GO
+2020,Engineering,IR-E-C-18154,University College of Engineering,OI (100),50.97,OI
+2020,Engineering,IR-E-C-18154,University College of Engineering,PERCEPTION (100),1.63,PR
+2020,Engineering,IR-E-U-0189,National Institute of Technology Hamirpur,TLR (100),45.32,TLR
+2020,Engineering,IR-E-U-0189,National Institute of Technology Hamirpur,RPC (100),22.62,RPC
+2020,Engineering,IR-E-U-0189,National Institute of Technology Hamirpur,GO (100),60.94,GO
+2020,Engineering,IR-E-U-0189,National Institute of Technology Hamirpur,OI (100),45.84,OI
+2020,Engineering,IR-E-U-0189,National Institute of Technology Hamirpur,PERCEPTION (100),5.69,PR
+2020,Engineering,IR-E-C-35417,Bharati Vidyapeeth Deemed University College of Engineering,TLR (100),54.62,TLR
+2020,Engineering,IR-E-C-35417,Bharati Vidyapeeth Deemed University College of Engineering,RPC (100),3.35,RPC
+2020,Engineering,IR-E-C-35417,Bharati Vidyapeeth Deemed University College of Engineering,GO (100),65.4,GO
+2020,Engineering,IR-E-C-35417,Bharati Vidyapeeth Deemed University College of Engineering,OI (100),66.06,OI
+2020,Engineering,IR-E-C-35417,Bharati Vidyapeeth Deemed University College of Engineering,PERCEPTION (100),6.18,PR
+2020,Engineering,IR-E-U-0267,Atal Bihari Vajpayee Indian Institute of Information Technology and Management,TLR (100),45.99,TLR
+2020,Engineering,IR-E-U-0267,Atal Bihari Vajpayee Indian Institute of Information Technology and Management,RPC (100),17.51,RPC
+2020,Engineering,IR-E-U-0267,Atal Bihari Vajpayee Indian Institute of Information Technology and Management,GO (100),62.35,GO
+2020,Engineering,IR-E-U-0267,Atal Bihari Vajpayee Indian Institute of Information Technology and Management,OI (100),53.2,OI
+2020,Engineering,IR-E-U-0267,Atal Bihari Vajpayee Indian Institute of Information Technology and Management,PERCEPTION (100),7.59,PR

@@ -1,0 +1,240 @@
+/* ==========================================================================
+   NIRF Analytics Dashboard — Official Indian Government Portal Theme
+   Global Design Tokens, Typography & Base Components
+   ========================================================================== */
+
+:root {
+  /* Official Government Colour Palette */
+  --gov-navy-primary: #123b65;      /* Primary navy blue */
+  --gov-navy-deep: #0b2d50;         /* Deep government blue (sidebar, contrast) */
+  --gov-blue-secondary: #245b8f;    /* Secondary blue (active states, accents) */
+  --gov-bg-page: #f4f6f9;           /* Page canvas background */
+  --gov-bg-card: #ffffff;           /* Content panel background */
+  --gov-border: #d5dce5;            /* Structural border */
+  --gov-border-subtle: #e2e8f0;     /* Light divider */
+  --gov-text-main: #202b38;         /* Main text */
+  --gov-text-secondary: #64748b;    /* Secondary / muted text */
+  --gov-text-light: #8fa8c4;        /* Light muted text on dark navy */
+  --gov-blue-subtle: #eaf1f8;       /* Light blue tint badge/pill */
+  --gov-success: #27804a;           /* Success indicator */
+  --gov-warning: #b7791f;           /* Warning indicator */
+  --gov-danger: #c53030;            /* Danger indicator */
+
+  /* Aliased Design Tokens for Existing Modules */
+  --bg-canvas: var(--gov-bg-page);
+  --bg-surface: var(--gov-bg-card);
+  --bg-surface-hover: #f8fafc;
+  --bg-active-pill: var(--gov-blue-subtle);
+  --bg-active-border: var(--gov-border);
+
+  --border-subtle: var(--gov-border);
+  --border-card: var(--gov-border);
+  --border-hover: #b8c4d1;
+
+  --text-navy: var(--gov-navy-primary);
+  --text-slate: var(--gov-text-main);
+  --text-muted: var(--gov-text-secondary);
+  --text-light: var(--gov-text-light);
+
+  --brand-primary: var(--gov-navy-primary);
+  --brand-primary-hover: var(--gov-navy-deep);
+  --brand-primary-light: var(--gov-blue-subtle);
+  --brand-primary-text: var(--gov-navy-primary);
+
+  --accent-emerald: var(--gov-success);
+  --accent-emerald-light: #e6f4ea;
+  --accent-amber: var(--gov-warning);
+  --accent-amber-light: #fef3c7;
+  --accent-purple: var(--gov-blue-secondary);
+  --accent-purple-light: var(--gov-blue-subtle);
+  --accent-rose: var(--gov-danger);
+  --accent-rose-light: #fee2e2;
+
+  /* Restrained Government Shadows */
+  --shadow-sm: 0 1px 2px rgba(11, 45, 80, 0.04);
+  --shadow-md: 0 2px 4px rgba(11, 45, 80, 0.06);
+  --shadow-lg: 0 4px 12px rgba(11, 45, 80, 0.08);
+  --shadow-dropdown: 0 8px 20px rgba(11, 45, 80, 0.12);
+
+  /* Layout Dimensions */
+  --sidebar-width: 250px;
+  --sidebar-collapsed-width: 72px;
+  --header-height: 72px;
+
+  /* Typography & Corner Radii (Modest 4-8px) */
+  --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  --font-hindi: 'Noto Sans Devanagari', 'Inter', -apple-system, sans-serif;
+  --radius-sm: 4px;
+  --radius-md: 6px;
+  --radius-lg: 8px;
+  --radius-xl: 10px;
+}
+
+/* Reset & Box Sizing */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+  font-family: var(--font-sans);
+  background-color: var(--gov-bg-page);
+  color: var(--gov-text-main);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  line-height: 1.5;
+}
+
+#root {
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}
+
+/* Typography Hierarchy */
+h1, h2, h3, h4, h5, h6 {
+  color: var(--gov-navy-primary);
+  font-weight: 700;
+  letter-spacing: -0.01em;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+button {
+  font-family: inherit;
+  cursor: pointer;
+  border: none;
+  background: transparent;
+  outline: none;
+}
+
+input, select, textarea {
+  font-family: inherit;
+}
+
+/* Government Section Card Styles */
+.nirf-card {
+  background: var(--gov-bg-card);
+  border: 1px solid var(--gov-border);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-sm);
+  transition: border-color 0.15s ease, box-shadow 0.15s ease;
+}
+
+.nirf-card:hover {
+  border-color: #b8c4d1;
+  box-shadow: var(--shadow-md);
+}
+
+.nirf-card-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 14px 20px;
+  border-bottom: 1px solid var(--gov-border);
+  background-color: #ffffff;
+  border-top-left-radius: var(--radius-md);
+  border-top-right-radius: var(--radius-md);
+}
+
+.nirf-card-title {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 0.96rem;
+  font-weight: 700;
+  color: var(--gov-navy-primary);
+}
+
+.nirf-card-subtitle {
+  font-size: 0.78rem;
+  color: var(--gov-text-secondary);
+  font-weight: 400;
+}
+
+/* Government Category Badge / Section Pill */
+.gov-section-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 3px 10px;
+  border-radius: 4px;
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  background-color: var(--gov-blue-subtle);
+  color: var(--gov-navy-primary);
+  border: 1px solid #d0dfef;
+  margin-bottom: 8px;
+  width: fit-content;
+}
+
+/* Breadcrumbs Bar */
+.gov-breadcrumbs {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.80rem;
+  color: var(--gov-text-secondary);
+  margin-bottom: 12px;
+}
+
+.gov-breadcrumbs a, .gov-breadcrumbs span {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.gov-breadcrumbs a:hover {
+  color: var(--gov-navy-primary);
+  text-decoration: underline;
+}
+
+.gov-breadcrumbs-separator {
+  color: #94a3b8;
+  font-size: 0.82rem;
+}
+
+.gov-breadcrumbs-current {
+  color: var(--gov-text-main);
+  font-weight: 600;
+}
+
+/* Status Indicator Dot */
+.status-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background-color: var(--gov-success);
+  display: inline-block;
+  box-shadow: 0 0 0 2px rgba(39, 128, 74, 0.25);
+}

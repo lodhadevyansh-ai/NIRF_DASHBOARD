@@ -1,0 +1,65 @@
+{
+  "validation_metadata": {
+    "validation_timestamp_utc": "2026-11-02T17:23:48.741820+00:00",
+    "master_dataset_file": "data/Processed/NIRF_Master_Dataset_candidate.csv",
+    "raw_dataset_directory": "data/Raw",
+    "output_directory": "data/Processed/validation",
+    "overall_validation_status": "PASS",
+    "status_reasons": [
+      "All 102 source category-year datasets reconciled 100% with master dataset",
+      "Zero records dropped, zero records fabricated, zero primary key duplicates",
+      "All 32,595 raw parameter scores faithfully mapped with 0 mismatches",
+      "All null values verified as officially expected from source NIRF publications"
+    ]
+  },
+  "dataset_overview": {
+    "total_master_records": 6572,
+    "total_source_ranking_records": 6572,
+    "total_unique_institutions": 1223,
+    "total_unique_institution_ids": 2055,
+    "total_categories": 17,
+    "total_available_years": 9,
+    "total_category_year_combinations": 102,
+    "total_columns": 23
+  },
+  "record_count_validation": {
+    "categories_passing": 17,
+    "categories_total": 17,
+    "years_passing": 9,
+    "years_total": 9,
+    "category_years_passing": 102,
+    "category_years_total": 102,
+    "missing_records_in_master": 0,
+    "extra_records_in_master": 0
+  },
+  "duplicate_validation": {
+    "exact_duplicate_rows": 0,
+    "duplicate_primary_keys": 0,
+    "duplicate_name_distinct_id_candidates": 146,
+    "multi_year_institutions": 944,
+    "multi_category_institutions": 617
+  },
+  "missing_value_validation": {
+    "total_cells": 151156,
+    "unexpected_missing_fields": 0,
+    "expected_missing_overall_scores": 53,
+    "expected_missing_standard_parameters": 303,
+    "specialized_research_parameters_populated": 250
+  },
+  "parameter_validation": {
+    "total_source_parameter_records": 32595,
+    "total_matched_parameter_records": 32595,
+    "total_unmatched_parameter_records": 0,
+    "total_value_mismatches": 0
+  },
+  "source_comparison": {
+    "total_source_ranking_records_compared": 6572,
+    "total_matched_records": 6572,
+    "records_missing_from_master": 0,
+    "extra_master_records": 0,
+    "rank_bounds_valid": true,
+    "score_bounds_valid": true,
+    "years_bounds_valid": true,
+    "category_names_valid": true
+  }
+}

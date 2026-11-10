@@ -1,0 +1,101 @@
+year,category,institute_id,institute_name,city,state,official_rank,numeric_rank,overall_score,source_url
+2018,Universities,IR-1-O-O-U-0220,Indian Institute of Science,Bengaluru,Karnataka,1,1,82.16,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-1-O-O-U-0109,Jawaharlal Nehru University,New Delhi,Delhi,2,2,67.57,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-3-O-OMD-U-0500,Banaras Hindu University,Varanasi,Uttar Pradesh,3,3,63.52,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-4-O-OEMA-U-0439,Anna University,Chennai,Tamil Nadu,4,4,62.82,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-1-O-O-U-0042,University of Hyderabad,Hyderabad,Telangana,5,5,60.54,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-2-O-OE-U-0575,Jadavpur University,Kolkata,West Bengal,6,6,59.68,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-1-O-O-U-0120,University of Delhi,Delhi,Delhi,7,7,58.69,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-1-O-O-U-0436,Amrita Vishwa Vidyapeetham,Coimbatore,Tamil Nadu,8,8,58.46,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-1-O-O-U-0323,Savitribai Phule Pune University,Pune,Maharashtra,9,9,58.24,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-7-O-OEMALDC-U-0496,Aligarh Muslim University,Aligarh,Uttar Pradesh,10,10,57.78,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-1-O-O-U-0234,Manipal Academy of Higher Education,Manipal,Karnataka,11,11,57.37,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-5-O-OEMAL-U-0108,Jamia Millia Islamia,New Delhi,Delhi,12,12,56.18,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-1-O-C-U-0447,Bharathiar University,Coimbatore,Tamil Nadu,13,13,55.08,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-1-O-O-U-0570,Calcutta University,Kolkata,West Bengal,14,14,53.38,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-1-O-D-U-0523,King George`s Medical University,Lucknow,Uttar Pradesh,15,15,52.73,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-3-O-OEM-U-0490,Vellore Institute of Technology,Vellore,Tamil Nadu,16,16,52.68,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-3-O-OEP-U-0391,Birla Institute of Technology & Science,Pilani,Rajasthan,17,17,52.15,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-1-O-O-I-1357,University of Madras,Chennai,Tamil Nadu,18,18,51.52,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-3-O-OEP-U-0308,Institute of Chemical Technology,Mumbai,Maharashtra,19,19,51.39,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-6-O-OEMLDP-U-0078,Panjab University,Chandigarh,Chandigarh,20,20,50.94,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-1-O-O-U-0446,Bharath Institute of Higher Education & Research,Chennai,Tamil Nadu,21,21,50.74,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-6-O-OEMALP-U-0006,Andhra University,Visakhapatnam,Andhra Pradesh,22,22,50.39,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-5-O-OEMDP-U-0107,Jamia Hamdard,New Delhi,Delhi,23,23,50.31,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-2-O-OD-U-0363,Siksha `O` Anusandhan,Bhubaneswar,Odisha,24,24,49.59,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-1-O-O-U-0485,Tamil Nadu Agricultural University,Coimbatore,Tamil Nadu,25,25,49.22,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-1-O-O-U-0304,Homi Bhabha National Institute,Mumbai,Maharashtra,26,26,48.98,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-1-O-C-U-0435,Alagappa University,Karaikudi,Tamil Nadu,27,27,48.25,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-1-O-O-U-0027,Osmania University,Hyderabad,Telangana,28,28,48.02,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-1-O-O-U-0056,Tezpur University,Tezpur,Assam,29,29,48.0,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-1-O-O-U-0260,Kerala University,Thiruvananthapuram,Kerala,30,30,47.72,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-1-O-O-U-0589,Visva Bharati,Kolkata,West Bengal,31,31,47.62,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-1-O-O-U-0331,Tata Institute of Social Sciences,Mumbai,Maharashtra,32,32,47.46,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-2-O-EM-I-1480,Thapar Institute of Engineering and Technology,Patiala,Punjab,33,33,47.11,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-1-O-O-U-0554,G. B. Pant Universtiy of Agriculture and Technology,Pantnagar,Uttarakhand,34,34,46.56,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-1-O-O-U-0262,Mahatma Gandhi University,Kottayam,Kerala,34,34,46.56,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-4-O-OEML-U-0476,Shanmugha Arts Science Technology & Research Academy,Thanjavur,Tamil Nadu,36,36,46.33,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-2-O-OP-U-0222,JSS Academy of Higher Education and Research,Mysore,Karnataka,37,37,45.76,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-1-O-O-U-0381,Punjab Agricultural University,Ludhiana,Punjab,38,38,45.56,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-1-O-O-U-0052,Gauhati University,Guwahati,Assam,39,39,45.44,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-3-O-ODP-I-1486,Sri Ramachandra Medical College and Research Institute,Chennai,Tamil Nadu,40,40,45.29,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-5-O-OEMDP-U-0473,SRM Institute of Science and Technology,Chennai,Tamil Nadu,41,41,45.17,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-5-O-OEMLD-U-0356,Kalinga Institute of Industrial Technology,Bhubaneswar,Odisha,42,42,44.81,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-5-O-OEMAP-U-0202,Birla Institute of Technology,Ranchi,Jharkhand,43,43,44.71,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-1-O-O-U-0329,Symbiosis International,Pune,Maharashtra,44,44,44.62,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-4-O-OEMA-U-0474,Sathyabama Institute of Science and Technology,Chennai,Tamil Nadu,45,45,44.34,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-2-O-OD-I-1441,Saveetha Institute of Medical and Technical Sciences,Chennai,Tamil Nadu,46,46,44.0,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-1-O-O-U-0196,University of Kashmir,Srinagar,Jammu and Kashmir,47,47,43.96,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-1-O-O-U-0642,Shiv Nadar University,Chithera,Uttar Pradesh,48,48,43.68,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-2-O-OE-U-0037,Sri Venkateswara University,Tirupati,Andhra Pradesh,49,49,43.44,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-1-O-O-U-0159,Chaudhary Charan Singh Haryana Agricultural University,Hisar,Haryana,50,50,43.21,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-3-O-OML-U-0195,University of Jammu,Jammu Tawi,Jammu and Kashmir,51,51,43.19,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-2-O-OD-I-1110,Dr. D. Y. Patil Vidyapeeth,Pune,Maharashtra,52,52,43.15,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-6-O-OEMALP-U-0497,Amity University,Gautam Budh Nagar,Uttar Pradesh,53,53,42.99,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-1-O-O-U-0463,Madurai Kamraj University,Madurai,Tamil Nadu,54,54,42.98,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-6-O-OEMAPC-N-10,SVKM`s Narsee Monjee Institute of Management Studies,Mumbai,Maharashtra,55,55,42.8,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-2-O-EM-U-0020,Koneru Lakshmaiah Education Foundation University,Vaddeswaram,Andhra Pradesh,56,56,42.78,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-1-O-O-U-0225,KLE Academy of Higher Education and Research,Belagavi,Karnataka,57,57,42.76,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-1-O-O-U-0246,University of Agricultural Sciences,Dharwad,Karnataka,58,58,42.55,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-3-O-OEM-U-0369,Pondicherry University,Puducherry,Pondicherry,59,59,42.36,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-1-O-O-U-0376,Guru Nanak Dev University,Amritsar,Punjab,59,59,42.36,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-1-O-O-U-0341,North Eastern Hill University,Shillong,Meghalaya,61,61,42.34,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-1-O-D-U-0036,Sri Venkateswara Institute of Medical Sciences,Tirupati,Andhra Pradesh,62,62,42.33,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-2-O-OE-U-0507,Dayalbagh Educational Institute,Agra,Uttar Pradesh,63,63,41.95,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-4-O-OEMP-U-0389,Banasthali Vidyapith,Banasthali,Rajasthan,64,64,41.88,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-1-O-O-U-0487,Tamil Nadu Veterinary & Animal Sciences University,Chennai,Tamil Nadu,65,65,41.73,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-1-O-O-I-1361,Bharati Vidyapeeth,Pune,Maharashtra,66,66,41.71,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-1-O-O-U-0448,Bharathidasan University,Tiruchirappalli,Tamil Nadu,67,67,41.63,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-1-O-O-U-0121,Goa University,Goa,Goa,68,68,40.66,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-1-O-O-U-0253,Cochin University of Science and Technology,Cochin,Kerala,69,69,40.53,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-2-O-OE-U-0098,Delhi Technological University,New Delhi,Delhi,70,70,40.52,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-1-O-O-U-0181,Dr. Y. S. Parmar University of Horticulture and Forestry,Solan,Himachal Pradesh,71,71,40.3,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-1-O-D-U-0370,Sri Balaji Vidyapeeth Mahatma Gandhi Medical College Campus,Puducherry,Pondicherry,72,72,40.25,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-1-O-O-U-0251,Calicut University,Malappuram,Kerala,73,73,40.06,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-5-O-OEMAL-U-0099,Guru Gobind Singh Indraprastha University,New Delhi,Delhi,74,74,40.05,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-1-O-O-U-0568,Bidhan Chandra Krishi Vishwavidyalaya,Nadia,West Bengal,75,75,39.98,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-1-O-O-I-1280,Maharshi Dayanand University,Rohtak,Haryana,76,76,39.87,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-1-O-O-U-0239,NITTE,Mangalore,Karnataka,77,77,39.7,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-1-O-O-U-0232,Kuvempu University,Shimoga,Karnataka,78,78,39.68,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-1-O-O-U-0453,The Gandhigram Rural Institute,Gandhigram,Tamil Nadu,79,79,39.5,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-5-O-OEMLP-U-0164,Kurukshetra University,Kurukshetra,Haryana,80,80,39.45,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-1-O-O-U-0345,Mizoram University,Aizwal,Mizoram,81,81,39.36,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-1-O-O-U-0784,Professor Jayashankar Telangana State Agricultural University,Hyderabad,Telangana,82,82,39.3,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-1-O-O-U-0123,Anand Agricultural University,Anand,Gujarat,83,83,39.21,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-1-O-O-U-0051,Dibrugarh University,Dibrugarh,Assam,84,84,39.13,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-1-O-O-U-0011,Gandhi Institute of Technology and Management,Visakhapatnam,Andhra Pradesh,85,85,39.02,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-1-O-O-U-0576,Kalyani University,Kalyani,West Bengal,86,86,38.87,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-1-O-O-U-0050,Assam University,Silchar,Assam,87,87,38.79,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-2-O-OD-U-0465,Meenakshi Academy of Higher Education and Research,Chennai,Tamil Nadu,88,88,38.7,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-3-O-OEM-U-0460,Karunya Institute of Technology and Sciences,Coimbatore,Tamil Nadu,89,89,38.61,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-1-O-O-U-0470,Periyar University,Salem,Tamil Nadu,90,90,38.58,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-1-O-O-U-0360,Orissa University of Agriculture & Technology,Khordha,Odisha,91,91,38.55,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-2-O-OD-U-0250,Yenepoya,Mangalore,Karnataka,92,92,38.53,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-1-O-O-U-0035,Sri Sathya Sai Institute of Higher Learning,Anantapur,Andhra Pradesh,92,92,38.53,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-1-O-O-U-0146,Nirma University,Ahmedabad,Gujarat,94,94,38.15,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-1-O-O-U-0347,Nagaland University,Zunheboto,Nagaland,95,95,38.14,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-1-O-O-U-0569,The University of Burdwan,Barddhaman,West Bengal,96,96,37.68,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-1-O-D-U-0294,D. Y. Patil Educational Society,Kolhapur,Maharashtra,97,97,37.61,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-1-O-E-U-0014,International Institute of Information Technology,Hyderabad,Telangana,98,98,37.52,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-3-O-OEM-U-0733,PES University,Bengaluru,Karnataka,99,99,37.51,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html
+2018,Universities,IR-2-O-OE-U-0522,Jaypee Institute of Information Technology,Noida,Uttar Pradesh,100,100,37.47,https://www.nirfindia.org/Rankings/2018/UniversityRanking.html

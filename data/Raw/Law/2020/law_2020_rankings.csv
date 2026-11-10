@@ -1,0 +1,21 @@
+year,category,institute_id,institute_name,city,state,official_rank,numeric_rank,overall_score,source_url
+2020,Law,IR-L-U-0238,National Law School of India University,Bengaluru,Karnataka,1,1,78.66,https://www.nirfindia.org/Rankings/2020/LawRanking.html
+2020,Law,IR-L-U-0111,National Law University,New Delhi,Delhi,2,2,74.02,https://www.nirfindia.org/Rankings/2020/LawRanking.html
+2020,Law,IR-L-N-18,Nalsar University of Law,Hyderabad,Telangana,3,3,73.12,https://www.nirfindia.org/Rankings/2020/LawRanking.html
+2020,Law,IR-L-U-0573,Indian Institute of Technology Kharagpur,Kharagpur,West Bengal,4,4,71.44,https://www.nirfindia.org/Rankings/2020/LawRanking.html
+2020,Law,IR-L-U-0414,National Law University,Jodhpur,Rajasthan,5,5,64.29,https://www.nirfindia.org/Rankings/2020/LawRanking.html
+2020,Law,IR-L-U-0585,The West Bengal National University of Juridicial Sciences,Kolkata,West Bengal,6,6,63.32,https://www.nirfindia.org/Rankings/2020/LawRanking.html
+2020,Law,IR-L-U-0134,Gujarat National Law University,Gandhinagar,Gujarat,7,7,60.78,https://www.nirfindia.org/Rankings/2020/LawRanking.html
+2020,Law,IR-L-C-19328,Symbiosis Law School,Pune,Maharashtra,8,8,59.54,https://www.nirfindia.org/Rankings/2020/LawRanking.html
+2020,Law,IR-L-U-0108,Jamia Millia Islamia,New Delhi,Delhi,9,9,57.93,https://www.nirfindia.org/Rankings/2020/LawRanking.html
+2020,Law,IR-L-U-0386,The Rajiv Gandhi National University of Law,Patiala,Punjab,10,10,54.19,https://www.nirfindia.org/Rankings/2020/LawRanking.html
+2020,Law,IR-L-U-0511,Dr. Ram Manohar Lohiya National Law University,Lucknow,Uttar Pradesh,11,11,53.57,https://www.nirfindia.org/Rankings/2020/LawRanking.html
+2020,Law,IR-L-U-0356,Kalinga Institute of Industrial Technology,Bhubaneswar,Odisha,12,12,52.83,https://www.nirfindia.org/Rankings/2020/LawRanking.html
+2020,Law,IR-L-U-0496,Aligarh Muslim University,Aligarh,Uttar Pradesh,13,13,52.28,https://www.nirfindia.org/Rankings/2020/LawRanking.html
+2020,Law,IR-L-U-0358,National Law University,Cuttack,Odisha,14,14,51.94,https://www.nirfindia.org/Rankings/2020/LawRanking.html
+2020,Law,IR-L-U-0078,Panjab University,Chandigarh,Chandigarh,15,15,51.11,https://www.nirfindia.org/Rankings/2020/LawRanking.html
+2020,Law,IR-L-U-0677,National Law University and Judicial Academy,Kamrup,Assam,16,16,49.9,https://www.nirfindia.org/Rankings/2020/LawRanking.html
+2020,Law,IR-L-U-0285,"National Law Institute University, Bhopal",Bhopal,Madhya Pradesh,17,17,49.6,https://www.nirfindia.org/Rankings/2020/LawRanking.html
+2020,Law,IR-L-U-0103,Indian Law Institute,New Delhi,Delhi,18,18,49.44,https://www.nirfindia.org/Rankings/2020/LawRanking.html
+2020,Law,IR-L-U-0500,Banaras Hindu University,Varanasi,Uttar Pradesh,19,19,49.17,https://www.nirfindia.org/Rankings/2020/LawRanking.html
+2020,Law,IR-L-U-0217,Christ University,Bengaluru,Karnataka,20,20,48.01,https://www.nirfindia.org/Rankings/2020/LawRanking.html

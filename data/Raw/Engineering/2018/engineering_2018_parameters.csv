@@ -1,0 +1,491 @@
+year,category,institute_id,institute_name,parameter_name,parameter_score,canonical_parameter
+2018,Engineering,IR-2-E-OE-U-0456,Indian Institute of Technology Madras,TLR (100),93.83,TLR
+2018,Engineering,IR-2-E-OE-U-0456,Indian Institute of Technology Madras,RPC (100),91.44,RPC
+2018,Engineering,IR-2-E-OE-U-0456,Indian Institute of Technology Madras,GO (100),84.91,GO
+2018,Engineering,IR-2-E-OE-U-0456,Indian Institute of Technology Madras,OI (100),63.88,OI
+2018,Engineering,IR-2-E-OE-U-0456,Indian Institute of Technology Madras,PERCEPTION (100),100.0,PR
+2018,Engineering,IR-3-E-OEM-U-0306,Indian Institute of Technology Bombay,TLR (100),89.61,TLR
+2018,Engineering,IR-3-E-OEM-U-0306,Indian Institute of Technology Bombay,RPC (100),96.04,RPC
+2018,Engineering,IR-3-E-OEM-U-0306,Indian Institute of Technology Bombay,GO (100),76.53,GO
+2018,Engineering,IR-3-E-OEM-U-0306,Indian Institute of Technology Bombay,OI (100),44.71,OI
+2018,Engineering,IR-3-E-OEM-U-0306,Indian Institute of Technology Bombay,PERCEPTION (100),93.48,PR
+2018,Engineering,IR-3-E-OEM-I-1074,Indian Institute of Technology Delhi,TLR (100),80.83,TLR
+2018,Engineering,IR-3-E-OEM-I-1074,Indian Institute of Technology Delhi,RPC (100),89.35,RPC
+2018,Engineering,IR-3-E-OEM-I-1074,Indian Institute of Technology Delhi,GO (100),81.47,GO
+2018,Engineering,IR-3-E-OEM-I-1074,Indian Institute of Technology Delhi,OI (100),59.72,OI
+2018,Engineering,IR-3-E-OEM-I-1074,Indian Institute of Technology Delhi,PERCEPTION (100),88.6,PR
+2018,Engineering,IR-5-E-OEMAL-U-0573,Indian Institute of Technology Kharagpur,TLR (100),73.73,TLR
+2018,Engineering,IR-5-E-OEMAL-U-0573,Indian Institute of Technology Kharagpur,RPC (100),84.26,RPC
+2018,Engineering,IR-5-E-OEMAL-U-0573,Indian Institute of Technology Kharagpur,GO (100),85.65,GO
+2018,Engineering,IR-5-E-OEMAL-U-0573,Indian Institute of Technology Kharagpur,OI (100),53.99,OI
+2018,Engineering,IR-5-E-OEMAL-U-0573,Indian Institute of Technology Kharagpur,PERCEPTION (100),78.51,PR
+2018,Engineering,IR-3-E-OEM-I-1075,Indian Institute of Technology Kanpur,TLR (100),78.51,TLR
+2018,Engineering,IR-3-E-OEM-I-1075,Indian Institute of Technology Kanpur,RPC (100),77.15,RPC
+2018,Engineering,IR-3-E-OEM-I-1075,Indian Institute of Technology Kanpur,GO (100),78.99,GO
+2018,Engineering,IR-3-E-OEM-I-1075,Indian Institute of Technology Kanpur,OI (100),41.46,OI
+2018,Engineering,IR-3-E-OEM-I-1075,Indian Institute of Technology Kanpur,PERCEPTION (100),85.89,PR
+2018,Engineering,IR-4-E-OEMA-U-0560,Indian Institute of Technology Roorkee,TLR (100),72.8,TLR
+2018,Engineering,IR-4-E-OEMA-U-0560,Indian Institute of Technology Roorkee,RPC (100),72.08,RPC
+2018,Engineering,IR-4-E-OEMA-U-0560,Indian Institute of Technology Roorkee,GO (100),88.9,GO
+2018,Engineering,IR-4-E-OEMA-U-0560,Indian Institute of Technology Roorkee,OI (100),56.66,OI
+2018,Engineering,IR-4-E-OEMA-U-0560,Indian Institute of Technology Roorkee,PERCEPTION (100),56.63,PR
+2018,Engineering,IR-2-E-OE-U-0053,Indian Institute of Technology Guwahati,TLR (100),86.29,TLR
+2018,Engineering,IR-2-E-OE-U-0053,Indian Institute of Technology Guwahati,RPC (100),61.54,RPC
+2018,Engineering,IR-2-E-OE-U-0053,Indian Institute of Technology Guwahati,GO (100),76.51,GO
+2018,Engineering,IR-2-E-OE-U-0053,Indian Institute of Technology Guwahati,OI (100),50.46,OI
+2018,Engineering,IR-2-E-OE-U-0053,Indian Institute of Technology Guwahati,PERCEPTION (100),45.49,PR
+2018,Engineering,IR-4-E-OEMA-U-0439,Anna University,TLR (100),64.6,TLR
+2018,Engineering,IR-4-E-OEMA-U-0439,Anna University,RPC (100),72.08,RPC
+2018,Engineering,IR-4-E-OEMA-U-0439,Anna University,GO (100),68.55,GO
+2018,Engineering,IR-4-E-OEMA-U-0439,Anna University,OI (100),52.3,OI
+2018,Engineering,IR-4-E-OEMA-U-0439,Anna University,PERCEPTION (100),71.04,PR
+2018,Engineering,IR-2-E-OE-U-0013,Indian Institute of Technology Hyderabad,TLR (100),80.63,TLR
+2018,Engineering,IR-2-E-OE-U-0013,Indian Institute of Technology Hyderabad,RPC (100),44.22,RPC
+2018,Engineering,IR-2-E-OE-U-0013,Indian Institute of Technology Hyderabad,GO (100),71.03,GO
+2018,Engineering,IR-2-E-OE-U-0013,Indian Institute of Technology Hyderabad,OI (100),55.11,OI
+2018,Engineering,IR-2-E-OE-U-0013,Indian Institute of Technology Hyderabad,PERCEPTION (100),36.94,PR
+2018,Engineering,IR-3-E-OEP-U-0308,Institute of Chemical Technology,TLR (100),70.22,TLR
+2018,Engineering,IR-3-E-OEP-U-0308,Institute of Chemical Technology,RPC (100),58.51,RPC
+2018,Engineering,IR-3-E-OEP-U-0308,Institute of Chemical Technology,GO (100),73.21,GO
+2018,Engineering,IR-3-E-OEP-U-0308,Institute of Chemical Technology,OI (100),53.43,OI
+2018,Engineering,IR-3-E-OEP-U-0308,Institute of Chemical Technology,PERCEPTION (100),20.35,PR
+2018,Engineering,IR-2-E-OE-U-0467,National Institute of Technology Tiruchirappalli,TLR (100),66.49,TLR
+2018,Engineering,IR-2-E-OE-U-0467,National Institute of Technology Tiruchirappalli,RPC (100),46.44,RPC
+2018,Engineering,IR-2-E-OE-U-0467,National Institute of Technology Tiruchirappalli,GO (100),72.02,GO
+2018,Engineering,IR-2-E-OE-U-0467,National Institute of Technology Tiruchirappalli,OI (100),60.96,OI
+2018,Engineering,IR-2-E-OE-U-0467,National Institute of Technology Tiruchirappalli,PERCEPTION (100),59.69,PR
+2018,Engineering,IR-2-E-OE-U-0575,Jadavpur University,TLR (100),58.26,TLR
+2018,Engineering,IR-2-E-OE-U-0575,Jadavpur University,RPC (100),68.5,RPC
+2018,Engineering,IR-2-E-OE-U-0575,Jadavpur University,GO (100),77.63,GO
+2018,Engineering,IR-2-E-OE-U-0575,Jadavpur University,OI (100),29.09,OI
+2018,Engineering,IR-2-E-OE-U-0575,Jadavpur University,PERCEPTION (100),33.49,PR
+2018,Engineering,IR-2-E-OE-U-0205,Indian Institute of Technology (Indian School of Mines) Dhanbad,TLR (100),64.7,TLR
+2018,Engineering,IR-2-E-OE-U-0205,Indian Institute of Technology (Indian School of Mines) Dhanbad,RPC (100),53.04,RPC
+2018,Engineering,IR-2-E-OE-U-0205,Indian Institute of Technology (Indian School of Mines) Dhanbad,GO (100),74.73,GO
+2018,Engineering,IR-2-E-OE-U-0205,Indian Institute of Technology (Indian School of Mines) Dhanbad,OI (100),59.99,OI
+2018,Engineering,IR-2-E-OE-U-0205,Indian Institute of Technology (Indian School of Mines) Dhanbad,PERCEPTION (100),29.73,PR
+2018,Engineering,IR-2-E-OE-U-0273,Indian Institute of Technology Indore,TLR (100),81.42,TLR
+2018,Engineering,IR-2-E-OE-U-0273,Indian Institute of Technology Indore,RPC (100),40.8,RPC
+2018,Engineering,IR-2-E-OE-U-0273,Indian Institute of Technology Indore,GO (100),69.67,GO
+2018,Engineering,IR-2-E-OE-U-0273,Indian Institute of Technology Indore,OI (100),56.16,OI
+2018,Engineering,IR-2-E-OE-U-0273,Indian Institute of Technology Indore,PERCEPTION (100),17.28,PR
+2018,Engineering,IR-2-E-OE-U-0357,National Institute of Technology Rourkela,TLR (100),61.82,TLR
+2018,Engineering,IR-2-E-OE-U-0357,National Institute of Technology Rourkela,RPC (100),52.36,RPC
+2018,Engineering,IR-2-E-OE-U-0357,National Institute of Technology Rourkela,GO (100),78.74,GO
+2018,Engineering,IR-2-E-OE-U-0357,National Institute of Technology Rourkela,OI (100),45.76,OI
+2018,Engineering,IR-2-E-OE-U-0357,National Institute of Technology Rourkela,PERCEPTION (100),24.71,PR
+2018,Engineering,IR-3-E-OEM-U-0490,Vellore Institute of Technology,TLR (100),54.64,TLR
+2018,Engineering,IR-3-E-OEM-U-0490,Vellore Institute of Technology,RPC (100),55.4,RPC
+2018,Engineering,IR-3-E-OEM-U-0490,Vellore Institute of Technology,GO (100),65.51,GO
+2018,Engineering,IR-3-E-OEM-U-0490,Vellore Institute of Technology,OI (100),59.22,OI
+2018,Engineering,IR-3-E-OEM-U-0490,Vellore Institute of Technology,PERCEPTION (100),49.93,PR
+2018,Engineering,IR-3-E-OEP-U-0391,Birla Institute of Technology & Science,TLR (100),68.55,TLR
+2018,Engineering,IR-3-E-OEP-U-0391,Birla Institute of Technology & Science,RPC (100),38.31,RPC
+2018,Engineering,IR-3-E-OEP-U-0391,Birla Institute of Technology & Science,GO (100),69.71,GO
+2018,Engineering,IR-3-E-OEP-U-0391,Birla Institute of Technology & Science,OI (100),60.21,OI
+2018,Engineering,IR-3-E-OEP-U-0391,Birla Institute of Technology & Science,PERCEPTION (100),49.6,PR
+2018,Engineering,IR-2-E-OE-U-0355,Indian Institute of Technology Bhubaneswar,TLR (100),81.45,TLR
+2018,Engineering,IR-2-E-OE-U-0355,Indian Institute of Technology Bhubaneswar,RPC (100),39.77,RPC
+2018,Engineering,IR-2-E-OE-U-0355,Indian Institute of Technology Bhubaneswar,GO (100),64.08,GO
+2018,Engineering,IR-2-E-OE-U-0355,Indian Institute of Technology Bhubaneswar,OI (100),59.02,OI
+2018,Engineering,IR-2-E-OE-U-0355,Indian Institute of Technology Bhubaneswar,PERCEPTION (100),17.99,PR
+2018,Engineering,IR-1-E-E-U-0701,Indian Institute of Technology (Banaras Hindu University) Varanasi,TLR (100),64.43,TLR
+2018,Engineering,IR-1-E-E-U-0701,Indian Institute of Technology (Banaras Hindu University) Varanasi,RPC (100),42.55,RPC
+2018,Engineering,IR-1-E-E-U-0701,Indian Institute of Technology (Banaras Hindu University) Varanasi,GO (100),77.62,GO
+2018,Engineering,IR-1-E-E-U-0701,Indian Institute of Technology (Banaras Hindu University) Varanasi,OI (100),41.66,OI
+2018,Engineering,IR-1-E-E-U-0701,Indian Institute of Technology (Banaras Hindu University) Varanasi,PERCEPTION (100),48.44,PR
+2018,Engineering,IR-2-E-EM-I-1480,Thapar Institute of Engineering and Technology,TLR (100),69.77,TLR
+2018,Engineering,IR-2-E-EM-I-1480,Thapar Institute of Engineering and Technology,RPC (100),45.75,RPC
+2018,Engineering,IR-2-E-EM-I-1480,Thapar Institute of Engineering and Technology,GO (100),73.11,GO
+2018,Engineering,IR-2-E-EM-I-1480,Thapar Institute of Engineering and Technology,OI (100),56.55,OI
+2018,Engineering,IR-2-E-EM-I-1480,Thapar Institute of Engineering and Technology,PERCEPTION (100),12.01,PR
+2018,Engineering,IR-2-E-OE-U-0237,National Institute of Technology Surathkal,TLR (100),60.34,TLR
+2018,Engineering,IR-2-E-OE-U-0237,National Institute of Technology Surathkal,RPC (100),38.36,RPC
+2018,Engineering,IR-2-E-OE-U-0237,National Institute of Technology Surathkal,GO (100),71.27,GO
+2018,Engineering,IR-2-E-OE-U-0237,National Institute of Technology Surathkal,OI (100),51.1,OI
+2018,Engineering,IR-2-E-OE-U-0237,National Institute of Technology Surathkal,PERCEPTION (100),41.93,PR
+2018,Engineering,IR-2-E-OE-U-0378,Indian Institute of Technology Ropar,TLR (100),77.84,TLR
+2018,Engineering,IR-2-E-OE-U-0378,Indian Institute of Technology Ropar,RPC (100),29.53,RPC
+2018,Engineering,IR-2-E-OE-U-0378,Indian Institute of Technology Ropar,GO (100),65.29,GO
+2018,Engineering,IR-2-E-OE-U-0378,Indian Institute of Technology Ropar,OI (100),60.61,OI
+2018,Engineering,IR-2-E-OE-U-0378,Indian Institute of Technology Ropar,PERCEPTION (100),14.73,PR
+2018,Engineering,IR-2-E-OE-U-0255,Indian Institute of Space Science and Technology,TLR (100),78.87,TLR
+2018,Engineering,IR-2-E-OE-U-0255,Indian Institute of Space Science and Technology,RPC (100),20.76,RPC
+2018,Engineering,IR-2-E-OE-U-0255,Indian Institute of Space Science and Technology,GO (100),62.12,GO
+2018,Engineering,IR-2-E-OE-U-0255,Indian Institute of Space Science and Technology,OI (100),60.82,OI
+2018,Engineering,IR-2-E-OE-U-0255,Indian Institute of Space Science and Technology,PERCEPTION (100),43.47,PR
+2018,Engineering,IR-2-E-OE-U-0064,Indian Institute of Technology Patna,TLR (100),74.43,TLR
+2018,Engineering,IR-2-E-OE-U-0064,Indian Institute of Technology Patna,RPC (100),35.03,RPC
+2018,Engineering,IR-2-E-OE-U-0064,Indian Institute of Technology Patna,GO (100),65.64,GO
+2018,Engineering,IR-2-E-OE-U-0064,Indian Institute of Technology Patna,OI (100),49.3,OI
+2018,Engineering,IR-2-E-OE-U-0064,Indian Institute of Technology Patna,PERCEPTION (100),14.73,PR
+2018,Engineering,IR-2-E-OE-U-0025,National Institute of Technology Warangal,TLR (100),67.25,TLR
+2018,Engineering,IR-2-E-OE-U-0025,National Institute of Technology Warangal,RPC (100),31.43,RPC
+2018,Engineering,IR-2-E-OE-U-0025,National Institute of Technology Warangal,GO (100),72.38,GO
+2018,Engineering,IR-2-E-OE-U-0025,National Institute of Technology Warangal,OI (100),54.79,OI
+2018,Engineering,IR-2-E-OE-U-0025,National Institute of Technology Warangal,PERCEPTION (100),22.59,PR
+2018,Engineering,IR-5-E-OEMAP-U-0202,Birla Institute of Technology,TLR (100),71.22,TLR
+2018,Engineering,IR-5-E-OEMAP-U-0202,Birla Institute of Technology,RPC (100),36.61,RPC
+2018,Engineering,IR-5-E-OEMAP-U-0202,Birla Institute of Technology,GO (100),59.88,GO
+2018,Engineering,IR-5-E-OEMAP-U-0202,Birla Institute of Technology,OI (100),51.69,OI
+2018,Engineering,IR-5-E-OEMAP-U-0202,Birla Institute of Technology,PERCEPTION (100),16.21,PR
+2018,Engineering,IR-2-E-OE-U-0139,Indian Institute of Technology Gandhinagar,TLR (100),74.18,TLR
+2018,Engineering,IR-2-E-OE-U-0139,Indian Institute of Technology Gandhinagar,RPC (100),26.31,RPC
+2018,Engineering,IR-2-E-OE-U-0139,Indian Institute of Technology Gandhinagar,GO (100),59.24,GO
+2018,Engineering,IR-2-E-OE-U-0139,Indian Institute of Technology Gandhinagar,OI (100),52.64,OI
+2018,Engineering,IR-2-E-OE-U-0139,Indian Institute of Technology Gandhinagar,PERCEPTION (100),32.03,PR
+2018,Engineering,IR-3-E-OEM-C-37013,PSG College of Technology,TLR (100),69.82,TLR
+2018,Engineering,IR-3-E-OEM-C-37013,PSG College of Technology,RPC (100),23.64,RPC
+2018,Engineering,IR-3-E-OEM-C-37013,PSG College of Technology,GO (100),55.96,GO
+2018,Engineering,IR-3-E-OEM-C-37013,PSG College of Technology,OI (100),49.87,OI
+2018,Engineering,IR-3-E-OEM-C-37013,PSG College of Technology,PERCEPTION (100),60.95,PR
+2018,Engineering,IR-1-E-E-U-0334,Visvesvaraya National Institute of Technology,TLR (100),63.78,TLR
+2018,Engineering,IR-1-E-E-U-0334,Visvesvaraya National Institute of Technology,RPC (100),35.85,RPC
+2018,Engineering,IR-1-E-E-U-0334,Visvesvaraya National Institute of Technology,GO (100),64.68,GO
+2018,Engineering,IR-1-E-E-U-0334,Visvesvaraya National Institute of Technology,OI (100),56.13,OI
+2018,Engineering,IR-1-E-E-U-0334,Visvesvaraya National Institute of Technology,PERCEPTION (100),11.2,PR
+2018,Engineering,IR-5-E-OEMAL-U-0108,Jamia Millia Islamia,TLR (100),57.41,TLR
+2018,Engineering,IR-5-E-OEMAL-U-0108,Jamia Millia Islamia,RPC (100),39.27,RPC
+2018,Engineering,IR-5-E-OEMAL-U-0108,Jamia Millia Islamia,GO (100),72.13,GO
+2018,Engineering,IR-5-E-OEMAL-U-0108,Jamia Millia Islamia,OI (100),48.49,OI
+2018,Engineering,IR-5-E-OEMAL-U-0108,Jamia Millia Islamia,PERCEPTION (100),8.67,PR
+2018,Engineering,IR-4-E-OEML-U-0476,Shanmugha Arts Science Technology & Research Academy,TLR (100),61.27,TLR
+2018,Engineering,IR-4-E-OEML-U-0476,Shanmugha Arts Science Technology & Research Academy,RPC (100),33.34,RPC
+2018,Engineering,IR-4-E-OEML-U-0476,Shanmugha Arts Science Technology & Research Academy,GO (100),64.59,GO
+2018,Engineering,IR-4-E-OEML-U-0476,Shanmugha Arts Science Technology & Research Academy,OI (100),58.93,OI
+2018,Engineering,IR-4-E-OEML-U-0476,Shanmugha Arts Science Technology & Research Academy,PERCEPTION (100),15.48,PR
+2018,Engineering,IR-6-E-OEMALP-U-0497,Amity University,TLR (100),67.99,TLR
+2018,Engineering,IR-6-E-OEMALP-U-0497,Amity University,RPC (100),42.64,RPC
+2018,Engineering,IR-6-E-OEMALP-U-0497,Amity University,GO (100),47.12,GO
+2018,Engineering,IR-6-E-OEMALP-U-0497,Amity University,OI (100),57.87,OI
+2018,Engineering,IR-6-E-OEMALP-U-0497,Amity University,PERCEPTION (100),2.6,PR
+2018,Engineering,IR-7-E-OEMALDC-U-0496,Aligarh Muslim University,TLR (100),70.21,TLR
+2018,Engineering,IR-7-E-OEMALDC-U-0496,Aligarh Muslim University,RPC (100),38.92,RPC
+2018,Engineering,IR-7-E-OEMALDC-U-0496,Aligarh Muslim University,GO (100),53.95,GO
+2018,Engineering,IR-7-E-OEMALDC-U-0496,Aligarh Muslim University,OI (100),36.54,OI
+2018,Engineering,IR-7-E-OEMALDC-U-0496,Aligarh Muslim University,PERCEPTION (100),10.79,PR
+2018,Engineering,IR-1-E-E-C-16604,Sri Sivasubramaniya Nadar College of Engineering,TLR (100),69.98,TLR
+2018,Engineering,IR-1-E-E-C-16604,Sri Sivasubramaniya Nadar College of Engineering,RPC (100),27.18,RPC
+2018,Engineering,IR-1-E-E-C-16604,Sri Sivasubramaniya Nadar College of Engineering,GO (100),58.89,GO
+2018,Engineering,IR-1-E-E-C-16604,Sri Sivasubramaniya Nadar College of Engineering,OI (100),52.41,OI
+2018,Engineering,IR-1-E-E-C-16604,Sri Sivasubramaniya Nadar College of Engineering,PERCEPTION (100),19.35,PR
+2018,Engineering,IR-4-E-OEMA-U-0474,Sathyabama Institute of Science and Technology,TLR (100),56.33,TLR
+2018,Engineering,IR-4-E-OEMA-U-0474,Sathyabama Institute of Science and Technology,RPC (100),34.48,RPC
+2018,Engineering,IR-4-E-OEMA-U-0474,Sathyabama Institute of Science and Technology,GO (100),66.57,GO
+2018,Engineering,IR-4-E-OEMA-U-0474,Sathyabama Institute of Science and Technology,OI (100),62.08,OI
+2018,Engineering,IR-4-E-OEMA-U-0474,Sathyabama Institute of Science and Technology,PERCEPTION (100),5.04,PR
+2018,Engineering,IR-1-E-E-U-0014,International Institute of Information Technology,TLR (100),49.08,TLR
+2018,Engineering,IR-1-E-E-U-0014,International Institute of Information Technology,RPC (100),31.56,RPC
+2018,Engineering,IR-1-E-E-U-0014,International Institute of Information Technology,GO (100),77.96,GO
+2018,Engineering,IR-1-E-E-U-0014,International Institute of Information Technology,OI (100),54.24,OI
+2018,Engineering,IR-1-E-E-U-0014,International Institute of Information Technology,PERCEPTION (100),16.57,PR
+2018,Engineering,IR-1-E-E-C-7252,Manipal Institute of Technology,TLR (100),68.57,TLR
+2018,Engineering,IR-1-E-E-C-7252,Manipal Institute of Technology,RPC (100),18.47,RPC
+2018,Engineering,IR-1-E-E-C-7252,Manipal Institute of Technology,GO (100),56.93,GO
+2018,Engineering,IR-1-E-E-C-7252,Manipal Institute of Technology,OI (100),63.21,OI
+2018,Engineering,IR-1-E-E-C-7252,Manipal Institute of Technology,PERCEPTION (100),28.4,PR
+2018,Engineering,IR-3-E-OEA-C-26794,Thiagarajar College of Engineering,TLR (100),62.34,TLR
+2018,Engineering,IR-3-E-OEA-C-26794,Thiagarajar College of Engineering,RPC (100),26.64,RPC
+2018,Engineering,IR-3-E-OEA-C-26794,Thiagarajar College of Engineering,GO (100),59.11,GO
+2018,Engineering,IR-3-E-OEA-C-26794,Thiagarajar College of Engineering,OI (100),46.6,OI
+2018,Engineering,IR-3-E-OEA-C-26794,Thiagarajar College of Engineering,PERCEPTION (100),34.91,PR
+2018,Engineering,IR-2-E-OE-U-0098,Delhi Technological University,TLR (100),54.83,TLR
+2018,Engineering,IR-2-E-OE-U-0098,Delhi Technological University,RPC (100),29.75,RPC
+2018,Engineering,IR-2-E-OE-U-0098,Delhi Technological University,GO (100),70.78,GO
+2018,Engineering,IR-2-E-OE-U-0098,Delhi Technological University,OI (100),48.7,OI
+2018,Engineering,IR-2-E-OE-U-0098,Delhi Technological University,PERCEPTION (100),21.65,PR
+2018,Engineering,IR-1-E-E-U-0017,Jawaharlal Nehru Technological University,TLR (100),72.7,TLR
+2018,Engineering,IR-1-E-E-U-0017,Jawaharlal Nehru Technological University,RPC (100),27.91,RPC
+2018,Engineering,IR-1-E-E-U-0017,Jawaharlal Nehru Technological University,GO (100),55.73,GO
+2018,Engineering,IR-1-E-E-U-0017,Jawaharlal Nehru Technological University,OI (100),43.77,OI
+2018,Engineering,IR-1-E-E-U-0017,Jawaharlal Nehru Technological University,PERCEPTION (100),6.89,PR
+2018,Engineering,IR-1-E-E-U-0172,National Institute of Technology Kurukshetra,TLR (100),59.2,TLR
+2018,Engineering,IR-1-E-E-U-0172,National Institute of Technology Kurukshetra,RPC (100),37.89,RPC
+2018,Engineering,IR-1-E-E-U-0172,National Institute of Technology Kurukshetra,GO (100),60.94,GO
+2018,Engineering,IR-1-E-E-U-0172,National Institute of Technology Kurukshetra,OI (100),42.36,OI
+2018,Engineering,IR-1-E-E-U-0172,National Institute of Technology Kurukshetra,PERCEPTION (100),7.35,PR
+2018,Engineering,IR-3-E-OEM-S-8931,National Institute of Industrial Engineering,TLR (100),79.15,TLR
+2018,Engineering,IR-3-E-OEM-S-8931,National Institute of Industrial Engineering,RPC (100),2.63,RPC
+2018,Engineering,IR-3-E-OEM-S-8931,National Institute of Industrial Engineering,GO (100),73.55,GO
+2018,Engineering,IR-3-E-OEM-S-8931,National Institute of Industrial Engineering,OI (100),59.67,OI
+2018,Engineering,IR-3-E-OEM-S-8931,National Institute of Industrial Engineering,PERCEPTION (100),6.89,PR
+2018,Engineering,IR-1-E-E-C-41593,College of Engineering,TLR (100),60.44,TLR
+2018,Engineering,IR-1-E-E-C-41593,College of Engineering,RPC (100),23.96,RPC
+2018,Engineering,IR-1-E-E-C-41593,College of Engineering,GO (100),66.29,GO
+2018,Engineering,IR-1-E-E-C-41593,College of Engineering,OI (100),46.51,OI
+2018,Engineering,IR-1-E-E-C-41593,College of Engineering,PERCEPTION (100),26.74,PR
+2018,Engineering,IR-5-E-OEMDP-U-0473,SRM Institute of Science and Technology,TLR (100),58.66,TLR
+2018,Engineering,IR-5-E-OEMDP-U-0473,SRM Institute of Science and Technology,RPC (100),31.97,RPC
+2018,Engineering,IR-5-E-OEMDP-U-0473,SRM Institute of Science and Technology,GO (100),54.06,GO
+2018,Engineering,IR-5-E-OEMDP-U-0473,SRM Institute of Science and Technology,OI (100),61.87,OI
+2018,Engineering,IR-5-E-OEMDP-U-0473,SRM Institute of Science and Technology,PERCEPTION (100),13.2,PR
+2018,Engineering,IR-2-E-OE-U-0577,National Institute of Technology Durgapur,TLR (100),52.84,TLR
+2018,Engineering,IR-2-E-OE-U-0577,National Institute of Technology Durgapur,RPC (100),36.28,RPC
+2018,Engineering,IR-2-E-OE-U-0577,National Institute of Technology Durgapur,GO (100),64.9,GO
+2018,Engineering,IR-2-E-OE-U-0577,National Institute of Technology Durgapur,OI (100),43.94,OI
+2018,Engineering,IR-2-E-OE-U-0577,National Institute of Technology Durgapur,PERCEPTION (100),12.41,PR
+2018,Engineering,IR-1-E-E-U-0530,Motilal Nehru National Institute of Technology,TLR (100),52.93,TLR
+2018,Engineering,IR-1-E-E-U-0530,Motilal Nehru National Institute of Technology,RPC (100),29.68,RPC
+2018,Engineering,IR-1-E-E-U-0530,Motilal Nehru National Institute of Technology,GO (100),64.99,GO
+2018,Engineering,IR-1-E-E-U-0530,Motilal Nehru National Institute of Technology,OI (100),46.75,OI
+2018,Engineering,IR-1-E-E-U-0530,Motilal Nehru National Institute of Technology,PERCEPTION (100),18.67,PR
+2018,Engineering,IR-2-E-EM-U-0020,Koneru Lakshmaiah Education Foundation University,TLR (100),70.42,TLR
+2018,Engineering,IR-2-E-EM-U-0020,Koneru Lakshmaiah Education Foundation University,RPC (100),17.39,RPC
+2018,Engineering,IR-2-E-EM-U-0020,Koneru Lakshmaiah Education Foundation University,GO (100),60.09,GO
+2018,Engineering,IR-2-E-EM-U-0020,Koneru Lakshmaiah Education Foundation University,OI (100),58.32,OI
+2018,Engineering,IR-2-E-EM-U-0020,Koneru Lakshmaiah Education Foundation University,PERCEPTION (100),1.06,PR
+2018,Engineering,IR-1-E-E-U-0263,National Institute of Technology Calicut,TLR (100),55.17,TLR
+2018,Engineering,IR-1-E-E-U-0263,National Institute of Technology Calicut,RPC (100),26.58,RPC
+2018,Engineering,IR-1-E-E-U-0263,National Institute of Technology Calicut,GO (100),60.6,GO
+2018,Engineering,IR-1-E-E-U-0263,National Institute of Technology Calicut,OI (100),41.85,OI
+2018,Engineering,IR-1-E-E-U-0263,National Institute of Technology Calicut,PERCEPTION (100),34.67,PR
+2018,Engineering,IR-5-E-OEMLD-U-0356,Kalinga Institute of Industrial Technology,TLR (100),58.23,TLR
+2018,Engineering,IR-5-E-OEMLD-U-0356,Kalinga Institute of Industrial Technology,RPC (100),21.63,RPC
+2018,Engineering,IR-5-E-OEMLD-U-0356,Kalinga Institute of Industrial Technology,GO (100),66.81,GO
+2018,Engineering,IR-5-E-OEMLD-U-0356,Kalinga Institute of Industrial Technology,OI (100),63.99,OI
+2018,Engineering,IR-5-E-OEMLD-U-0356,Kalinga Institute of Industrial Technology,PERCEPTION (100),5.51,PR
+2018,Engineering,IR-2-E-OE-U-0410,Malaviya National Institute of Technology,TLR (100),55.37,TLR
+2018,Engineering,IR-2-E-OE-U-0410,Malaviya National Institute of Technology,RPC (100),33.17,RPC
+2018,Engineering,IR-2-E-OE-U-0410,Malaviya National Institute of Technology,GO (100),58.95,GO
+2018,Engineering,IR-2-E-OE-U-0410,Malaviya National Institute of Technology,OI (100),46.61,OI
+2018,Engineering,IR-2-E-OE-U-0410,Malaviya National Institute of Technology,PERCEPTION (100),8.67,PR
+2018,Engineering,IR-1-E-E-C-6581,Pondicherry Engineering College,TLR (100),62.07,TLR
+2018,Engineering,IR-1-E-E-C-6581,Pondicherry Engineering College,RPC (100),19.84,RPC
+2018,Engineering,IR-1-E-E-C-6581,Pondicherry Engineering College,GO (100),65.32,GO
+2018,Engineering,IR-1-E-E-C-6581,Pondicherry Engineering College,OI (100),42.72,OI
+2018,Engineering,IR-1-E-E-C-6581,Pondicherry Engineering College,PERCEPTION (100),17.99,PR
+2018,Engineering,IR-1-E-E-U-0395,Indian Institute of Technology Jodhpur,TLR (100),67.83,TLR
+2018,Engineering,IR-1-E-E-U-0395,Indian Institute of Technology Jodhpur,RPC (100),18.13,RPC
+2018,Engineering,IR-1-E-E-U-0395,Indian Institute of Technology Jodhpur,GO (100),56.92,GO
+2018,Engineering,IR-1-E-E-U-0395,Indian Institute of Technology Jodhpur,OI (100),55.85,OI
+2018,Engineering,IR-1-E-E-U-0395,Indian Institute of Technology Jodhpur,PERCEPTION (100),6.44,PR
+2018,Engineering,IR-1-E-E-U-0284,Maulana Azad National Institute of Technology,TLR (100),56.88,TLR
+2018,Engineering,IR-1-E-E-U-0284,Maulana Azad National Institute of Technology,RPC (100),23.54,RPC
+2018,Engineering,IR-1-E-E-U-0284,Maulana Azad National Institute of Technology,GO (100),69.57,GO
+2018,Engineering,IR-1-E-E-U-0284,Maulana Azad National Institute of Technology,OI (100),46.73,OI
+2018,Engineering,IR-1-E-E-U-0284,Maulana Azad National Institute of Technology,PERCEPTION (100),6.44,PR
+2018,Engineering,IR-1-E-E-U-0221,International Institute of Information Technology Bangalore,TLR (100),58.67,TLR
+2018,Engineering,IR-1-E-E-U-0221,International Institute of Information Technology Bangalore,RPC (100),15.71,RPC
+2018,Engineering,IR-1-E-E-U-0221,International Institute of Information Technology Bangalore,GO (100),69.25,GO
+2018,Engineering,IR-1-E-E-U-0221,International Institute of Information Technology Bangalore,OI (100),61.28,OI
+2018,Engineering,IR-1-E-E-U-0221,International Institute of Information Technology Bangalore,PERCEPTION (100),9.1,PR
+2018,Engineering,IR-1-E-E-U-0055,National Institute of Technology Silchar,TLR (100),61.32,TLR
+2018,Engineering,IR-1-E-E-U-0055,National Institute of Technology Silchar,RPC (100),26.01,RPC
+2018,Engineering,IR-1-E-E-U-0055,National Institute of Technology Silchar,GO (100),62.32,GO
+2018,Engineering,IR-1-E-E-U-0055,National Institute of Technology Silchar,OI (100),35.65,OI
+2018,Engineering,IR-1-E-E-U-0055,National Institute of Technology Silchar,PERCEPTION (100),8.67,PR
+2018,Engineering,IR-1-E-E-C-1269,R. V. College of Engineering,TLR (100),66.43,TLR
+2018,Engineering,IR-1-E-E-C-1269,R. V. College of Engineering,RPC (100),13.67,RPC
+2018,Engineering,IR-1-E-E-C-1269,R. V. College of Engineering,GO (100),63.12,GO
+2018,Engineering,IR-1-E-E-C-1269,R. V. College of Engineering,OI (100),52.94,OI
+2018,Engineering,IR-1-E-E-C-1269,R. V. College of Engineering,PERCEPTION (100),10.37,PR
+2018,Engineering,IR-6-E-OEMLDP-U-0078,Panjab University,TLR (100),43.7,TLR
+2018,Engineering,IR-6-E-OEMLDP-U-0078,Panjab University,RPC (100),45.56,RPC
+2018,Engineering,IR-6-E-OEMLDP-U-0078,Panjab University,GO (100),53.84,GO
+2018,Engineering,IR-6-E-OEMLDP-U-0078,Panjab University,OI (100),43.14,OI
+2018,Engineering,IR-6-E-OEMLDP-U-0078,Panjab University,PERCEPTION (100),8.23,PR
+2018,Engineering,IR-1-E-E-C-1331,M. S. Ramaiah Institute of Technology,TLR (100),64.56,TLR
+2018,Engineering,IR-1-E-E-C-1331,M. S. Ramaiah Institute of Technology,RPC (100),13.01,RPC
+2018,Engineering,IR-1-E-E-C-1331,M. S. Ramaiah Institute of Technology,GO (100),61.42,GO
+2018,Engineering,IR-1-E-E-C-1331,M. S. Ramaiah Institute of Technology,OI (100),57.03,OI
+2018,Engineering,IR-1-E-E-C-1331,M. S. Ramaiah Institute of Technology,PERCEPTION (100),9.96,PR
+2018,Engineering,IR-1-E-E-U-0149,Sardar Vallabhbhai National Institute of Technology,TLR (100),52.57,TLR
+2018,Engineering,IR-1-E-E-U-0149,Sardar Vallabhbhai National Institute of Technology,RPC (100),29.06,RPC
+2018,Engineering,IR-1-E-E-U-0149,Sardar Vallabhbhai National Institute of Technology,GO (100),60.17,GO
+2018,Engineering,IR-1-E-E-U-0149,Sardar Vallabhbhai National Institute of Technology,OI (100),45.52,OI
+2018,Engineering,IR-1-E-E-U-0149,Sardar Vallabhbhai National Institute of Technology,PERCEPTION (100),10.37,PR
+2018,Engineering,IR-2-E-OE-C-36969,Coimbatore Institute of Technology,TLR (100),62.94,TLR
+2018,Engineering,IR-2-E-OE-C-36969,Coimbatore Institute of Technology,RPC (100),14.26,RPC
+2018,Engineering,IR-2-E-OE-C-36969,Coimbatore Institute of Technology,GO (100),50.86,GO
+2018,Engineering,IR-2-E-OE-C-36969,Coimbatore Institute of Technology,OI (100),50.64,OI
+2018,Engineering,IR-2-E-OE-C-36969,Coimbatore Institute of Technology,PERCEPTION (100),32.03,PR
+2018,Engineering,IR-1-E-E-U-0297,Defence Institute of Advanced Technology,TLR (100),70.99,TLR
+2018,Engineering,IR-1-E-E-U-0297,Defence Institute of Advanced Technology,RPC (100),27.72,RPC
+2018,Engineering,IR-1-E-E-U-0297,Defence Institute of Advanced Technology,GO (100),35.53,GO
+2018,Engineering,IR-1-E-E-U-0297,Defence Institute of Advanced Technology,OI (100),43.79,OI
+2018,Engineering,IR-1-E-E-U-0297,Defence Institute of Advanced Technology,PERCEPTION (100),2.6,PR
+2018,Engineering,IR-3-E-OEA-U-0189,National Institute of Technology Hamirpur,TLR (100),54.67,TLR
+2018,Engineering,IR-3-E-OEA-U-0189,National Institute of Technology Hamirpur,RPC (100),22.43,RPC
+2018,Engineering,IR-3-E-OEA-U-0189,National Institute of Technology Hamirpur,GO (100),61.63,GO
+2018,Engineering,IR-3-E-OEA-U-0189,National Institute of Technology Hamirpur,OI (100),52.5,OI
+2018,Engineering,IR-3-E-OEA-U-0189,National Institute of Technology Hamirpur,PERCEPTION (100),4.56,PR
+2018,Engineering,IR-1-E-E-C-24004,AU College of Engineering,TLR (100),64.07,TLR
+2018,Engineering,IR-1-E-E-C-24004,AU College of Engineering,RPC (100),6.9,RPC
+2018,Engineering,IR-1-E-E-C-24004,AU College of Engineering,GO (100),68.03,GO
+2018,Engineering,IR-1-E-E-C-24004,AU College of Engineering,OI (100),55.18,OI
+2018,Engineering,IR-1-E-E-C-24004,AU College of Engineering,PERCEPTION (100),4.56,PR
+2018,Engineering,IR-1-E-E-U-0105,Indraprastha Institute of Information Technology Delhi,TLR (100),47.47,TLR
+2018,Engineering,IR-1-E-E-U-0105,Indraprastha Institute of Information Technology Delhi,RPC (100),24.85,RPC
+2018,Engineering,IR-1-E-E-U-0105,Indraprastha Institute of Information Technology Delhi,GO (100),70.0,GO
+2018,Engineering,IR-1-E-E-U-0105,Indraprastha Institute of Information Technology Delhi,OI (100),39.95,OI
+2018,Engineering,IR-1-E-E-U-0105,Indraprastha Institute of Information Technology Delhi,PERCEPTION (100),9.96,PR
+2018,Engineering,IR-1-E-E-C-1262,B. M. S. College of Engineering,TLR (100),64.05,TLR
+2018,Engineering,IR-1-E-E-C-1262,B. M. S. College of Engineering,RPC (100),7.95,RPC
+2018,Engineering,IR-1-E-E-C-1262,B. M. S. College of Engineering,GO (100),62.67,GO
+2018,Engineering,IR-1-E-E-C-1262,B. M. S. College of Engineering,OI (100),51.06,OI
+2018,Engineering,IR-1-E-E-C-1262,B. M. S. College of Engineering,PERCEPTION (100),10.79,PR
+2018,Engineering,IR-1-E-E-C-37065,Kongu Engineering College,TLR (100),59.46,TLR
+2018,Engineering,IR-1-E-E-C-37065,Kongu Engineering College,RPC (100),13.12,RPC
+2018,Engineering,IR-1-E-E-C-37065,Kongu Engineering College,GO (100),52.77,GO
+2018,Engineering,IR-1-E-E-C-37065,Kongu Engineering College,OI (100),45.32,OI
+2018,Engineering,IR-1-E-E-C-37065,Kongu Engineering College,PERCEPTION (100),34.2,PR
+2018,Engineering,IR-2-E-OE-U-0507,Dayalbagh Educational Institute,TLR (100),63.33,TLR
+2018,Engineering,IR-2-E-OE-U-0507,Dayalbagh Educational Institute,RPC (100),9.78,RPC
+2018,Engineering,IR-2-E-OE-U-0507,Dayalbagh Educational Institute,GO (100),57.1,GO
+2018,Engineering,IR-2-E-OE-U-0507,Dayalbagh Educational Institute,OI (100),51.51,OI
+2018,Engineering,IR-2-E-OE-U-0507,Dayalbagh Educational Institute,PERCEPTION (100),14.73,PR
+2018,Engineering,IR-2-E-OE-U-0522,Jaypee Institute of Information Technology,TLR (100),48.0,TLR
+2018,Engineering,IR-2-E-OE-U-0522,Jaypee Institute of Information Technology,RPC (100),21.07,RPC
+2018,Engineering,IR-2-E-OE-U-0522,Jaypee Institute of Information Technology,GO (100),58.39,GO
+2018,Engineering,IR-2-E-OE-U-0522,Jaypee Institute of Information Technology,OI (100),53.21,OI
+2018,Engineering,IR-2-E-OE-U-0522,Jaypee Institute of Information Technology,PERCEPTION (100),21.65,PR
+2018,Engineering,IR-2-E-OE-U-0037,Sri Venkateswara University,TLR (100),48.87,TLR
+2018,Engineering,IR-2-E-OE-U-0037,Sri Venkateswara University,RPC (100),31.55,RPC
+2018,Engineering,IR-2-E-OE-U-0037,Sri Venkateswara University,GO (100),51.45,GO
+2018,Engineering,IR-2-E-OE-U-0037,Sri Venkateswara University,OI (100),50.27,OI
+2018,Engineering,IR-2-E-OE-U-0037,Sri Venkateswara University,PERCEPTION (100),1.06,PR
+2018,Engineering,IR-3-E-OEM-U-0460,Karunya Institute of Technology and Sciences,TLR (100),53.24,TLR
+2018,Engineering,IR-3-E-OEM-U-0460,Karunya Institute of Technology and Sciences,RPC (100),20.03,RPC
+2018,Engineering,IR-3-E-OEM-U-0460,Karunya Institute of Technology and Sciences,GO (100),48.51,GO
+2018,Engineering,IR-3-E-OEM-U-0460,Karunya Institute of Technology and Sciences,OI (100),55.91,OI
+2018,Engineering,IR-3-E-OEM-U-0460,Karunya Institute of Technology and Sciences,PERCEPTION (100),20.02,PR
+2018,Engineering,IR-1-E-E-U-0080,PEC University of Technology,TLR (100),50.81,TLR
+2018,Engineering,IR-1-E-E-U-0080,PEC University of Technology,RPC (100),11.57,RPC
+2018,Engineering,IR-1-E-E-U-0080,PEC University of Technology,GO (100),66.01,GO
+2018,Engineering,IR-1-E-E-U-0080,PEC University of Technology,OI (100),64.18,OI
+2018,Engineering,IR-1-E-E-U-0080,PEC University of Technology,PERCEPTION (100),9.1,PR
+2018,Engineering,IR-1-E-E-U-0374,Dr. B. R. Ambedkar National Institute of Technology,TLR (100),55.33,TLR
+2018,Engineering,IR-1-E-E-U-0374,Dr. B. R. Ambedkar National Institute of Technology,RPC (100),18.26,RPC
+2018,Engineering,IR-1-E-E-U-0374,Dr. B. R. Ambedkar National Institute of Technology,GO (100),59.32,GO
+2018,Engineering,IR-1-E-E-U-0374,Dr. B. R. Ambedkar National Institute of Technology,OI (100),42.06,OI
+2018,Engineering,IR-1-E-E-U-0374,Dr. B. R. Ambedkar National Institute of Technology,PERCEPTION (100),5.04,PR
+2018,Engineering,IR-3-E-EMA-C-43708,College of Engineering Trivandrum,TLR (100),54.94,TLR
+2018,Engineering,IR-3-E-EMA-C-43708,College of Engineering Trivandrum,RPC (100),11.61,RPC
+2018,Engineering,IR-3-E-EMA-C-43708,College of Engineering Trivandrum,GO (100),60.08,GO
+2018,Engineering,IR-3-E-EMA-C-43708,College of Engineering Trivandrum,OI (100),46.18,OI
+2018,Engineering,IR-3-E-EMA-C-43708,College of Engineering Trivandrum,PERCEPTION (100),16.93,PR
+2018,Engineering,IR-2-E-OE-C-36984,Bannari Amman Institute of Technology,TLR (100),58.36,TLR
+2018,Engineering,IR-2-E-OE-C-36984,Bannari Amman Institute of Technology,RPC (100),9.31,RPC
+2018,Engineering,IR-2-E-OE-C-36984,Bannari Amman Institute of Technology,GO (100),53.78,GO
+2018,Engineering,IR-2-E-OE-C-36984,Bannari Amman Institute of Technology,OI (100),49.52,OI
+2018,Engineering,IR-2-E-OE-C-36984,Bannari Amman Institute of Technology,PERCEPTION (100),17.99,PR
+2018,Engineering,IR-2-E-OE-U-0489,Vel Tech Rangarajan Dr. Sagunthala R & D Institute of Science and Technology,TLR (100),52.36,TLR
+2018,Engineering,IR-2-E-OE-U-0489,Vel Tech Rangarajan Dr. Sagunthala R & D Institute of Science and Technology,RPC (100),28.75,RPC
+2018,Engineering,IR-2-E-OE-U-0489,Vel Tech Rangarajan Dr. Sagunthala R & D Institute of Science and Technology,GO (100),38.77,GO
+2018,Engineering,IR-2-E-OE-U-0489,Vel Tech Rangarajan Dr. Sagunthala R & D Institute of Science and Technology,OI (100),53.83,OI
+2018,Engineering,IR-2-E-OE-U-0489,Vel Tech Rangarajan Dr. Sagunthala R & D Institute of Science and Technology,PERCEPTION (100),2.6,PR
+2018,Engineering,IR-1-E-E-C-1297,Siddaganga Institute of Technology,TLR (100),64.23,TLR
+2018,Engineering,IR-1-E-E-C-1297,Siddaganga Institute of Technology,RPC (100),9.26,RPC
+2018,Engineering,IR-1-E-E-C-1297,Siddaganga Institute of Technology,GO (100),52.89,GO
+2018,Engineering,IR-1-E-E-C-1297,Siddaganga Institute of Technology,OI (100),48.79,OI
+2018,Engineering,IR-1-E-E-C-1297,Siddaganga Institute of Technology,PERCEPTION (100),2.09,PR
+2018,Engineering,IR-4-E-OEMA-U-0445,B. S. Abdur Rahman Institute of Science and Technology,TLR (100),63.79,TLR
+2018,Engineering,IR-4-E-OEMA-U-0445,B. S. Abdur Rahman Institute of Science and Technology,RPC (100),11.75,RPC
+2018,Engineering,IR-4-E-OEMA-U-0445,B. S. Abdur Rahman Institute of Science and Technology,GO (100),46.73,GO
+2018,Engineering,IR-4-E-OEMA-U-0445,B. S. Abdur Rahman Institute of Science and Technology,OI (100),44.42,OI
+2018,Engineering,IR-4-E-OEMA-U-0445,B. S. Abdur Rahman Institute of Science and Technology,PERCEPTION (100),11.2,PR
+2018,Engineering,IR-1-E-E-C-27616,University College of Engineering,TLR (100),58.19,TLR
+2018,Engineering,IR-1-E-E-C-27616,University College of Engineering,RPC (100),4.41,RPC
+2018,Engineering,IR-1-E-E-C-27616,University College of Engineering,GO (100),68.69,GO
+2018,Engineering,IR-1-E-E-C-27616,University College of Engineering,OI (100),48.43,OI
+2018,Engineering,IR-1-E-E-C-27616,University College of Engineering,PERCEPTION (100),1.58,PR
+2018,Engineering,IR-1-E-E-U-0092,National Institute of Technology Raipur,TLR (100),53.28,TLR
+2018,Engineering,IR-1-E-E-U-0092,National Institute of Technology Raipur,RPC (100),16.68,RPC
+2018,Engineering,IR-1-E-E-U-0092,National Institute of Technology Raipur,GO (100),55.99,GO
+2018,Engineering,IR-1-E-E-U-0092,National Institute of Technology Raipur,OI (100),50.27,OI
+2018,Engineering,IR-1-E-E-U-0092,National Institute of Technology Raipur,PERCEPTION (100),1.58,PR
+2018,Engineering,IR-3-E-OEM-C-36926,Kumaraguru College of Technology,TLR (100),57.39,TLR
+2018,Engineering,IR-3-E-OEM-C-36926,Kumaraguru College of Technology,RPC (100),7.31,RPC
+2018,Engineering,IR-3-E-OEM-C-36926,Kumaraguru College of Technology,GO (100),57.61,GO
+2018,Engineering,IR-3-E-OEM-C-36926,Kumaraguru College of Technology,OI (100),49.4,OI
+2018,Engineering,IR-3-E-OEM-C-36926,Kumaraguru College of Technology,PERCEPTION (100),13.2,PR
+2018,Engineering,IR-1-E-E-C-41309,Bharati Vidyapeeth Deemed University College of Engineering,TLR (100),52.34,TLR
+2018,Engineering,IR-1-E-E-C-41309,Bharati Vidyapeeth Deemed University College of Engineering,RPC (100),7.37,RPC
+2018,Engineering,IR-1-E-E-C-41309,Bharati Vidyapeeth Deemed University College of Engineering,GO (100),59.5,GO
+2018,Engineering,IR-1-E-E-C-41309,Bharati Vidyapeeth Deemed University College of Engineering,OI (100),65.63,OI
+2018,Engineering,IR-1-E-E-C-41309,Bharati Vidyapeeth Deemed University College of Engineering,PERCEPTION (100),6.44,PR
+2018,Engineering,IR-2-E-OE-U-0186,Jaypee University of Information Technology,TLR (100),45.26,TLR
+2018,Engineering,IR-2-E-OE-U-0186,Jaypee University of Information Technology,RPC (100),16.66,RPC
+2018,Engineering,IR-2-E-OE-U-0186,Jaypee University of Information Technology,GO (100),53.23,GO
+2018,Engineering,IR-2-E-OE-U-0186,Jaypee University of Information Technology,OI (100),55.7,OI
+2018,Engineering,IR-2-E-OE-U-0186,Jaypee University of Information Technology,PERCEPTION (100),21.96,PR
+2018,Engineering,IR-2-E-OE-C-24163,Sagi Ramakrishnam Raju Engineering College,TLR (100),61.09,TLR
+2018,Engineering,IR-2-E-OE-C-24163,Sagi Ramakrishnam Raju Engineering College,RPC (100),1.68,RPC
+2018,Engineering,IR-2-E-OE-C-24163,Sagi Ramakrishnam Raju Engineering College,GO (100),58.2,GO
+2018,Engineering,IR-2-E-OE-C-24163,Sagi Ramakrishnam Raju Engineering College,OI (100),62.1,OI
+2018,Engineering,IR-2-E-OE-C-24163,Sagi Ramakrishnam Raju Engineering College,PERCEPTION (100),2.09,PR
+2018,Engineering,IR-5-E-OEMAL-U-0099,Guru Gobind Singh Indraprastha University,TLR (100),42.73,TLR
+2018,Engineering,IR-5-E-OEMAL-U-0099,Guru Gobind Singh Indraprastha University,RPC (100),26.82,RPC
+2018,Engineering,IR-5-E-OEMAL-U-0099,Guru Gobind Singh Indraprastha University,GO (100),54.91,GO
+2018,Engineering,IR-5-E-OEMAL-U-0099,Guru Gobind Singh Indraprastha University,OI (100),49.28,OI
+2018,Engineering,IR-5-E-OEMAL-U-0099,Guru Gobind Singh Indraprastha University,PERCEPTION (100),1.06,PR
+2018,Engineering,IR-3-E-OEM-U-0733,PES University,TLR (100),51.56,TLR
+2018,Engineering,IR-3-E-OEM-U-0733,PES University,RPC (100),12.16,RPC
+2018,Engineering,IR-3-E-OEM-U-0733,PES University,GO (100),54.62,GO
+2018,Engineering,IR-3-E-OEM-U-0733,PES University,OI (100),60.91,OI
+2018,Engineering,IR-3-E-OEM-U-0733,PES University,PERCEPTION (100),7.35,PR
+2018,Engineering,IR-1-E-E-C-42054,Army Institute of Technology,TLR (100),54.67,TLR
+2018,Engineering,IR-1-E-E-C-42054,Army Institute of Technology,RPC (100),2.33,RPC
+2018,Engineering,IR-1-E-E-C-42054,Army Institute of Technology,GO (100),64.84,GO
+2018,Engineering,IR-1-E-E-C-42054,Army Institute of Technology,OI (100),60.38,OI
+2018,Engineering,IR-1-E-E-C-42054,Army Institute of Technology,PERCEPTION (100),5.97,PR
+2018,Engineering,IR-1-E-E-C-30045,C. V. Raman College of Engineering,TLR (100),54.87,TLR
+2018,Engineering,IR-1-E-E-C-30045,C. V. Raman College of Engineering,RPC (100),6.82,RPC
+2018,Engineering,IR-1-E-E-C-30045,C. V. Raman College of Engineering,GO (100),60.98,GO
+2018,Engineering,IR-1-E-E-C-30045,C. V. Raman College of Engineering,OI (100),56.29,OI
+2018,Engineering,IR-1-E-E-C-30045,C. V. Raman College of Engineering,PERCEPTION (100),3.59,PR
+2018,Engineering,IR-1-E-E-U-0516,Indian Institute of Information Technology Allahabad,TLR (100),39.58,TLR
+2018,Engineering,IR-1-E-E-U-0516,Indian Institute of Information Technology Allahabad,RPC (100),17.27,RPC
+2018,Engineering,IR-1-E-E-U-0516,Indian Institute of Information Technology Allahabad,GO (100),67.6,GO
+2018,Engineering,IR-1-E-E-U-0516,Indian Institute of Information Technology Allahabad,OI (100),44.05,OI
+2018,Engineering,IR-1-E-E-U-0516,Indian Institute of Information Technology Allahabad,PERCEPTION (100),16.21,PR
+2018,Engineering,IR-1-E-E-U-0286,"Pandit Dwarka Prasad Mishra Indian Institute of Information Technology, Design and Manufacturing (IIITDM) Jabalpur",TLR (100),41.04,TLR
+2018,Engineering,IR-1-E-E-U-0286,"Pandit Dwarka Prasad Mishra Indian Institute of Information Technology, Design and Manufacturing (IIITDM) Jabalpur",RPC (100),24.86,RPC
+2018,Engineering,IR-1-E-E-U-0286,"Pandit Dwarka Prasad Mishra Indian Institute of Information Technology, Design and Manufacturing (IIITDM) Jabalpur",GO (100),59.84,GO
+2018,Engineering,IR-1-E-E-U-0286,"Pandit Dwarka Prasad Mishra Indian Institute of Information Technology, Design and Manufacturing (IIITDM) Jabalpur",OI (100),43.74,OI
+2018,Engineering,IR-1-E-E-U-0286,"Pandit Dwarka Prasad Mishra Indian Institute of Information Technology, Design and Manufacturing (IIITDM) Jabalpur",PERCEPTION (100),3.09,PR
+2018,Engineering,IR-1-E-E-U-0493,National Institute of Technology Agartala,TLR (100),54.42,TLR
+2018,Engineering,IR-1-E-E-U-0493,National Institute of Technology Agartala,RPC (100),20.09,RPC
+2018,Engineering,IR-1-E-E-U-0493,National Institute of Technology Agartala,GO (100),46.76,GO
+2018,Engineering,IR-1-E-E-U-0493,National Institute of Technology Agartala,OI (100),42.46,OI
+2018,Engineering,IR-1-E-E-U-0493,National Institute of Technology Agartala,PERCEPTION (100),4.08,PR
+2018,Engineering,IR-1-E-E-C-36975,Government College of Technology,TLR (100),50.86,TLR
+2018,Engineering,IR-1-E-E-C-36975,Government College of Technology,RPC (100),8.46,RPC
+2018,Engineering,IR-1-E-E-C-36975,Government College of Technology,GO (100),50.37,GO
+2018,Engineering,IR-1-E-E-C-36975,Government College of Technology,OI (100),55.9,OI
+2018,Engineering,IR-1-E-E-C-36975,Government College of Technology,PERCEPTION (100),28.93,PR
+2018,Engineering,IR-4-E-OEMA-U-0201,Shri Mata Vaishno Devi University,TLR (100),65.02,TLR
+2018,Engineering,IR-4-E-OEMA-U-0201,Shri Mata Vaishno Devi University,RPC (100),12.58,RPC
+2018,Engineering,IR-4-E-OEMA-U-0201,Shri Mata Vaishno Devi University,GO (100),47.97,GO
+2018,Engineering,IR-4-E-OEMA-U-0201,Shri Mata Vaishno Devi University,OI (100),34.12,OI
+2018,Engineering,IR-4-E-OEMA-U-0201,Shri Mata Vaishno Devi University,PERCEPTION (100),0.0,PR
+2018,Engineering,IR-1-E-E-C-33641,Veermata Jijabai Technological Institute,TLR (100),49.39,TLR
+2018,Engineering,IR-1-E-E-C-33641,Veermata Jijabai Technological Institute,RPC (100),11.82,RPC
+2018,Engineering,IR-1-E-E-C-33641,Veermata Jijabai Technological Institute,GO (100),67.69,GO
+2018,Engineering,IR-1-E-E-C-33641,Veermata Jijabai Technological Institute,OI (100),37.26,OI
+2018,Engineering,IR-1-E-E-C-33641,Veermata Jijabai Technological Institute,PERCEPTION (100),5.97,PR
+2018,Engineering,IR-4-E-OEMA-U-0458,Kalasalingam Academy of Research and Higher Education,TLR (100),59.06,TLR
+2018,Engineering,IR-4-E-OEMA-U-0458,Kalasalingam Academy of Research and Higher Education,RPC (100),12.3,RPC
+2018,Engineering,IR-4-E-OEMA-U-0458,Kalasalingam Academy of Research and Higher Education,GO (100),48.68,GO
+2018,Engineering,IR-4-E-OEMA-U-0458,Kalasalingam Academy of Research and Higher Education,OI (100),47.64,OI
+2018,Engineering,IR-4-E-OEMA-U-0458,Kalasalingam Academy of Research and Higher Education,PERCEPTION (100),3.09,PR
+2018,Engineering,IR-2-E-EP-C-18154,University College of Engingeering,TLR (100),56.04,TLR
+2018,Engineering,IR-2-E-EP-C-18154,University College of Engingeering,RPC (100),5.7,RPC
+2018,Engineering,IR-2-E-EP-C-18154,University College of Engingeering,GO (100),61.37,GO
+2018,Engineering,IR-2-E-EP-C-18154,University College of Engingeering,OI (100),53.06,OI
+2018,Engineering,IR-2-E-EP-C-18154,University College of Engingeering,PERCEPTION (100),0.0,PR
+2018,Engineering,IR-2-E-OE-U-0619,National Institute of Technology Meghalaya,TLR (100),63.62,TLR
+2018,Engineering,IR-2-E-OE-U-0619,National Institute of Technology Meghalaya,RPC (100),11.41,RPC
+2018,Engineering,IR-2-E-OE-U-0619,National Institute of Technology Meghalaya,GO (100),48.19,GO
+2018,Engineering,IR-2-E-OE-U-0619,National Institute of Technology Meghalaya,OI (100),35.93,OI
+2018,Engineering,IR-2-E-OE-U-0619,National Institute of Technology Meghalaya,PERCEPTION (100),2.6,PR
+2018,Engineering,IR-1-E-E-C-1371,New Horizon College of Engineering,TLR (100),57.0,TLR
+2018,Engineering,IR-1-E-E-C-1371,New Horizon College of Engineering,RPC (100),2.23,RPC
+2018,Engineering,IR-1-E-E-C-1371,New Horizon College of Engineering,GO (100),62.4,GO
+2018,Engineering,IR-1-E-E-C-1371,New Horizon College of Engineering,OI (100),56.96,OI
+2018,Engineering,IR-1-E-E-C-1371,New Horizon College of Engineering,PERCEPTION (100),0.0,PR
+2018,Engineering,IR-1-E-E-C-1352,NITTE Meenakshi Institute of Technology,TLR (100),57.24,TLR
+2018,Engineering,IR-1-E-E-C-1352,NITTE Meenakshi Institute of Technology,RPC (100),2.53,RPC
+2018,Engineering,IR-1-E-E-C-1352,NITTE Meenakshi Institute of Technology,GO (100),57.97,GO
+2018,Engineering,IR-1-E-E-C-1352,NITTE Meenakshi Institute of Technology,OI (100),57.19,OI
+2018,Engineering,IR-1-E-E-C-1352,NITTE Meenakshi Institute of Technology,PERCEPTION (100),5.97,PR

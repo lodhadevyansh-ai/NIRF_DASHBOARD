@@ -1,0 +1,151 @@
+year,category,institute_id,institute_name,parameter_name,parameter_score,canonical_parameter
+2019,Medical,IR-D-N-15,All India Institute of Medical Sciences,TLR (100),91.81,TLR
+2019,Medical,IR-D-N-15,All India Institute of Medical Sciences,RPC (100),96.18,RPC
+2019,Medical,IR-D-N-15,All India Institute of Medical Sciences,GO (100),66.91,GO
+2019,Medical,IR-D-N-15,All India Institute of Medical Sciences,OI (100),77.43,OI
+2019,Medical,IR-D-N-15,All India Institute of Medical Sciences,PERCEPTION (100),100.0,PR
+2019,Medical,IR-D-U-0079,Post Graduate Institute of Medical Education and Research,TLR (100),78.6,TLR
+2019,Medical,IR-D-U-0079,Post Graduate Institute of Medical Education and Research,RPC (100),84.47,RPC
+2019,Medical,IR-D-U-0079,Post Graduate Institute of Medical Education and Research,GO (100),76.99,GO
+2019,Medical,IR-D-U-0079,Post Graduate Institute of Medical Education and Research,OI (100),70.74,OI
+2019,Medical,IR-D-U-0079,Post Graduate Institute of Medical Education and Research,PERCEPTION (100),64.87,PR
+2019,Medical,IR-D-C-45654,Christian Medical College,TLR (100),81.92,TLR
+2019,Medical,IR-D-C-45654,Christian Medical College,RPC (100),49.27,RPC
+2019,Medical,IR-D-C-45654,Christian Medical College,GO (100),75.52,GO
+2019,Medical,IR-D-C-45654,Christian Medical College,OI (100),65.89,OI
+2019,Medical,IR-D-C-45654,Christian Medical College,PERCEPTION (100),92.74,PR
+2019,Medical,IR-D-N-33,Sanjay Gandhi Postgraduate Institute of Medical Sciences,TLR (100),74.88,TLR
+2019,Medical,IR-D-N-33,Sanjay Gandhi Postgraduate Institute of Medical Sciences,RPC (100),57.16,RPC
+2019,Medical,IR-D-N-33,Sanjay Gandhi Postgraduate Institute of Medical Sciences,GO (100),79.65,GO
+2019,Medical,IR-D-N-33,Sanjay Gandhi Postgraduate Institute of Medical Sciences,OI (100),46.08,OI
+2019,Medical,IR-D-N-33,Sanjay Gandhi Postgraduate Institute of Medical Sciences,PERCEPTION (100),40.11,PR
+2019,Medical,IR-D-U-0436,Amrita Institute of Medical Sciences & Research,TLR (100),75.62,TLR
+2019,Medical,IR-D-U-0436,Amrita Institute of Medical Sciences & Research,RPC (100),43.15,RPC
+2019,Medical,IR-D-U-0436,Amrita Institute of Medical Sciences & Research,GO (100),73.16,GO
+2019,Medical,IR-D-U-0436,Amrita Institute of Medical Sciences & Research,OI (100),74.49,OI
+2019,Medical,IR-D-U-0436,Amrita Institute of Medical Sciences & Research,PERCEPTION (100),51.33,PR
+2019,Medical,IR-D-U-0500,Banaras Hindu University,TLR (100),70.57,TLR
+2019,Medical,IR-D-U-0500,Banaras Hindu University,RPC (100),50.95,RPC
+2019,Medical,IR-D-U-0500,Banaras Hindu University,GO (100),76.45,GO
+2019,Medical,IR-D-U-0500,Banaras Hindu University,OI (100),55.29,OI
+2019,Medical,IR-D-U-0500,Banaras Hindu University,PERCEPTION (100),43.8,PR
+2019,Medical,IR-D-C-7242,Kasturba Medical College,TLR (100),67.41,TLR
+2019,Medical,IR-D-C-7242,Kasturba Medical College,RPC (100),41.11,RPC
+2019,Medical,IR-D-C-7242,Kasturba Medical College,GO (100),73.69,GO
+2019,Medical,IR-D-C-7242,Kasturba Medical College,OI (100),73.81,OI
+2019,Medical,IR-D-C-7242,Kasturba Medical College,PERCEPTION (100),67.29,PR
+2019,Medical,IR-D-U-0368,Jawaharlal Institute of Post Graduate Medical Education & Research,TLR (100),73.83,TLR
+2019,Medical,IR-D-U-0368,Jawaharlal Institute of Post Graduate Medical Education & Research,RPC (100),38.52,RPC
+2019,Medical,IR-D-U-0368,Jawaharlal Institute of Post Graduate Medical Education & Research,GO (100),64.88,GO
+2019,Medical,IR-D-U-0368,Jawaharlal Institute of Post Graduate Medical Education & Research,OI (100),65.74,OI
+2019,Medical,IR-D-U-0368,Jawaharlal Institute of Post Graduate Medical Education & Research,PERCEPTION (100),81.15,PR
+2019,Medical,IR-D-U-0106,Institute of Liver and Biliary Sciences,TLR (100),89.46,TLR
+2019,Medical,IR-D-U-0106,Institute of Liver and Biliary Sciences,RPC (100),36.88,RPC
+2019,Medical,IR-D-U-0106,Institute of Liver and Biliary Sciences,GO (100),69.96,GO
+2019,Medical,IR-D-U-0106,Institute of Liver and Biliary Sciences,OI (100),57.15,OI
+2019,Medical,IR-D-U-0106,Institute of Liver and Biliary Sciences,PERCEPTION (100),21.81,PR
+2019,Medical,IR-D-U-0523,King George`s Medical University,TLR (100),71.17,TLR
+2019,Medical,IR-D-U-0523,King George`s Medical University,RPC (100),42.55,RPC
+2019,Medical,IR-D-U-0523,King George`s Medical University,GO (100),73.14,GO
+2019,Medical,IR-D-U-0523,King George`s Medical University,OI (100),53.54,OI
+2019,Medical,IR-D-U-0523,King George`s Medical University,PERCEPTION (100),44.39,PR
+2019,Medical,IR-D-I-1486,Sri Ramachandra Institute of Higher Education and Research,TLR (100),71.36,TLR
+2019,Medical,IR-D-I-1486,Sri Ramachandra Institute of Higher Education and Research,RPC (100),31.45,RPC
+2019,Medical,IR-D-I-1486,Sri Ramachandra Institute of Higher Education and Research,GO (100),81.19,GO
+2019,Medical,IR-D-I-1486,Sri Ramachandra Institute of Higher Education and Research,OI (100),62.29,OI
+2019,Medical,IR-D-I-1486,Sri Ramachandra Institute of Higher Education and Research,PERCEPTION (100),51.33,PR
+2019,Medical,IR-D-C-40453,St. John's Medical College,TLR (100),73.09,TLR
+2019,Medical,IR-D-C-40453,St. John's Medical College,RPC (100),27.53,RPC
+2019,Medical,IR-D-C-40453,St. John's Medical College,GO (100),74.14,GO
+2019,Medical,IR-D-C-40453,St. John's Medical College,OI (100),67.29,OI
+2019,Medical,IR-D-C-40453,St. John's Medical College,PERCEPTION (100),49.32,PR
+2019,Medical,IR-D-U-0496,Aligarh Muslim University,TLR (100),67.26,TLR
+2019,Medical,IR-D-U-0496,Aligarh Muslim University,RPC (100),38.1,RPC
+2019,Medical,IR-D-U-0496,Aligarh Muslim University,GO (100),84.24,GO
+2019,Medical,IR-D-U-0496,Aligarh Muslim University,OI (100),59.8,OI
+2019,Medical,IR-D-U-0496,Aligarh Muslim University,PERCEPTION (100),13.55,PR
+2019,Medical,IR-D-C-6414,Maulana Azad Medical College,TLR (100),69.71,TLR
+2019,Medical,IR-D-C-6414,Maulana Azad Medical College,RPC (100),28.99,RPC
+2019,Medical,IR-D-C-6414,Maulana Azad Medical College,GO (100),72.86,GO
+2019,Medical,IR-D-C-6414,Maulana Azad Medical College,OI (100),53.87,OI
+2019,Medical,IR-D-C-6414,Maulana Azad Medical College,PERCEPTION (100),44.39,PR
+2019,Medical,IR-D-U-0107,Jamia Hamdard,TLR (100),66.4,TLR
+2019,Medical,IR-D-U-0107,Jamia Hamdard,RPC (100),42.67,RPC
+2019,Medical,IR-D-U-0107,Jamia Hamdard,GO (100),48.86,GO
+2019,Medical,IR-D-U-0107,Jamia Hamdard,OI (100),72.3,OI
+2019,Medical,IR-D-U-0107,Jamia Hamdard,PERCEPTION (100),19.76,PR
+2019,Medical,IR-D-C-7251,Kasturba Medical College,TLR (100),65.74,TLR
+2019,Medical,IR-D-C-7251,Kasturba Medical College,RPC (100),22.21,RPC
+2019,Medical,IR-D-C-7251,Kasturba Medical College,GO (100),70.05,GO
+2019,Medical,IR-D-C-7251,Kasturba Medical College,OI (100),70.65,OI
+2019,Medical,IR-D-C-7251,Kasturba Medical College,PERCEPTION (100),37.79,PR
+2019,Medical,IR-D-C-35009,JSS Medical College,TLR (100),68.72,TLR
+2019,Medical,IR-D-C-35009,JSS Medical College,RPC (100),19.01,RPC
+2019,Medical,IR-D-C-35009,JSS Medical College,GO (100),68.14,GO
+2019,Medical,IR-D-C-35009,JSS Medical College,OI (100),71.3,OI
+2019,Medical,IR-D-C-35009,JSS Medical College,PERCEPTION (100),34.97,PR
+2019,Medical,IR-D-C-29209,Christian Medical College,TLR (100),68.43,TLR
+2019,Medical,IR-D-C-29209,Christian Medical College,RPC (100),28.8,RPC
+2019,Medical,IR-D-C-29209,Christian Medical College,GO (100),60.67,GO
+2019,Medical,IR-D-C-29209,Christian Medical College,OI (100),64.78,OI
+2019,Medical,IR-D-C-29209,Christian Medical College,PERCEPTION (100),26.52,PR
+2019,Medical,IR-D-C-32922,Vardhman Mahavir Medical College & Safdarjung Hospital,TLR (100),71.64,TLR
+2019,Medical,IR-D-C-32922,Vardhman Mahavir Medical College & Safdarjung Hospital,RPC (100),27.66,RPC
+2019,Medical,IR-D-C-32922,Vardhman Mahavir Medical College & Safdarjung Hospital,GO (100),64.68,GO
+2019,Medical,IR-D-C-32922,Vardhman Mahavir Medical College & Safdarjung Hospital,OI (100),57.5,OI
+2019,Medical,IR-D-C-32922,Vardhman Mahavir Medical College & Safdarjung Hospital,PERCEPTION (100),17.05,PR
+2019,Medical,IR-D-I-1110,Dr. D. Y. Patil Vidyapeeth,TLR (100),71.5,TLR
+2019,Medical,IR-D-I-1110,Dr. D. Y. Patil Vidyapeeth,RPC (100),17.1,RPC
+2019,Medical,IR-D-I-1110,Dr. D. Y. Patil Vidyapeeth,GO (100),70.9,GO
+2019,Medical,IR-D-I-1110,Dr. D. Y. Patil Vidyapeeth,OI (100),71.31,OI
+2019,Medical,IR-D-I-1110,Dr. D. Y. Patil Vidyapeeth,PERCEPTION (100),19.23,PR
+2019,Medical,IR-D-U-0363,Siksha `O` Anusandhan,TLR (100),69.71,TLR
+2019,Medical,IR-D-U-0363,Siksha `O` Anusandhan,RPC (100),16.55,RPC
+2019,Medical,IR-D-U-0363,Siksha `O` Anusandhan,GO (100),70.5,GO
+2019,Medical,IR-D-U-0363,Siksha `O` Anusandhan,OI (100),64.65,OI
+2019,Medical,IR-D-U-0363,Siksha `O` Anusandhan,PERCEPTION (100),31.16,PR
+2019,Medical,IR-D-U-0473,SRM Institute of Science and Technology,TLR (100),65.24,TLR
+2019,Medical,IR-D-U-0473,SRM Institute of Science and Technology,RPC (100),27.59,RPC
+2019,Medical,IR-D-U-0473,SRM Institute of Science and Technology,GO (100),66.91,GO
+2019,Medical,IR-D-U-0473,SRM Institute of Science and Technology,OI (100),56.81,OI
+2019,Medical,IR-D-U-0473,SRM Institute of Science and Technology,PERCEPTION (100),22.3,PR
+2019,Medical,IR-D-I-1409,University College of Medical Sciences,TLR (100),65.24,TLR
+2019,Medical,IR-D-I-1409,University College of Medical Sciences,RPC (100),39.99,RPC
+2019,Medical,IR-D-I-1409,University College of Medical Sciences,GO (100),44.43,GO
+2019,Medical,IR-D-I-1409,University College of Medical Sciences,OI (100),55.84,OI
+2019,Medical,IR-D-I-1409,University College of Medical Sciences,PERCEPTION (100),26.52,PR
+2019,Medical,IR-D-C-29255,Dayanand Medical College,TLR (100),76.81,TLR
+2019,Medical,IR-D-C-29255,Dayanand Medical College,RPC (100),16.78,RPC
+2019,Medical,IR-D-C-29255,Dayanand Medical College,GO (100),67.61,GO
+2019,Medical,IR-D-C-29255,Dayanand Medical College,OI (100),55.02,OI
+2019,Medical,IR-D-C-29255,Dayanand Medical College,PERCEPTION (100),9.05,PR
+2019,Medical,IR-D-I-1441,Saveetha Institute of Medical and Technical Sciences,TLR (100),69.01,TLR
+2019,Medical,IR-D-I-1441,Saveetha Institute of Medical and Technical Sciences,RPC (100),16.02,RPC
+2019,Medical,IR-D-I-1441,Saveetha Institute of Medical and Technical Sciences,GO (100),69.72,GO
+2019,Medical,IR-D-I-1441,Saveetha Institute of Medical and Technical Sciences,OI (100),66.09,OI
+2019,Medical,IR-D-I-1441,Saveetha Institute of Medical and Technical Sciences,PERCEPTION (100),13.55,PR
+2019,Medical,IR-D-U-0443,Annamalai University,TLR (100),60.87,TLR
+2019,Medical,IR-D-U-0443,Annamalai University,RPC (100),23.42,RPC
+2019,Medical,IR-D-U-0443,Annamalai University,GO (100),61.58,GO
+2019,Medical,IR-D-U-0443,Annamalai University,OI (100),51.06,OI
+2019,Medical,IR-D-U-0443,Annamalai University,PERCEPTION (100),39.13,PR
+2019,Medical,IR-D-C-40345,M. S. Ramaiah Medical College,TLR (100),71.03,TLR
+2019,Medical,IR-D-C-40345,M. S. Ramaiah Medical College,RPC (100),13.08,RPC
+2019,Medical,IR-D-C-40345,M. S. Ramaiah Medical College,GO (100),57.17,GO
+2019,Medical,IR-D-C-40345,M. S. Ramaiah Medical College,OI (100),63.13,OI
+2019,Medical,IR-D-C-40345,M. S. Ramaiah Medical College,PERCEPTION (100),36.4,PR
+2019,Medical,IR-D-C-9435,Regional Institute of Medical Sciences,TLR (100),68.63,TLR
+2019,Medical,IR-D-C-9435,Regional Institute of Medical Sciences,RPC (100),11.24,RPC
+2019,Medical,IR-D-C-9435,Regional Institute of Medical Sciences,GO (100),67.21,GO
+2019,Medical,IR-D-C-9435,Regional Institute of Medical Sciences,OI (100),62.47,OI
+2019,Medical,IR-D-C-9435,Regional Institute of Medical Sciences,PERCEPTION (100),29.53,PR
+2019,Medical,IR-D-U-0036,Sri Venkateswara Institute of Medical Sciences,TLR (100),70.49,TLR
+2019,Medical,IR-D-U-0036,Sri Venkateswara Institute of Medical Sciences,RPC (100),9.44,RPC
+2019,Medical,IR-D-U-0036,Sri Venkateswara Institute of Medical Sciences,GO (100),72.42,GO
+2019,Medical,IR-D-U-0036,Sri Venkateswara Institute of Medical Sciences,OI (100),51.43,OI
+2019,Medical,IR-D-U-0036,Sri Venkateswara Institute of Medical Sciences,PERCEPTION (100),27.84,PR
+2019,Medical,IR-D-U-0356,Kalinga Institute of Industrial Technology,TLR (100),68.18,TLR
+2019,Medical,IR-D-U-0356,Kalinga Institute of Industrial Technology,RPC (100),15.43,RPC
+2019,Medical,IR-D-U-0356,Kalinga Institute of Industrial Technology,GO (100),57.72,GO
+2019,Medical,IR-D-U-0356,Kalinga Institute of Industrial Technology,OI (100),67.65,OI
+2019,Medical,IR-D-U-0356,Kalinga Institute of Industrial Technology,PERCEPTION (100),29.12,PR

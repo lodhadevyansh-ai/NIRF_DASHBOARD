@@ -1,0 +1,251 @@
+year,category,institute_id,institute_name,parameter_name,parameter_score,canonical_parameter
+2025,State Public University,IR-O-U-0575,Jadavpur University,TLR (100),77.17,TLR
+2025,State Public University,IR-O-U-0575,Jadavpur University,RPC (100),70.1,RPC
+2025,State Public University,IR-O-U-0575,Jadavpur University,GO (100),92.99,GO
+2025,State Public University,IR-O-U-0575,Jadavpur University,OI (100),53.76,OI
+2025,State Public University,IR-O-U-0575,Jadavpur University,PERCEPTION (100),79.22,PR
+2025,State Public University,IR-O-U-0439,Anna University,TLR (100),75.4,TLR
+2025,State Public University,IR-O-U-0439,Anna University,RPC (100),79.59,RPC
+2025,State Public University,IR-O-U-0439,Anna University,GO (100),71.94,GO
+2025,State Public University,IR-O-U-0439,Anna University,OI (100),51.66,OI
+2025,State Public University,IR-O-U-0439,Anna University,PERCEPTION (100),100.0,PR
+2025,State Public University,IR-O-U-0078,Panjab University,TLR (100),66.79,TLR
+2025,State Public University,IR-O-U-0078,Panjab University,RPC (100),62.14,RPC
+2025,State Public University,IR-O-U-0078,Panjab University,GO (100),85.71,GO
+2025,State Public University,IR-O-U-0078,Panjab University,OI (100),74.17,OI
+2025,State Public University,IR-O-U-0078,Panjab University,PERCEPTION (100),66.75,PR
+2025,State Public University,IR-O-U-0006,"Andhra University, Visakhapatnam",TLR (100),78.85,TLR
+2025,State Public University,IR-O-U-0006,"Andhra University, Visakhapatnam",RPC (100),44.73,RPC
+2025,State Public University,IR-O-U-0006,"Andhra University, Visakhapatnam",GO (100),91.57,GO
+2025,State Public University,IR-O-U-0006,"Andhra University, Visakhapatnam",OI (100),82.19,OI
+2025,State Public University,IR-O-U-0006,"Andhra University, Visakhapatnam",PERCEPTION (100),53.05,PR
+2025,State Public University,IR-O-U-0260,Kerala University,TLR (100),74.88,TLR
+2025,State Public University,IR-O-U-0260,Kerala University,RPC (100),47.75,RPC
+2025,State Public University,IR-O-U-0260,Kerala University,GO (100),100.0,GO
+2025,State Public University,IR-O-U-0260,Kerala University,OI (100),69.12,OI
+2025,State Public University,IR-O-U-0260,Kerala University,PERCEPTION (100),42.37,PR
+2025,State Public University,IR-O-U-0253,Cochin University of Science and Technology,TLR (100),75.3,TLR
+2025,State Public University,IR-O-U-0253,Cochin University of Science and Technology,RPC (100),59.32,RPC
+2025,State Public University,IR-O-U-0253,Cochin University of Science and Technology,GO (100),79.62,GO
+2025,State Public University,IR-O-U-0253,Cochin University of Science and Technology,OI (100),61.76,OI
+2025,State Public University,IR-O-U-0253,Cochin University of Science and Technology,PERCEPTION (100),37.47,PR
+2025,State Public University,IR-O-U-0027,Osmania University,TLR (100),78.29,TLR
+2025,State Public University,IR-O-U-0027,Osmania University,RPC (100),42.88,RPC
+2025,State Public University,IR-O-U-0027,Osmania University,GO (100),91.92,GO
+2025,State Public University,IR-O-U-0027,Osmania University,OI (100),61.57,OI
+2025,State Public University,IR-O-U-0027,Osmania University,PERCEPTION (100),47.5,PR
+2025,State Public University,IR-O-U-0196,University of Kashmir,TLR (100),81.55,TLR
+2025,State Public University,IR-O-U-0196,University of Kashmir,RPC (100),48.77,RPC
+2025,State Public University,IR-O-U-0196,University of Kashmir,GO (100),84.3,GO
+2025,State Public University,IR-O-U-0196,University of Kashmir,OI (100),50.9,OI
+2025,State Public University,IR-O-U-0196,University of Kashmir,PERCEPTION (100),41.23,PR
+2025,State Public University,IR-O-U-0052,Gauhati University,TLR (100),75.68,TLR
+2025,State Public University,IR-O-U-0052,Gauhati University,RPC (100),39.32,RPC
+2025,State Public University,IR-O-U-0052,Gauhati University,GO (100),94.6,GO
+2025,State Public University,IR-O-U-0052,Gauhati University,OI (100),67.08,OI
+2025,State Public University,IR-O-U-0052,Gauhati University,PERCEPTION (100),41.03,PR
+2025,State Public University,IR-O-U-0447,Bharathiar University,TLR (100),65.39,TLR
+2025,State Public University,IR-O-U-0447,Bharathiar University,RPC (100),56.96,RPC
+2025,State Public University,IR-O-U-0447,Bharathiar University,GO (100),81.03,GO
+2025,State Public University,IR-O-U-0447,Bharathiar University,OI (100),53.66,OI
+2025,State Public University,IR-O-U-0447,Bharathiar University,PERCEPTION (100),58.04,PR
+2025,State Public University,IR-O-U-0323,Savitribai Phule Pune University,TLR (100),64.94,TLR
+2025,State Public University,IR-O-U-0323,Savitribai Phule Pune University,RPC (100),54.64,RPC
+2025,State Public University,IR-O-U-0323,Savitribai Phule Pune University,GO (100),84.27,GO
+2025,State Public University,IR-O-U-0323,Savitribai Phule Pune University,OI (100),52.24,OI
+2025,State Public University,IR-O-U-0323,Savitribai Phule Pune University,PERCEPTION (100),56.35,PR
+2025,State Public University,IR-O-U-0318,Mumbai University,TLR (100),78.15,TLR
+2025,State Public University,IR-O-U-0318,Mumbai University,RPC (100),35.16,RPC
+2025,State Public University,IR-O-U-0318,Mumbai University,GO (100),93.32,GO
+2025,State Public University,IR-O-U-0318,Mumbai University,OI (100),60.6,OI
+2025,State Public University,IR-O-U-0318,Mumbai University,PERCEPTION (100),48.43,PR
+2025,State Public University,IR-O-U-0098,Delhi Technological University,TLR (100),66.83,TLR
+2025,State Public University,IR-O-U-0098,Delhi Technological University,RPC (100),56.96,RPC
+2025,State Public University,IR-O-U-0098,Delhi Technological University,GO (100),74.51,GO
+2025,State Public University,IR-O-U-0098,Delhi Technological University,OI (100),63.74,OI
+2025,State Public University,IR-O-U-0098,Delhi Technological University,PERCEPTION (100),50.86,PR
+2025,State Public University,IR-O-U-0435,Alagappa University,TLR (100),68.41,TLR
+2025,State Public University,IR-O-U-0435,Alagappa University,RPC (100),48.13,RPC
+2025,State Public University,IR-O-U-0435,Alagappa University,GO (100),76.85,GO
+2025,State Public University,IR-O-U-0435,Alagappa University,OI (100),56.26,OI
+2025,State Public University,IR-O-U-0435,Alagappa University,PERCEPTION (100),68.64,PR
+2025,State Public University,IR-O-U-0570,Calcutta University,TLR (100),68.04,TLR
+2025,State Public University,IR-O-U-0570,Calcutta University,RPC (100),49.59,RPC
+2025,State Public University,IR-O-U-0570,Calcutta University,GO (100),93.25,GO
+2025,State Public University,IR-O-U-0570,Calcutta University,OI (100),52.07,OI
+2025,State Public University,IR-O-U-0570,Calcutta University,PERCEPTION (100),36.02,PR
+2025,State Public University,IR-O-U-0448,Bharathidasan University,TLR (100),64.73,TLR
+2025,State Public University,IR-O-U-0448,Bharathidasan University,RPC (100),52.11,RPC
+2025,State Public University,IR-O-U-0448,Bharathidasan University,GO (100),88.75,GO
+2025,State Public University,IR-O-U-0448,Bharathidasan University,OI (100),51.91,OI
+2025,State Public University,IR-O-U-0448,Bharathidasan University,PERCEPTION (100),44.62,PR
+2025,State Public University,IR-O-U-0262,"Mahatma Gandhi University, Kottayam",TLR (100),74.01,TLR
+2025,State Public University,IR-O-U-0262,"Mahatma Gandhi University, Kottayam",RPC (100),51.68,RPC
+2025,State Public University,IR-O-U-0262,"Mahatma Gandhi University, Kottayam",GO (100),75.04,GO
+2025,State Public University,IR-O-U-0262,"Mahatma Gandhi University, Kottayam",OI (100),55.06,OI
+2025,State Public University,IR-O-U-0262,"Mahatma Gandhi University, Kottayam",PERCEPTION (100),37.51,PR
+2025,State Public University,IR-O-I-1357,University of Madras,TLR (100),71.91,TLR
+2025,State Public University,IR-O-I-1357,University of Madras,RPC (100),43.6,RPC
+2025,State Public University,IR-O-I-1357,University of Madras,GO (100),75.45,GO
+2025,State Public University,IR-O-I-1357,University of Madras,OI (100),54.32,OI
+2025,State Public University,IR-O-I-1357,University of Madras,PERCEPTION (100),62.58,PR
+2025,State Public University,IR-O-U-0105,Indraprastha Institute of Information Technology,TLR (100),73.72,TLR
+2025,State Public University,IR-O-U-0105,Indraprastha Institute of Information Technology,RPC (100),43.32,RPC
+2025,State Public University,IR-O-U-0105,Indraprastha Institute of Information Technology,GO (100),66.01,GO
+2025,State Public University,IR-O-U-0105,Indraprastha Institute of Information Technology,OI (100),60.43,OI
+2025,State Public University,IR-O-U-0105,Indraprastha Institute of Information Technology,PERCEPTION (100),37.65,PR
+2025,State Public University,IR-O-U-0235,Mysore University,TLR (100),80.9,TLR
+2025,State Public University,IR-O-U-0235,Mysore University,RPC (100),29.74,RPC
+2025,State Public University,IR-O-U-0235,Mysore University,GO (100),80.78,GO
+2025,State Public University,IR-O-U-0235,Mysore University,OI (100),60.99,OI
+2025,State Public University,IR-O-U-0235,Mysore University,PERCEPTION (100),25.51,PR
+2025,State Public University,IR-O-U-0195,University of Jammu,TLR (100),73.51,TLR
+2025,State Public University,IR-O-U-0195,University of Jammu,RPC (100),33.7,RPC
+2025,State Public University,IR-O-U-0195,University of Jammu,GO (100),83.15,GO
+2025,State Public University,IR-O-U-0195,University of Jammu,OI (100),52.83,OI
+2025,State Public University,IR-O-U-0195,University of Jammu,PERCEPTION (100),36.84,PR
+2025,State Public University,IR-O-U-0099,Guru Gobind Singh Indraprastha University,TLR (100),67.75,TLR
+2025,State Public University,IR-O-U-0099,Guru Gobind Singh Indraprastha University,RPC (100),39.41,RPC
+2025,State Public University,IR-O-U-0099,Guru Gobind Singh Indraprastha University,GO (100),71.26,GO
+2025,State Public University,IR-O-U-0099,Guru Gobind Singh Indraprastha University,OI (100),58.97,OI
+2025,State Public University,IR-O-U-0099,Guru Gobind Singh Indraprastha University,PERCEPTION (100),51.86,PR
+2025,State Public University,IR-O-U-0739,Madan Mohan Malaviya University of Technology,TLR (100),69.83,TLR
+2025,State Public University,IR-O-U-0739,Madan Mohan Malaviya University of Technology,RPC (100),31.15,RPC
+2025,State Public University,IR-O-U-0739,Madan Mohan Malaviya University of Technology,GO (100),73.44,GO
+2025,State Public University,IR-O-U-0739,Madan Mohan Malaviya University of Technology,OI (100),78.34,OI
+2025,State Public University,IR-O-U-0739,Madan Mohan Malaviya University of Technology,PERCEPTION (100),46.69,PR
+2025,State Public University,IR-O-U-0003,Acharya Nagarjuna University,TLR (100),73.14,TLR
+2025,State Public University,IR-O-U-0003,Acharya Nagarjuna University,RPC (100),26.55,RPC
+2025,State Public University,IR-O-U-0003,Acharya Nagarjuna University,GO (100),88.49,GO
+2025,State Public University,IR-O-U-0003,Acharya Nagarjuna University,OI (100),69.0,OI
+2025,State Public University,IR-O-U-0003,Acharya Nagarjuna University,PERCEPTION (100),29.45,PR
+2025,State Public University,IR-O-U-0136,Gujarat University,TLR (100),72.58,TLR
+2025,State Public University,IR-O-U-0136,Gujarat University,RPC (100),28.17,RPC
+2025,State Public University,IR-O-U-0136,Gujarat University,GO (100),87.62,GO
+2025,State Public University,IR-O-U-0136,Gujarat University,OI (100),60.69,OI
+2025,State Public University,IR-O-U-0136,Gujarat University,PERCEPTION (100),33.43,PR
+2025,State Public University,IR-O-U-0215,Bangalore University,TLR (100),71.38,TLR
+2025,State Public University,IR-O-U-0215,Bangalore University,RPC (100),27.85,RPC
+2025,State Public University,IR-O-U-0215,Bangalore University,GO (100),82.62,GO
+2025,State Public University,IR-O-U-0215,Bangalore University,OI (100),59.1,OI
+2025,State Public University,IR-O-U-0215,Bangalore University,PERCEPTION (100),48.43,PR
+2025,State Public University,IR-O-U-0524,University of Lucknow,TLR (100),59.44,TLR
+2025,State Public University,IR-O-U-0524,University of Lucknow,RPC (100),25.27,RPC
+2025,State Public University,IR-O-U-0524,University of Lucknow,GO (100),93.89,GO
+2025,State Public University,IR-O-U-0524,University of Lucknow,OI (100),71.69,OI
+2025,State Public University,IR-O-U-0524,University of Lucknow,PERCEPTION (100),46.05,PR
+2025,State Public University,IR-O-U-0381,Punjab Agricultural University,TLR (100),70.3,TLR
+2025,State Public University,IR-O-U-0381,Punjab Agricultural University,RPC (100),51.84,RPC
+2025,State Public University,IR-O-U-0381,Punjab Agricultural University,GO (100),64.56,GO
+2025,State Public University,IR-O-U-0381,Punjab Agricultural University,OI (100),51.48,OI
+2025,State Public University,IR-O-U-0381,Punjab Agricultural University,PERCEPTION (100),11.81,PR
+2025,State Public University,IR-O-U-0523,King George`s Medical University,TLR (100),65.04,TLR
+2025,State Public University,IR-O-U-0523,King George`s Medical University,RPC (100),42.57,RPC
+2025,State Public University,IR-O-U-0523,King George`s Medical University,GO (100),63.43,GO
+2025,State Public University,IR-O-U-0523,King George`s Medical University,OI (100),64.24,OI
+2025,State Public University,IR-O-U-0523,King George`s Medical University,PERCEPTION (100),36.93,PR
+2025,State Public University,IR-O-U-0051,Dibrugarh University,TLR (100),76.13,TLR
+2025,State Public University,IR-O-U-0051,Dibrugarh University,RPC (100),31.5,RPC
+2025,State Public University,IR-O-U-0051,Dibrugarh University,GO (100),76.36,GO
+2025,State Public University,IR-O-U-0051,Dibrugarh University,OI (100),51.45,OI
+2025,State Public University,IR-O-U-0051,Dibrugarh University,PERCEPTION (100),20.16,PR
+2025,State Public University,IR-O-U-0463,Madurai Kamaraj University,TLR (100),67.64,TLR
+2025,State Public University,IR-O-U-0463,Madurai Kamaraj University,RPC (100),32.41,RPC
+2025,State Public University,IR-O-U-0463,Madurai Kamaraj University,GO (100),74.06,GO
+2025,State Public University,IR-O-U-0463,Madurai Kamaraj University,OI (100),49.94,OI
+2025,State Public University,IR-O-U-0463,Madurai Kamaraj University,PERCEPTION (100),45.56,PR
+2025,State Public University,IR-O-U-0162,"Guru Jambheshwar University of Science and Technology, Hissar",TLR (100),64.52,TLR
+2025,State Public University,IR-O-U-0162,"Guru Jambheshwar University of Science and Technology, Hissar",RPC (100),31.14,RPC
+2025,State Public University,IR-O-U-0162,"Guru Jambheshwar University of Science and Technology, Hissar",GO (100),74.5,GO
+2025,State Public University,IR-O-U-0162,"Guru Jambheshwar University of Science and Technology, Hissar",OI (100),54.13,OI
+2025,State Public University,IR-O-U-0162,"Guru Jambheshwar University of Science and Technology, Hissar",PERCEPTION (100),53.63,PR
+2025,State Public University,IR-O-U-0464,"Manonmaniam Sundaranar University, Tirunelveli",TLR (100),67.5,TLR
+2025,State Public University,IR-O-U-0464,"Manonmaniam Sundaranar University, Tirunelveli",RPC (100),33.37,RPC
+2025,State Public University,IR-O-U-0464,"Manonmaniam Sundaranar University, Tirunelveli",GO (100),89.22,GO
+2025,State Public University,IR-O-U-0464,"Manonmaniam Sundaranar University, Tirunelveli",OI (100),54.88,OI
+2025,State Public University,IR-O-U-0464,"Manonmaniam Sundaranar University, Tirunelveli",PERCEPTION (100),5.45,PR
+2025,State Public University,IR-O-U-0443,Annamalai University,TLR (100),58.95,TLR
+2025,State Public University,IR-O-U-0443,Annamalai University,RPC (100),42.99,RPC
+2025,State Public University,IR-O-U-0443,Annamalai University,GO (100),72.88,GO
+2025,State Public University,IR-O-U-0443,Annamalai University,OI (100),43.45,OI
+2025,State Public University,IR-O-U-0443,Annamalai University,PERCEPTION (100),43.76,PR
+2025,State Public University,IR-O-U-0164,Kurukshetra University,TLR (100),59.02,TLR
+2025,State Public University,IR-O-U-0164,Kurukshetra University,RPC (100),31.18,RPC
+2025,State Public University,IR-O-U-0164,Kurukshetra University,GO (100),82.33,GO
+2025,State Public University,IR-O-U-0164,Kurukshetra University,OI (100),62.07,OI
+2025,State Public University,IR-O-U-0164,Kurukshetra University,PERCEPTION (100),38.16,PR
+2025,State Public University,IR-O-U-0200,Sher-e-Kashmir University of Agricultural Science and Technology of Kashmir,TLR (100),66.32,TLR
+2025,State Public University,IR-O-U-0200,Sher-e-Kashmir University of Agricultural Science and Technology of Kashmir,RPC (100),39.64,RPC
+2025,State Public University,IR-O-U-0200,Sher-e-Kashmir University of Agricultural Science and Technology of Kashmir,GO (100),76.88,GO
+2025,State Public University,IR-O-U-0200,Sher-e-Kashmir University of Agricultural Science and Technology of Kashmir,OI (100),59.93,OI
+2025,State Public University,IR-O-U-0200,Sher-e-Kashmir University of Agricultural Science and Technology of Kashmir,PERCEPTION (100),3.24,PR
+2025,State Public University,IR-O-U-0248,"University of Agricultural Sciences, Bangalore",TLR (100),73.86,TLR
+2025,State Public University,IR-O-U-0248,"University of Agricultural Sciences, Bangalore",RPC (100),22.18,RPC
+2025,State Public University,IR-O-U-0248,"University of Agricultural Sciences, Bangalore",GO (100),79.47,GO
+2025,State Public University,IR-O-U-0248,"University of Agricultural Sciences, Bangalore",OI (100),57.14,OI
+2025,State Public University,IR-O-U-0248,"University of Agricultural Sciences, Bangalore",PERCEPTION (100),27.99,PR
+2025,State Public University,IR-O-U-0251,"Calicut University, Thenhipalem, Malapuram",TLR (100),76.06,TLR
+2025,State Public University,IR-O-U-0251,"Calicut University, Thenhipalem, Malapuram",RPC (100),22.74,RPC
+2025,State Public University,IR-O-U-0251,"Calicut University, Thenhipalem, Malapuram",GO (100),73.98,GO
+2025,State Public University,IR-O-U-0251,"Calicut University, Thenhipalem, Malapuram",OI (100),57.97,OI
+2025,State Public University,IR-O-U-0251,"Calicut University, Thenhipalem, Malapuram",PERCEPTION (100),29.45,PR
+2025,State Public University,IR-O-C-6379,Netaji Subhas University of Technology (NSUT),TLR (100),69.17,TLR
+2025,State Public University,IR-O-C-6379,Netaji Subhas University of Technology (NSUT),RPC (100),33.74,RPC
+2025,State Public University,IR-O-C-6379,Netaji Subhas University of Technology (NSUT),GO (100),70.57,GO
+2025,State Public University,IR-O-C-6379,Netaji Subhas University of Technology (NSUT),OI (100),56.61,OI
+2025,State Public University,IR-O-C-6379,Netaji Subhas University of Technology (NSUT),PERCEPTION (100),25.29,PR
+2025,State Public University,IR-O-U-0470,Periyar University,TLR (100),61.35,TLR
+2025,State Public University,IR-O-U-0470,Periyar University,RPC (100),36.47,RPC
+2025,State Public University,IR-O-U-0470,Periyar University,GO (100),68.74,GO
+2025,State Public University,IR-O-U-0470,Periyar University,OI (100),54.6,OI
+2025,State Public University,IR-O-U-0470,Periyar University,PERCEPTION (100),44.01,PR
+2025,State Public University,IR-O-U-0506,Chaudhary Charan Singh University Meerut,TLR (100),58.05,TLR
+2025,State Public University,IR-O-U-0506,Chaudhary Charan Singh University Meerut,RPC (100),27.95,RPC
+2025,State Public University,IR-O-U-0506,Chaudhary Charan Singh University Meerut,GO (100),78.06,GO
+2025,State Public University,IR-O-U-0506,Chaudhary Charan Singh University Meerut,OI (100),54.1,OI
+2025,State Public University,IR-O-U-0506,Chaudhary Charan Singh University Meerut,PERCEPTION (100),52.66,PR
+2025,State Public University,IR-O-U-0485,Tamil Nadu Agricultural University,TLR (100),64.23,TLR
+2025,State Public University,IR-O-U-0485,Tamil Nadu Agricultural University,RPC (100),29.86,RPC
+2025,State Public University,IR-O-U-0485,Tamil Nadu Agricultural University,GO (100),82.37,GO
+2025,State Public University,IR-O-U-0485,Tamil Nadu Agricultural University,OI (100),60.34,OI
+2025,State Public University,IR-O-U-0485,Tamil Nadu Agricultural University,PERCEPTION (100),13.47,PR
+2025,State Public University,IR-O-U-1257,COEP Technological University,TLR (100),57.75,TLR
+2025,State Public University,IR-O-U-1257,COEP Technological University,RPC (100),38.31,RPC
+2025,State Public University,IR-O-U-1257,COEP Technological University,GO (100),63.74,GO
+2025,State Public University,IR-O-U-1257,COEP Technological University,OI (100),52.29,OI
+2025,State Public University,IR-O-U-1257,COEP Technological University,PERCEPTION (100),52.36,PR
+2025,State Public University,IR-O-U-0554,"G.B. Pant Universtiy of Agriculture and Technology, Pantnagar",TLR (100),62.02,TLR
+2025,State Public University,IR-O-U-0554,"G.B. Pant Universtiy of Agriculture and Technology, Pantnagar",RPC (100),40.33,RPC
+2025,State Public University,IR-O-U-0554,"G.B. Pant Universtiy of Agriculture and Technology, Pantnagar",GO (100),74.25,GO
+2025,State Public University,IR-O-U-0554,"G.B. Pant Universtiy of Agriculture and Technology, Pantnagar",OI (100),53.82,OI
+2025,State Public University,IR-O-U-0554,"G.B. Pant Universtiy of Agriculture and Technology, Pantnagar",PERCEPTION (100),10.04,PR
+2025,State Public University,IR-O-U-0325,Shivaji University,TLR (100),59.59,TLR
+2025,State Public University,IR-O-U-0325,Shivaji University,RPC (100),36.93,RPC
+2025,State Public University,IR-O-U-0325,Shivaji University,GO (100),69.7,GO
+2025,State Public University,IR-O-U-0325,Shivaji University,OI (100),51.49,OI
+2025,State Public University,IR-O-U-0325,Shivaji University,PERCEPTION (100),37.51,PR
+2025,State Public University,IR-O-I-1280,Maharshi Dayanand University,TLR (100),51.09,TLR
+2025,State Public University,IR-O-I-1280,Maharshi Dayanand University,RPC (100),38.32,RPC
+2025,State Public University,IR-O-I-1280,Maharshi Dayanand University,GO (100),82.22,GO
+2025,State Public University,IR-O-I-1280,Maharshi Dayanand University,OI (100),56.13,OI
+2025,State Public University,IR-O-I-1280,Maharshi Dayanand University,PERCEPTION (100),27.24,PR
+2025,State Public University,IR-O-U-0037,Sri Venkateswara University,TLR (100),70.22,TLR
+2025,State Public University,IR-O-U-0037,Sri Venkateswara University,RPC (100),19.49,RPC
+2025,State Public University,IR-O-U-0037,Sri Venkateswara University,GO (100),78.02,GO
+2025,State Public University,IR-O-U-0037,Sri Venkateswara University,OI (100),60.66,OI
+2025,State Public University,IR-O-U-0037,Sri Venkateswara University,PERCEPTION (100),28.73,PR
+2025,State Public University,IR-O-U-0366,Utkal University,TLR (100),62.05,TLR
+2025,State Public University,IR-O-U-0366,Utkal University,RPC (100),22.73,RPC
+2025,State Public University,IR-O-U-0366,Utkal University,GO (100),81.37,GO
+2025,State Public University,IR-O-U-0366,Utkal University,OI (100),55.39,OI
+2025,State Public University,IR-O-U-0366,Utkal University,PERCEPTION (100),32.8,PR
+2025,State Public University,IR-O-U-0270,Devi Ahilya Vishwavidyalaya,TLR (100),56.85,TLR
+2025,State Public University,IR-O-U-0270,Devi Ahilya Vishwavidyalaya,RPC (100),15.21,RPC
+2025,State Public University,IR-O-U-0270,Devi Ahilya Vishwavidyalaya,GO (100),97.34,GO
+2025,State Public University,IR-O-U-0270,Devi Ahilya Vishwavidyalaya,OI (100),58.73,OI
+2025,State Public University,IR-O-U-0270,Devi Ahilya Vishwavidyalaya,PERCEPTION (100),34.64,PR
+2025,State Public University,IR-O-U-0249,Visvesvaraya Technological University,TLR (100),57.22,TLR
+2025,State Public University,IR-O-U-0249,Visvesvaraya Technological University,RPC (100),46.96,RPC
+2025,State Public University,IR-O-U-0249,Visvesvaraya Technological University,GO (100),61.41,GO
+2025,State Public University,IR-O-U-0249,Visvesvaraya Technological University,OI (100),51.39,OI
+2025,State Public University,IR-O-U-0249,Visvesvaraya Technological University,PERCEPTION (100),15.99,PR

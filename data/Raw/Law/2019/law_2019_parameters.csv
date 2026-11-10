@@ -1,0 +1,76 @@
+year,category,institute_id,institute_name,parameter_name,parameter_score,canonical_parameter
+2019,Law,IR-L-U-0238,National Law School of India University,TLR (100),85.16,TLR
+2019,Law,IR-L-U-0238,National Law School of India University,RPC (100),38.77,RPC
+2019,Law,IR-L-U-0238,National Law School of India University,GO (100),78.96,GO
+2019,Law,IR-L-U-0238,National Law School of India University,OI (100),76.02,OI
+2019,Law,IR-L-U-0238,National Law School of India University,PERCEPTION (100),100.0,PR
+2019,Law,IR-L-U-0111,National Law University,TLR (100),92.3,TLR
+2019,Law,IR-L-U-0111,National Law University,RPC (100),52.69,RPC
+2019,Law,IR-L-U-0111,National Law University,GO (100),66.34,GO
+2019,Law,IR-L-U-0111,National Law University,OI (100),73.12,OI
+2019,Law,IR-L-U-0111,National Law University,PERCEPTION (100),75.2,PR
+2019,Law,IR-L-N-18,Nalsar University of Law,TLR (100),84.3,TLR
+2019,Law,IR-L-N-18,Nalsar University of Law,RPC (100),38.49,RPC
+2019,Law,IR-L-N-18,Nalsar University of Law,GO (100),83.37,GO
+2019,Law,IR-L-N-18,Nalsar University of Law,OI (100),72.57,OI
+2019,Law,IR-L-N-18,Nalsar University of Law,PERCEPTION (100),70.2,PR
+2019,Law,IR-L-U-0573,Indian Institute of Technology Kharagpur,TLR (100),78.37,TLR
+2019,Law,IR-L-U-0573,Indian Institute of Technology Kharagpur,RPC (100),73.22,RPC
+2019,Law,IR-L-U-0573,Indian Institute of Technology Kharagpur,GO (100),65.42,GO
+2019,Law,IR-L-U-0573,Indian Institute of Technology Kharagpur,OI (100),64.6,OI
+2019,Law,IR-L-U-0573,Indian Institute of Technology Kharagpur,PERCEPTION (100),46.57,PR
+2019,Law,IR-L-U-0585,The West Bengal National University of Juridicial Sciences,TLR (100),73.61,TLR
+2019,Law,IR-L-U-0585,The West Bengal National University of Juridicial Sciences,RPC (100),35.25,RPC
+2019,Law,IR-L-U-0585,The West Bengal National University of Juridicial Sciences,GO (100),68.16,GO
+2019,Law,IR-L-U-0585,The West Bengal National University of Juridicial Sciences,OI (100),69.34,OI
+2019,Law,IR-L-U-0585,The West Bengal National University of Juridicial Sciences,PERCEPTION (100),66.89,PR
+2019,Law,IR-L-U-0414,National Law University,TLR (100),71.62,TLR
+2019,Law,IR-L-U-0414,National Law University,RPC (100),34.27,RPC
+2019,Law,IR-L-U-0414,National Law University,GO (100),77.92,GO
+2019,Law,IR-L-U-0414,National Law University,OI (100),66.17,OI
+2019,Law,IR-L-U-0414,National Law University,PERCEPTION (100),40.55,PR
+2019,Law,IR-L-C-19328,Symbiosis Law School,TLR (100),61.86,TLR
+2019,Law,IR-L-C-19328,Symbiosis Law School,RPC (100),17.19,RPC
+2019,Law,IR-L-C-19328,Symbiosis Law School,GO (100),81.93,GO
+2019,Law,IR-L-C-19328,Symbiosis Law School,OI (100),76.91,OI
+2019,Law,IR-L-C-19328,Symbiosis Law School,PERCEPTION (100),51.84,PR
+2019,Law,IR-L-U-0108,Jamia Millia Islamia,TLR (100),62.15,TLR
+2019,Law,IR-L-U-0108,Jamia Millia Islamia,RPC (100),51.04,RPC
+2019,Law,IR-L-U-0108,Jamia Millia Islamia,GO (100),64.4,GO
+2019,Law,IR-L-U-0108,Jamia Millia Islamia,OI (100),72.66,OI
+2019,Law,IR-L-U-0108,Jamia Millia Islamia,PERCEPTION (100),35.98,PR
+2019,Law,IR-L-U-0134,Gujarat National Law University,TLR (100),69.79,TLR
+2019,Law,IR-L-U-0134,Gujarat National Law University,RPC (100),22.62,RPC
+2019,Law,IR-L-U-0134,Gujarat National Law University,GO (100),66.9,GO
+2019,Law,IR-L-U-0134,Gujarat National Law University,OI (100),70.2,OI
+2019,Law,IR-L-U-0134,Gujarat National Law University,PERCEPTION (100),35.98,PR
+2019,Law,IR-L-U-0386,The Rajiv Gandhi National University of Law,TLR (100),63.31,TLR
+2019,Law,IR-L-U-0386,The Rajiv Gandhi National University of Law,RPC (100),29.01,RPC
+2019,Law,IR-L-U-0386,The Rajiv Gandhi National University of Law,GO (100),60.35,GO
+2019,Law,IR-L-U-0386,The Rajiv Gandhi National University of Law,OI (100),71.75,OI
+2019,Law,IR-L-U-0386,The Rajiv Gandhi National University of Law,PERCEPTION (100),35.98,PR
+2019,Law,IR-L-U-0285,National Law Institute University,TLR (100),58.83,TLR
+2019,Law,IR-L-U-0285,National Law Institute University,RPC (100),24.95,RPC
+2019,Law,IR-L-U-0285,National Law Institute University,GO (100),61.67,GO
+2019,Law,IR-L-U-0285,National Law Institute University,OI (100),56.95,OI
+2019,Law,IR-L-U-0285,National Law Institute University,PERCEPTION (100),50.15,PR
+2019,Law,IR-L-U-0356,Kalinga Institute of Industrial Technology,TLR (100),77.73,TLR
+2019,Law,IR-L-U-0356,Kalinga Institute of Industrial Technology,RPC (100),23.83,RPC
+2019,Law,IR-L-U-0356,Kalinga Institute of Industrial Technology,GO (100),35.46,GO
+2019,Law,IR-L-U-0356,Kalinga Institute of Industrial Technology,OI (100),63.42,OI
+2019,Law,IR-L-U-0356,Kalinga Institute of Industrial Technology,PERCEPTION (100),30.86,PR
+2019,Law,IR-L-U-0103,Indian Law Institute,TLR (100),63.74,TLR
+2019,Law,IR-L-U-0103,Indian Law Institute,RPC (100),19.87,RPC
+2019,Law,IR-L-U-0103,Indian Law Institute,GO (100),49.86,GO
+2019,Law,IR-L-U-0103,Indian Law Institute,OI (100),49.25,OI
+2019,Law,IR-L-U-0103,Indian Law Institute,PERCEPTION (100),65.73,PR
+2019,Law,IR-L-U-0511,Dr. Ram Manohar Lohiya National Law University,TLR (100),65.54,TLR
+2019,Law,IR-L-U-0511,Dr. Ram Manohar Lohiya National Law University,RPC (100),0.0,RPC
+2019,Law,IR-L-U-0511,Dr. Ram Manohar Lohiya National Law University,GO (100),79.41,GO
+2019,Law,IR-L-U-0511,Dr. Ram Manohar Lohiya National Law University,OI (100),48.8,OI
+2019,Law,IR-L-U-0511,Dr. Ram Manohar Lohiya National Law University,PERCEPTION (100),14.36,PR
+2019,Law,IR-L-C-23907,Dr. B. R. Ambedkar College of Law,TLR (100),66.17,TLR
+2019,Law,IR-L-C-23907,Dr. B. R. Ambedkar College of Law,RPC (100),4.16,RPC
+2019,Law,IR-L-C-23907,Dr. B. R. Ambedkar College of Law,GO (100),61.9,GO
+2019,Law,IR-L-C-23907,Dr. B. R. Ambedkar College of Law,OI (100),49.32,OI
+2019,Law,IR-L-C-23907,Dr. B. R. Ambedkar College of Law,PERCEPTION (100),30.86,PR

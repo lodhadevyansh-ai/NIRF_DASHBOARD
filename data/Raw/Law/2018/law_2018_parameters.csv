@@ -1,0 +1,51 @@
+year,category,institute_id,institute_name,parameter_name,parameter_score,canonical_parameter
+2018,Law,IR-1-L-L-U-0238,National Law School of India University,TLR (100),87.46,TLR
+2018,Law,IR-1-L-L-U-0238,National Law School of India University,RPC (100),32.76,RPC
+2018,Law,IR-1-L-L-U-0238,National Law School of India University,GO (100),77.78,GO
+2018,Law,IR-1-L-L-U-0238,National Law School of India University,OI (100),64.45,OI
+2018,Law,IR-1-L-L-U-0238,National Law School of India University,PERCEPTION (100),100.0,PR
+2018,Law,IR-1-L-L-U-0111,National Law University,TLR (100),93.31,TLR
+2018,Law,IR-1-L-L-U-0111,National Law University,RPC (100),52.56,RPC
+2018,Law,IR-1-L-L-U-0111,National Law University,GO (100),62.52,GO
+2018,Law,IR-1-L-L-U-0111,National Law University,OI (100),73.21,OI
+2018,Law,IR-1-L-L-U-0111,National Law University,PERCEPTION (100),64.24,PR
+2018,Law,IR-1-L-L-N-18,Nalsar University of Law,TLR (100),78.13,TLR
+2018,Law,IR-1-L-L-N-18,Nalsar University of Law,RPC (100),30.45,RPC
+2018,Law,IR-1-L-L-N-18,Nalsar University of Law,GO (100),89.53,GO
+2018,Law,IR-1-L-L-N-18,Nalsar University of Law,OI (100),74.58,OI
+2018,Law,IR-1-L-L-N-18,Nalsar University of Law,PERCEPTION (100),52.9,PR
+2018,Law,IR-5-L-OEMAL-U-0573,Indian Institute of Technology Kharagpur,TLR (100),74.73,TLR
+2018,Law,IR-5-L-OEMAL-U-0573,Indian Institute of Technology Kharagpur,RPC (100),76.61,RPC
+2018,Law,IR-5-L-OEMAL-U-0573,Indian Institute of Technology Kharagpur,GO (100),71.46,GO
+2018,Law,IR-5-L-OEMAL-U-0573,Indian Institute of Technology Kharagpur,OI (100),62.87,OI
+2018,Law,IR-5-L-OEMAL-U-0573,Indian Institute of Technology Kharagpur,PERCEPTION (100),15.33,PR
+2018,Law,IR-1-L-L-U-0414,National Law University Jodhpur,TLR (100),73.54,TLR
+2018,Law,IR-1-L-L-U-0414,National Law University Jodhpur,RPC (100),33.77,RPC
+2018,Law,IR-1-L-L-U-0414,National Law University Jodhpur,GO (100),75.53,GO
+2018,Law,IR-1-L-L-U-0414,National Law University Jodhpur,OI (100),60.51,OI
+2018,Law,IR-1-L-L-U-0414,National Law University Jodhpur,PERCEPTION (100),40.9,PR
+2018,Law,IR-5-L-OEMAL-U-0108,Jamia Millia Islamia,TLR (100),57.42,TLR
+2018,Law,IR-5-L-OEMAL-U-0108,Jamia Millia Islamia,RPC (100),51.39,RPC
+2018,Law,IR-5-L-OEMAL-U-0108,Jamia Millia Islamia,GO (100),72.56,GO
+2018,Law,IR-5-L-OEMAL-U-0108,Jamia Millia Islamia,OI (100),68.32,OI
+2018,Law,IR-5-L-OEMAL-U-0108,Jamia Millia Islamia,PERCEPTION (100),42.61,PR
+2018,Law,IR-1-L-L-U-0585,The West Bengal National University of Juridicial Sciences,TLR (100),64.96,TLR
+2018,Law,IR-1-L-L-U-0585,The West Bengal National University of Juridicial Sciences,RPC (100),34.05,RPC
+2018,Law,IR-1-L-L-U-0585,The West Bengal National University of Juridicial Sciences,GO (100),63.12,GO
+2018,Law,IR-1-L-L-U-0585,The West Bengal National University of Juridicial Sciences,OI (100),64.04,OI
+2018,Law,IR-1-L-L-U-0585,The West Bengal National University of Juridicial Sciences,PERCEPTION (100),58.96,PR
+2018,Law,IR-1-L-L-U-0511,"Dr. Ram Manohar Lohiya National Law University, Lucknow",TLR (100),66.47,TLR
+2018,Law,IR-1-L-L-U-0511,"Dr. Ram Manohar Lohiya National Law University, Lucknow",RPC (100),0.0,RPC
+2018,Law,IR-1-L-L-U-0511,"Dr. Ram Manohar Lohiya National Law University, Lucknow",GO (100),79.04,GO
+2018,Law,IR-1-L-L-U-0511,"Dr. Ram Manohar Lohiya National Law University, Lucknow",OI (100),38.91,OI
+2018,Law,IR-1-L-L-U-0511,"Dr. Ram Manohar Lohiya National Law University, Lucknow",PERCEPTION (100),45.82,PR
+2018,Law,IR-1-L-L-C-19328,Symbiosis Law School,TLR (100),52.24,TLR
+2018,Law,IR-1-L-L-C-19328,Symbiosis Law School,RPC (100),7.4,RPC
+2018,Law,IR-1-L-L-C-19328,Symbiosis Law School,GO (100),80.02,GO
+2018,Law,IR-1-L-L-C-19328,Symbiosis Law School,OI (100),73.5,OI
+2018,Law,IR-1-L-L-C-19328,Symbiosis Law School,PERCEPTION (100),48.8,PR
+2018,Law,IR-1-L-L-C-23907,Dr. B. R. Ambedkar College of Law,TLR (100),75.75,TLR
+2018,Law,IR-1-L-L-C-23907,Dr. B. R. Ambedkar College of Law,RPC (100),6.06,RPC
+2018,Law,IR-1-L-L-C-23907,Dr. B. R. Ambedkar College of Law,GO (100),56.02,GO
+2018,Law,IR-1-L-L-C-23907,Dr. B. R. Ambedkar College of Law,OI (100),48.66,OI
+2018,Law,IR-1-L-L-C-23907,Dr. B. R. Ambedkar College of Law,PERCEPTION (100),8.37,PR

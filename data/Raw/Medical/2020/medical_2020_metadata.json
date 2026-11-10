@@ -1,0 +1,13 @@
+{
+  "Category": "Medical",
+  "Year": 2020,
+  "Source URL": "https://www.nirfindia.org/Rankings/2020/MedicalRanking.html",
+  "Scraping timestamp": "2026-10-31T16:37:37.774905+00:00",
+  "Extraction timestamp": "2026-10-31T16:37:38.380237+00:00",
+  "Number of ranking records": 40,
+  "Number of parameter records": 200,
+  "HTTP status": 200,
+  "Scraping status": "success",
+  "Extraction status": "success",
+  "Error messages": null
+}

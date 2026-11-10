@@ -1,0 +1,251 @@
+year,category,institute_id,institute_name,parameter_name,parameter_score,canonical_parameter
+2022,Research Institutions,IR-R-U-0220,Indian Institute of Science,QNR (100),98.68,
+2022,Research Institutions,IR-R-U-0220,Indian Institute of Science,QLR (100),93.23,
+2022,Research Institutions,IR-R-U-0220,Indian Institute of Science,SFC (100),76.01,
+2022,Research Institutions,IR-R-U-0220,Indian Institute of Science,OI (100),58.5,OI
+2022,Research Institutions,IR-R-U-0220,Indian Institute of Science,PERCEPTION (100),100.0,PR
+2022,Research Institutions,IR-R-U-0456,Indian Institute of Technology Madras,QNR (100),90.08,
+2022,Research Institutions,IR-R-U-0456,Indian Institute of Technology Madras,QLR (100),92.66,
+2022,Research Institutions,IR-R-U-0456,Indian Institute of Technology Madras,SFC (100),81.2,
+2022,Research Institutions,IR-R-U-0456,Indian Institute of Technology Madras,OI (100),63.8,OI
+2022,Research Institutions,IR-R-U-0456,Indian Institute of Technology Madras,PERCEPTION (100),89.3,PR
+2022,Research Institutions,IR-R-I-1074,"Indian Institute of Technology, Delhi",QNR (100),81.6,
+2022,Research Institutions,IR-R-I-1074,"Indian Institute of Technology, Delhi",QLR (100),89.45,
+2022,Research Institutions,IR-R-I-1074,"Indian Institute of Technology, Delhi",SFC (100),78.16,
+2022,Research Institutions,IR-R-I-1074,"Indian Institute of Technology, Delhi",OI (100),71.09,OI
+2022,Research Institutions,IR-R-I-1074,"Indian Institute of Technology, Delhi",PERCEPTION (100),81.05,PR
+2022,Research Institutions,IR-R-U-0306,"Indian Institute of Technology, Bombay",QNR (100),80.8,
+2022,Research Institutions,IR-R-U-0306,"Indian Institute of Technology, Bombay",QLR (100),87.56,
+2022,Research Institutions,IR-R-U-0306,"Indian Institute of Technology, Bombay",SFC (100),80.91,
+2022,Research Institutions,IR-R-U-0306,"Indian Institute of Technology, Bombay",OI (100),60.38,OI
+2022,Research Institutions,IR-R-U-0306,"Indian Institute of Technology, Bombay",PERCEPTION (100),74.79,PR
+2022,Research Institutions,IR-R-U-0573,"Indian Institute of Technology, Kharagpur",QNR (100),72.85,
+2022,Research Institutions,IR-R-U-0573,"Indian Institute of Technology, Kharagpur",QLR (100),78.59,
+2022,Research Institutions,IR-R-U-0573,"Indian Institute of Technology, Kharagpur",SFC (100),79.16,
+2022,Research Institutions,IR-R-U-0573,"Indian Institute of Technology, Kharagpur",OI (100),56.52,OI
+2022,Research Institutions,IR-R-U-0573,"Indian Institute of Technology, Kharagpur",PERCEPTION (100),71.35,PR
+2022,Research Institutions,IR-R-I-1075,Indian Institute of Technology Kanpur,QNR (100),76.06,
+2022,Research Institutions,IR-R-I-1075,Indian Institute of Technology Kanpur,QLR (100),69.42,
+2022,Research Institutions,IR-R-I-1075,Indian Institute of Technology Kanpur,SFC (100),79.53,
+2022,Research Institutions,IR-R-I-1075,Indian Institute of Technology Kanpur,OI (100),60.95,OI
+2022,Research Institutions,IR-R-I-1075,Indian Institute of Technology Kanpur,PERCEPTION (100),68.08,PR
+2022,Research Institutions,IR-R-U-0330,Tata Institute of Fundamental Research,QNR (100),80.26,
+2022,Research Institutions,IR-R-U-0330,Tata Institute of Fundamental Research,QLR (100),65.82,
+2022,Research Institutions,IR-R-U-0330,Tata Institute of Fundamental Research,SFC (100),56.34,
+2022,Research Institutions,IR-R-U-0330,Tata Institute of Fundamental Research,OI (100),59.93,OI
+2022,Research Institutions,IR-R-U-0330,Tata Institute of Fundamental Research,PERCEPTION (100),55.43,PR
+2022,Research Institutions,IR-R-U-0560,"Indian Institute of Technology, Roorkee",QNR (100),71.21,
+2022,Research Institutions,IR-R-U-0560,"Indian Institute of Technology, Roorkee",QLR (100),63.53,
+2022,Research Institutions,IR-R-U-0560,"Indian Institute of Technology, Roorkee",SFC (100),73.7,
+2022,Research Institutions,IR-R-U-0560,"Indian Institute of Technology, Roorkee",OI (100),65.69,OI
+2022,Research Institutions,IR-R-U-0560,"Indian Institute of Technology, Roorkee",PERCEPTION (100),45.59,PR
+2022,Research Institutions,IR-R-N-15,"All India Institute of Medical Sciences, Delhi",QNR (100),71.98,
+2022,Research Institutions,IR-R-N-15,"All India Institute of Medical Sciences, Delhi",QLR (100),60.03,
+2022,Research Institutions,IR-R-N-15,"All India Institute of Medical Sciences, Delhi",SFC (100),42.58,
+2022,Research Institutions,IR-R-N-15,"All India Institute of Medical Sciences, Delhi",OI (100),69.0,OI
+2022,Research Institutions,IR-R-N-15,"All India Institute of Medical Sciences, Delhi",PERCEPTION (100),74.59,PR
+2022,Research Institutions,IR-R-U-0490,Vellore Institute of Technology,QNR (100),51.02,
+2022,Research Institutions,IR-R-U-0490,Vellore Institute of Technology,QLR (100),68.52,
+2022,Research Institutions,IR-R-U-0490,Vellore Institute of Technology,SFC (100),68.12,
+2022,Research Institutions,IR-R-U-0490,Vellore Institute of Technology,OI (100),60.31,OI
+2022,Research Institutions,IR-R-U-0490,Vellore Institute of Technology,PERCEPTION (100),41.98,PR
+2022,Research Institutions,IR-R-U-0304,Homi Bhabha National Institute,QNR (100),82.14,
+2022,Research Institutions,IR-R-U-0304,Homi Bhabha National Institute,QLR (100),38.39,
+2022,Research Institutions,IR-R-U-0304,Homi Bhabha National Institute,SFC (100),69.98,
+2022,Research Institutions,IR-R-U-0304,Homi Bhabha National Institute,OI (100),52.45,OI
+2022,Research Institutions,IR-R-U-0304,Homi Bhabha National Institute,PERCEPTION (100),32.51,PR
+2022,Research Institutions,IR-R-U-0013,Indian Institute of Technology Hyderabad,QNR (100),63.92,
+2022,Research Institutions,IR-R-U-0013,Indian Institute of Technology Hyderabad,QLR (100),51.42,
+2022,Research Institutions,IR-R-U-0013,Indian Institute of Technology Hyderabad,SFC (100),59.95,
+2022,Research Institutions,IR-R-U-0013,Indian Institute of Technology Hyderabad,OI (100),57.53,OI
+2022,Research Institutions,IR-R-U-0013,Indian Institute of Technology Hyderabad,PERCEPTION (100),56.08,PR
+2022,Research Institutions,IR-R-U-0575,Jadavpur University,QNR (100),55.87,
+2022,Research Institutions,IR-R-U-0575,Jadavpur University,QLR (100),45.74,
+2022,Research Institutions,IR-R-U-0575,Jadavpur University,SFC (100),80.61,
+2022,Research Institutions,IR-R-U-0575,Jadavpur University,OI (100),57.1,OI
+2022,Research Institutions,IR-R-U-0575,Jadavpur University,PERCEPTION (100),45.04,PR
+2022,Research Institutions,IR-R-U-0109,Jawaharlal Nehru University,QNR (100),49.28,
+2022,Research Institutions,IR-R-U-0109,Jawaharlal Nehru University,QLR (100),41.55,
+2022,Research Institutions,IR-R-U-0109,Jawaharlal Nehru University,SFC (100),87.33,
+2022,Research Institutions,IR-R-U-0109,Jawaharlal Nehru University,OI (100),71.44,OI
+2022,Research Institutions,IR-R-U-0109,Jawaharlal Nehru University,PERCEPTION (100),48.92,PR
+2022,Research Institutions,IR-R-U-0500,Banaras Hindu University,QNR (100),42.98,
+2022,Research Institutions,IR-R-U-0500,Banaras Hindu University,QLR (100),49.07,
+2022,Research Institutions,IR-R-U-0500,Banaras Hindu University,SFC (100),86.99,
+2022,Research Institutions,IR-R-U-0500,Banaras Hindu University,OI (100),57.88,OI
+2022,Research Institutions,IR-R-U-0500,Banaras Hindu University,PERCEPTION (100),48.15,PR
+2022,Research Institutions,IR-R-U-0120,University of Delhi,QNR (100),48.61,
+2022,Research Institutions,IR-R-U-0120,University of Delhi,QLR (100),56.64,
+2022,Research Institutions,IR-R-U-0120,University of Delhi,SFC (100),70.31,
+2022,Research Institutions,IR-R-U-0120,University of Delhi,OI (100),59.58,OI
+2022,Research Institutions,IR-R-U-0120,University of Delhi,PERCEPTION (100),39.16,PR
+2022,Research Institutions,IR-R-U-0305,"Indian Institute of Science Education & Research, Pune",QNR (100),61.54,
+2022,Research Institutions,IR-R-U-0305,"Indian Institute of Science Education & Research, Pune",QLR (100),47.79,
+2022,Research Institutions,IR-R-U-0305,"Indian Institute of Science Education & Research, Pune",SFC (100),57.47,
+2022,Research Institutions,IR-R-U-0305,"Indian Institute of Science Education & Research, Pune",OI (100),63.52,OI
+2022,Research Institutions,IR-R-U-0305,"Indian Institute of Science Education & Research, Pune",PERCEPTION (100),47.49,PR
+2022,Research Institutions,IR-R-U-0713,Academy of Scientific & Innovative Research,QNR (100),67.35,
+2022,Research Institutions,IR-R-U-0713,Academy of Scientific & Innovative Research,QLR (100),40.34,
+2022,Research Institutions,IR-R-U-0713,Academy of Scientific & Innovative Research,SFC (100),76.48,
+2022,Research Institutions,IR-R-U-0713,Academy of Scientific & Innovative Research,OI (100),47.38,OI
+2022,Research Institutions,IR-R-U-0713,Academy of Scientific & Innovative Research,PERCEPTION (100),8.57,PR
+2022,Research Institutions,IR-R-U-0108,"Jamia Millia Islamia, New Delhi",QNR (100),46.98,
+2022,Research Institutions,IR-R-U-0108,"Jamia Millia Islamia, New Delhi",QLR (100),44.14,
+2022,Research Institutions,IR-R-U-0108,"Jamia Millia Islamia, New Delhi",SFC (100),77.96,
+2022,Research Institutions,IR-R-U-0108,"Jamia Millia Islamia, New Delhi",OI (100),82.89,OI
+2022,Research Institutions,IR-R-U-0108,"Jamia Millia Islamia, New Delhi",PERCEPTION (100),19.22,PR
+2022,Research Institutions,IR-R-U-0205,Indian Institute of Technology (Indian School of Mines),QNR (100),59.97,
+2022,Research Institutions,IR-R-U-0205,Indian Institute of Technology (Indian School of Mines),QLR (100),49.12,
+2022,Research Institutions,IR-R-U-0205,Indian Institute of Technology (Indian School of Mines),SFC (100),56.29,
+2022,Research Institutions,IR-R-U-0205,Indian Institute of Technology (Indian School of Mines),OI (100),55.03,OI
+2022,Research Institutions,IR-R-U-0205,Indian Institute of Technology (Indian School of Mines),PERCEPTION (100),35.79,PR
+2022,Research Institutions,IR-R-U-0439,Anna University,QNR (100),51.03,
+2022,Research Institutions,IR-R-U-0439,Anna University,QLR (100),46.62,
+2022,Research Institutions,IR-R-U-0439,Anna University,SFC (100),59.07,
+2022,Research Institutions,IR-R-U-0439,Anna University,OI (100),49.59,OI
+2022,Research Institutions,IR-R-U-0439,Anna University,PERCEPTION (100),67.76,PR
+2022,Research Institutions,IR-R-U-0447,Bharathiar University,QNR (100),53.87,
+2022,Research Institutions,IR-R-U-0447,Bharathiar University,QLR (100),37.9,
+2022,Research Institutions,IR-R-U-0447,Bharathiar University,SFC (100),68.74,
+2022,Research Institutions,IR-R-U-0447,Bharathiar University,OI (100),64.3,OI
+2022,Research Institutions,IR-R-U-0447,Bharathiar University,PERCEPTION (100),34.73,PR
+2022,Research Institutions,IR-R-U-0467,"National Institute of Technology, Tiruchirappalli",QNR (100),50.22,
+2022,Research Institutions,IR-R-U-0467,"National Institute of Technology, Tiruchirappalli",QLR (100),38.86,
+2022,Research Institutions,IR-R-U-0467,"National Institute of Technology, Tiruchirappalli",SFC (100),64.84,
+2022,Research Institutions,IR-R-U-0467,"National Institute of Technology, Tiruchirappalli",OI (100),67.44,OI
+2022,Research Institutions,IR-R-U-0467,"National Institute of Technology, Tiruchirappalli",PERCEPTION (100),46.96,PR
+2022,Research Institutions,IR-R-U-0357,National Institute of Technology Rourkela,QNR (100),52.95,
+2022,Research Institutions,IR-R-U-0357,National Institute of Technology Rourkela,QLR (100),44.69,
+2022,Research Institutions,IR-R-U-0357,National Institute of Technology Rourkela,SFC (100),64.78,
+2022,Research Institutions,IR-R-U-0357,National Institute of Technology Rourkela,OI (100),58.48,OI
+2022,Research Institutions,IR-R-U-0357,National Institute of Technology Rourkela,PERCEPTION (100),28.32,PR
+2022,Research Institutions,IR-R-U-0308,Institute of Chemical Technology,QNR (100),51.94,
+2022,Research Institutions,IR-R-U-0308,Institute of Chemical Technology,QLR (100),47.96,
+2022,Research Institutions,IR-R-U-0308,Institute of Chemical Technology,SFC (100),61.07,
+2022,Research Institutions,IR-R-U-0308,Institute of Chemical Technology,OI (100),54.74,OI
+2022,Research Institutions,IR-R-U-0308,Institute of Chemical Technology,PERCEPTION (100),31.55,PR
+2022,Research Institutions,IR-R-U-0273,Indian Institute of Technology Indore,QNR (100),61.37,
+2022,Research Institutions,IR-R-U-0273,Indian Institute of Technology Indore,QLR (100),46.93,
+2022,Research Institutions,IR-R-U-0273,Indian Institute of Technology Indore,SFC (100),55.59,
+2022,Research Institutions,IR-R-U-0273,Indian Institute of Technology Indore,OI (100),53.6,OI
+2022,Research Institutions,IR-R-U-0273,Indian Institute of Technology Indore,PERCEPTION (100),17.62,PR
+2022,Research Institutions,IR-R-U-0042,University of Hyderabad,QNR (100),48.39,
+2022,Research Institutions,IR-R-U-0042,University of Hyderabad,QLR (100),36.23,
+2022,Research Institutions,IR-R-U-0042,University of Hyderabad,SFC (100),77.24,
+2022,Research Institutions,IR-R-U-0042,University of Hyderabad,OI (100),64.32,OI
+2022,Research Institutions,IR-R-U-0042,University of Hyderabad,PERCEPTION (100),32.51,PR
+2022,Research Institutions,IR-R-U-0496,Aligarh Muslim University,QNR (100),40.64,
+2022,Research Institutions,IR-R-U-0496,Aligarh Muslim University,QLR (100),44.72,
+2022,Research Institutions,IR-R-U-0496,Aligarh Muslim University,SFC (100),80.55,
+2022,Research Institutions,IR-R-U-0496,Aligarh Muslim University,OI (100),56.87,OI
+2022,Research Institutions,IR-R-U-0496,Aligarh Muslim University,PERCEPTION (100),27.48,PR
+2022,Research Institutions,IR-R-U-0078,Panjab University,QNR (100),38.54,
+2022,Research Institutions,IR-R-U-0078,Panjab University,QLR (100),52.02,
+2022,Research Institutions,IR-R-U-0078,Panjab University,SFC (100),66.33,
+2022,Research Institutions,IR-R-U-0078,Panjab University,OI (100),61.34,OI
+2022,Research Institutions,IR-R-U-0078,Panjab University,PERCEPTION (100),35.79,PR
+2022,Research Institutions,IR-R-U-0234,"Manipal Academy of Higher Education, Manipal",QNR (100),46.11,
+2022,Research Institutions,IR-R-U-0234,"Manipal Academy of Higher Education, Manipal",QLR (100),44.08,
+2022,Research Institutions,IR-R-U-0234,"Manipal Academy of Higher Education, Manipal",SFC (100),66.01,
+2022,Research Institutions,IR-R-U-0234,"Manipal Academy of Higher Education, Manipal",OI (100),65.71,OI
+2022,Research Institutions,IR-R-U-0234,"Manipal Academy of Higher Education, Manipal",PERCEPTION (100),31.36,PR
+2022,Research Institutions,IR-R-U-0436,Amrita Vishwa Vidyapeetham,QNR (100),47.04,
+2022,Research Institutions,IR-R-U-0436,Amrita Vishwa Vidyapeetham,QLR (100),36.02,
+2022,Research Institutions,IR-R-U-0436,Amrita Vishwa Vidyapeetham,SFC (100),63.46,
+2022,Research Institutions,IR-R-U-0436,Amrita Vishwa Vidyapeetham,OI (100),70.27,OI
+2022,Research Institutions,IR-R-U-0436,Amrita Vishwa Vidyapeetham,PERCEPTION (100),47.76,PR
+2022,Research Institutions,IR-R-U-0572,"Indian Institute of Science Education & Research, Kolkata",QNR (100),50.88,
+2022,Research Institutions,IR-R-U-0572,"Indian Institute of Science Education & Research, Kolkata",QLR (100),39.81,
+2022,Research Institutions,IR-R-U-0572,"Indian Institute of Science Education & Research, Kolkata",SFC (100),54.48,
+2022,Research Institutions,IR-R-U-0572,"Indian Institute of Science Education & Research, Kolkata",OI (100),57.13,OI
+2022,Research Institutions,IR-R-U-0572,"Indian Institute of Science Education & Research, Kolkata",PERCEPTION (100),42.58,PR
+2022,Research Institutions,IR-R-U-0391,Birla Institute of Technology & Science - Pilani,QNR (100),44.04,
+2022,Research Institutions,IR-R-U-0391,Birla Institute of Technology & Science - Pilani,QLR (100),41.7,
+2022,Research Institutions,IR-R-U-0391,Birla Institute of Technology & Science - Pilani,SFC (100),63.32,
+2022,Research Institutions,IR-R-U-0391,Birla Institute of Technology & Science - Pilani,OI (100),60.03,OI
+2022,Research Institutions,IR-R-U-0391,Birla Institute of Technology & Science - Pilani,PERCEPTION (100),32.7,PR
+2022,Research Institutions,IR-R-U-0139,"Indian Institute of Technology, Gandhinagar",QNR (100),54.99,
+2022,Research Institutions,IR-R-U-0139,"Indian Institute of Technology, Gandhinagar",QLR (100),33.53,
+2022,Research Institutions,IR-R-U-0139,"Indian Institute of Technology, Gandhinagar",SFC (100),56.29,
+2022,Research Institutions,IR-R-U-0139,"Indian Institute of Technology, Gandhinagar",OI (100),67.28,OI
+2022,Research Institutions,IR-R-U-0139,"Indian Institute of Technology, Gandhinagar",PERCEPTION (100),27.48,PR
+2022,Research Institutions,IR-R-I-1480,Thapar Institute of Engineering and Technology,QNR (100),44.7,
+2022,Research Institutions,IR-R-I-1480,Thapar Institute of Engineering and Technology,QLR (100),49.3,
+2022,Research Institutions,IR-R-I-1480,Thapar Institute of Engineering and Technology,SFC (100),52.59,
+2022,Research Institutions,IR-R-I-1480,Thapar Institute of Engineering and Technology,OI (100),55.79,OI
+2022,Research Institutions,IR-R-I-1480,Thapar Institute of Engineering and Technology,PERCEPTION (100),20.75,PR
+2022,Research Institutions,IR-R-U-0473,S.R.M. Institute of Science and Technology,QNR (100),35.65,
+2022,Research Institutions,IR-R-U-0473,S.R.M. Institute of Science and Technology,QLR (100),49.81,
+2022,Research Institutions,IR-R-U-0473,S.R.M. Institute of Science and Technology,SFC (100),55.17,
+2022,Research Institutions,IR-R-U-0473,S.R.M. Institute of Science and Technology,OI (100),63.39,OI
+2022,Research Institutions,IR-R-U-0473,S.R.M. Institute of Science and Technology,PERCEPTION (100),29.97,PR
+2022,Research Institutions,IR-R-U-0355,Indian Institute of Technology Bhubaneswar,QNR (100),47.7,
+2022,Research Institutions,IR-R-U-0355,Indian Institute of Technology Bhubaneswar,QLR (100),38.32,
+2022,Research Institutions,IR-R-U-0355,Indian Institute of Technology Bhubaneswar,SFC (100),47.82,
+2022,Research Institutions,IR-R-U-0355,Indian Institute of Technology Bhubaneswar,OI (100),61.19,OI
+2022,Research Institutions,IR-R-U-0355,Indian Institute of Technology Bhubaneswar,PERCEPTION (100),25.95,PR
+2022,Research Institutions,IR-R-U-0497,Amity University,QNR (100),35.02,
+2022,Research Institutions,IR-R-U-0497,Amity University,QLR (100),43.62,
+2022,Research Institutions,IR-R-U-0497,Amity University,SFC (100),54.55,
+2022,Research Institutions,IR-R-U-0497,Amity University,OI (100),64.72,OI
+2022,Research Institutions,IR-R-U-0497,Amity University,PERCEPTION (100),11.5,PR
+2022,Research Institutions,IR-R-U-0184,"Indian Institute of Technology, Mandi",QNR (100),46.23,
+2022,Research Institutions,IR-R-U-0184,"Indian Institute of Technology, Mandi",QLR (100),28.84,
+2022,Research Institutions,IR-R-U-0184,"Indian Institute of Technology, Mandi",SFC (100),52.76,
+2022,Research Institutions,IR-R-U-0184,"Indian Institute of Technology, Mandi",OI (100),67.69,OI
+2022,Research Institutions,IR-R-U-0184,"Indian Institute of Technology, Mandi",PERCEPTION (100),20.75,PR
+2022,Research Institutions,IR-R-U-0584,"Indian Institute of Engineering Science and Technology, Shibpur",QNR (100),47.29,
+2022,Research Institutions,IR-R-U-0584,"Indian Institute of Engineering Science and Technology, Shibpur",QLR (100),27.82,
+2022,Research Institutions,IR-R-U-0584,"Indian Institute of Engineering Science and Technology, Shibpur",SFC (100),52.15,
+2022,Research Institutions,IR-R-U-0584,"Indian Institute of Engineering Science and Technology, Shibpur",OI (100),48.76,OI
+2022,Research Institutions,IR-R-U-0584,"Indian Institute of Engineering Science and Technology, Shibpur",PERCEPTION (100),35.09,PR
+2022,Research Institutions,IR-R-U-0064,"Indian Institute of Technology, Patna",QNR (100),48.41,
+2022,Research Institutions,IR-R-U-0064,"Indian Institute of Technology, Patna",QLR (100),30.19,
+2022,Research Institutions,IR-R-U-0064,"Indian Institute of Technology, Patna",SFC (100),49.93,
+2022,Research Institutions,IR-R-U-0064,"Indian Institute of Technology, Patna",OI (100),52.52,OI
+2022,Research Institutions,IR-R-U-0064,"Indian Institute of Technology, Patna",PERCEPTION (100),23.67,PR
+2022,Research Institutions,IR-R-U-0236,"National Institute of Mental Health & Neuro Sciences, Bangalore",QNR (100),49.8,
+2022,Research Institutions,IR-R-U-0236,"National Institute of Mental Health & Neuro Sciences, Bangalore",QLR (100),26.9,
+2022,Research Institutions,IR-R-U-0236,"National Institute of Mental Health & Neuro Sciences, Bangalore",SFC (100),35.67,
+2022,Research Institutions,IR-R-U-0236,"National Institute of Mental Health & Neuro Sciences, Bangalore",OI (100),69.95,OI
+2022,Research Institutions,IR-R-U-0236,"National Institute of Mental Health & Neuro Sciences, Bangalore",PERCEPTION (100),39.96,PR
+2022,Research Institutions,IR-R-U-0435,Alagappa University,QNR (100),36.43,
+2022,Research Institutions,IR-R-U-0435,Alagappa University,QLR (100),29.97,
+2022,Research Institutions,IR-R-U-0435,Alagappa University,SFC (100),63.37,
+2022,Research Institutions,IR-R-U-0435,Alagappa University,OI (100),51.58,OI
+2022,Research Institutions,IR-R-U-0435,Alagappa University,PERCEPTION (100),32.51,PR
+2022,Research Institutions,IR-R-U-0476,Shanmugha Arts Science Technology & Research Academy,QNR (100),39.34,
+2022,Research Institutions,IR-R-U-0476,Shanmugha Arts Science Technology & Research Academy,QLR (100),32.36,
+2022,Research Institutions,IR-R-U-0476,Shanmugha Arts Science Technology & Research Academy,SFC (100),58.78,
+2022,Research Institutions,IR-R-U-0476,Shanmugha Arts Science Technology & Research Academy,OI (100),60.14,OI
+2022,Research Institutions,IR-R-U-0476,Shanmugha Arts Science Technology & Research Academy,PERCEPTION (100),11.18,PR
+2022,Research Institutions,IR-R-U-0363,Siksha `O` Anusandhan,QNR (100),34.34,
+2022,Research Institutions,IR-R-U-0363,Siksha `O` Anusandhan,QLR (100),30.54,
+2022,Research Institutions,IR-R-U-0363,Siksha `O` Anusandhan,SFC (100),57.67,
+2022,Research Institutions,IR-R-U-0363,Siksha `O` Anusandhan,OI (100),69.23,OI
+2022,Research Institutions,IR-R-U-0363,Siksha `O` Anusandhan,PERCEPTION (100),21.5,PR
+2022,Research Institutions,IR-R-U-0410,Malaviya National Institute of Technology,QNR (100),42.51,
+2022,Research Institutions,IR-R-U-0410,Malaviya National Institute of Technology,QLR (100),32.35,
+2022,Research Institutions,IR-R-U-0410,Malaviya National Institute of Technology,SFC (100),54.6,
+2022,Research Institutions,IR-R-U-0410,Malaviya National Institute of Technology,OI (100),56.25,OI
+2022,Research Institutions,IR-R-U-0410,Malaviya National Institute of Technology,PERCEPTION (100),8.23,PR
+2022,Research Institutions,IR-R-U-0356,Kalinga Institute of Industrial Technology,QNR (100),26.15,
+2022,Research Institutions,IR-R-U-0356,Kalinga Institute of Industrial Technology,QLR (100),27.67,
+2022,Research Institutions,IR-R-U-0356,Kalinga Institute of Industrial Technology,SFC (100),68.66,
+2022,Research Institutions,IR-R-U-0356,Kalinga Institute of Industrial Technology,OI (100),80.34,OI
+2022,Research Institutions,IR-R-U-0356,Kalinga Institute of Industrial Technology,PERCEPTION (100),17.35,PR
+2022,Research Institutions,IR-R-I-1441,Saveetha Institute of Medical and Technical Sciences,QNR (100),45.51,
+2022,Research Institutions,IR-R-I-1441,Saveetha Institute of Medical and Technical Sciences,QLR (100),29.59,
+2022,Research Institutions,IR-R-I-1441,Saveetha Institute of Medical and Technical Sciences,SFC (100),49.36,
+2022,Research Institutions,IR-R-I-1441,Saveetha Institute of Medical and Technical Sciences,OI (100),66.72,OI
+2022,Research Institutions,IR-R-I-1441,Saveetha Institute of Medical and Technical Sciences,PERCEPTION (100),5.06,PR
+2022,Research Institutions,IR-R-U-0272,Indian Institute of Science Education & Research Bhopal,QNR (100),40.25,
+2022,Research Institutions,IR-R-U-0272,Indian Institute of Science Education & Research Bhopal,QLR (100),25.58,
+2022,Research Institutions,IR-R-U-0272,Indian Institute of Science Education & Research Bhopal,SFC (100),53.05,
+2022,Research Institutions,IR-R-U-0272,Indian Institute of Science Education & Research Bhopal,OI (100),67.57,OI
+2022,Research Institutions,IR-R-U-0272,Indian Institute of Science Education & Research Bhopal,PERCEPTION (100),23.9,PR
+2022,Research Institutions,IR-R-U-0055,"National Institute of Technology, Silchar",QNR (100),40.3,
+2022,Research Institutions,IR-R-U-0055,"National Institute of Technology, Silchar",QLR (100),26.15,
+2022,Research Institutions,IR-R-U-0055,"National Institute of Technology, Silchar",SFC (100),53.35,
+2022,Research Institutions,IR-R-U-0055,"National Institute of Technology, Silchar",OI (100),57.97,OI
+2022,Research Institutions,IR-R-U-0055,"National Institute of Technology, Silchar",PERCEPTION (100),22.72,PR

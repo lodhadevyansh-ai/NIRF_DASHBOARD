@@ -1,0 +1,85 @@
+================================================================================
+                    NIRF MASTER DATASET COMPREHENSIVE VALIDATION REPORT
+================================================================================
+Validation Timestamp (UTC): 2026-11-02T17:23:48.743253+00:00
+Master Dataset Path:        data\Processed\NIRF_Master_Dataset_candidate.csv
+Raw Datasets Source:        data\Raw
+Validation Output Dir:      data\Processed\validation
+Overall Validation Status:  PASS
+================================================================================
+
+SECTION A: DATASET OVERVIEW
+--------------------------------------------------------------------------------
+  Total Master Records:                     6,572
+  Total Source Ranking Records:             6,572
+  Reconciliation Match:                     PASSED (Exact 100% Match)
+  Total Unique Institutions (by Name):      1,223
+  Total Unique Institution IDs:             2,055
+  Total Official Categories Covered:        17 / 17
+  Total Available Ranking Years:            9 (2017 to 2025)
+  Total Category-Year Datasets:             102 combinations
+  Total Columns in Master Schema:           23
+
+SECTION B: RECORD COUNT VALIDATION
+--------------------------------------------------------------------------------
+  Category-wise Record Count Check:         17 / 17 PASSED
+  Year-wise Record Count Check:             9 / 9 PASSED
+  Category-Year Combination Check:          102 / 102 PASSED
+  Missing Records in Master:                0
+  Extra Records in Master:                  0
+
+SECTION C: DUPLICATE RECORD VALIDATION
+--------------------------------------------------------------------------------
+  Exact Duplicate Rows:                     0
+  Duplicate Primary Keys (Yr+Cat+ID):       0
+  Multi-Year Institutional Traces:          944 institutions across multiple years
+  Cross-Category Appearances:               617 institutions ranked in multiple categories
+  Shared Name Distinct ID Candidates:       146 records (distinct affiliated colleges)
+
+SECTION D: MISSING FIELD VALIDATION
+--------------------------------------------------------------------------------
+  Unexpected Missing Values:                0
+  Records without Institution Name:         0
+  Records without Institute ID:             0
+  Records without City or State:            0
+  Records without Rank / Numeric Rank:      0
+  Expected Missing Overall Scores:          53 (Innovation, Open/Skill Univ, SDG, Dental 2025 #18)
+  Expected Missing Standard Parameters:     303 (Research Institutions uses QNR/QLR/SFC; non-param cats)
+  Populated Specialized Research Scores:    250 (Research Institutions 2021-2025)
+
+SECTION E: PARAMETER MATCHING VALIDATION
+--------------------------------------------------------------------------------
+  Total Source Parameter Records Checked:   32,595
+  Total Matched Parameter Records:          32,595 (100.0%)
+  Total Unmatched Parameter Records:        0
+  Total Parameter Value Mismatches:         0
+
+SECTION F: SOURCE-TO-MASTER RECONCILIATION
+--------------------------------------------------------------------------------
+  Source Ranking Records Compared:          6,572
+  Successfully Matched Master Records:      6,572
+  Records Missing from Master:              0
+  Extraneous / Fabricated Records:          0
+  Rank Range Check (1 - 100):               PASSED (0 violations)
+  Score Range Check (0.0 - 100.0):          PASSED (0 violations)
+  Year Range Check (2017 - 2025):           PASSED (0 violations)
+  Category Naming Validity:                 PASSED (0 violations)
+
+SECTION G: DELIVERABLES GENERATED IN data/Processed/validation/
+--------------------------------------------------------------------------------
+  1. source_inventory.csv                 - Comprehensive inventory of all 102 source datasets
+  2. category_record_counts.csv           - Raw vs Master record counts by category
+  3. year_record_counts.csv               - Raw vs Master record counts by year
+  4. category_year_record_counts.csv      - Raw vs Master counts for all 102 category-years
+  5. duplicate_records.csv                - Audit of potential duplicate candidates and actions
+  6. missing_values_report.csv            - Column-wise missing value classification and justification
+  7. unmatched_parameter_records.csv      - Log of unmatched parameter records (0 unmatched)
+  8. parameter_validation_report.csv      - Audit comparing all 32,595 raw parameter values vs master
+  9. source_master_comparison.csv         - Per combination source-to-master direct comparison
+  10. category_year_availability.csv      - 17 categories x 9 years availability matrix
+  11. validation_summary.txt              - Full human-readable audit report
+  12. validation_summary.json             - Machine-readable validation metrics
+
+================================================================================
+FINAL VERDICT: PASS
+================================================================================

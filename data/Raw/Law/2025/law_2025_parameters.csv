@@ -1,0 +1,201 @@
+year,category,institute_id,institute_name,parameter_name,parameter_score,canonical_parameter
+2025,Law,IR-L-U-0238,National Law School of India University,TLR (100),91.35,TLR
+2025,Law,IR-L-U-0238,National Law School of India University,RPC (100),56.25,RPC
+2025,Law,IR-L-U-0238,National Law School of India University,GO (100),84.4,GO
+2025,Law,IR-L-U-0238,National Law School of India University,OI (100),68.9,OI
+2025,Law,IR-L-U-0238,National Law School of India University,PERCEPTION (100),100.0,PR
+2025,Law,IR-L-U-0111,National Law University,TLR (100),88.7,TLR
+2025,Law,IR-L-U-0111,National Law University,RPC (100),42.85,RPC
+2025,Law,IR-L-U-0111,National Law University,GO (100),86.5,GO
+2025,Law,IR-L-U-0111,National Law University,OI (100),72.57,OI
+2025,Law,IR-L-U-0111,National Law University,PERCEPTION (100),92.05,PR
+2025,Law,IR-L-N-18,Nalsar University of Law,TLR (100),89.95,TLR
+2025,Law,IR-L-N-18,Nalsar University of Law,RPC (100),43.73,RPC
+2025,Law,IR-L-N-18,Nalsar University of Law,GO (100),88.28,GO
+2025,Law,IR-L-N-18,Nalsar University of Law,OI (100),71.4,OI
+2025,Law,IR-L-N-18,Nalsar University of Law,PERCEPTION (100),77.54,PR
+2025,Law,IR-L-U-0585,The West Bengal National University of Juridical Sciences,TLR (100),87.75,TLR
+2025,Law,IR-L-U-0585,The West Bengal National University of Juridical Sciences,RPC (100),56.85,RPC
+2025,Law,IR-L-U-0585,The West Bengal National University of Juridical Sciences,GO (100),87.38,GO
+2025,Law,IR-L-U-0585,The West Bengal National University of Juridical Sciences,OI (100),71.64,OI
+2025,Law,IR-L-U-0585,The West Bengal National University of Juridical Sciences,PERCEPTION (100),67.5,PR
+2025,Law,IR-L-U-0134,Gujarat National Law University,TLR (100),86.99,TLR
+2025,Law,IR-L-U-0134,Gujarat National Law University,RPC (100),51.45,RPC
+2025,Law,IR-L-U-0134,Gujarat National Law University,GO (100),84.29,GO
+2025,Law,IR-L-U-0134,Gujarat National Law University,OI (100),73.9,OI
+2025,Law,IR-L-U-0134,Gujarat National Law University,PERCEPTION (100),52.47,PR
+2025,Law,IR-L-U-0573,Indian Institute of Technology Kharagpur,TLR (100),81.24,TLR
+2025,Law,IR-L-U-0573,Indian Institute of Technology Kharagpur,RPC (100),85.2,RPC
+2025,Law,IR-L-U-0573,Indian Institute of Technology Kharagpur,GO (100),69.52,GO
+2025,Law,IR-L-U-0573,Indian Institute of Technology Kharagpur,OI (100),62.71,OI
+2025,Law,IR-L-U-0573,Indian Institute of Technology Kharagpur,PERCEPTION (100),51.56,PR
+2025,Law,IR-L-C-19328,"Symbiosis Law School, Pune",TLR (100),81.17,TLR
+2025,Law,IR-L-C-19328,"Symbiosis Law School, Pune",RPC (100),26.04,RPC
+2025,Law,IR-L-C-19328,"Symbiosis Law School, Pune",GO (100),96.25,GO
+2025,Law,IR-L-C-19328,"Symbiosis Law School, Pune",OI (100),69.37,OI
+2025,Law,IR-L-C-19328,"Symbiosis Law School, Pune",PERCEPTION (100),66.86,PR
+2025,Law,IR-L-U-0108,Jamia Millia Islamia,TLR (100),62.83,TLR
+2025,Law,IR-L-U-0108,Jamia Millia Islamia,RPC (100),44.44,RPC
+2025,Law,IR-L-U-0108,Jamia Millia Islamia,GO (100),84.28,GO
+2025,Law,IR-L-U-0108,Jamia Millia Islamia,OI (100),85.48,OI
+2025,Law,IR-L-U-0108,Jamia Millia Islamia,PERCEPTION (100),49.67,PR
+2025,Law,IR-L-U-0496,Aligarh Muslim University,TLR (100),64.83,TLR
+2025,Law,IR-L-U-0496,Aligarh Muslim University,RPC (100),40.66,RPC
+2025,Law,IR-L-U-0496,Aligarh Muslim University,GO (100),93.26,GO
+2025,Law,IR-L-U-0496,Aligarh Muslim University,OI (100),59.16,OI
+2025,Law,IR-L-U-0496,Aligarh Muslim University,PERCEPTION (100),45.6,PR
+2025,Law,IR-L-U-0363,Siksha `O` Anusandhan,TLR (100),73.26,TLR
+2025,Law,IR-L-U-0363,Siksha `O` Anusandhan,RPC (100),37.61,RPC
+2025,Law,IR-L-U-0363,Siksha `O` Anusandhan,GO (100),67.84,GO
+2025,Law,IR-L-U-0363,Siksha `O` Anusandhan,OI (100),73.95,OI
+2025,Law,IR-L-U-0363,Siksha `O` Anusandhan,PERCEPTION (100),60.66,PR
+2025,Law,IR-L-U-0476,Shanmugha Arts Science Technology & Research Academy,TLR (100),82.0,TLR
+2025,Law,IR-L-U-0476,Shanmugha Arts Science Technology & Research Academy,RPC (100),30.0,RPC
+2025,Law,IR-L-U-0476,Shanmugha Arts Science Technology & Research Academy,GO (100),70.43,GO
+2025,Law,IR-L-U-0476,Shanmugha Arts Science Technology & Research Academy,OI (100),62.72,OI
+2025,Law,IR-L-U-0476,Shanmugha Arts Science Technology & Research Academy,PERCEPTION (100),41.1,PR
+2025,Law,IR-L-U-0498,Babasheb Bhimrao Ambedkar University,TLR (100),75.17,TLR
+2025,Law,IR-L-U-0498,Babasheb Bhimrao Ambedkar University,RPC (100),29.48,RPC
+2025,Law,IR-L-U-0498,Babasheb Bhimrao Ambedkar University,GO (100),80.8,GO
+2025,Law,IR-L-U-0498,Babasheb Bhimrao Ambedkar University,OI (100),71.05,OI
+2025,Law,IR-L-U-0498,Babasheb Bhimrao Ambedkar University,PERCEPTION (100),34.69,PR
+2025,Law,IR-L-U-0253,Cochin University of Science and Technology,TLR (100),81.5,TLR
+2025,Law,IR-L-U-0253,Cochin University of Science and Technology,RPC (100),55.14,RPC
+2025,Law,IR-L-U-0253,Cochin University of Science and Technology,GO (100),62.94,GO
+2025,Law,IR-L-U-0253,Cochin University of Science and Technology,OI (100),58.82,OI
+2025,Law,IR-L-U-0253,Cochin University of Science and Technology,PERCEPTION (100),27.12,PR
+2025,Law,IR-L-U-0356,Kalinga Institute of Industrial Technology,TLR (100),86.21,TLR
+2025,Law,IR-L-U-0356,Kalinga Institute of Industrial Technology,RPC (100),35.75,RPC
+2025,Law,IR-L-U-0356,Kalinga Institute of Industrial Technology,GO (100),60.51,GO
+2025,Law,IR-L-U-0356,Kalinga Institute of Industrial Technology,OI (100),75.35,OI
+2025,Law,IR-L-U-0356,Kalinga Institute of Industrial Technology,PERCEPTION (100),25.42,PR
+2025,Law,IR-L-U-0358,National Law University,TLR (100),80.87,TLR
+2025,Law,IR-L-U-0358,National Law University,RPC (100),23.54,RPC
+2025,Law,IR-L-U-0358,National Law University,GO (100),58.72,GO
+2025,Law,IR-L-U-0358,National Law University,OI (100),71.13,OI
+2025,Law,IR-L-U-0358,National Law University,PERCEPTION (100),59.91,PR
+2025,Law,IR-L-C-23907,Dr. B. R. Ambedkar College of Law,TLR (100),84.11,TLR
+2025,Law,IR-L-C-23907,Dr. B. R. Ambedkar College of Law,RPC (100),20.36,RPC
+2025,Law,IR-L-C-23907,Dr. B. R. Ambedkar College of Law,GO (100),72.55,GO
+2025,Law,IR-L-C-23907,Dr. B. R. Ambedkar College of Law,OI (100),55.79,OI
+2025,Law,IR-L-C-23907,Dr. B. R. Ambedkar College of Law,PERCEPTION (100),27.12,PR
+2025,Law,IR-L-U-0063,Chanakya National Law University,TLR (100),72.35,TLR
+2025,Law,IR-L-U-0063,Chanakya National Law University,RPC (100),23.82,RPC
+2025,Law,IR-L-U-0063,Chanakya National Law University,GO (100),79.23,GO
+2025,Law,IR-L-U-0063,Chanakya National Law University,OI (100),64.74,OI
+2025,Law,IR-L-U-0063,Chanakya National Law University,PERCEPTION (100),36.06,PR
+2025,Law,IR-L-U-0564,UPES,TLR (100),70.03,TLR
+2025,Law,IR-L-U-0564,UPES,RPC (100),39.77,RPC
+2025,Law,IR-L-U-0564,UPES,GO (100),52.46,GO
+2025,Law,IR-L-U-0564,UPES,OI (100),74.89,OI
+2025,Law,IR-L-U-0564,UPES,PERCEPTION (100),68.74,PR
+2025,Law,IR-L-I-1441,Saveetha Institute of Medical and Technical Sciences,TLR (100),80.22,TLR
+2025,Law,IR-L-I-1441,Saveetha Institute of Medical and Technical Sciences,RPC (100),33.95,RPC
+2025,Law,IR-L-I-1441,Saveetha Institute of Medical and Technical Sciences,GO (100),60.59,GO
+2025,Law,IR-L-I-1441,Saveetha Institute of Medical and Technical Sciences,OI (100),72.17,OI
+2025,Law,IR-L-I-1441,Saveetha Institute of Medical and Technical Sciences,PERCEPTION (100),13.48,PR
+2025,Law,IR-L-U-0213,Alliance University,TLR (100),84.8,TLR
+2025,Law,IR-L-U-0213,Alliance University,RPC (100),23.8,RPC
+2025,Law,IR-L-U-0213,Alliance University,GO (100),54.43,GO
+2025,Law,IR-L-U-0213,Alliance University,OI (100),67.03,OI
+2025,Law,IR-L-U-0213,Alliance University,PERCEPTION (100),30.32,PR
+2025,Law,IR-L-U-0511,"Dr. Ram Manohar Lohiya National Law University, Lucknow",TLR (100),60.35,TLR
+2025,Law,IR-L-U-0511,"Dr. Ram Manohar Lohiya National Law University, Lucknow",RPC (100),27.27,RPC
+2025,Law,IR-L-U-0511,"Dr. Ram Manohar Lohiya National Law University, Lucknow",GO (100),85.37,GO
+2025,Law,IR-L-U-0511,"Dr. Ram Manohar Lohiya National Law University, Lucknow",OI (100),52.95,OI
+2025,Law,IR-L-U-0511,"Dr. Ram Manohar Lohiya National Law University, Lucknow",PERCEPTION (100),52.47,PR
+2025,Law,IR-L-U-0099,Guru Gobind Singh Indraprastha University,TLR (100),52.97,TLR
+2025,Law,IR-L-U-0099,Guru Gobind Singh Indraprastha University,RPC (100),57.06,RPC
+2025,Law,IR-L-U-0099,Guru Gobind Singh Indraprastha University,GO (100),82.69,GO
+2025,Law,IR-L-U-0099,Guru Gobind Singh Indraprastha University,OI (100),55.22,OI
+2025,Law,IR-L-U-0099,Guru Gobind Singh Indraprastha University,PERCEPTION (100),41.1,PR
+2025,Law,IR-L-U-0062,Central University of South Bihar,TLR (100),66.92,TLR
+2025,Law,IR-L-U-0062,Central University of South Bihar,RPC (100),18.87,RPC
+2025,Law,IR-L-U-0062,Central University of South Bihar,GO (100),84.62,GO
+2025,Law,IR-L-U-0062,Central University of South Bihar,OI (100),55.42,OI
+2025,Law,IR-L-U-0062,Central University of South Bihar,PERCEPTION (100),25.42,PR
+2025,Law,IR-L-U-0217,Christ University,TLR (100),71.43,TLR
+2025,Law,IR-L-U-0217,Christ University,RPC (100),31.77,RPC
+2025,Law,IR-L-U-0217,Christ University,GO (100),52.04,GO
+2025,Law,IR-L-U-0217,Christ University,OI (100),74.94,OI
+2025,Law,IR-L-U-0217,Christ University,PERCEPTION (100),45.6,PR
+2025,Law,IR-L-U-0473,S.R.M. Institute of Science and Technology,TLR (100),75.82,TLR
+2025,Law,IR-L-U-0473,S.R.M. Institute of Science and Technology,RPC (100),28.9,RPC
+2025,Law,IR-L-U-0473,S.R.M. Institute of Science and Technology,GO (100),56.59,GO
+2025,Law,IR-L-U-0473,S.R.M. Institute of Science and Technology,OI (100),47.34,OI
+2025,Law,IR-L-U-0473,S.R.M. Institute of Science and Technology,PERCEPTION (100),44.52,PR
+2025,Law,IR-L-U-0379,Lovely Professional University,TLR (100),79.1,TLR
+2025,Law,IR-L-U-0379,Lovely Professional University,RPC (100),40.65,RPC
+2025,Law,IR-L-U-0379,Lovely Professional University,GO (100),43.93,GO
+2025,Law,IR-L-U-0379,Lovely Professional University,OI (100),76.89,OI
+2025,Law,IR-L-U-0379,Lovely Professional University,PERCEPTION (100),15.73,PR
+2025,Law,IR-L-U-0285,"National Law Institute University, Bhopal",TLR (100),61.44,TLR
+2025,Law,IR-L-U-0285,"National Law Institute University, Bhopal",RPC (100),26.47,RPC
+2025,Law,IR-L-U-0285,"National Law Institute University, Bhopal",GO (100),74.41,GO
+2025,Law,IR-L-U-0285,"National Law Institute University, Bhopal",OI (100),67.56,OI
+2025,Law,IR-L-U-0285,"National Law Institute University, Bhopal",PERCEPTION (100),37.38,PR
+2025,Law,IR-L-U-0880,"Maharashtra National Law University, Nagpur",TLR (100),73.01,TLR
+2025,Law,IR-L-U-0880,"Maharashtra National Law University, Nagpur",RPC (100),22.54,RPC
+2025,Law,IR-L-U-0880,"Maharashtra National Law University, Nagpur",GO (100),63.54,GO
+2025,Law,IR-L-U-0880,"Maharashtra National Law University, Nagpur",OI (100),65.09,OI
+2025,Law,IR-L-U-0880,"Maharashtra National Law University, Nagpur",PERCEPTION (100),15.73,PR
+2025,Law,IR-L-U-0524,University of Lucknow,TLR (100),57.32,TLR
+2025,Law,IR-L-U-0524,University of Lucknow,RPC (100),19.5,RPC
+2025,Law,IR-L-U-0524,University of Lucknow,GO (100),88.15,GO
+2025,Law,IR-L-U-0524,University of Lucknow,OI (100),59.65,OI
+2025,Law,IR-L-U-0524,University of Lucknow,PERCEPTION (100),19.88,PR
+2025,Law,IR-L-U-0600,"National University of Study & Research in Law, Ranchi",TLR (100),67.54,TLR
+2025,Law,IR-L-U-0600,"National University of Study & Research in Law, Ranchi",RPC (100),29.69,RPC
+2025,Law,IR-L-U-0600,"National University of Study & Research in Law, Ranchi",GO (100),61.66,GO
+2025,Law,IR-L-U-0600,"National University of Study & Research in Law, Ranchi",OI (100),62.12,OI
+2025,Law,IR-L-U-0600,"National University of Study & Research in Law, Ranchi",PERCEPTION (100),27.12,PR
+2025,Law,IR-L-U-0012,"ICFAI Foundation for Higher Education, Hyderabad",TLR (100),73.87,TLR
+2025,Law,IR-L-U-0012,"ICFAI Foundation for Higher Education, Hyderabad",RPC (100),38.39,RPC
+2025,Law,IR-L-U-0012,"ICFAI Foundation for Higher Education, Hyderabad",GO (100),47.51,GO
+2025,Law,IR-L-U-0012,"ICFAI Foundation for Higher Education, Hyderabad",OI (100),59.09,OI
+2025,Law,IR-L-U-0012,"ICFAI Foundation for Higher Education, Hyderabad",PERCEPTION (100),21.81,PR
+2025,Law,IR-L-U-0749,Manipal University Jaipur,TLR (100),79.17,TLR
+2025,Law,IR-L-U-0749,Manipal University Jaipur,RPC (100),26.53,RPC
+2025,Law,IR-L-U-0749,Manipal University Jaipur,GO (100),47.41,GO
+2025,Law,IR-L-U-0749,Manipal University Jaipur,OI (100),67.41,OI
+2025,Law,IR-L-U-0749,Manipal University Jaipur,PERCEPTION (100),5.93,PR
+2025,Law,IR-L-U-0146,Nirma University,TLR (100),59.54,TLR
+2025,Law,IR-L-U-0146,Nirma University,RPC (100),43.65,RPC
+2025,Law,IR-L-U-0146,Nirma University,GO (100),57.66,GO
+2025,Law,IR-L-U-0146,Nirma University,OI (100),75.68,OI
+2025,Law,IR-L-U-0146,Nirma University,PERCEPTION (100),13.48,PR
+2025,Law,IR-L-U-1035,"Himachal Pradesh National Law University, Shimla",TLR (100),71.13,TLR
+2025,Law,IR-L-U-1035,"Himachal Pradesh National Law University, Shimla",RPC (100),1.79,RPC
+2025,Law,IR-L-U-1035,"Himachal Pradesh National Law University, Shimla",GO (100),61.69,GO
+2025,Law,IR-L-U-1035,"Himachal Pradesh National Law University, Shimla",OI (100),71.74,OI
+2025,Law,IR-L-U-1035,"Himachal Pradesh National Law University, Shimla",PERCEPTION (100),21.81,PR
+2025,Law,IR-L-U-0677,National Law University and Judicial Academy,TLR (100),77.64,TLR
+2025,Law,IR-L-U-0677,National Law University and Judicial Academy,RPC (100),4.09,RPC
+2025,Law,IR-L-U-0677,National Law University and Judicial Academy,GO (100),51.65,GO
+2025,Law,IR-L-U-0677,National Law University and Judicial Academy,OI (100),62.68,OI
+2025,Law,IR-L-U-0677,National Law University and Judicial Academy,PERCEPTION (100),25.42,PR
+2025,Law,IR-L-U-0643,Galgotias University,TLR (100),64.93,TLR
+2025,Law,IR-L-U-0643,Galgotias University,RPC (100),32.5,RPC
+2025,Law,IR-L-U-0643,Galgotias University,GO (100),59.89,GO
+2025,Law,IR-L-U-0643,Galgotias University,OI (100),75.16,OI
+2025,Law,IR-L-U-0643,Galgotias University,PERCEPTION (100),0.0,PR
+2025,Law,IR-L-C-22215,Army Institute of Law,TLR (100),60.3,TLR
+2025,Law,IR-L-C-22215,Army Institute of Law,RPC (100),18.88,RPC
+2025,Law,IR-L-C-22215,Army Institute of Law,GO (100),62.53,GO
+2025,Law,IR-L-C-22215,Army Institute of Law,OI (100),70.82,OI
+2025,Law,IR-L-C-22215,Army Institute of Law,PERCEPTION (100),36.06,PR
+2025,Law,IR-L-U-0011,Gandhi Institute of Technology And Management (GITAM),TLR (100),70.11,TLR
+2025,Law,IR-L-U-0011,Gandhi Institute of Technology And Management (GITAM),RPC (100),28.37,RPC
+2025,Law,IR-L-U-0011,Gandhi Institute of Technology And Management (GITAM),GO (100),49.86,GO
+2025,Law,IR-L-U-0011,Gandhi Institute of Technology And Management (GITAM),OI (100),63.17,OI
+2025,Law,IR-L-U-0011,Gandhi Institute of Technology And Management (GITAM),PERCEPTION (100),21.81,PR
+2025,Law,IR-L-U-0155,"Amity University Haryana, Gurgaon",TLR (100),67.37,TLR
+2025,Law,IR-L-U-0155,"Amity University Haryana, Gurgaon",RPC (100),25.67,RPC
+2025,Law,IR-L-U-0155,"Amity University Haryana, Gurgaon",GO (100),56.15,GO
+2025,Law,IR-L-U-0155,"Amity University Haryana, Gurgaon",OI (100),60.14,OI
+2025,Law,IR-L-U-0155,"Amity University Haryana, Gurgaon",PERCEPTION (100),23.66,PR
+2025,Law,IR-L-U-0372,Central University of Punjab,TLR (100),65.69,TLR
+2025,Law,IR-L-U-0372,Central University of Punjab,RPC (100),48.74,RPC
+2025,Law,IR-L-U-0372,Central University of Punjab,GO (100),41.33,GO
+2025,Law,IR-L-U-0372,Central University of Punjab,OI (100),69.91,OI
+2025,Law,IR-L-U-0372,Central University of Punjab,PERCEPTION (100),17.86,PR

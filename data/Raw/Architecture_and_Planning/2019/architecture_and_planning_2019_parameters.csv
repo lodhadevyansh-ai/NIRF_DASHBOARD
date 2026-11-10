@@ -1,0 +1,76 @@
+year,category,institute_id,institute_name,parameter_name,parameter_score,canonical_parameter
+2019,Architecture and Planning,IR-A-U-0573,Indian Institute of Technology Kharagpur,TLR (100),73.85,TLR
+2019,Architecture and Planning,IR-A-U-0573,Indian Institute of Technology Kharagpur,RPC (100),89.49,RPC
+2019,Architecture and Planning,IR-A-U-0573,Indian Institute of Technology Kharagpur,GO (100),86.98,GO
+2019,Architecture and Planning,IR-A-U-0573,Indian Institute of Technology Kharagpur,OI (100),75.54,OI
+2019,Architecture and Planning,IR-A-U-0573,Indian Institute of Technology Kharagpur,PERCEPTION (100),95.66,PR
+2019,Architecture and Planning,IR-A-U-0560,Indian Institute of Technology Roorkee,TLR (100),75.4,TLR
+2019,Architecture and Planning,IR-A-U-0560,Indian Institute of Technology Roorkee,RPC (100),89.24,RPC
+2019,Architecture and Planning,IR-A-U-0560,Indian Institute of Technology Roorkee,GO (100),82.48,GO
+2019,Architecture and Planning,IR-A-U-0560,Indian Institute of Technology Roorkee,OI (100),65.01,OI
+2019,Architecture and Planning,IR-A-U-0560,Indian Institute of Technology Roorkee,PERCEPTION (100),73.18,PR
+2019,Architecture and Planning,IR-A-U-0263,National Institute of Technology Calicut,TLR (100),73.28,TLR
+2019,Architecture and Planning,IR-A-U-0263,National Institute of Technology Calicut,RPC (100),41.45,RPC
+2019,Architecture and Planning,IR-A-U-0263,National Institute of Technology Calicut,GO (100),72.07,GO
+2019,Architecture and Planning,IR-A-U-0263,National Institute of Technology Calicut,OI (100),63.51,OI
+2019,Architecture and Planning,IR-A-U-0263,National Institute of Technology Calicut,PERCEPTION (100),71.59,PR
+2019,Architecture and Planning,IR-A-U-0116,School of Planning and Architecture New Delhi,TLR (100),68.32,TLR
+2019,Architecture and Planning,IR-A-U-0116,School of Planning and Architecture New Delhi,RPC (100),16.7,RPC
+2019,Architecture and Planning,IR-A-U-0116,School of Planning and Architecture New Delhi,GO (100),73.91,GO
+2019,Architecture and Planning,IR-A-U-0116,School of Planning and Architecture New Delhi,OI (100),72.07,OI
+2019,Architecture and Planning,IR-A-U-0116,School of Planning and Architecture New Delhi,PERCEPTION (100),98.32,PR
+2019,Architecture and Planning,IR-A-C-43708,College of Engineering,TLR (100),64.05,TLR
+2019,Architecture and Planning,IR-A-C-43708,College of Engineering,RPC (100),33.13,RPC
+2019,Architecture and Planning,IR-A-C-43708,College of Engineering,GO (100),76.52,GO
+2019,Architecture and Planning,IR-A-C-43708,College of Engineering,OI (100),54.67,OI
+2019,Architecture and Planning,IR-A-C-43708,College of Engineering,PERCEPTION (100),64.5,PR
+2019,Architecture and Planning,IR-A-U-0626,School of Planning and Architecture Bhopal,TLR (100),72.46,TLR
+2019,Architecture and Planning,IR-A-U-0626,School of Planning and Architecture Bhopal,RPC (100),24.41,RPC
+2019,Architecture and Planning,IR-A-U-0626,School of Planning and Architecture Bhopal,GO (100),61.47,GO
+2019,Architecture and Planning,IR-A-U-0626,School of Planning and Architecture Bhopal,OI (100),67.35,OI
+2019,Architecture and Planning,IR-A-U-0626,School of Planning and Architecture Bhopal,PERCEPTION (100),58.26,PR
+2019,Architecture and Planning,IR-A-U-0467,National Institute of Technology Tiruchirappalli,TLR (100),49.71,TLR
+2019,Architecture and Planning,IR-A-U-0467,National Institute of Technology Tiruchirappalli,RPC (100),50.33,RPC
+2019,Architecture and Planning,IR-A-U-0467,National Institute of Technology Tiruchirappalli,GO (100),66.74,GO
+2019,Architecture and Planning,IR-A-U-0467,National Institute of Technology Tiruchirappalli,OI (100),61.73,OI
+2019,Architecture and Planning,IR-A-U-0467,National Institute of Technology Tiruchirappalli,PERCEPTION (100),91.83,PR
+2019,Architecture and Planning,IR-A-U-0108,Jamia Millia Islamia,TLR (100),59.91,TLR
+2019,Architecture and Planning,IR-A-U-0108,Jamia Millia Islamia,RPC (100),24.89,RPC
+2019,Architecture and Planning,IR-A-U-0108,Jamia Millia Islamia,GO (100),84.16,GO
+2019,Architecture and Planning,IR-A-U-0108,Jamia Millia Islamia,OI (100),74.65,OI
+2019,Architecture and Planning,IR-A-U-0108,Jamia Millia Islamia,PERCEPTION (100),48.17,PR
+2019,Architecture and Planning,IR-A-U-0627,School of Planning and Architecture Vijayawada,TLR (100),62.11,TLR
+2019,Architecture and Planning,IR-A-U-0627,School of Planning and Architecture Vijayawada,RPC (100),9.96,RPC
+2019,Architecture and Planning,IR-A-U-0627,School of Planning and Architecture Vijayawada,GO (100),84.74,GO
+2019,Architecture and Planning,IR-A-U-0627,School of Planning and Architecture Vijayawada,OI (100),59.74,OI
+2019,Architecture and Planning,IR-A-U-0627,School of Planning and Architecture Vijayawada,PERCEPTION (100),73.18,PR
+2019,Architecture and Planning,IR-A-U-0202,Birla Institute of Technology,TLR (100),62.34,TLR
+2019,Architecture and Planning,IR-A-U-0202,Birla Institute of Technology,RPC (100),36.86,RPC
+2019,Architecture and Planning,IR-A-U-0202,Birla Institute of Technology,GO (100),60.55,GO
+2019,Architecture and Planning,IR-A-U-0202,Birla Institute of Technology,OI (100),55.74,OI
+2019,Architecture and Planning,IR-A-U-0202,Birla Institute of Technology,PERCEPTION (100),66.39,PR
+2019,Architecture and Planning,IR-A-C-24004,College of Engineering Visakhapatnam,TLR (100),74.84,TLR
+2019,Architecture and Planning,IR-A-C-24004,College of Engineering Visakhapatnam,RPC (100),10.63,RPC
+2019,Architecture and Planning,IR-A-C-24004,College of Engineering Visakhapatnam,GO (100),76.52,GO
+2019,Architecture and Planning,IR-A-C-24004,College of Engineering Visakhapatnam,OI (100),52.7,OI
+2019,Architecture and Planning,IR-A-C-24004,College of Engineering Visakhapatnam,PERCEPTION (100),30.68,PR
+2019,Architecture and Planning,IR-A-U-0439,Anna University,TLR (100),50.03,TLR
+2019,Architecture and Planning,IR-A-U-0439,Anna University,RPC (100),27.53,RPC
+2019,Architecture and Planning,IR-A-U-0439,Anna University,GO (100),62.87,GO
+2019,Architecture and Planning,IR-A-U-0439,Anna University,OI (100),51.95,OI
+2019,Architecture and Planning,IR-A-U-0439,Anna University,PERCEPTION (100),100.0,PR
+2019,Architecture and Planning,IR-A-U-0496,Aligarh Muslim University,TLR (100),43.42,TLR
+2019,Architecture and Planning,IR-A-U-0496,Aligarh Muslim University,RPC (100),46.87,RPC
+2019,Architecture and Planning,IR-A-U-0496,Aligarh Muslim University,GO (100),91.54,GO
+2019,Architecture and Planning,IR-A-U-0496,Aligarh Muslim University,OI (100),29.24,OI
+2019,Architecture and Planning,IR-A-U-0496,Aligarh Muslim University,PERCEPTION (100),42.02,PR
+2019,Architecture and Planning,IR-A-U-0284,Maulana Azad National Institute of Technology,TLR (100),60.22,TLR
+2019,Architecture and Planning,IR-A-U-0284,Maulana Azad National Institute of Technology,RPC (100),38.13,RPC
+2019,Architecture and Planning,IR-A-U-0284,Maulana Azad National Institute of Technology,GO (100),60.43,GO
+2019,Architecture and Planning,IR-A-U-0284,Maulana Azad National Institute of Technology,OI (100),45.82,OI
+2019,Architecture and Planning,IR-A-U-0284,Maulana Azad National Institute of Technology,PERCEPTION (100),34.81,PR
+2019,Architecture and Planning,IR-A-C-57952,BMS College of Architecture,TLR (100),64.93,TLR
+2019,Architecture and Planning,IR-A-C-57952,BMS College of Architecture,RPC (100),0.01,RPC
+2019,Architecture and Planning,IR-A-C-57952,BMS College of Architecture,GO (100),56.03,GO
+2019,Architecture and Planning,IR-A-C-57952,BMS College of Architecture,OI (100),58.06,OI
+2019,Architecture and Planning,IR-A-C-57952,BMS College of Architecture,PERCEPTION (100),76.21,PR

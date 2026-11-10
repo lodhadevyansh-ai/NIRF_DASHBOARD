@@ -1,0 +1,103 @@
+Category,Year,Source Records,Master Records,Matched Records,Missing in Master,Extra in Master,Status
+Agriculture and Allied Sectors,2023,40,40,40,0,0,PASS
+Agriculture and Allied Sectors,2024,40,40,40,0,0,PASS
+Agriculture and Allied Sectors,2025,40,40,40,0,0,PASS
+Architecture and Planning,2018,10,10,10,0,0,PASS
+Architecture and Planning,2019,15,15,15,0,0,PASS
+Architecture and Planning,2020,20,20,20,0,0,PASS
+Architecture and Planning,2021,25,25,25,0,0,PASS
+Architecture and Planning,2022,30,30,30,0,0,PASS
+Architecture and Planning,2023,30,30,30,0,0,PASS
+Architecture and Planning,2024,40,40,40,0,0,PASS
+Architecture and Planning,2025,40,40,40,0,0,PASS
+Colleges,2017,100,100,100,0,0,PASS
+Colleges,2018,99,99,99,0,0,PASS
+Colleges,2019,100,100,100,0,0,PASS
+Colleges,2020,100,100,100,0,0,PASS
+Colleges,2021,100,100,100,0,0,PASS
+Colleges,2022,100,100,100,0,0,PASS
+Colleges,2023,100,100,100,0,0,PASS
+Colleges,2024,100,100,100,0,0,PASS
+Colleges,2025,100,100,100,0,0,PASS
+Dental,2020,30,30,30,0,0,PASS
+Dental,2021,40,40,40,0,0,PASS
+Dental,2022,40,40,40,0,0,PASS
+Dental,2023,40,40,40,0,0,PASS
+Dental,2024,40,40,40,0,0,PASS
+Dental,2025,40,40,40,0,0,PASS
+Engineering,2017,100,100,100,0,0,PASS
+Engineering,2018,98,98,98,0,0,PASS
+Engineering,2019,100,100,100,0,0,PASS
+Engineering,2020,100,100,100,0,0,PASS
+Engineering,2021,100,100,100,0,0,PASS
+Engineering,2022,100,100,100,0,0,PASS
+Engineering,2023,100,100,100,0,0,PASS
+Engineering,2024,100,100,100,0,0,PASS
+Engineering,2025,100,100,100,0,0,PASS
+Innovation,2023,10,10,10,0,0,PASS
+Innovation,2024,10,10,10,0,0,PASS
+Innovation,2025,10,10,10,0,0,PASS
+Law,2018,10,10,10,0,0,PASS
+Law,2019,15,15,15,0,0,PASS
+Law,2020,20,20,20,0,0,PASS
+Law,2021,30,30,30,0,0,PASS
+Law,2022,30,30,30,0,0,PASS
+Law,2023,30,30,30,0,0,PASS
+Law,2024,40,40,40,0,0,PASS
+Law,2025,40,40,40,0,0,PASS
+Management,2017,50,50,50,0,0,PASS
+Management,2018,50,50,50,0,0,PASS
+Management,2019,75,75,75,0,0,PASS
+Management,2020,75,75,75,0,0,PASS
+Management,2021,75,75,75,0,0,PASS
+Management,2022,101,101,101,0,0,PASS
+Management,2023,100,100,100,0,0,PASS
+Management,2024,100,100,100,0,0,PASS
+Management,2025,100,100,100,0,0,PASS
+Medical,2018,25,25,25,0,0,PASS
+Medical,2019,30,30,30,0,0,PASS
+Medical,2020,40,40,40,0,0,PASS
+Medical,2021,50,50,50,0,0,PASS
+Medical,2022,50,50,50,0,0,PASS
+Medical,2023,50,50,50,0,0,PASS
+Medical,2024,50,50,50,0,0,PASS
+Medical,2025,50,50,50,0,0,PASS
+Open University,2024,3,3,3,0,0,PASS
+Open University,2025,3,3,3,0,0,PASS
+Overall,2017,100,100,100,0,0,PASS
+Overall,2018,100,100,100,0,0,PASS
+Overall,2019,100,100,100,0,0,PASS
+Overall,2020,101,101,101,0,0,PASS
+Overall,2021,100,100,100,0,0,PASS
+Overall,2022,100,100,100,0,0,PASS
+Overall,2023,100,100,100,0,0,PASS
+Overall,2024,100,100,100,0,0,PASS
+Overall,2025,100,100,100,0,0,PASS
+Pharmacy,2017,50,50,50,0,0,PASS
+Pharmacy,2018,49,49,49,0,0,PASS
+Pharmacy,2019,75,75,75,0,0,PASS
+Pharmacy,2020,75,75,75,0,0,PASS
+Pharmacy,2021,75,75,75,0,0,PASS
+Pharmacy,2022,101,101,101,0,0,PASS
+Pharmacy,2023,100,100,100,0,0,PASS
+Pharmacy,2024,100,100,100,0,0,PASS
+Pharmacy,2025,101,101,101,0,0,PASS
+Research Institutions,2021,50,50,50,0,0,PASS
+Research Institutions,2022,50,50,50,0,0,PASS
+Research Institutions,2023,50,50,50,0,0,PASS
+Research Institutions,2024,50,50,50,0,0,PASS
+Research Institutions,2025,50,50,50,0,0,PASS
+Skill University,2024,3,3,3,0,0,PASS
+Skill University,2025,3,3,3,0,0,PASS
+State Public University,2024,50,50,50,0,0,PASS
+State Public University,2025,50,50,50,0,0,PASS
+Sustainable Development Goals,2025,10,10,10,0,0,PASS
+Universities,2017,100,100,100,0,0,PASS
+Universities,2018,100,100,100,0,0,PASS
+Universities,2019,100,100,100,0,0,PASS
+Universities,2020,100,100,100,0,0,PASS
+Universities,2021,100,100,100,0,0,PASS
+Universities,2022,100,100,100,0,0,PASS
+Universities,2023,100,100,100,0,0,PASS
+Universities,2024,100,100,100,0,0,PASS
+Universities,2025,100,100,100,0,0,PASS

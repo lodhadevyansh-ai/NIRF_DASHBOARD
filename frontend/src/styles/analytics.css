@@ -1,0 +1,396 @@
+/**
+ * NIRF Analytics Dashboard — Analytics Stylesheet.
+ * Official Indian Government Portal Theme.
+ *
+ * Provides styling for:
+ * - Sub-navigation tabs (pills)
+ * - Trajectory header & institution picker
+ * - Statistical summary cards
+ * - Year range filter controls
+ * - Analytical tables & ranking difference badges
+ * - Longitudinal consistency heat matrix
+ * - Chatbot loading & message containers
+ */
+
+/* Sub-Navigation Tabs — Government Filter Pills */
+.analytics-tabs-container {
+  display: flex;
+  align-items: center;
+  overflow-x: auto;
+  padding-bottom: 4px;
+  border-bottom: 1px solid var(--gov-border);
+  margin-bottom: 20px;
+}
+
+.analytics-tabs-list {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  min-width: max-content;
+}
+
+.analytics-tab-btn {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 7px 16px;
+  border-radius: var(--radius-sm);
+  font-size: 0.84rem;
+  font-weight: 500;
+  background-color: #ffffff;
+  color: var(--gov-text-secondary);
+  border: 1px solid var(--gov-border);
+  cursor: pointer;
+  white-space: nowrap;
+  transition: all 0.15s ease;
+}
+
+.analytics-tab-btn:hover {
+  background-color: var(--gov-blue-subtle);
+  color: var(--gov-navy-primary);
+  border-color: #b8c4d1;
+}
+
+.analytics-tab-btn.active {
+  background-color: var(--gov-navy-primary);
+  color: #ffffff;
+  border-color: var(--gov-navy-deep);
+  font-weight: 600;
+  box-shadow: 0 1px 3px rgba(18, 59, 101, 0.25);
+}
+
+.analytics-tab-icon {
+  flex-shrink: 0;
+  color: inherit;
+}
+
+/* Control Row & Question Banner — Government Informational Panel */
+.analytics-question-banner {
+  background-color: var(--gov-blue-subtle);
+  border: 1px solid #d0dfef;
+  border-radius: var(--radius-md);
+  padding: 12px 18px;
+  margin-bottom: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+.analytics-question-title {
+  font-size: 0.88rem;
+  font-weight: 700;
+  color: var(--gov-navy-primary);
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.analytics-question-subtitle {
+  font-size: 0.78rem;
+  color: var(--gov-text-secondary);
+  margin-top: 2px;
+}
+
+.analytics-controls-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 14px;
+  padding: 14px 18px;
+  background-color: #ffffff;
+  border: 1px solid var(--gov-border);
+  border-radius: var(--radius-md);
+  margin-bottom: 20px;
+  box-shadow: var(--shadow-sm);
+}
+
+.analytics-control-group {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.analytics-control-label {
+  font-size: 0.76rem;
+  font-weight: 700;
+  color: var(--gov-navy-primary);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.analytics-select {
+  padding: 8px 12px;
+  border: 1px solid var(--gov-border);
+  border-radius: var(--radius-sm);
+  background-color: #ffffff;
+  font-size: 0.86rem;
+  color: var(--gov-text-main);
+  outline: none;
+  min-width: 140px;
+  transition: all 0.15s ease;
+}
+
+.analytics-select:focus {
+  border-color: var(--gov-navy-primary);
+  box-shadow: 0 0 0 2px var(--gov-blue-subtle);
+}
+
+.analytics-inst-select {
+  min-width: 280px;
+  max-width: 440px;
+}
+
+/* Metric Summary Ribbon */
+.analytics-metrics-ribbon {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: 12px;
+  margin-bottom: 20px;
+}
+
+.analytics-metric-card {
+  background-color: #ffffff;
+  border: 1px solid var(--gov-border);
+  border-radius: var(--radius-md);
+  padding: 12px 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  box-shadow: var(--shadow-sm);
+}
+
+.analytics-metric-label {
+  font-size: 0.70rem;
+  font-weight: 700;
+  color: var(--gov-text-secondary);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.analytics-metric-val {
+  font-size: 1.3rem;
+  font-weight: 800;
+  color: var(--gov-navy-primary);
+}
+
+.analytics-metric-sub {
+  font-size: 0.74rem;
+  color: var(--gov-text-secondary);
+}
+
+/* Rank Shift Badges — Official Indicators */
+.rank-badge-improvement {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 3px 8px;
+  background-color: #e6f4ea;
+  color: var(--gov-success);
+  border: 1px solid #c6e7d0;
+  border-radius: 4px;
+  font-weight: 700;
+  font-size: 0.78rem;
+}
+
+.rank-badge-decline {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 3px 8px;
+  background-color: #fee2e2;
+  color: var(--gov-danger);
+  border: 1px solid #fecaca;
+  border-radius: 4px;
+  font-weight: 700;
+  font-size: 0.78rem;
+}
+
+.rank-badge-neutral {
+  display: inline-flex;
+  align-items: center;
+  padding: 3px 8px;
+  background-color: #f4f6f9;
+  color: var(--gov-text-secondary);
+  border: 1px solid var(--gov-border);
+  border-radius: 4px;
+  font-weight: 600;
+  font-size: 0.78rem;
+}
+
+/* Heatmap Grid in Consistent Top */
+.consistency-heat-grid {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.heat-cell {
+  width: 28px;
+  height: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.72rem;
+  font-weight: 600;
+  border-radius: 3px;
+  transition: transform 0.1s ease;
+}
+
+.heat-cell:hover {
+  transform: scale(1.15);
+  z-index: 2;
+}
+
+.heat-cell-top5 {
+  background-color: var(--gov-navy-primary);
+  color: #ffffff;
+}
+
+.heat-cell-top10 {
+  background-color: var(--gov-blue-secondary);
+  color: #ffffff;
+}
+
+.heat-cell-top20 {
+  background-color: #7fa4c6;
+  color: #ffffff;
+}
+
+.heat-cell-lower {
+  background-color: var(--gov-border);
+  color: var(--gov-text-main);
+}
+
+.heat-cell-missing {
+  background-color: #f4f6f9;
+  color: #94a3b8;
+  border: 1px dashed var(--gov-border);
+}
+
+/* Consistency Progress Bar */
+.consistency-progress-track {
+  width: 90px;
+  height: 6px;
+  background-color: var(--gov-border);
+  border-radius: 3px;
+  overflow: hidden;
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 8px;
+}
+
+.consistency-progress-bar {
+  height: 100%;
+  background: linear-gradient(90deg, var(--gov-blue-secondary), var(--gov-success));
+  border-radius: 3px;
+}
+
+/* View Mode Toggles */
+.view-mode-toggle {
+  display: flex;
+  align-items: center;
+  background-color: #f4f6f9;
+  border: 1px solid var(--gov-border);
+  border-radius: var(--radius-sm);
+  padding: 2px;
+}
+
+.view-mode-btn {
+  padding: 5px 12px;
+  border: none;
+  background: transparent;
+  font-size: 0.78rem;
+  font-weight: 500;
+  color: var(--gov-text-secondary);
+  border-radius: 3px;
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.view-mode-btn.active {
+  background-color: #ffffff;
+  color: var(--gov-navy-primary);
+  font-weight: 700;
+  box-shadow: 0 1px 2px rgba(11, 45, 80, 0.08);
+}
+
+/* Chatbot Loading Indicator Animations */
+@keyframes nlq-shimmer {
+  0% {
+    background-position: -200% 0;
+  }
+  100% {
+    background-position: 200% 0;
+  }
+}
+
+@keyframes nlq-dot-bounce {
+  0%, 80%, 100% {
+    transform: translateY(0);
+    opacity: 0.4;
+  }
+  40% {
+    transform: translateY(-5px);
+    opacity: 1;
+  }
+}
+
+.chat-loading-card {
+  position: relative;
+  background-color: #ffffff;
+  border: 1px solid var(--gov-border);
+  border-radius: 4px 10px 10px 10px;
+  padding: 12px 18px;
+  box-shadow: var(--shadow-sm);
+  overflow: hidden;
+  max-width: 480px;
+}
+
+.chat-progress-line {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 3px;
+  background: linear-gradient(90deg, var(--gov-navy-primary), var(--gov-blue-secondary), var(--gov-navy-primary));
+  background-size: 200% 100%;
+  animation: nlq-shimmer 2s ease-in-out infinite;
+}
+
+.chat-dot {
+  width: 6px;
+  height: 6px;
+  background-color: var(--gov-navy-primary);
+  border-radius: 50%;
+  display: inline-block;
+  animation: nlq-dot-bounce 1.4s ease-in-out infinite both;
+}
+
+.chat-dot:nth-child(1) {
+  animation-delay: -0.32s;
+}
+
+.chat-dot:nth-child(2) {
+  animation-delay: -0.16s;
+}
+
+.chat-dot:nth-child(3) {
+  animation-delay: 0s;
+}
+
+/* Choropleth 2-Column Responsive Layout */
+.choropleth-split-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1.85fr) minmax(320px, 1fr);
+  gap: 20px;
+  align-items: stretch;
+}
+
+@media (max-width: 992px) {
+  .choropleth-split-grid {
+    grid-template-columns: 1fr;
+  }
+}

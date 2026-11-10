@@ -1,0 +1,201 @@
+year,category,institute_id,institute_name,parameter_name,parameter_score,canonical_parameter
+2023,Agriculture and Allied Sectors,IR-G-U-0101,Indian Agricultural Research Institute,TLR (100),86.71,TLR
+2023,Agriculture and Allied Sectors,IR-G-U-0101,Indian Agricultural Research Institute,RPC (100),84.32,RPC
+2023,Agriculture and Allied Sectors,IR-G-U-0101,Indian Agricultural Research Institute,GO (100),78.41,GO
+2023,Agriculture and Allied Sectors,IR-G-U-0101,Indian Agricultural Research Institute,OI (100),64.33,OI
+2023,Agriculture and Allied Sectors,IR-G-U-0101,Indian Agricultural Research Institute,PERCEPTION (100),97.36,PR
+2023,Agriculture and Allied Sectors,IR-G-U-0171,ICAR - National Dairy Research Institute,TLR (100),76.02,TLR
+2023,Agriculture and Allied Sectors,IR-G-U-0171,ICAR - National Dairy Research Institute,RPC (100),63.77,RPC
+2023,Agriculture and Allied Sectors,IR-G-U-0171,ICAR - National Dairy Research Institute,GO (100),80.32,GO
+2023,Agriculture and Allied Sectors,IR-G-U-0171,ICAR - National Dairy Research Institute,OI (100),56.92,OI
+2023,Agriculture and Allied Sectors,IR-G-U-0171,ICAR - National Dairy Research Institute,PERCEPTION (100),67.57,PR
+2023,Agriculture and Allied Sectors,IR-G-U-0381,"Punjab Agricultural University, Ludhiana",TLR (100),83.82,TLR
+2023,Agriculture and Allied Sectors,IR-G-U-0381,"Punjab Agricultural University, Ludhiana",RPC (100),64.52,RPC
+2023,Agriculture and Allied Sectors,IR-G-U-0381,"Punjab Agricultural University, Ludhiana",GO (100),46.16,GO
+2023,Agriculture and Allied Sectors,IR-G-U-0381,"Punjab Agricultural University, Ludhiana",OI (100),50.71,OI
+2023,Agriculture and Allied Sectors,IR-G-U-0381,"Punjab Agricultural University, Ludhiana",PERCEPTION (100),71.81,PR
+2023,Agriculture and Allied Sectors,IR-G-U-0500,Banaras Hindu University,TLR (100),58.36,TLR
+2023,Agriculture and Allied Sectors,IR-G-U-0500,Banaras Hindu University,RPC (100),73.03,RPC
+2023,Agriculture and Allied Sectors,IR-G-U-0500,Banaras Hindu University,GO (100),58.54,GO
+2023,Agriculture and Allied Sectors,IR-G-U-0500,Banaras Hindu University,OI (100),63.85,OI
+2023,Agriculture and Allied Sectors,IR-G-U-0500,Banaras Hindu University,PERCEPTION (100),61.58,PR
+2023,Agriculture and Allied Sectors,IR-G-U-0485,Tamil Nadu Agricultural University,TLR (100),80.54,TLR
+2023,Agriculture and Allied Sectors,IR-G-U-0485,Tamil Nadu Agricultural University,RPC (100),38.28,RPC
+2023,Agriculture and Allied Sectors,IR-G-U-0485,Tamil Nadu Agricultural University,GO (100),52.87,GO
+2023,Agriculture and Allied Sectors,IR-G-U-0485,Tamil Nadu Agricultural University,OI (100),55.04,OI
+2023,Agriculture and Allied Sectors,IR-G-U-0485,Tamil Nadu Agricultural University,PERCEPTION (100),100.0,PR
+2023,Agriculture and Allied Sectors,IR-G-U-0518,"Indian Veterinary Research Institute, Izatnagar",TLR (100),81.99,TLR
+2023,Agriculture and Allied Sectors,IR-G-U-0518,"Indian Veterinary Research Institute, Izatnagar",RPC (100),59.17,RPC
+2023,Agriculture and Allied Sectors,IR-G-U-0518,"Indian Veterinary Research Institute, Izatnagar",GO (100),46.36,GO
+2023,Agriculture and Allied Sectors,IR-G-U-0518,"Indian Veterinary Research Institute, Izatnagar",OI (100),48.61,OI
+2023,Agriculture and Allied Sectors,IR-G-U-0518,"Indian Veterinary Research Institute, Izatnagar",PERCEPTION (100),51.43,PR
+2023,Agriculture and Allied Sectors,IR-G-U-0293,"Central Institute of Fisheries Education, Fishries University",TLR (100),69.06,TLR
+2023,Agriculture and Allied Sectors,IR-G-U-0293,"Central Institute of Fisheries Education, Fishries University",RPC (100),45.75,RPC
+2023,Agriculture and Allied Sectors,IR-G-U-0293,"Central Institute of Fisheries Education, Fishries University",GO (100),79.68,GO
+2023,Agriculture and Allied Sectors,IR-G-U-0293,"Central Institute of Fisheries Education, Fishries University",OI (100),66.3,OI
+2023,Agriculture and Allied Sectors,IR-G-U-0293,"Central Institute of Fisheries Education, Fishries University",PERCEPTION (100),40.19,PR
+2023,Agriculture and Allied Sectors,IR-G-U-0554,"G.B. Pant Universtiy of Agriculture and Technology, Pantnagar",TLR (100),68.35,TLR
+2023,Agriculture and Allied Sectors,IR-G-U-0554,"G.B. Pant Universtiy of Agriculture and Technology, Pantnagar",RPC (100),42.37,RPC
+2023,Agriculture and Allied Sectors,IR-G-U-0554,"G.B. Pant Universtiy of Agriculture and Technology, Pantnagar",GO (100),70.88,GO
+2023,Agriculture and Allied Sectors,IR-G-U-0554,"G.B. Pant Universtiy of Agriculture and Technology, Pantnagar",OI (100),50.69,OI
+2023,Agriculture and Allied Sectors,IR-G-U-0554,"G.B. Pant Universtiy of Agriculture and Technology, Pantnagar",PERCEPTION (100),75.65,PR
+2023,Agriculture and Allied Sectors,IR-G-U-0200,"Sher-e-Kashmir University of Agricultural Science & Technology of Kashmir, Srinagar",TLR (100),74.96,TLR
+2023,Agriculture and Allied Sectors,IR-G-U-0200,"Sher-e-Kashmir University of Agricultural Science & Technology of Kashmir, Srinagar",RPC (100),46.28,RPC
+2023,Agriculture and Allied Sectors,IR-G-U-0200,"Sher-e-Kashmir University of Agricultural Science & Technology of Kashmir, Srinagar",GO (100),79.19,GO
+2023,Agriculture and Allied Sectors,IR-G-U-0200,"Sher-e-Kashmir University of Agricultural Science & Technology of Kashmir, Srinagar",OI (100),48.07,OI
+2023,Agriculture and Allied Sectors,IR-G-U-0200,"Sher-e-Kashmir University of Agricultural Science & Technology of Kashmir, Srinagar",PERCEPTION (100),24.76,PR
+2023,Agriculture and Allied Sectors,IR-G-U-0159,Chaudhary Charan Singh Haryana Agricultural University,TLR (100),88.31,TLR
+2023,Agriculture and Allied Sectors,IR-G-U-0159,Chaudhary Charan Singh Haryana Agricultural University,RPC (100),32.34,RPC
+2023,Agriculture and Allied Sectors,IR-G-U-0159,Chaudhary Charan Singh Haryana Agricultural University,GO (100),62.95,GO
+2023,Agriculture and Allied Sectors,IR-G-U-0159,Chaudhary Charan Singh Haryana Agricultural University,OI (100),42.59,OI
+2023,Agriculture and Allied Sectors,IR-G-U-0159,Chaudhary Charan Singh Haryana Agricultural University,PERCEPTION (100),60.27,PR
+2023,Agriculture and Allied Sectors,IR-G-U-0248,"University of Agricultural Sciences, Bangalore",TLR (100),77.65,TLR
+2023,Agriculture and Allied Sectors,IR-G-U-0248,"University of Agricultural Sciences, Bangalore",RPC (100),29.89,RPC
+2023,Agriculture and Allied Sectors,IR-G-U-0248,"University of Agricultural Sciences, Bangalore",GO (100),56.02,GO
+2023,Agriculture and Allied Sectors,IR-G-U-0248,"University of Agricultural Sciences, Bangalore",OI (100),58.14,OI
+2023,Agriculture and Allied Sectors,IR-G-U-0248,"University of Agricultural Sciences, Bangalore",PERCEPTION (100),74.72,PR
+2023,Agriculture and Allied Sectors,IR-G-U-0487,Tamil Nadu Veterinary & Animal Sciences University,TLR (100),73.58,TLR
+2023,Agriculture and Allied Sectors,IR-G-U-0487,Tamil Nadu Veterinary & Animal Sciences University,RPC (100),26.09,RPC
+2023,Agriculture and Allied Sectors,IR-G-U-0487,Tamil Nadu Veterinary & Animal Sciences University,GO (100),63.5,GO
+2023,Agriculture and Allied Sectors,IR-G-U-0487,Tamil Nadu Veterinary & Animal Sciences University,OI (100),55.73,OI
+2023,Agriculture and Allied Sectors,IR-G-U-0487,Tamil Nadu Veterinary & Animal Sciences University,PERCEPTION (100),60.27,PR
+2023,Agriculture and Allied Sectors,IR-G-C-45375,"National Institute of Food Technology, Entrepreneurship and Management",TLR (100),67.93,TLR
+2023,Agriculture and Allied Sectors,IR-G-C-45375,"National Institute of Food Technology, Entrepreneurship and Management",RPC (100),40.86,RPC
+2023,Agriculture and Allied Sectors,IR-G-C-45375,"National Institute of Food Technology, Entrepreneurship and Management",GO (100),47.77,GO
+2023,Agriculture and Allied Sectors,IR-G-C-45375,"National Institute of Food Technology, Entrepreneurship and Management",OI (100),56.16,OI
+2023,Agriculture and Allied Sectors,IR-G-C-45375,"National Institute of Food Technology, Entrepreneurship and Management",PERCEPTION (100),54.59,PR
+2023,Agriculture and Allied Sectors,IR-G-U-0179,Chaudhary Sarwan Kumar Himachal Pardesh Krishi Vishvavidyalaya,TLR (100),76.6,TLR
+2023,Agriculture and Allied Sectors,IR-G-U-0179,Chaudhary Sarwan Kumar Himachal Pardesh Krishi Vishvavidyalaya,RPC (100),25.25,RPC
+2023,Agriculture and Allied Sectors,IR-G-U-0179,Chaudhary Sarwan Kumar Himachal Pardesh Krishi Vishvavidyalaya,GO (100),71.25,GO
+2023,Agriculture and Allied Sectors,IR-G-U-0179,Chaudhary Sarwan Kumar Himachal Pardesh Krishi Vishvavidyalaya,OI (100),50.82,OI
+2023,Agriculture and Allied Sectors,IR-G-U-0179,Chaudhary Sarwan Kumar Himachal Pardesh Krishi Vishvavidyalaya,PERCEPTION (100),27.76,PR
+2023,Agriculture and Allied Sectors,IR-G-U-0257,"Kerala Agricultural University, Thrissur",TLR (100),77.85,TLR
+2023,Agriculture and Allied Sectors,IR-G-U-0257,"Kerala Agricultural University, Thrissur",RPC (100),23.61,RPC
+2023,Agriculture and Allied Sectors,IR-G-U-0257,"Kerala Agricultural University, Thrissur",GO (100),53.39,GO
+2023,Agriculture and Allied Sectors,IR-G-U-0257,"Kerala Agricultural University, Thrissur",OI (100),55.19,OI
+2023,Agriculture and Allied Sectors,IR-G-U-0257,"Kerala Agricultural University, Thrissur",PERCEPTION (100),58.93,PR
+2023,Agriculture and Allied Sectors,IR-G-U-0568,Bidhan Chandra Krishi Vishwavidyalaya,TLR (100),72.28,TLR
+2023,Agriculture and Allied Sectors,IR-G-U-0568,Bidhan Chandra Krishi Vishwavidyalaya,RPC (100),30.57,RPC
+2023,Agriculture and Allied Sectors,IR-G-U-0568,Bidhan Chandra Krishi Vishwavidyalaya,GO (100),73.77,GO
+2023,Agriculture and Allied Sectors,IR-G-U-0568,Bidhan Chandra Krishi Vishwavidyalaya,OI (100),26.58,OI
+2023,Agriculture and Allied Sectors,IR-G-U-0568,Bidhan Chandra Krishi Vishwavidyalaya,PERCEPTION (100),37.99,PR
+2023,Agriculture and Allied Sectors,IR-G-U-0181,"Dr. Y.S. Parmar University of Horticulture and Forestry, Solan",TLR (100),72.36,TLR
+2023,Agriculture and Allied Sectors,IR-G-U-0181,"Dr. Y.S. Parmar University of Horticulture and Forestry, Solan",RPC (100),20.44,RPC
+2023,Agriculture and Allied Sectors,IR-G-U-0181,"Dr. Y.S. Parmar University of Horticulture and Forestry, Solan",GO (100),69.6,GO
+2023,Agriculture and Allied Sectors,IR-G-U-0181,"Dr. Y.S. Parmar University of Horticulture and Forestry, Solan",OI (100),50.74,OI
+2023,Agriculture and Allied Sectors,IR-G-U-0181,"Dr. Y.S. Parmar University of Horticulture and Forestry, Solan",PERCEPTION (100),48.01,PR
+2023,Agriculture and Allied Sectors,IR-G-U-0123,Anand Agricultural University,TLR (100),75.63,TLR
+2023,Agriculture and Allied Sectors,IR-G-U-0123,Anand Agricultural University,RPC (100),15.16,RPC
+2023,Agriculture and Allied Sectors,IR-G-U-0123,Anand Agricultural University,GO (100),71.74,GO
+2023,Agriculture and Allied Sectors,IR-G-U-0123,Anand Agricultural University,OI (100),39.28,OI
+2023,Agriculture and Allied Sectors,IR-G-U-0123,Anand Agricultural University,PERCEPTION (100),56.09,PR
+2023,Agriculture and Allied Sectors,IR-G-U-0048,"Assam Agricultural University, Jorhat",TLR (100),83.82,TLR
+2023,Agriculture and Allied Sectors,IR-G-U-0048,"Assam Agricultural University, Jorhat",RPC (100),14.94,RPC
+2023,Agriculture and Allied Sectors,IR-G-U-0048,"Assam Agricultural University, Jorhat",GO (100),58.96,GO
+2023,Agriculture and Allied Sectors,IR-G-U-0048,"Assam Agricultural University, Jorhat",OI (100),39.55,OI
+2023,Agriculture and Allied Sectors,IR-G-U-0048,"Assam Agricultural University, Jorhat",PERCEPTION (100),49.76,PR
+2023,Agriculture and Allied Sectors,IR-G-U-0004,"Acharya NG Ranga Agricultural University, Guntur",TLR (100),76.92,TLR
+2023,Agriculture and Allied Sectors,IR-G-U-0004,"Acharya NG Ranga Agricultural University, Guntur",RPC (100),7.52,RPC
+2023,Agriculture and Allied Sectors,IR-G-U-0004,"Acharya NG Ranga Agricultural University, Guntur",GO (100),61.06,GO
+2023,Agriculture and Allied Sectors,IR-G-U-0004,"Acharya NG Ranga Agricultural University, Guntur",OI (100),44.93,OI
+2023,Agriculture and Allied Sectors,IR-G-U-0004,"Acharya NG Ranga Agricultural University, Guntur",PERCEPTION (100),65.28,PR
+2023,Agriculture and Allied Sectors,IR-G-U-0375,Guru Angad Dev Veterinary & Animal Sciences University,TLR (100),71.69,TLR
+2023,Agriculture and Allied Sectors,IR-G-U-0375,Guru Angad Dev Veterinary & Animal Sciences University,RPC (100),31.37,RPC
+2023,Agriculture and Allied Sectors,IR-G-U-0375,Guru Angad Dev Veterinary & Animal Sciences University,GO (100),45.01,GO
+2023,Agriculture and Allied Sectors,IR-G-U-0375,Guru Angad Dev Veterinary & Animal Sciences University,OI (100),43.0,OI
+2023,Agriculture and Allied Sectors,IR-G-U-0375,Guru Angad Dev Veterinary & Animal Sciences University,PERCEPTION (100),35.66,PR
+2023,Agriculture and Allied Sectors,IR-G-U-0360,"Orissa University of Agriculture & Technology, Bhubaneswar",TLR (100),74.47,TLR
+2023,Agriculture and Allied Sectors,IR-G-U-0360,"Orissa University of Agriculture & Technology, Bhubaneswar",RPC (100),15.41,RPC
+2023,Agriculture and Allied Sectors,IR-G-U-0360,"Orissa University of Agriculture & Technology, Bhubaneswar",GO (100),61.46,GO
+2023,Agriculture and Allied Sectors,IR-G-U-0360,"Orissa University of Agriculture & Technology, Bhubaneswar",OI (100),50.3,OI
+2023,Agriculture and Allied Sectors,IR-G-U-0360,"Orissa University of Agriculture & Technology, Bhubaneswar",PERCEPTION (100),33.19,PR
+2023,Agriculture and Allied Sectors,IR-G-U-0443,Annamalai University,TLR (100),57.98,TLR
+2023,Agriculture and Allied Sectors,IR-G-U-0443,Annamalai University,RPC (100),26.87,RPC
+2023,Agriculture and Allied Sectors,IR-G-U-0443,Annamalai University,GO (100),61.25,GO
+2023,Agriculture and Allied Sectors,IR-G-U-0443,Annamalai University,OI (100),46.22,OI
+2023,Agriculture and Allied Sectors,IR-G-U-0443,Annamalai University,PERCEPTION (100),51.43,PR
+2023,Agriculture and Allied Sectors,IR-G-S-8898,"National Institute of Food Technology, Enterprenurship & Management",TLR (100),51.34,TLR
+2023,Agriculture and Allied Sectors,IR-G-S-8898,"National Institute of Food Technology, Enterprenurship & Management",RPC (100),34.66,RPC
+2023,Agriculture and Allied Sectors,IR-G-S-8898,"National Institute of Food Technology, Enterprenurship & Management",GO (100),61.62,GO
+2023,Agriculture and Allied Sectors,IR-G-S-8898,"National Institute of Food Technology, Enterprenurship & Management",OI (100),65.39,OI
+2023,Agriculture and Allied Sectors,IR-G-S-8898,"National Institute of Food Technology, Enterprenurship & Management",PERCEPTION (100),24.76,PR
+2023,Agriculture and Allied Sectors,IR-G-U-0259,Kerala University of Fisheries & Ocean Studies,TLR (100),60.12,TLR
+2023,Agriculture and Allied Sectors,IR-G-U-0259,Kerala University of Fisheries & Ocean Studies,RPC (100),36.14,RPC
+2023,Agriculture and Allied Sectors,IR-G-U-0259,Kerala University of Fisheries & Ocean Studies,GO (100),48.05,GO
+2023,Agriculture and Allied Sectors,IR-G-U-0259,Kerala University of Fisheries & Ocean Studies,OI (100),48.03,OI
+2023,Agriculture and Allied Sectors,IR-G-U-0259,Kerala University of Fisheries & Ocean Studies,PERCEPTION (100),35.66,PR
+2023,Agriculture and Allied Sectors,IR-G-U-0591,"West Bengal University of Animal and Fishery Sciences, Kolkata",TLR (100),70.95,TLR
+2023,Agriculture and Allied Sectors,IR-G-U-0591,"West Bengal University of Animal and Fishery Sciences, Kolkata",RPC (100),19.99,RPC
+2023,Agriculture and Allied Sectors,IR-G-U-0591,"West Bengal University of Animal and Fishery Sciences, Kolkata",GO (100),69.92,GO
+2023,Agriculture and Allied Sectors,IR-G-U-0591,"West Bengal University of Animal and Fishery Sciences, Kolkata",OI (100),15.73,OI
+2023,Agriculture and Allied Sectors,IR-G-U-0591,"West Bengal University of Animal and Fishery Sciences, Kolkata",PERCEPTION (100),37.99,PR
+2023,Agriculture and Allied Sectors,IR-G-U-0379,Lovely Professional University,TLR (100),48.88,TLR
+2023,Agriculture and Allied Sectors,IR-G-U-0379,Lovely Professional University,RPC (100),45.95,RPC
+2023,Agriculture and Allied Sectors,IR-G-U-0379,Lovely Professional University,GO (100),43.6,GO
+2023,Agriculture and Allied Sectors,IR-G-U-0379,Lovely Professional University,OI (100),72.77,OI
+2023,Agriculture and Allied Sectors,IR-G-U-0379,Lovely Professional University,PERCEPTION (100),21.53,PR
+2023,Agriculture and Allied Sectors,IR-G-U-0246,University of Agricultural Sciences,TLR (100),70.43,TLR
+2023,Agriculture and Allied Sectors,IR-G-U-0246,University of Agricultural Sciences,RPC (100),10.35,RPC
+2023,Agriculture and Allied Sectors,IR-G-U-0246,University of Agricultural Sciences,GO (100),72.46,GO
+2023,Agriculture and Allied Sectors,IR-G-U-0246,University of Agricultural Sciences,OI (100),44.62,OI
+2023,Agriculture and Allied Sectors,IR-G-U-0246,University of Agricultural Sciences,PERCEPTION (100),33.19,PR
+2023,Agriculture and Allied Sectors,IR-G-U-0336,Central Agricultural University,TLR (100),67.4,TLR
+2023,Agriculture and Allied Sectors,IR-G-U-0336,Central Agricultural University,RPC (100),21.41,RPC
+2023,Agriculture and Allied Sectors,IR-G-U-0336,Central Agricultural University,GO (100),44.22,GO
+2023,Agriculture and Allied Sectors,IR-G-U-0336,Central Agricultural University,OI (100),66.61,OI
+2023,Agriculture and Allied Sectors,IR-G-U-0336,Central Agricultural University,PERCEPTION (100),33.19,PR
+2023,Agriculture and Allied Sectors,IR-G-U-0504,"Chandra Shekhar Azad University of Agriculture & Technology, Kanpur",TLR (100),71.66,TLR
+2023,Agriculture and Allied Sectors,IR-G-U-0504,"Chandra Shekhar Azad University of Agriculture & Technology, Kanpur",RPC (100),8.22,RPC
+2023,Agriculture and Allied Sectors,IR-G-U-0504,"Chandra Shekhar Azad University of Agriculture & Technology, Kanpur",GO (100),65.68,GO
+2023,Agriculture and Allied Sectors,IR-G-U-0504,"Chandra Shekhar Azad University of Agriculture & Technology, Kanpur",OI (100),36.97,OI
+2023,Agriculture and Allied Sectors,IR-G-U-0504,"Chandra Shekhar Azad University of Agriculture & Technology, Kanpur",PERCEPTION (100),30.56,PR
+2023,Agriculture and Allied Sectors,IR-G-U-0039,Sri Venkateswara Veterinary University,TLR (100),65.23,TLR
+2023,Agriculture and Allied Sectors,IR-G-U-0039,Sri Venkateswara Veterinary University,RPC (100),4.06,RPC
+2023,Agriculture and Allied Sectors,IR-G-U-0039,Sri Venkateswara Veterinary University,GO (100),73.11,GO
+2023,Agriculture and Allied Sectors,IR-G-U-0039,Sri Venkateswara Veterinary University,OI (100),46.19,OI
+2023,Agriculture and Allied Sectors,IR-G-U-0039,Sri Venkateswara Veterinary University,PERCEPTION (100),37.99,PR
+2023,Agriculture and Allied Sectors,IR-G-S-14553,National Institute of Agricultural Extension Management,TLR (100),67.0,TLR
+2023,Agriculture and Allied Sectors,IR-G-S-14553,National Institute of Agricultural Extension Management,RPC (100),9.2,RPC
+2023,Agriculture and Allied Sectors,IR-G-S-14553,National Institute of Agricultural Extension Management,GO (100),55.37,GO
+2023,Agriculture and Allied Sectors,IR-G-S-14553,National Institute of Agricultural Extension Management,OI (100),51.02,OI
+2023,Agriculture and Allied Sectors,IR-G-S-14553,National Institute of Agricultural Extension Management,PERCEPTION (100),44.29,PR
+2023,Agriculture and Allied Sectors,IR-G-U-0075,"Dr Rajendra Prasad Central Agricultural University, Samastipur",TLR (100),71.18,TLR
+2023,Agriculture and Allied Sectors,IR-G-U-0075,"Dr Rajendra Prasad Central Agricultural University, Samastipur",RPC (100),11.82,RPC
+2023,Agriculture and Allied Sectors,IR-G-U-0075,"Dr Rajendra Prasad Central Agricultural University, Samastipur",GO (100),49.53,GO
+2023,Agriculture and Allied Sectors,IR-G-U-0075,"Dr Rajendra Prasad Central Agricultural University, Samastipur",OI (100),52.12,OI
+2023,Agriculture and Allied Sectors,IR-G-U-0075,"Dr Rajendra Prasad Central Agricultural University, Samastipur",PERCEPTION (100),33.19,PR
+2023,Agriculture and Allied Sectors,IR-G-U-0165,Lala lajpat Rai University of Veterinary and Animal Sciences,TLR (100),75.95,TLR
+2023,Agriculture and Allied Sectors,IR-G-U-0165,Lala lajpat Rai University of Veterinary and Animal Sciences,RPC (100),21.32,RPC
+2023,Agriculture and Allied Sectors,IR-G-U-0165,Lala lajpat Rai University of Veterinary and Animal Sciences,GO (100),38.37,GO
+2023,Agriculture and Allied Sectors,IR-G-U-0165,Lala lajpat Rai University of Veterinary and Animal Sciences,OI (100),39.31,OI
+2023,Agriculture and Allied Sectors,IR-G-U-0165,Lala lajpat Rai University of Veterinary and Animal Sciences,PERCEPTION (100),24.76,PR
+2023,Agriculture and Allied Sectors,IR-G-U-0531,"Acharya Narendra Deva University of Agriculture & Technology, Kumarganj, Ayodhya",TLR (100),61.51,TLR
+2023,Agriculture and Allied Sectors,IR-G-U-0531,"Acharya Narendra Deva University of Agriculture & Technology, Kumarganj, Ayodhya",RPC (100),7.3,RPC
+2023,Agriculture and Allied Sectors,IR-G-U-0531,"Acharya Narendra Deva University of Agriculture & Technology, Kumarganj, Ayodhya",GO (100),73.94,GO
+2023,Agriculture and Allied Sectors,IR-G-U-0531,"Acharya Narendra Deva University of Agriculture & Technology, Kumarganj, Ayodhya",OI (100),38.96,OI
+2023,Agriculture and Allied Sectors,IR-G-U-0531,"Acharya Narendra Deva University of Agriculture & Technology, Kumarganj, Ayodhya",PERCEPTION (100),37.99,PR
+2023,Agriculture and Allied Sectors,IR-G-U-0315,"Mahatma Phule Krishi Vidyapeeth, Rahuri",TLR (100),70.94,TLR
+2023,Agriculture and Allied Sectors,IR-G-U-0315,"Mahatma Phule Krishi Vidyapeeth, Rahuri",RPC (100),11.35,RPC
+2023,Agriculture and Allied Sectors,IR-G-U-0315,"Mahatma Phule Krishi Vidyapeeth, Rahuri",GO (100),54.24,GO
+2023,Agriculture and Allied Sectors,IR-G-U-0315,"Mahatma Phule Krishi Vidyapeeth, Rahuri",OI (100),45.69,OI
+2023,Agriculture and Allied Sectors,IR-G-U-0315,"Mahatma Phule Krishi Vidyapeeth, Rahuri",PERCEPTION (100),27.76,PR
+2023,Agriculture and Allied Sectors,IR-G-U-0231,"Karnataka Vetrinary, Animal & Fisheries Science University, Nandinagar",TLR (100),71.9,TLR
+2023,Agriculture and Allied Sectors,IR-G-U-0231,"Karnataka Vetrinary, Animal & Fisheries Science University, Nandinagar",RPC (100),7.92,RPC
+2023,Agriculture and Allied Sectors,IR-G-U-0231,"Karnataka Vetrinary, Animal & Fisheries Science University, Nandinagar",GO (100),59.98,GO
+2023,Agriculture and Allied Sectors,IR-G-U-0231,"Karnataka Vetrinary, Animal & Fisheries Science University, Nandinagar",OI (100),33.04,OI
+2023,Agriculture and Allied Sectors,IR-G-U-0231,"Karnataka Vetrinary, Animal & Fisheries Science University, Nandinagar",PERCEPTION (100),33.19,PR
+2023,Agriculture and Allied Sectors,IR-G-U-0140,Junagadh Agricultural University,TLR (100),72.69,TLR
+2023,Agriculture and Allied Sectors,IR-G-U-0140,Junagadh Agricultural University,RPC (100),9.12,RPC
+2023,Agriculture and Allied Sectors,IR-G-U-0140,Junagadh Agricultural University,GO (100),53.71,GO
+2023,Agriculture and Allied Sectors,IR-G-U-0140,Junagadh Agricultural University,OI (100),42.71,OI
+2023,Agriculture and Allied Sectors,IR-G-U-0140,Junagadh Agricultural University,PERCEPTION (100),27.76,PR
+2023,Agriculture and Allied Sectors,IR-G-U-0247,"University of Agricultural Sciences, Raichur",TLR (100),70.28,TLR
+2023,Agriculture and Allied Sectors,IR-G-U-0247,"University of Agricultural Sciences, Raichur",RPC (100),12.87,RPC
+2023,Agriculture and Allied Sectors,IR-G-U-0247,"University of Agricultural Sciences, Raichur",GO (100),51.51,GO
+2023,Agriculture and Allied Sectors,IR-G-U-0247,"University of Agricultural Sciences, Raichur",OI (100),48.39,OI
+2023,Agriculture and Allied Sectors,IR-G-U-0247,"University of Agricultural Sciences, Raichur",PERCEPTION (100),21.53,PR
+2023,Agriculture and Allied Sectors,IR-G-U-0665,Tamil Nadu Dr.J.Jayalalithaa Fisheries University,TLR (100),62.02,TLR
+2023,Agriculture and Allied Sectors,IR-G-U-0665,Tamil Nadu Dr.J.Jayalalithaa Fisheries University,RPC (100),16.67,RPC
+2023,Agriculture and Allied Sectors,IR-G-U-0665,Tamil Nadu Dr.J.Jayalalithaa Fisheries University,GO (100),49.57,GO
+2023,Agriculture and Allied Sectors,IR-G-U-0665,Tamil Nadu Dr.J.Jayalalithaa Fisheries University,OI (100),45.61,OI
+2023,Agriculture and Allied Sectors,IR-G-U-0665,Tamil Nadu Dr.J.Jayalalithaa Fisheries University,PERCEPTION (100),40.19,PR

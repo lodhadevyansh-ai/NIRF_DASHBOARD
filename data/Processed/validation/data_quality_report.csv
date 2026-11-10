@@ -1,0 +1,14 @@
+Metric,Value,Threshold / Expected,Status,Details
+Total Records,6572,6572,PASS,Matches exact raw source record count
+Total Columns,23,23,PASS,Full unified schema populated
+Exact Duplicate Rows,0,0,PASS,Zero identical rows
+Duplicate Primary Keys,0,0,PASS,Zero primary key collisions
+Empty Institution Names,0,0,PASS,All institution names populated
+Empty Institute IDs,0,0,PASS,All official IDs preserved
+Invalid Category Names,0,0,PASS,All 17 categories conform to approved list
+Invalid Year Range,0,0,PASS,All years strictly within 2017-2025
+Out of Bounds Numeric Ranks,0,0,PASS,All ranks strictly within 1-100
+Out of Bounds Scores,0,0,PASS,All scores strictly within 0.0-100.0
+Unexpected Missing Values,0,0,PASS,Zero unexpected nulls; all nulls officially expected
+Parameter Value Mismatches,0,0,PASS,"All 32,595 raw parameter scores match exactly"
+Unmatched Parameter Records,0,0,PASS,Zero orphaned parameter records

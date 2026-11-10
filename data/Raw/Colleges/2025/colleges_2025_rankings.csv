@@ -1,0 +1,101 @@
+year,category,institute_id,institute_name,city,state,official_rank,numeric_rank,overall_score,source_url
+2025,Colleges,IR-C-C-6377,Hindu College,Delhi,Delhi,1,1,84.01,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-6355,Miranda House,Delhi,Delhi,2,2,83.2,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-6425,Hans Raj College,Delhi,Delhi,3,3,81.75,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-6385,Kirori Mal College,Delhi,Delhi,4,4,80.33,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-22470,St. Stephens's College,Delhi,Delhi,5,5,79.41,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-I-1317,Rama Krishna Mission Vivekananda Centenary College,Kolkata,West Bengal,6,6,76.74,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-22462,Atma Ram Sanatan Dharm College,New Delhi,Delhi,7,7,76.09,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-11881,St. Xavier`s College,Kolkata,West Bengal,8,8,76.07,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-41046,PSGR Krishnammal College for Women,Coimbatore,Tamil Nadu,9,9,75.52,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-41124,PSG College of Arts and Science,Coimbatore,Tamil Nadu,10,10,73.15,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-6369,Sri Venkateswara College,Delhi,Delhi,11,11,72.61,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-11691,Rajagiri College of Social Sciences,Ernakulam,Kerala,12,12,71.72,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-6409,Deshbandhu College,New Delhi,Delhi,13,13,71.26,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-44006,Loyola College,Chennai,Tamil Nadu,14,14,71.14,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-43921,Presidency College,Chennai,Tamil Nadu,15,15,70.62,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-43965,Madras Christian College,Chennai,Tamil Nadu,16,16,70.57,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-6415,Lady Shri Ram College For Women,New Delhi,Delhi,17,17,69.87,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-6419,Shri Ram College of Commerce,Delhi,Delhi,18,18,69.01,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-11926,Ramakrishna Mission Vidyamandira,Howrah,West Bengal,19,19,69.0,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-36513,Thiagarajar College,Madurai,Tamil Nadu,20,20,68.93,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-6380,Acharya Narendra Dev College,New Delhi,Delhi,21,21,68.21,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-41157,V.O. Chidambaram College,Thoothukudi,Tamil Nadu,22,22,67.27,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-43671,"University College, Thiruvananthapuram",Thiruvananthapuram,Kerala,23,23,67.17,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-42814,Ramakrishna Mission Residential College,Kolkata,West Bengal,24,24,66.81,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-35860,"St. Joseph's College, Tiruchirappalli",Tiruchirappalli,Tamil Nadu,25,25,66.59,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-6367,Daulat Ram College,Delhi,Delhi,26,26,64.56,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-6361,Deen Dayal Upadhyaya College,New Delhi,Delhi,27,27,64.19,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-6371,Ramjas College,Delhi,Delhi,28,28,63.82,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-6353,Sri Guru Tegh Bahadur Khalsa College,Delhi,Delhi,29,29,63.26,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-6376,Delhi College of Arts & Commerce,South West,Delhi,30,30,63.11,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-27608,Lady Irwin College,Delhi,Delhi,31,31,62.88,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-6413,Sri Guru Gobind Singh College of Commerce,Delhi,Delhi,32,32,62.63,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-6429,Gargi College,Delhi,Delhi,33,33,62.48,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-20653,Kristu Jayanti College,Bengaluru,Karnataka,34,34,62.29,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-29284,Govt Home Science College,Chandigarh,Chandigarh,35,35,62.18,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-6432,Dyal Singh College,New Delhi,Delhi,36,36,61.99,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-6431,Ramanujan College,New Delhi,Delhi,37,37,61.85,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-6391,Maitreyi College,New Delhi,Delhi,38,38,61.84,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-6421,Shaheed Bhagat Singh College,New Delhi,Delhi,39,39,61.55,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-35868,Dhanalakshmi Srinivasan College of Arts & Science for Women,Perambalur,Tamil Nadu,40,40,61.5,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-43931,Stella Maris College for Women,Chennai,Tamil Nadu,41,41,61.25,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-19103,Midnapore College,Midnapore,West Bengal,42,42,61.23,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-6357,Shyam Lal College,Delhi,Delhi,43,43,60.96,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-11708,Sacred Heart College,Kochi,Kerala,44,44,60.77,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-6387,Bhaskaracharya College of Applied Sciences,New Delhi,Delhi,45,45,60.2,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-35825,Bishop Heber College,Tiruchirappalli,Tamil Nadu,46,46,60.18,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-11971,Lady Brabourne College,KOLKATA,West Bengal,47,47,60.17,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-41173,"St. Xavier's College, Palayamkottai",Palayamkottai,Tamil Nadu,48,48,60.16,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-8308,Pachhunga University College,Aizawl,Mizoram,49,49,59.88,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-41126,Sri Krishna Arts and Science College,Coimbatore,Tamil Nadu,50,50,59.74,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-6502,Kanchi Mamunivar Govt. Institute for Postgraduate Studies and Research,PUDUCHERRY,Pondicherry,51,51,59.58,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-35787,"Holy Cross College, Tiruchirappalli",Tiruchirappalli,Tamil Nadu,52,52,59.47,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-8169,"St. Thomas College, Thrissur",Thrissur,Kerala,53,53,59.19,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-43705,"Govt. College for Women, Thiruvananthapuram",Thiruvananthapuram,Kerala,54,54,58.99,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-43964,Madras School of Social Work,Chennai,Tamil Nadu,55,55,58.9,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-11831,"St Berchmans College (Autonomous), Changanacherry, Kerala",Kottayam,Kerala,56,56,58.38,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-I-1385,Fergusson College (Autonomous),Pune,Maharashtra,57,57,58.35,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-6417,Kamala Nehru College,Delhi,Delhi,58,58,58.22,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-36547,The American College,Madurai,Tamil Nadu,59,59,58.12,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-11582,"St. Teresa's College, Ernakulam",Ernakulam,Kerala,60,60,57.84,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-43767,"Mar Ivanios College, Thiruvananthapuram",Thiruvananthapuram,Kerala,61,61,57.75,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-N-6,Queen Mary`s College,Chennai,Tamil Nadu,62,62,57.68,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-41154,"Nesamony Memorial Christian College, Marthandam, Kanyakumari Dist.",Marthandam,Tamil Nadu,63,63,57.67,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-43902,Ethiraj College for Women,Chennai,Tamil Nadu,64,64,57.64,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-6426,Shaheed Rajguru College of Applied Sciences for Women,Delhi,Delhi,65,65,57.59,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-41054,Dr. N. G. P. Arts and Science College,Coimbatore,Tamil Nadu,66,66,57.56,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-41035,Government Arts College,Coimbatore,Tamil Nadu,67,67,57.49,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-20729,"M S Ramaiah College of Arts, Science, and Commerce",Bengaluru,Karnataka,67,67,57.49,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-6366,Shivaji College,Delhi,Delhi,69,69,57.48,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-I-1373,Goswami Ganesh Dutta S.D. College,Chandigarh,Chandigarh,70,70,57.44,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-35848,Government Arts College,Kumbakonam,Tamil Nadu,71,71,57.3,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-36579,Ayya Nadar Janaki Ammal College,Sivakasi,Tamil Nadu,72,72,57.27,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-16897,St. Aloysius College,Mangaluru,Karnataka,73,73,57.17,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-8010,"St. Josephâs College, Devagiri",Kozhikode,Kerala,74,74,56.89,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-11697,"Maharaja's College, Ernakulam",Ernakulam,Kerala,75,75,56.86,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-41100,Sri Ramakrishna College of Arts and Science,Coimbatore,Tamil Nadu,76,76,56.8,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-28526,"Alagappa Government Arts College, Karaikudi",Karaikudi,Tamil Nadu,76,76,56.8,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-8008,"Vimala College, Thrissur",Thrissur,Kerala,78,78,56.59,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-35846,"Rajah Serfoji Government College, Thanjavur - 613 005.",Thanjavur,Tamil Nadu,79,79,56.57,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-36411,Sacred Heart College (Autonomous),Tirupattur,Tamil Nadu,80,80,56.54,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-9552,Sri Sarada College for Women(Autonomous),Salem,Tamil Nadu,81,81,56.47,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-8023,"Farook College, Kozhikkode",Kozhikode,Kerala,82,82,55.83,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-I-1322,St. Joseph's College,Thrissur,Kerala,83,83,55.81,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-35832,"Jamal Mohamed College, Tiruchirappalli",Tiruchirappalli,Tamil Nadu,84,84,55.67,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-6420,Jesus & Mary College,New Delhi,Delhi,85,85,55.66,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-11771,CMS College Kottayam,Kottayam,Kerala,86,86,55.58,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-8213,Christ College (Autonomous),Thrissur,Kerala,87,87,55.51,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-41140,A.P.C. Mahalaxmi College for Women,Thoothukkudi,Tamil Nadu,88,88,55.44,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-33555,St. Xavier`s College,Mumbai,Maharashtra,89,89,55.16,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-6358,Ram Lal Anand College,New Delhi,Delhi,90,90,55.1,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-43968,DG Vaishnav College,Chennai,Tamil Nadu,91,91,55.03,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-11815,Mar Athanasius College,Kothamangalam,Kerala,92,92,54.97,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-43229,"Shri Shivaji Science College , Morshi Road , Amravati.",Amravati,Maharashtra,93,93,54.76,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-I-1293,Sri Ramakrishna Mission Vidyalaya College of Arts and Science,Coimbatore,Tamil Nadu,94,94,54.66,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-6381,Keshav Mahavidyalya,Delhi,Delhi,95,95,54.61,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-11742,Union Christian College,Ernakulam,Kerala,96,96,54.55,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-22467,PGDAV College,New Delhi,Delhi,97,97,54.52,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-20830,St. Joseph`s College of Commerce,Bengaluru,Karnataka,98,98,54.47,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-43646,"Government College, Attingal",Thiruvananthapuram,Kerala,99,99,54.42,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html
+2025,Colleges,IR-C-C-36529,Fatima College,Madurai,Tamil Nadu,100,100,54.39,https://www.nirfindia.org/Rankings/2025/CollegeRanking.html

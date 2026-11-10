@@ -1,0 +1,121 @@
+===========================================================================
+NIRF RAW DATASET DIRECTORY HISTORICAL AVAILABILITY AUDIT & CLEANUP
+Generated At: 2026-10-31T17:47:24.608190+00:00
+Directory: C:\Users\lodha\Downloads\NIRF_DASHBOARD\data\Raw
+===========================================================================
+
+SUMMARY OF ACTIONS PERFORMED:
+  Total Category-Year Combinations Evaluated: 153
+  Valid Datasets Retained (KEEP):              102
+  Unavailable Empty Folders Deleted (DELETE):  51
+  Datasets Flagged for Manual Review (REVIEW): 0
+  Deletion Errors / Skipped:                   0
+---------------------------------------------------------------------------
+  Total Active Category Folders:               17 / 17
+  Total Remaining Valid Year Folders:          102
+  Total Valid Institutions in Final Structure: 6572
+===========================================================================
+
+CATEGORY-WISE HISTORICAL AVAILABILITY BREAKDOWN:
+Category                         | First |  Last | Valid Yrs |  Deleted (Unavail) | Review
+---------------------------------------------------------------------------
+Agriculture and Allied Sectors   |  2023 |  2025 |         3 |                  6 |      0
+Architecture and Planning        |  2018 |  2025 |         8 |                  1 |      0
+Colleges                         |  2017 |  2025 |         9 |                  0 |      0
+Dental                           |  2020 |  2025 |         6 |                  3 |      0
+Engineering                      |  2017 |  2025 |         9 |                  0 |      0
+Innovation                       |  2023 |  2025 |         3 |                  6 |      0
+Law                              |  2018 |  2025 |         8 |                  1 |      0
+Management                       |  2017 |  2025 |         9 |                  0 |      0
+Medical                          |  2018 |  2025 |         8 |                  1 |      0
+Open University                  |  2024 |  2025 |         2 |                  7 |      0
+Overall                          |  2017 |  2025 |         9 |                  0 |      0
+Pharmacy                         |  2017 |  2025 |         9 |                  0 |      0
+Research Institutions            |  2021 |  2025 |         5 |                  4 |      0
+Skill University                 |  2024 |  2025 |         2 |                  7 |      0
+State Public University          |  2024 |  2025 |         2 |                  7 |      0
+Sustainable Development Goals    |  2025 |  2025 |         1 |                  8 |      0
+Universities                     |  2017 |  2025 |         9 |                  0 |      0
+---------------------------------------------------------------------------
+
+LIST OF 51 DELETED EMPTY & UNAVAILABLE YEAR FOLDERS:
+  [-] Deleted: Agriculture_and_Allied_Sectors\2017
+  [-] Deleted: Agriculture_and_Allied_Sectors\2018
+  [-] Deleted: Agriculture_and_Allied_Sectors\2019
+  [-] Deleted: Agriculture_and_Allied_Sectors\2020
+  [-] Deleted: Agriculture_and_Allied_Sectors\2021
+  [-] Deleted: Agriculture_and_Allied_Sectors\2022
+  [-] Deleted: Architecture_and_Planning\2017
+  [-] Deleted: Dental\2017
+  [-] Deleted: Dental\2018
+  [-] Deleted: Dental\2019
+  [-] Deleted: Innovation\2017
+  [-] Deleted: Innovation\2018
+  [-] Deleted: Innovation\2019
+  [-] Deleted: Innovation\2020
+  [-] Deleted: Innovation\2021
+  [-] Deleted: Innovation\2022
+  [-] Deleted: Law\2017
+  [-] Deleted: Medical\2017
+  [-] Deleted: Open_University\2017
+  [-] Deleted: Open_University\2018
+  [-] Deleted: Open_University\2019
+  [-] Deleted: Open_University\2020
+  [-] Deleted: Open_University\2021
+  [-] Deleted: Open_University\2022
+  [-] Deleted: Open_University\2023
+  [-] Deleted: Research_Institutions\2017
+  [-] Deleted: Research_Institutions\2018
+  [-] Deleted: Research_Institutions\2019
+  [-] Deleted: Research_Institutions\2020
+  [-] Deleted: Skill_University\2017
+  [-] Deleted: Skill_University\2018
+  [-] Deleted: Skill_University\2019
+  [-] Deleted: Skill_University\2020
+  [-] Deleted: Skill_University\2021
+  [-] Deleted: Skill_University\2022
+  [-] Deleted: Skill_University\2023
+  [-] Deleted: State_Public_University\2017
+  [-] Deleted: State_Public_University\2018
+  [-] Deleted: State_Public_University\2019
+  [-] Deleted: State_Public_University\2020
+  [-] Deleted: State_Public_University\2021
+  [-] Deleted: State_Public_University\2022
+  [-] Deleted: State_Public_University\2023
+  [-] Deleted: Sustainable_Development_Goals\2017
+  [-] Deleted: Sustainable_Development_Goals\2018
+  [-] Deleted: Sustainable_Development_Goals\2019
+  [-] Deleted: Sustainable_Development_Goals\2020
+  [-] Deleted: Sustainable_Development_Goals\2021
+  [-] Deleted: Sustainable_Development_Goals\2022
+  [-] Deleted: Sustainable_Development_Goals\2023
+  [-] Deleted: Sustainable_Development_Goals\2024
+
+---------------------------------------------------------------------------
+FINAL VERIFIED DIRECTORY STRUCTURE (102 VALID YEAR FOLDERS):
+  [+] Agriculture_and_Allied_Sectors  : 3 years [2023, 2024, 2025]
+  [+] Architecture_and_Planning       : 8 years [2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025]
+  [+] Colleges                        : 9 years [2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025]
+  [+] Dental                          : 6 years [2020, 2021, 2022, 2023, 2024, 2025]
+  [+] Engineering                     : 9 years [2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025]
+  [+] Innovation                      : 3 years [2023, 2024, 2025]
+  [+] Law                             : 8 years [2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025]
+  [+] Management                      : 9 years [2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025]
+  [+] Medical                         : 8 years [2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025]
+  [+] Open_University                 : 2 years [2024, 2025]
+  [+] Overall                         : 9 years [2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025]
+  [+] Pharmacy                        : 9 years [2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025]
+  [+] Research_Institutions           : 5 years [2021, 2022, 2023, 2024, 2025]
+  [+] Skill_University                : 2 years [2024, 2025]
+  [+] State_Public_University         : 2 years [2024, 2025]
+  [+] Sustainable_Development_Goals   : 1 years [2025]
+  [+] Universities                    : 9 years [2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025]
+===========================================================================
+VERIFICATION CHECKS:
+  1. All 17 category folders intact:          PASSED
+  2. Exactly 102 valid year folders retained: PASSED
+  3. 0 empty unavailable year folders remain: PASSED
+  4. 0 valid ranking datasets deleted:        PASSED
+  5. 0 folders requiring review:              PASSED
+  6. Total institution records verified:      6,572 PASSED
+===========================================================================

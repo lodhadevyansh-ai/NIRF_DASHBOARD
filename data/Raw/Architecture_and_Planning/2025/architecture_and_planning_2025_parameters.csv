@@ -1,0 +1,201 @@
+year,category,institute_id,institute_name,parameter_name,parameter_score,canonical_parameter
+2025,Architecture and Planning,IR-A-U-0560,Indian Institute of Technology Roorkee,TLR (100),80.06,TLR
+2025,Architecture and Planning,IR-A-U-0560,Indian Institute of Technology Roorkee,RPC (100),95.65,RPC
+2025,Architecture and Planning,IR-A-U-0560,Indian Institute of Technology Roorkee,GO (100),89.28,GO
+2025,Architecture and Planning,IR-A-U-0560,Indian Institute of Technology Roorkee,OI (100),75.2,OI
+2025,Architecture and Planning,IR-A-U-0560,Indian Institute of Technology Roorkee,PERCEPTION (100),74.22,PR
+2025,Architecture and Planning,IR-A-U-0263,National Institute of Technology Calicut,TLR (100),89.46,TLR
+2025,Architecture and Planning,IR-A-U-0263,National Institute of Technology Calicut,RPC (100),59.45,RPC
+2025,Architecture and Planning,IR-A-U-0263,National Institute of Technology Calicut,GO (100),84.65,GO
+2025,Architecture and Planning,IR-A-U-0263,National Institute of Technology Calicut,OI (100),74.59,OI
+2025,Architecture and Planning,IR-A-U-0263,National Institute of Technology Calicut,PERCEPTION (100),58.26,PR
+2025,Architecture and Planning,IR-A-U-0573,Indian Institute of Technology Kharagpur,TLR (100),69.49,TLR
+2025,Architecture and Planning,IR-A-U-0573,Indian Institute of Technology Kharagpur,RPC (100),84.36,RPC
+2025,Architecture and Planning,IR-A-U-0573,Indian Institute of Technology Kharagpur,GO (100),89.51,GO
+2025,Architecture and Planning,IR-A-U-0573,Indian Institute of Technology Kharagpur,OI (100),66.92,OI
+2025,Architecture and Planning,IR-A-U-0573,Indian Institute of Technology Kharagpur,PERCEPTION (100),81.24,PR
+2025,Architecture and Planning,IR-A-U-0584,"Indian Institute of Engineering Science and Technology, Shibpur",TLR (100),72.83,TLR
+2025,Architecture and Planning,IR-A-U-0584,"Indian Institute of Engineering Science and Technology, Shibpur",RPC (100),54.69,RPC
+2025,Architecture and Planning,IR-A-U-0584,"Indian Institute of Engineering Science and Technology, Shibpur",GO (100),79.15,GO
+2025,Architecture and Planning,IR-A-U-0584,"Indian Institute of Engineering Science and Technology, Shibpur",OI (100),66.36,OI
+2025,Architecture and Planning,IR-A-U-0584,"Indian Institute of Engineering Science and Technology, Shibpur",PERCEPTION (100),58.26,PR
+2025,Architecture and Planning,IR-A-U-0108,Jamia Millia Islamia,TLR (100),69.01,TLR
+2025,Architecture and Planning,IR-A-U-0108,Jamia Millia Islamia,RPC (100),46.44,RPC
+2025,Architecture and Planning,IR-A-U-0108,Jamia Millia Islamia,GO (100),91.42,GO
+2025,Architecture and Planning,IR-A-U-0108,Jamia Millia Islamia,OI (100),86.17,OI
+2025,Architecture and Planning,IR-A-U-0108,Jamia Millia Islamia,PERCEPTION (100),33.48,PR
+2025,Architecture and Planning,IR-A-U-0127,Centre for Environmental Planning and Technology University,TLR (100),72.22,TLR
+2025,Architecture and Planning,IR-A-U-0127,Centre for Environmental Planning and Technology University,RPC (100),47.68,RPC
+2025,Architecture and Planning,IR-A-U-0127,Centre for Environmental Planning and Technology University,GO (100),78.06,GO
+2025,Architecture and Planning,IR-A-U-0127,Centre for Environmental Planning and Technology University,OI (100),65.14,OI
+2025,Architecture and Planning,IR-A-U-0127,Centre for Environmental Planning and Technology University,PERCEPTION (100),51.81,PR
+2025,Architecture and Planning,IR-A-U-0357,National Institute of Technology Rourkela,TLR (100),63.86,TLR
+2025,Architecture and Planning,IR-A-U-0357,National Institute of Technology Rourkela,RPC (100),66.34,RPC
+2025,Architecture and Planning,IR-A-U-0357,National Institute of Technology Rourkela,GO (100),74.77,GO
+2025,Architecture and Planning,IR-A-U-0357,National Institute of Technology Rourkela,OI (100),66.12,OI
+2025,Architecture and Planning,IR-A-U-0357,National Institute of Technology Rourkela,PERCEPTION (100),53.52,PR
+2025,Architecture and Planning,IR-A-U-0116,School of Planning and Architecture New Delhi,TLR (100),65.89,TLR
+2025,Architecture and Planning,IR-A-U-0116,School of Planning and Architecture New Delhi,RPC (100),37.73,RPC
+2025,Architecture and Planning,IR-A-U-0116,School of Planning and Architecture New Delhi,GO (100),70.47,GO
+2025,Architecture and Planning,IR-A-U-0116,School of Planning and Architecture New Delhi,OI (100),71.24,OI
+2025,Architecture and Planning,IR-A-U-0116,School of Planning and Architecture New Delhi,PERCEPTION (100),100.0,PR
+2025,Architecture and Planning,IR-A-U-0467,National Institute of Technology Tiruchirappalli,TLR (100),55.94,TLR
+2025,Architecture and Planning,IR-A-U-0467,National Institute of Technology Tiruchirappalli,RPC (100),50.92,RPC
+2025,Architecture and Planning,IR-A-U-0467,National Institute of Technology Tiruchirappalli,GO (100),80.46,GO
+2025,Architecture and Planning,IR-A-U-0467,National Institute of Technology Tiruchirappalli,OI (100),75.4,OI
+2025,Architecture and Planning,IR-A-U-0467,National Institute of Technology Tiruchirappalli,PERCEPTION (100),81.24,PR
+2025,Architecture and Planning,IR-A-U-0334,"Visvesvaraya National Institute of Technology, Nagpur",TLR (100),56.11,TLR
+2025,Architecture and Planning,IR-A-U-0334,"Visvesvaraya National Institute of Technology, Nagpur",RPC (100),53.54,RPC
+2025,Architecture and Planning,IR-A-U-0334,"Visvesvaraya National Institute of Technology, Nagpur",GO (100),88.04,GO
+2025,Architecture and Planning,IR-A-U-0334,"Visvesvaraya National Institute of Technology, Nagpur",OI (100),69.83,OI
+2025,Architecture and Planning,IR-A-U-0334,"Visvesvaraya National Institute of Technology, Nagpur",PERCEPTION (100),34.81,PR
+2025,Architecture and Planning,IR-A-U-0626,School of Planning and Architecture Bhopal,TLR (100),68.75,TLR
+2025,Architecture and Planning,IR-A-U-0626,School of Planning and Architecture Bhopal,RPC (100),22.83,RPC
+2025,Architecture and Planning,IR-A-U-0626,School of Planning and Architecture Bhopal,GO (100),75.69,GO
+2025,Architecture and Planning,IR-A-U-0626,School of Planning and Architecture Bhopal,OI (100),76.45,OI
+2025,Architecture and Planning,IR-A-U-0626,School of Planning and Architecture Bhopal,PERCEPTION (100),58.26,PR
+2025,Architecture and Planning,IR-A-U-0410,Malaviya National Institute of Technology,TLR (100),51.81,TLR
+2025,Architecture and Planning,IR-A-U-0410,Malaviya National Institute of Technology,RPC (100),68.54,RPC
+2025,Architecture and Planning,IR-A-U-0410,Malaviya National Institute of Technology,GO (100),82.01,GO
+2025,Architecture and Planning,IR-A-U-0410,Malaviya National Institute of Technology,OI (100),72.04,OI
+2025,Architecture and Planning,IR-A-U-0410,Malaviya National Institute of Technology,PERCEPTION (100),24.45,PR
+2025,Architecture and Planning,IR-A-U-0072,National Institute of Technology Patna,TLR (100),58.54,TLR
+2025,Architecture and Planning,IR-A-U-0072,National Institute of Technology Patna,RPC (100),61.79,RPC
+2025,Architecture and Planning,IR-A-U-0072,National Institute of Technology Patna,GO (100),73.33,GO
+2025,Architecture and Planning,IR-A-U-0072,National Institute of Technology Patna,OI (100),65.04,OI
+2025,Architecture and Planning,IR-A-U-0072,National Institute of Technology Patna,PERCEPTION (100),32.1,PR
+2025,Architecture and Planning,IR-A-U-0747,Chandigarh University,TLR (100),68.3,TLR
+2025,Architecture and Planning,IR-A-U-0747,Chandigarh University,RPC (100),47.19,RPC
+2025,Architecture and Planning,IR-A-U-0747,Chandigarh University,GO (100),69.26,GO
+2025,Architecture and Planning,IR-A-U-0747,Chandigarh University,OI (100),75.76,OI
+2025,Architecture and Planning,IR-A-U-0747,Chandigarh University,PERCEPTION (100),15.06,PR
+2025,Architecture and Planning,IR-A-C-43708,College of Engineering Trivandrum,TLR (100),62.64,TLR
+2025,Architecture and Planning,IR-A-C-43708,College of Engineering Trivandrum,RPC (100),39.71,RPC
+2025,Architecture and Planning,IR-A-C-43708,College of Engineering Trivandrum,GO (100),88.7,GO
+2025,Architecture and Planning,IR-A-C-43708,College of Engineering Trivandrum,OI (100),58.2,OI
+2025,Architecture and Planning,IR-A-C-43708,College of Engineering Trivandrum,PERCEPTION (100),30.68,PR
+2025,Architecture and Planning,IR-A-U-0575,Jadavpur University,TLR (100),60.1,TLR
+2025,Architecture and Planning,IR-A-U-0575,Jadavpur University,RPC (100),47.7,RPC
+2025,Architecture and Planning,IR-A-U-0575,Jadavpur University,GO (100),75.96,GO
+2025,Architecture and Planning,IR-A-U-0575,Jadavpur University,OI (100),52.58,OI
+2025,Architecture and Planning,IR-A-U-0575,Jadavpur University,PERCEPTION (100),52.67,PR
+2025,Architecture and Planning,IR-A-U-0284,Maulana Azad National Institute of Technology,TLR (100),66.05,TLR
+2025,Architecture and Planning,IR-A-U-0284,Maulana Azad National Institute of Technology,RPC (100),38.44,RPC
+2025,Architecture and Planning,IR-A-U-0284,Maulana Azad National Institute of Technology,GO (100),80.01,GO
+2025,Architecture and Planning,IR-A-U-0284,Maulana Azad National Institute of Technology,OI (100),64.2,OI
+2025,Architecture and Planning,IR-A-U-0284,Maulana Azad National Institute of Technology,PERCEPTION (100),22.73,PR
+2025,Architecture and Planning,IR-A-U-0473,S.R.M. Institute of Science and Technology,TLR (100),62.28,TLR
+2025,Architecture and Planning,IR-A-U-0473,S.R.M. Institute of Science and Technology,RPC (100),61.04,RPC
+2025,Architecture and Planning,IR-A-U-0473,S.R.M. Institute of Science and Technology,GO (100),69.84,GO
+2025,Architecture and Planning,IR-A-U-0473,S.R.M. Institute of Science and Technology,OI (100),56.3,OI
+2025,Architecture and Planning,IR-A-U-0473,S.R.M. Institute of Science and Technology,PERCEPTION (100),19.07,PR
+2025,Architecture and Planning,IR-A-U-0627,"School of Planning & Architecture, Vijayawada",TLR (100),57.81,TLR
+2025,Architecture and Planning,IR-A-U-0627,"School of Planning & Architecture, Vijayawada",RPC (100),30.35,RPC
+2025,Architecture and Planning,IR-A-U-0627,"School of Planning & Architecture, Vijayawada",GO (100),80.42,GO
+2025,Architecture and Planning,IR-A-U-0627,"School of Planning & Architecture, Vijayawada",OI (100),69.63,OI
+2025,Architecture and Planning,IR-A-U-0627,"School of Planning & Architecture, Vijayawada",PERCEPTION (100),62.52,PR
+2025,Architecture and Planning,IR-A-C-57952,BMS College of Architecture,TLR (100),66.58,TLR
+2025,Architecture and Planning,IR-A-C-57952,BMS College of Architecture,RPC (100),13.91,RPC
+2025,Architecture and Planning,IR-A-C-57952,BMS College of Architecture,GO (100),80.83,GO
+2025,Architecture and Planning,IR-A-C-57952,BMS College of Architecture,OI (100),65.52,OI
+2025,Architecture and Planning,IR-A-C-57952,BMS College of Architecture,PERCEPTION (100),59.73,PR
+2025,Architecture and Planning,IR-A-U-0749,Manipal University Jaipur,TLR (100),65.57,TLR
+2025,Architecture and Planning,IR-A-U-0749,Manipal University Jaipur,RPC (100),44.74,RPC
+2025,Architecture and Planning,IR-A-U-0749,Manipal University Jaipur,GO (100),73.0,GO
+2025,Architecture and Planning,IR-A-U-0749,Manipal University Jaipur,OI (100),59.94,OI
+2025,Architecture and Planning,IR-A-U-0749,Manipal University Jaipur,PERCEPTION (100),10.62,PR
+2025,Architecture and Planning,IR-A-U-0202,Birla Institute of Technology,TLR (100),65.82,TLR
+2025,Architecture and Planning,IR-A-U-0202,Birla Institute of Technology,RPC (100),43.26,RPC
+2025,Architecture and Planning,IR-A-U-0202,Birla Institute of Technology,GO (100),59.31,GO
+2025,Architecture and Planning,IR-A-U-0202,Birla Institute of Technology,OI (100),59.42,OI
+2025,Architecture and Planning,IR-A-U-0202,Birla Institute of Technology,PERCEPTION (100),39.76,PR
+2025,Architecture and Planning,IR-A-U-0201,Shri Mata Vaishno Devi University,TLR (100),72.8,TLR
+2025,Architecture and Planning,IR-A-U-0201,Shri Mata Vaishno Devi University,RPC (100),43.9,RPC
+2025,Architecture and Planning,IR-A-U-0201,Shri Mata Vaishno Devi University,GO (100),56.46,GO
+2025,Architecture and Planning,IR-A-U-0201,Shri Mata Vaishno Devi University,OI (100),53.65,OI
+2025,Architecture and Planning,IR-A-U-0201,Shri Mata Vaishno Devi University,PERCEPTION (100),19.07,PR
+2025,Architecture and Planning,IR-A-U-0379,Lovely Professional University,TLR (100),64.4,TLR
+2025,Architecture and Planning,IR-A-U-0379,Lovely Professional University,RPC (100),41.41,RPC
+2025,Architecture and Planning,IR-A-U-0379,Lovely Professional University,GO (100),65.3,GO
+2025,Architecture and Planning,IR-A-U-0379,Lovely Professional University,OI (100),63.97,OI
+2025,Architecture and Planning,IR-A-U-0379,Lovely Professional University,PERCEPTION (100),26.1,PR
+2025,Architecture and Planning,IR-A-U-0779,Amity University,TLR (100),72.06,TLR
+2025,Architecture and Planning,IR-A-U-0779,Amity University,RPC (100),5.39,RPC
+2025,Architecture and Planning,IR-A-U-0779,Amity University,GO (100),79.65,GO
+2025,Architecture and Planning,IR-A-U-0779,Amity University,OI (100),83.69,OI
+2025,Architecture and Planning,IR-A-U-0779,Amity University,PERCEPTION (100),12.89,PR
+2025,Architecture and Planning,IR-A-U-0496,Aligarh Muslim University,TLR (100),47.01,TLR
+2025,Architecture and Planning,IR-A-U-0496,Aligarh Muslim University,RPC (100),75.26,RPC
+2025,Architecture and Planning,IR-A-U-0496,Aligarh Muslim University,GO (100),75.51,GO
+2025,Architecture and Planning,IR-A-U-0496,Aligarh Muslim University,OI (100),38.94,OI
+2025,Architecture and Planning,IR-A-U-0496,Aligarh Muslim University,PERCEPTION (100),22.73,PR
+2025,Architecture and Planning,IR-A-C-46330,"Manipal School of Architecture and Planning, MAHE",TLR (100),63.7,TLR
+2025,Architecture and Planning,IR-A-C-46330,"Manipal School of Architecture and Planning, MAHE",RPC (100),20.98,RPC
+2025,Architecture and Planning,IR-A-C-46330,"Manipal School of Architecture and Planning, MAHE",GO (100),73.11,GO
+2025,Architecture and Planning,IR-A-C-46330,"Manipal School of Architecture and Planning, MAHE",OI (100),66.38,OI
+2025,Architecture and Planning,IR-A-C-46330,"Manipal School of Architecture and Planning, MAHE",PERCEPTION (100),37.36,PR
+2025,Architecture and Planning,IR-A-U-0439,Anna University,TLR (100),53.19,TLR
+2025,Architecture and Planning,IR-A-U-0439,Anna University,RPC (100),47.36,RPC
+2025,Architecture and Planning,IR-A-U-0439,Anna University,GO (100),51.24,GO
+2025,Architecture and Planning,IR-A-U-0439,Anna University,OI (100),53.12,OI
+2025,Architecture and Planning,IR-A-U-0439,Anna University,PERCEPTION (100),82.93,PR
+2025,Architecture and Planning,IR-A-U-0146,Nirma University,TLR (100),62.98,TLR
+2025,Architecture and Planning,IR-A-U-0146,Nirma University,RPC (100),39.47,RPC
+2025,Architecture and Planning,IR-A-U-0146,Nirma University,GO (100),64.3,GO
+2025,Architecture and Planning,IR-A-U-0146,Nirma University,OI (100),60.29,OI
+2025,Architecture and Planning,IR-A-U-0146,Nirma University,PERCEPTION (100),22.73,PR
+2025,Architecture and Planning,IR-A-U-0189,National Institute of Technology Hamirpur,TLR (100),50.73,TLR
+2025,Architecture and Planning,IR-A-U-0189,National Institute of Technology Hamirpur,RPC (100),34.0,RPC
+2025,Architecture and Planning,IR-A-U-0189,National Institute of Technology Hamirpur,GO (100),82.23,GO
+2025,Architecture and Planning,IR-A-U-0189,National Institute of Technology Hamirpur,OI (100),68.48,OI
+2025,Architecture and Planning,IR-A-U-0189,National Institute of Technology Hamirpur,PERCEPTION (100),36.11,PR
+2025,Architecture and Planning,IR-A-C-1331,M. S. Ramaiah Institute of Technology,TLR (100),59.87,TLR
+2025,Architecture and Planning,IR-A-C-1331,M. S. Ramaiah Institute of Technology,RPC (100),27.96,RPC
+2025,Architecture and Planning,IR-A-C-1331,M. S. Ramaiah Institute of Technology,GO (100),76.39,GO
+2025,Architecture and Planning,IR-A-C-1331,M. S. Ramaiah Institute of Technology,OI (100),56.51,OI
+2025,Architecture and Planning,IR-A-C-1331,M. S. Ramaiah Institute of Technology,PERCEPTION (100),30.68,PR
+2025,Architecture and Planning,IR-A-U-0461,Dr. M. G. R. Educational and Research Institute,TLR (100),66.14,TLR
+2025,Architecture and Planning,IR-A-U-0461,Dr. M. G. R. Educational and Research Institute,RPC (100),25.65,RPC
+2025,Architecture and Planning,IR-A-U-0461,Dr. M. G. R. Educational and Research Institute,GO (100),68.02,GO
+2025,Architecture and Planning,IR-A-U-0461,Dr. M. G. R. Educational and Research Institute,OI (100),75.08,OI
+2025,Architecture and Planning,IR-A-U-0461,Dr. M. G. R. Educational and Research Institute,PERCEPTION (100),5.64,PR
+2025,Architecture and Planning,IR-A-C-26794,Thiagarajar College of Engineering,TLR (100),55.37,TLR
+2025,Architecture and Planning,IR-A-C-26794,Thiagarajar College of Engineering,RPC (100),32.92,RPC
+2025,Architecture and Planning,IR-A-C-26794,Thiagarajar College of Engineering,GO (100),71.08,GO
+2025,Architecture and Planning,IR-A-C-26794,Thiagarajar College of Engineering,OI (100),51.9,OI
+2025,Architecture and Planning,IR-A-C-26794,Thiagarajar College of Engineering,PERCEPTION (100),44.17,PR
+2025,Architecture and Planning,IR-A-U-0217,Christ University,TLR (100),67.4,TLR
+2025,Architecture and Planning,IR-A-U-0217,Christ University,RPC (100),25.25,RPC
+2025,Architecture and Planning,IR-A-U-0217,Christ University,GO (100),50.66,GO
+2025,Architecture and Planning,IR-A-U-0217,Christ University,OI (100),70.41,OI
+2025,Architecture and Planning,IR-A-U-0217,Christ University,PERCEPTION (100),26.1,PR
+2025,Architecture and Planning,IR-A-U-0092,"National Institute of Technology, Raipur",TLR (100),54.21,TLR
+2025,Architecture and Planning,IR-A-U-0092,"National Institute of Technology, Raipur",RPC (100),46.13,RPC
+2025,Architecture and Planning,IR-A-U-0092,"National Institute of Technology, Raipur",GO (100),60.98,GO
+2025,Architecture and Planning,IR-A-U-0092,"National Institute of Technology, Raipur",OI (100),62.81,OI
+2025,Architecture and Planning,IR-A-U-0092,"National Institute of Technology, Raipur",PERCEPTION (100),19.07,PR
+2025,Architecture and Planning,IR-A-U-0099,Guru Gobind Singh Indraprastha University,TLR (100),47.4,TLR
+2025,Architecture and Planning,IR-A-U-0099,Guru Gobind Singh Indraprastha University,RPC (100),33.35,RPC
+2025,Architecture and Planning,IR-A-U-0099,Guru Gobind Singh Indraprastha University,GO (100),83.2,GO
+2025,Architecture and Planning,IR-A-U-0099,Guru Gobind Singh Indraprastha University,OI (100),56.62,OI
+2025,Architecture and Planning,IR-A-U-0099,Guru Gobind Singh Indraprastha University,PERCEPTION (100),30.68,PR
+2025,Architecture and Planning,IR-A-C-47256,"BMS School of Architecture, Yelahanka",TLR (100),55.5,TLR
+2025,Architecture and Planning,IR-A-C-47256,"BMS School of Architecture, Yelahanka",RPC (100),24.85,RPC
+2025,Architecture and Planning,IR-A-C-47256,"BMS School of Architecture, Yelahanka",GO (100),65.88,GO
+2025,Architecture and Planning,IR-A-C-47256,"BMS School of Architecture, Yelahanka",OI (100),51.78,OI
+2025,Architecture and Planning,IR-A-C-47256,"BMS School of Architecture, Yelahanka",PERCEPTION (100),29.21,PR
+2025,Architecture and Planning,IR-A-U-0373,Chitkara University,TLR (100),51.87,TLR
+2025,Architecture and Planning,IR-A-U-0373,Chitkara University,RPC (100),31.25,RPC
+2025,Architecture and Planning,IR-A-U-0373,Chitkara University,GO (100),72.3,GO
+2025,Architecture and Planning,IR-A-U-0373,Chitkara University,OI (100),56.45,OI
+2025,Architecture and Planning,IR-A-U-0373,Chitkara University,PERCEPTION (100),10.62,PR
+2025,Architecture and Planning,IR-A-C-46873,"Faculty of Architecture and Planning, Dr APJ Abbdul Kalam Technical University, Lucknow",TLR (100),57.82,TLR
+2025,Architecture and Planning,IR-A-C-46873,"Faculty of Architecture and Planning, Dr APJ Abbdul Kalam Technical University, Lucknow",RPC (100),4.87,RPC
+2025,Architecture and Planning,IR-A-C-46873,"Faculty of Architecture and Planning, Dr APJ Abbdul Kalam Technical University, Lucknow",GO (100),77.64,GO
+2025,Architecture and Planning,IR-A-C-46873,"Faculty of Architecture and Planning, Dr APJ Abbdul Kalam Technical University, Lucknow",OI (100),50.95,OI
+2025,Architecture and Planning,IR-A-C-46873,"Faculty of Architecture and Planning, Dr APJ Abbdul Kalam Technical University, Lucknow",PERCEPTION (100),32.1,PR
+2025,Architecture and Planning,IR-A-U-0830,Anant National University,TLR (100),63.75,TLR
+2025,Architecture and Planning,IR-A-U-0830,Anant National University,RPC (100),6.63,RPC
+2025,Architecture and Planning,IR-A-U-0830,Anant National University,GO (100),72.53,GO
+2025,Architecture and Planning,IR-A-U-0830,Anant National University,OI (100),57.14,OI
+2025,Architecture and Planning,IR-A-U-0830,Anant National University,PERCEPTION (100),5.64,PR
